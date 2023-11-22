@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/crimson_step_stool": {
+    "criteria": {
+      "crimson_step_stool": "2023-11-22 22:43:32 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_alternating_stonecutter_stair": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -197,9 +203,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2023-11-22 22:43:32 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/falseweave": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
+    },
+    "done": true
+  },
+  "exoticbirds:recipes/gold_birdcage": {
+    "criteria": {
+      "has_stick": "2023-11-22 22:43:32 +0100"
     },
     "done": true
   },
@@ -227,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2023-11-22 22:43:32 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/archwood_fence_gate": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:33 +0100"
@@ -248,6 +272,18 @@
   "exoticbirds:recipes/light_gray_birdhouse": {
     "criteria": {
       "has_wood": "2023-11-22 01:33:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2023-11-22 22:43:32 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/spruce_step_stool": {
+    "criteria": {
+      "spruce_step_stool": "2023-11-22 22:43:32 +0100"
     },
     "done": true
   },
@@ -302,6 +338,12 @@
   "exoticbirds:recipes/purple_birdhouse": {
     "criteria": {
       "has_wood": "2023-11-22 01:33:52 +0100"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/chiselsandbits/chisel_diamond": {
+    "criteria": {
+      "has_rod": "2023-11-22 22:43:32 +0100"
     },
     "done": true
   },
@@ -392,6 +434,12 @@
   "ars_nouveau:recipes/misc/water_essence_to_bucket": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2023-11-22 22:43:32 +0100"
     },
     "done": true
   },
@@ -563,6 +611,12 @@
     },
     "done": true
   },
+  "chiselsandbits:recipes/chiselsandbits/chisel_iron": {
+    "criteria": {
+      "has_rod": "2023-11-22 22:43:32 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ritual_fertility": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:33 +0100"
@@ -614,6 +668,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_mosaic_stone_cutterslab": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
+    },
+    "done": true
+  },
+  "exoticbirds:recipes/crimson_birdcage": {
+    "criteria": {
+      "has_stick": "2023-11-22 22:43:32 +0100"
     },
     "done": true
   },
@@ -725,6 +785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2023-11-22 22:43:32 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/blue_archwood_wood": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -773,6 +839,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/warped_step_stool": {
+    "criteria": {
+      "warped_step_stool": "2023-11-22 22:43:32 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ritual_restoration": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:33 +0100"
@@ -782,6 +854,12 @@
   "ars_nouveau:recipes/ars_nouveau/wipe_starby_shard": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:33 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cutting_board": {
+    "criteria": {
+      "has_stick": "2023-11-22 22:43:32 +0100"
     },
     "done": true
   },
@@ -848,6 +926,12 @@
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2023-11-22 01:32:33 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/mangrove_step_stool": {
+    "criteria": {
+      "mangrove_step_stool": "2023-11-22 22:43:32 +0100"
     },
     "done": true
   },
@@ -1013,9 +1097,21 @@
     },
     "done": true
   },
+  "exoticbirds:recipes/dark_oak_birdcage": {
+    "criteria": {
+      "has_stick": "2023-11-22 22:43:32 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_basketweave_slab": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/birch_step_stool": {
+    "criteria": {
+      "birch_step_stool": "2023-11-22 22:43:32 +0100"
     },
     "done": true
   },
@@ -1088,6 +1184,12 @@
   "ars_nouveau:recipes/ars_nouveau/source_jar": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2023-11-22 22:43:32 +0100"
     },
     "done": true
   },
@@ -1169,9 +1271,21 @@
     },
     "done": true
   },
+  "exoticbirds:recipes/acacia_birdcage": {
+    "criteria": {
+      "has_stick": "2023-11-22 22:43:32 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/runic_chalk": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:33 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/oak_step_stool": {
+    "criteria": {
+      "oak_step_stool": "2023-11-22 22:43:32 +0100"
     },
     "done": true
   },
@@ -1190,6 +1304,12 @@
   "ars_nouveau:recipes/building_blocks/conjuration_essence_to_end_stone": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:33 +0100"
+    },
+    "done": true
+  },
+  "exoticbirds:recipes/iron_birdcage": {
+    "criteria": {
+      "has_stick": "2023-11-22 22:43:32 +0100"
     },
     "done": true
   },
@@ -1247,6 +1367,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2023-11-22 22:43:31 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/enchanting_apparatus": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:33 +0100"
@@ -1256,6 +1382,12 @@
   "exoticbirds:recipes/phoenix_egg_from_fire_phoenix": {
     "criteria": {
       "has_egg": "2023-11-22 01:32:33 +0100"
+    },
+    "done": true
+  },
+  "exoticbirds:recipes/birch_birdcage": {
+    "criteria": {
+      "has_stick": "2023-11-22 22:43:32 +0100"
     },
     "done": true
   },
@@ -1301,6 +1433,12 @@
     },
     "done": true
   },
+  "chiselsandbits:recipes/chiselsandbits/chisel_stone": {
+    "criteria": {
+      "has_rod": "2023-11-22 22:43:32 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ritual_warping": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -1313,6 +1451,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/jungle_step_stool": {
+    "criteria": {
+      "jungle_step_stool": "2023-11-22 22:43:32 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_basketweave_stone_cutterslab": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:33 +0100"
@@ -1322,6 +1466,12 @@
   "biomesoplenty:recipes/decorations/redwood_sign": {
     "criteria": {
       "has_redwood_planks": "2023-11-22 01:33:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2023-11-22 22:43:32 +0100"
     },
     "done": true
   },
@@ -1403,6 +1553,12 @@
     },
     "done": true
   },
+  "exoticbirds:recipes/oak_birdcage": {
+    "criteria": {
+      "has_stick": "2023-11-22 22:43:32 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_stonecutter_stair": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -1424,6 +1580,18 @@
   "ars_nouveau:recipes/ars_nouveau/blaze_fiber": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:33 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/acacia_step_stool": {
+    "criteria": {
+      "acacia_step_stool": "2023-11-22 22:43:32 +0100"
+    },
+    "done": true
+  },
+  "exoticbirds:recipes/spruce_birdcage": {
+    "criteria": {
+      "has_stick": "2023-11-22 22:43:32 +0100"
     },
     "done": true
   },
@@ -1475,6 +1643,12 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2023-11-22 22:43:31 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/decorations/archwood_to_chest": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -1484,6 +1658,12 @@
   "chiselsandbits:recipes/chiselsandbits/bit_storage": {
     "criteria": {
       "has_l": "2023-11-22 01:33:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2023-11-22 22:43:32 +0100"
     },
     "done": true
   },
@@ -1607,6 +1787,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/flint_knife": {
+    "criteria": {
+      "has_stick": "2023-11-22 22:43:32 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_large_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -1685,6 +1871,12 @@
     },
     "done": true
   },
+  "chiselsandbits:recipes/chiselsandbits/magnifying_glass": {
+    "criteria": {
+      "has_s": "2023-11-22 22:43:32 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/manipulation_essence_to_deepslate": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:33 +0100"
@@ -1694,6 +1886,12 @@
   "exoticbirds:recipes/phoenix_egg_from_cloud_phoenix": {
     "criteria": {
       "has_egg": "2023-11-22 01:32:33 +0100"
+    },
+    "done": true
+  },
+  "exoticbirds:recipes/jungle_birdcage": {
+    "criteria": {
+      "has_stick": "2023-11-22 22:43:32 +0100"
     },
     "done": true
   },
@@ -1724,6 +1922,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_alternating_stairs": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
+    },
+    "done": true
+  },
+  "exoticbirds:recipes/nest": {
+    "criteria": {
+      "has_stick": "2023-11-22 22:43:32 +0100"
     },
     "done": true
   },
@@ -1805,6 +2009,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/dark_oak_step_stool": {
+    "criteria": {
+      "dark_oak_step_stool": "2023-11-22 22:43:32 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_large_bricks_stairs": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -1853,6 +2063,12 @@
     },
     "done": true
   },
+  "chiselsandbits:recipes/chiselsandbits/chisel_gold": {
+    "criteria": {
+      "has_rod": "2023-11-22 22:43:32 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/vitalic_sourcelink": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:33 +0100"
@@ -1890,6 +2106,12 @@
     },
     "done": true
   },
+  "exoticbirds:recipes/warped_birdcage": {
+    "criteria": {
+      "has_stick": "2023-11-22 22:43:32 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_basketweave_stone_cutterslab": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:33 +0100"
@@ -1920,6 +2142,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2023-11-22 22:43:32 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/mimic_scroll": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -1935,6 +2163,12 @@
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_alternating_stairs": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
+    },
+    "done": true
+  },
+  "exoticbirds:recipes/mangrove_birdcage": {
+    "criteria": {
+      "has_stick": "2023-11-22 22:43:32 +0100"
     },
     "done": true
   },
