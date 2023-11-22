@@ -197,15 +197,15 @@
     },
     "done": true
   },
-  "smallships:recipes/transportation/birch_cog": {
-    "criteria": {
-      "in_water": "2023-11-22 22:41:15 +0100"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/ars_nouveau/falseweave": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_cog": {
+    "criteria": {
+      "in_water": "2023-11-22 22:41:15 +0100"
     },
     "done": true
   },
@@ -563,15 +563,15 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/fir_boat": {
-    "criteria": {
-      "in_water": "2023-11-22 22:41:15 +0100"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/ars_nouveau/potion_diffuser": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2023-11-22 22:41:15 +0100"
     },
     "done": true
   },
@@ -641,12 +641,6 @@
     },
     "done": true
   },
-  "smallships:recipes/transportation/birch_galley": {
-    "criteria": {
-      "in_water": "2023-11-22 22:41:15 +0100"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_basketweave_stone_cutterslab": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
@@ -656,6 +650,12 @@
   "exoticbirds:default/root": {
     "criteria": {
       "launch_mod": "2023-11-22 22:25:30 +0100"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_galley": {
+    "criteria": {
+      "in_water": "2023-11-22 22:41:15 +0100"
     },
     "done": true
   },
@@ -773,12 +773,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2023-11-22 22:41:15 +0100"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/ars_nouveau/deny_scroll": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
@@ -788,6 +782,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_small_bricks_stairs": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2023-11-22 22:41:15 +0100"
     },
     "done": true
   },
@@ -1037,15 +1037,15 @@
     },
     "done": true
   },
-  "smallships:recipes/transportation/spruce_cog": {
-    "criteria": {
-      "in_water": "2023-11-22 22:41:15 +0100"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_large_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_cog": {
+    "criteria": {
+      "in_water": "2023-11-22 22:41:15 +0100"
     },
     "done": true
   },
@@ -1109,15 +1109,15 @@
     },
     "done": true
   },
-  "ferdinandsflowers:recipes/decorations/cobble_purple_top_right": {
-    "criteria": {
-      "has_wheat_seeds": "2023-11-22 22:42:47 +0100"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_alternating_slab": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
+    },
+    "done": true
+  },
+  "ferdinandsflowers:recipes/decorations/cobble_purple_top_right": {
+    "criteria": {
+      "has_wheat_seeds": "2023-11-22 22:42:47 +0100"
     },
     "done": true
   },
@@ -1193,15 +1193,15 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/palm_boat": {
-    "criteria": {
-      "in_water": "2023-11-22 22:41:15 +0100"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/ars_nouveau/challenge_2": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2023-11-22 22:41:15 +0100"
     },
     "done": true
   },
@@ -1559,15 +1559,15 @@
     },
     "done": true
   },
-  "smallships:recipes/transportation/jungle_cog": {
-    "criteria": {
-      "in_water": "2023-11-22 22:41:15 +0100"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_mosaic_stairs": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_cog": {
+    "criteria": {
+      "in_water": "2023-11-22 22:41:15 +0100"
     },
     "done": true
   },
@@ -1799,15 +1799,15 @@
     },
     "done": true
   },
-  "smallships:recipes/misc/sail": {
-    "criteria": {
-      "in_water": "2023-11-22 22:41:15 +0100"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/ars_nouveau/source_gem_block": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
+    },
+    "done": true
+  },
+  "smallships:recipes/misc/sail": {
+    "criteria": {
+      "in_water": "2023-11-22 22:41:15 +0100"
     },
     "done": true
   },
@@ -1925,15 +1925,15 @@
     },
     "done": true
   },
-  "smallships:recipes/transportation/mangrove_brigg": {
-    "criteria": {
-      "in_water": "2023-11-22 22:41:15 +0100"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_stone_cutterslab": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_brigg": {
+    "criteria": {
+      "in_water": "2023-11-22 22:41:15 +0100"
     },
     "done": true
   },
