@@ -1,0 +1,7 @@
+
+["Config for Private Dimension"]
+	#This defines at which level the structure can spawn. Setting this value too low might cause the structure to not spawn. Setting it too high might cause stone blobs to appear around the world. Setting this value to 20, for exmaple, makes it so the structure base can only be below Y 20. Structure Max Height also affects the rarity of the structure, the lower the Structure Max Height is, the rarer the structure will be.
+	Structure_max_height = 20
+	#Default value: 8000. The lower the value, the rarer the structure will be. Higher values might cause lag during world generation.
+	Rarity = 8000
+
