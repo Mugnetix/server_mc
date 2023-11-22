@@ -5,4 +5,4 @@ REM Add custom program arguments {such as nogui} to this file in the next line b
 REM  pass them to this script directly
 title minecraft_server
 java @user_jvm_args.txt @libraries/net/minecraftforge/forge/1.19.2-43.3.0/win_args.txt nogui %*
-pause
+exit
