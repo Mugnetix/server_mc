@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "ferdinandsflowers:recipes/misc/purple_dye_from_flower": {
+    "criteria": {
+      "has_purple_flower": "2023-11-23 16:24:03 +0100"
+    },
+    "done": true
+  },
   "chiselsandbits:recipes/chiselsandbits/chisel_iron": {
     "criteria": {
       "has_rod": "2023-11-22 22:43:32 +0100"
@@ -725,6 +731,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/honey_glazed_ham_block": {
+    "criteria": {
+      "has_smoked_ham": "2023-11-23 15:39:17 +0100"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/acacia_cog": {
     "criteria": {
       "in_water": "2023-11-22 23:30:21 +0100"
@@ -908,6 +920,12 @@
   "ars_nouveau:recipes/ars_nouveau/ritual_moonfall": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2023-11-23 15:28:46 +0100"
     },
     "done": true
   },
@@ -1107,6 +1125,12 @@
     "criteria": {
       "has_the_recipe": "2023-11-23 14:56:46 +0100",
       "has_sleeping_bag": "2023-11-23 14:56:46 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/nether_salad": {
+    "criteria": {
+      "has_bowl": "2023-11-23 15:25:50 +0100"
     },
     "done": true
   },
@@ -1614,6 +1638,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/farmersdelight/wheat_dough": {
+    "criteria": {
+      "Recipes": "2023-11-23 16:41:48 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_ham": {
     "criteria": {
       "ham": "2023-11-23 02:08:37 +0100"
@@ -1653,6 +1683,12 @@
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-11-23 00:00:13 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2023-11-23 16:21:35 +0100"
     },
     "done": true
   },
@@ -1800,6 +1836,13 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2023-11-23 16:13:10 +0100",
+      "minecraft:chicken": "2023-11-23 16:10:28 +0100"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/farmersdelight/smoked_ham": {
     "criteria": {
       "has_ham": "2023-11-23 02:08:37 +0100"
@@ -1857,6 +1900,12 @@
   "ars_nouveau:recipes/ars_nouveau/magebloom_block_to_magebloom": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/tools/lead_from_straw": {
+    "criteria": {
+      "has_straw": "2023-11-23 15:45:49 +0100"
     },
     "done": true
   },
@@ -1953,6 +2002,12 @@
   "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
     "criteria": {
       "has_iron_knife": "2023-11-23 01:51:58 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/rope": {
+    "criteria": {
+      "has_straw": "2023-11-23 15:45:49 +0100"
     },
     "done": true
   },
@@ -2136,6 +2191,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2023-11-23 15:25:50 +0100"
+    },
+    "done": true
+  },
   "ferdinandsflowers:recipes/misc/red_dye_from_flower": {
     "criteria": {
       "has_red_flower": "2023-11-22 23:49:08 +0100"
@@ -2169,6 +2230,18 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2023-11-23 14:25:29 +0100"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2023-11-23 16:46:10 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/packed_mud_from_straw": {
+    "criteria": {
+      "has_straw": "2023-11-23 15:45:49 +0100"
     },
     "done": true
   },
@@ -2742,6 +2815,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2023-11-23 16:21:35 +0100"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/omelette_mix_mix_cheese": {
     "criteria": {
       "Recipes": "2023-11-23 14:59:07 +0100"
@@ -2845,6 +2924,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/mortar/corn_meal": {
+    "criteria": {
+      "Recipes": "2023-11-23 16:12:23 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/horn_to_bonemeal": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -2902,6 +2987,12 @@
   "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2023-11-23 00:35:42 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2023-11-23 15:45:49 +0100"
     },
     "done": true
   },
@@ -3007,6 +3098,12 @@
     },
     "done": true
   },
+  "ferdinandsflowers:recipes/decorations/staked_morning_glory": {
+    "criteria": {
+      "has_morning_glory": "2023-11-23 16:24:02 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_mosaic_stairs": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -3028,6 +3125,12 @@
   "extradelight:recipes/extradelight.aesthetic/spruce_step_stool": {
     "criteria": {
       "spruce_step_stool": "2023-11-22 22:43:32 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2023-11-23 16:21:35 +0100"
     },
     "done": true
   },
@@ -3217,6 +3320,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2023-11-23 16:21:35 +0100"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2023-11-22 23:30:21 +0100"
@@ -3238,6 +3347,12 @@
   "extradelight:recipes/food/porkchop1": {
     "criteria": {
       "porkchop": "2023-11-22 23:55:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2023-11-23 15:28:46 +0100"
     },
     "done": true
   },
@@ -3367,6 +3482,7 @@
       "fir_clearing": "2023-11-23 02:05:21 +0100",
       "pumpkin_patch": "2023-11-23 15:10:24 +0100",
       "prairie": "2023-11-22 23:47:25 +0100",
+      "snowy_fir_clearing": "2023-11-23 16:17:39 +0100",
       "crag": "2023-11-23 15:04:54 +0100"
     },
     "done": false
@@ -3395,9 +3511,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/canvas": {
+    "criteria": {
+      "has_straw": "2023-11-23 15:45:49 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/manipulation_essence_to_diorite": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2023-11-23 16:41:48 +0100"
     },
     "done": true
   },
@@ -3458,6 +3586,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2023-11-22 23:43:21 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/straw_bale": {
+    "criteria": {
+      "has_straw": "2023-11-23 15:45:49 +0100"
     },
     "done": true
   },
@@ -3965,6 +4099,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/organic_compost_from_tree_bark": {
+    "criteria": {
+      "has_straw": "2023-11-23 15:45:49 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2023-11-22 23:37:17 +0100"
@@ -4080,9 +4220,33 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/carrot7": {
+    "criteria": {
+      "carrot": "2023-11-23 16:21:35 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/carrot6": {
+    "criteria": {
+      "carrot": "2023-11-23 16:21:35 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/alteration_table": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/carrot9": {
+    "criteria": {
+      "carrot": "2023-11-23 16:21:35 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/carrot8": {
+    "criteria": {
+      "carrot": "2023-11-23 16:21:35 +0100"
     },
     "done": true
   },
@@ -4112,12 +4276,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:frozen_river": "2023-11-23 16:16:13 +0100",
       "minecraft:sunflower_plains": "2023-11-22 23:28:25 +0100",
       "minecraft:beach": "2023-11-22 23:36:14 +0100",
       "minecraft:river": "2023-11-22 23:13:15 +0100",
       "minecraft:stony_shore": "2023-11-22 23:28:31 +0100",
+      "minecraft:snowy_plains": "2023-11-23 16:12:42 +0100",
+      "minecraft:snowy_taiga": "2023-11-23 16:17:11 +0100",
       "minecraft:grove": "2023-11-23 15:06:42 +0100",
       "minecraft:cold_ocean": "2023-11-22 23:47:58 +0100",
+      "minecraft:forest": "2023-11-23 16:08:01 +0100",
       "minecraft:ocean": "2023-11-22 23:30:24 +0100",
       "minecraft:flower_forest": "2023-11-22 23:56:03 +0100",
       "minecraft:plains": "2023-11-22 23:16:02 +0100"
@@ -4172,9 +4340,21 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/carrot3": {
+    "criteria": {
+      "carrot": "2023-11-23 16:21:35 +0100"
+    },
+    "done": true
+  },
   "extradelight:recipes/food/beef9": {
     "criteria": {
       "beef": "2023-11-22 23:46:37 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/carrot2": {
+    "criteria": {
+      "carrot": "2023-11-23 16:21:35 +0100"
     },
     "done": true
   },
@@ -4184,9 +4364,33 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/carrot5": {
+    "criteria": {
+      "carrot": "2023-11-23 16:21:35 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/carrot4": {
+    "criteria": {
+      "carrot": "2023-11-23 16:21:35 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/carrot1": {
+    "criteria": {
+      "carrot": "2023-11-23 16:21:35 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2023-11-23 14:45:04 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2023-11-23 16:02:21 +0100"
     },
     "done": true
   },
@@ -4460,6 +4664,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2023-11-23 15:28:46 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooked_bacon_from_campfire_cooking": {
     "criteria": {
       "cooked_bacon": "2023-11-23 02:13:15 +0100"
@@ -4610,9 +4820,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/safety_net": {
+    "criteria": {
+      "has_rope": "2023-11-23 15:47:29 +0100"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/jacaranda_door": {
     "criteria": {
       "has_planks": "2023-11-22 23:14:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2023-11-23 15:25:50 +0100"
     },
     "done": true
   },
@@ -4645,6 +4867,7 @@
       "cooked_porkchop": "2023-11-23 01:06:23 +0100",
       "cooked_mutton": "2023-11-22 23:22:34 +0100",
       "cooked_beef": "2023-11-23 00:26:26 +0100",
+      "rotten_flesh": "2023-11-23 15:35:57 +0100",
       "cooked_chicken": "2023-11-23 14:14:31 +0100"
     },
     "done": false
@@ -4997,6 +5220,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2023-11-23 15:25:50 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/magebloom_to_pink": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:33 +0100"
@@ -5062,6 +5291,12 @@
       "has_journal": "2023-11-22 01:32:33 +0100"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2023-11-23 16:02:21 +0100"
+    },
+    "done": false
   },
   "exoticbirds:recipes/roost_box": {
     "criteria": {
@@ -5387,9 +5622,21 @@
     },
     "done": true
   },
+  "ferdinandsflowers:recipes/decorations/staked_dark_blue_sweet_peas": {
+    "criteria": {
+      "has_dark_blue_sweet_peas": "2023-11-23 16:24:08 +0100"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/mortar_andesite": {
     "criteria": {
       "Recipes": "2023-11-22 23:43:21 +0100"
+    },
+    "done": true
+  },
+  "ferdinandsflowers:recipes/misc/magenta_dye_from_flower": {
+    "criteria": {
+      "has_magenta_flower": "2023-11-23 16:25:16 +0100"
     },
     "done": true
   },
@@ -5594,6 +5841,12 @@
   "smallships:recipes/transportation/spruce_galley": {
     "criteria": {
       "in_water": "2023-11-22 23:30:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2023-11-23 16:10:28 +0100"
     },
     "done": true
   },
