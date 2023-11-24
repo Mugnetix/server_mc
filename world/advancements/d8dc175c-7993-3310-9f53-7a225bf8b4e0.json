@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by": "2023-11-24 17:06:24 +0100"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_light_blue_from_white": {
     "criteria": {
       "has_sleeping_bag": "2023-11-23 22:46:38 +0100"
@@ -479,6 +485,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2023-11-24 17:06:28 +0100"
+    },
+    "done": true
+  },
   "extradelight:recipes/food/potato8": {
     "criteria": {
       "potato": "2023-11-23 02:05:09 +0100"
@@ -524,6 +536,12 @@
   "extradelight:recipes/farmersdelight/oven/shepherds_pie_block": {
     "criteria": {
       "shepard_pie": "2023-11-22 23:22:33 +0100"
+    },
+    "done": true
+  },
+  "comforts:hammock_red": {
+    "criteria": {
+      "has_red_wool": "2023-11-24 17:06:28 +0100"
     },
     "done": true
   },
@@ -737,6 +755,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/honey_glazed_ham_block": {
+    "criteria": {
+      "has_smoked_ham": "2023-11-24 17:27:20 +0100"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/acacia_cog": {
     "criteria": {
       "in_water": "2023-11-22 22:41:15 +0100"
@@ -755,9 +779,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2023-11-24 15:25:24 +0100"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/mixingbowl/egg_mix": {
     "criteria": {
       "Recipes": "2023-11-22 23:55:33 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2023-11-24 15:02:43 +0100"
     },
     "done": true
   },
@@ -926,6 +962,12 @@
   "extradelight:recipes/extradelight.items/oven/pumpkin_cookie": {
     "criteria": {
       "has_any_ingredient": "2023-11-23 02:19:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2023-11-24 17:06:28 +0100"
     },
     "done": true
   },
@@ -1212,6 +1254,12 @@
     },
     "done": true
   },
+  "ferdinandsflowers:recipes/misc/jack_o_lantern_light_fan": {
+    "criteria": {
+      "has_jack_o_lantern_light": "2023-11-24 16:39:14 +0100"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_yellow_from_white": {
     "criteria": {
       "has_sleeping_bag": "2023-11-23 22:46:38 +0100"
@@ -1233,6 +1281,12 @@
   "extradelight:recipes/extradelight.aesthetic/dark_oak_step_stool": {
     "criteria": {
       "dark_oak_step_stool": "2023-11-22 23:15:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2023-11-24 15:02:43 +0100"
     },
     "done": true
   },
@@ -1344,6 +1398,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2023-11-24 15:54:00 +0100"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/roasted_carrot_smelt": {
     "criteria": {
       "Recipes": "2023-11-24 00:36:54 +0100"
@@ -1359,6 +1419,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_helmet": "2023-11-24 00:02:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2023-11-24 15:25:24 +0100"
     },
     "done": true
   },
@@ -1437,6 +1503,12 @@
   "comforts:sleeping_bag_light_gray": {
     "criteria": {
       "has_light_gray_wool": "2023-11-22 23:15:40 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/misc/mortar/orange_dye": {
+    "criteria": {
+      "Recipes": "2023-11-24 15:53:49 +0100"
     },
     "done": true
   },
@@ -1692,6 +1764,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2023-11-24 15:14:55 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_ham": {
     "criteria": {
       "ham": "2023-11-23 02:19:16 +0100"
@@ -1719,6 +1797,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2023-11-23 02:01:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2023-11-24 15:25:24 +0100"
     },
     "done": true
   },
@@ -1824,6 +1908,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2023-11-24 16:08:33 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ritual_flowering": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
@@ -1893,6 +1983,12 @@
   "farmersdelight:recipes/farmersdelight/hamburger": {
     "criteria": {
       "has_beef_patty": "2023-11-23 02:19:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2023-11-24 15:25:24 +0100"
     },
     "done": true
   },
@@ -2436,6 +2532,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2023-11-24 15:54:00 +0100"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/bacon_cheeseburger": {
     "criteria": {
       "Recipes": "2023-11-23 02:19:19 +0100"
@@ -2523,6 +2625,12 @@
   "exoticbirds:recipes/oak_birdcage": {
     "criteria": {
       "has_stick": "2023-11-22 23:15:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2023-11-24 15:25:24 +0100"
     },
     "done": true
   },
@@ -2712,6 +2820,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2023-11-24 15:14:55 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
@@ -2853,6 +2967,18 @@
   "farmersdelight:recipes/farmersdelight/cooking/cooked_rice": {
     "criteria": {
       "has_rice": "2023-11-23 02:06:09 +0100"
+    },
+    "done": true
+  },
+  "ferdinandsflowers:recipes/misc/jack_o_lantern_fan": {
+    "criteria": {
+      "has_jack_o_lantern_fungus": "2023-11-24 16:39:11 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2023-11-24 15:54:00 +0100"
     },
     "done": true
   },
@@ -3103,6 +3229,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2023-11-24 16:08:33 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
@@ -3235,6 +3367,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2023-11-24 16:08:33 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_11": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
@@ -3316,6 +3454,12 @@
   "extradelight:recipes/food/porkchop1": {
     "criteria": {
       "porkchop": "2023-11-23 01:40:01 +0100"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red": {
+    "criteria": {
+      "has_red_wool": "2023-11-24 17:06:28 +0100"
     },
     "done": true
   },
@@ -3437,9 +3581,17 @@
       "seasonal_forest": "2023-11-22 23:54:24 +0100",
       "lavender_field": "2023-11-22 23:13:40 +0100",
       "fir_clearing": "2023-11-23 02:00:57 +0100",
-      "prairie": "2023-11-22 23:47:26 +0100"
+      "prairie": "2023-11-22 23:47:26 +0100",
+      "crag": "2023-11-24 16:07:21 +0100",
+      "ominous_woods": "2023-11-24 16:33:18 +0100"
     },
     "done": false
+  },
+  "extradelight:recipes/extradelight.items/mortar_diorite": {
+    "criteria": {
+      "Recipes": "2023-11-24 15:25:24 +0100"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
@@ -3638,6 +3790,7 @@
       "minecraft:skeleton": "2023-11-23 01:40:13 +0100",
       "minecraft:spider": "2023-11-23 23:23:37 +0100",
       "minecraft:creeper": "2023-11-23 23:23:35 +0100",
+      "minecraft:slime": "2023-11-24 15:31:50 +0100",
       "minecraft:enderman": "2023-11-24 02:20:50 +0100",
       "minecraft:zombie": "2023-11-22 23:01:52 +0100",
       "minecraft:zombie_villager": "2023-11-23 23:58:36 +0100"
@@ -3695,6 +3848,12 @@
   "ars_nouveau:recipes/ars_nouveau/sourcestone": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2023-11-24 16:45:36 +0100"
     },
     "done": true
   },
@@ -4101,6 +4260,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2023-11-24 15:25:24 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
@@ -4167,6 +4332,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2023-11-24 15:25:24 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/archwood_trapdoor": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
@@ -4199,9 +4370,12 @@
       "minecraft:river": "2023-11-22 23:05:06 +0100",
       "minecraft:stony_shore": "2023-11-22 23:28:34 +0100",
       "minecraft:dripstone_caves": "2023-11-23 23:48:31 +0100",
+      "minecraft:grove": "2023-11-24 16:05:34 +0100",
       "minecraft:cold_ocean": "2023-11-22 23:48:00 +0100",
+      "minecraft:forest": "2023-11-24 16:14:40 +0100",
       "minecraft:ocean": "2023-11-22 23:30:17 +0100",
       "minecraft:flower_forest": "2023-11-22 23:55:55 +0100",
+      "minecraft:frozen_peaks": "2023-11-24 16:02:24 +0100",
       "minecraft:deep_dark": "2023-11-24 00:04:14 +0100",
       "minecraft:meadow": "2023-11-23 02:02:20 +0100",
       "minecraft:plains": "2023-11-22 23:15:41 +0100"
@@ -4373,6 +4547,12 @@
   "extradelight:recipes/food/beef7": {
     "criteria": {
       "beef": "2023-11-23 01:56:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2023-11-24 15:53:49 +0100"
     },
     "done": true
   },
@@ -4623,6 +4803,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2023-11-24 15:25:24 +0100"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
     "criteria": {
       "has_log": "2023-11-22 23:13:46 +0100"
@@ -4735,11 +4921,14 @@
     "criteria": {
       "cooked_mutton": "2023-11-22 23:23:23 +0100",
       "cooked_beef": "2023-11-23 00:45:06 +0100",
+      "baked_potato": "2023-11-24 15:14:57 +0100",
       "apple": "2023-11-23 00:27:31 +0100",
+      "potato": "2023-11-24 15:06:28 +0100",
       "pumpkin_pie": "2023-11-23 23:15:16 +0100",
       "bread": "2023-11-23 02:00:07 +0100",
       "rotten_flesh": "2023-11-23 01:37:45 +0100",
       "salmon": "2023-11-22 23:48:07 +0100",
+      "dried_kelp": "2023-11-24 15:02:51 +0100",
       "cooked_chicken": "2023-11-23 01:55:07 +0100"
     },
     "done": false
@@ -4846,6 +5035,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2023-11-24 15:25:24 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/repository": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
@@ -4873,6 +5068,12 @@
   "ars_nouveau:recipes/ars_nouveau/ritual_fertility": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2023-11-24 16:08:33 +0100"
     },
     "done": true
   },
@@ -5266,6 +5467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2023-11-24 15:25:24 +0100"
+    },
+    "done": true
+  },
   "exoticbirds:recipes/brown_birdhouse": {
     "criteria": {
       "has_wood": "2023-11-22 23:13:19 +0100"
@@ -5365,6 +5572,12 @@
   "extradelight:recipes/extradelight.items/apple8": {
     "criteria": {
       "apple": "2023-11-23 00:27:29 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/pestle_diorite": {
+    "criteria": {
+      "Recipes": "2023-11-24 15:25:24 +0100"
     },
     "done": true
   },
@@ -5476,9 +5689,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2023-11-24 16:08:33 +0100"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/jerky": {
     "criteria": {
       "has_meat": "2023-11-22 23:15:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2023-11-24 15:25:24 +0100"
     },
     "done": true
   },
@@ -5692,6 +5917,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2023-11-24 17:06:28 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/green_archwood_wood": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
@@ -5731,6 +5962,12 @@
   "ars_nouveau:recipes/ars_nouveau/source_gem_block_2": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/onion_crate": {
+    "criteria": {
+      "has_onion": "2023-11-24 15:54:00 +0100"
     },
     "done": true
   },
@@ -5806,15 +6043,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_leggings": {
-    "criteria": {
-      "has_gold_ingot": "2023-11-24 01:36:06 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2023-11-23 23:29:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2023-11-24 01:36:06 +0100"
     },
     "done": true
   },
@@ -5851,6 +6088,12 @@
   "smallships:recipes/transportation/dark_oak_cog": {
     "criteria": {
       "in_water": "2023-11-22 22:41:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2023-11-24 16:08:33 +0100"
     },
     "done": true
   },
