@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/dark_oak_molded_green_wallpaper": {
+    "criteria": {
+      "green_dark_oak_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/mixingbowl/mayo": {
     "criteria": {
       "Recipes": "2023-11-22 23:16:17 +0100"
@@ -131,6 +137,18 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/crimson_molded_white_wallpaper": {
+    "criteria": {
+      "white_crimson_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/mangrove_molded_blue_wallpaper": {
+    "criteria": {
+      "blue_mangrove_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2023-11-24 01:23:59 +0100"
@@ -146,6 +164,12 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2023-11-22 22:43:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2023-11-25 22:00:10 +0100"
     },
     "done": true
   },
@@ -191,6 +215,18 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/wallpaper_light_blue": {
+    "criteria": {
+      "light_blue_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/oak_molded_magenta_wallpaper": {
+    "criteria": {
+      "magenta_oak_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_basketweave_stairs": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:33 +0100"
@@ -227,9 +263,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2023-11-25 21:58:19 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/oak_molded_black_wallpaper": {
+    "criteria": {
+      "black_oak_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/crimson_molded_yellow_wallpaper": {
+    "criteria": {
+      "yellow_crimson_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2023-11-23 00:28:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2023-11-25 22:00:10 +0100"
     },
     "done": true
   },
@@ -281,6 +341,18 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/dark_oak_molded_red_wallpaper": {
+    "criteria": {
+      "red_dark_oak_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/wallpaper_purple": {
+    "criteria": {
+      "purple_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2023-11-23 01:00:07 +0100"
@@ -329,6 +401,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/dark_oak_dried_corn_fence": {
+    "criteria": {
+      "dark_oak_dried_corn_fence": "2023-11-26 00:11:14 +0100"
+    },
+    "done": true
+  },
   "chiselsandbits:recipes/chiselsandbits/chisel_iron": {
     "criteria": {
       "has_rod": "2023-11-22 22:43:32 +0100"
@@ -365,6 +443,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/birch_molded_purple_wallpaper": {
+    "criteria": {
+      "purple_birch_wallpaper": "2023-11-25 23:42:05 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_mosaic_slab": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -398,6 +482,12 @@
   "extradelight:recipes/farmersdelight/fried_egg2": {
     "criteria": {
       "fried_egg": "2023-11-23 01:46:56 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/birch_molded_gray_wallpaper": {
+    "criteria": {
+      "gray_birch_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -446,6 +536,12 @@
   "extradelight:recipes/farmersdelight/fried_egg7": {
     "criteria": {
       "fried_egg": "2023-11-23 01:46:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2023-11-25 23:38:54 +0100"
     },
     "done": true
   },
@@ -569,6 +665,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2023-11-26 00:42:57 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/greater_experience_gem": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -596,6 +698,12 @@
   "extradelight:recipes/food/potato7": {
     "criteria": {
       "potato": "2023-11-23 14:59:07 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/jungle_molded_cyan_wallpaper": {
+    "criteria": {
+      "cyan_jungle_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -629,6 +737,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/mangrove_molded_brown_wallpaper": {
+    "criteria": {
+      "brown_mangrove_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_small_bricks_slab": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -638,6 +752,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/void_upgrade": {
     "criteria": {
       "has_upgrade_base": "2023-11-24 23:44:19 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/jungle_molded_orange_wallpaper": {
+    "criteria": {
+      "orange_jungle_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -662,6 +782,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/tomato_sauce": {
     "criteria": {
       "has_tomato": "2023-11-25 00:24:33 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/jungle_molded_black_wallpaper": {
+    "criteria": {
+      "black_jungle_wallpaper": "2023-11-25 23:42:05 +0100"
     },
     "done": true
   },
@@ -692,6 +818,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2023-11-23 23:57:13 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/crimson_molded_lime_wallpaper": {
+    "criteria": {
+      "lime_crimson_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -737,6 +869,18 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/jungle_molded_light_blue_wallpaper": {
+    "criteria": {
+      "light_blue_jungle_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/mangrove_molded_lime_wallpaper": {
+    "criteria": {
+      "lime_mangrove_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "extradelight:recipes/food/mutton8": {
     "criteria": {
       "mutton": "2023-11-22 23:15:16 +0100"
@@ -746,6 +890,12 @@
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2023-11-23 02:05:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-11-25 22:00:10 +0100"
     },
     "done": true
   },
@@ -806,6 +956,12 @@
   "chiselsandbits:recipes/chiselsandbits/chiseled_printer": {
     "criteria": {
       "has_l": "2023-11-22 01:33:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2023-11-26 00:42:57 +0100"
     },
     "done": true
   },
@@ -923,6 +1079,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/spruce_molded_pink_wallpaper": {
+    "criteria": {
+      "pink_spruce_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/honey_glazed_ham_block": {
     "criteria": {
       "has_smoked_ham": "2023-11-23 15:39:17 +0100"
@@ -944,6 +1106,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2023-11-24 15:30:57 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/jungle_molded_gray_wallpaper": {
+    "criteria": {
+      "gray_jungle_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -1025,6 +1193,12 @@
     },
     "done": false
   },
+  "extradelight:recipes/extradelight.aesthetic/mangrove_molded_black_wallpaper": {
+    "criteria": {
+      "black_mangrove_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2023-11-23 01:46:56 +0100"
@@ -1034,6 +1208,12 @@
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2023-11-23 02:06:47 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/spruce_molded_orange_wallpaper": {
+    "criteria": {
+      "orange_spruce_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -1061,6 +1241,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/mangrove_molded_light_blue_wallpaper": {
+    "criteria": {
+      "light_blue_mangrove_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "exoticbirds:recipes/phoenix_egg_from_desert_phoenix": {
     "criteria": {
       "has_egg": "2023-11-22 01:32:33 +0100"
@@ -1070,6 +1256,12 @@
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:33 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/birch_molded_magenta_wallpaper": {
+    "criteria": {
+      "magenta_birch_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -1157,6 +1349,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/warped_molded_orange_wallpaper": {
+    "criteria": {
+      "orange_warped_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_orange_from_white": {
     "criteria": {
       "has_sleeping_bag": "2023-11-23 14:56:46 +0100"
@@ -1229,6 +1427,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2023-11-25 23:38:54 +0100"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/fir_chest_boat": {
     "criteria": {
       "has_boat": "2023-11-25 00:34:34 +0100"
@@ -1277,6 +1481,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-11-25 22:00:10 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2023-11-22 23:57:57 +0100"
@@ -1289,6 +1499,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/crimson_molded_green_wallpaper": {
+    "criteria": {
+      "green_crimson_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2023-11-22 23:57:57 +0100"
@@ -1298,6 +1514,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2023-11-22 23:42:24 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/mangrove_molded_purple_wallpaper": {
+    "criteria": {
+      "purple_mangrove_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -1325,6 +1547,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/jungle_molded_yellow_wallpaper": {
+    "criteria": {
+      "yellow_jungle_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/fire_essence_to_magma_block": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -1346,6 +1574,12 @@
   "extradelight:recipes/extradelight.items/bacon_egg_sandwich": {
     "criteria": {
       "Recipes": "2023-11-23 14:11:30 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/warped_molded_lime_wallpaper": {
+    "criteria": {
+      "lime_warped_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -1379,6 +1613,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2023-11-25 23:42:05 +0100"
+    },
+    "done": true
+  },
   "extradelight:food": {
     "criteria": {
       "food": "2023-11-22 23:22:34 +0100"
@@ -1395,6 +1635,12 @@
     "criteria": {
       "has_the_recipe": "2023-11-23 14:56:46 +0100",
       "has_sleeping_bag": "2023-11-23 14:56:46 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/crimson_molded_magenta_wallpaper": {
+    "criteria": {
+      "magenta_crimson_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -1428,6 +1674,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/dark_oak_molded_yellow_wallpaper": {
+    "criteria": {
+      "yellow_dark_oak_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/potion_jar": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -1446,9 +1698,21 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/warped_molded_gray_wallpaper": {
+    "criteria": {
+      "gray_warped_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2023-11-22 23:18:32 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/dark_oak_molded_cyan_wallpaper": {
+    "criteria": {
+      "cyan_dark_oak_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -1494,6 +1758,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2023-11-25 23:38:54 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_large_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -1518,6 +1788,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/wallpaper_orange": {
+    "criteria": {
+      "orange_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_large_bricks_stairs": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -1539,6 +1815,12 @@
   "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
       "has_dried_kelp": "2023-11-24 02:42:07 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/acacia_molded_green_wallpaper": {
+    "criteria": {
+      "green_acacia_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -1608,6 +1890,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/mangrove_molded_pink_wallpaper": {
+    "criteria": {
+      "pink_mangrove_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "exoticbirds:recipes/warped_birdcage": {
     "criteria": {
       "has_stick": "2023-11-22 22:43:32 +0100"
@@ -1617,6 +1905,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_chestplate": "2023-11-24 00:29:38 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/spruce_molded_green_wallpaper": {
+    "criteria": {
+      "green_spruce_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -1656,6 +1950,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/birch_molded_cyan_wallpaper": {
+    "criteria": {
+      "cyan_birch_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "skilltree:recipes/skilltree/silent_quiver": {
     "criteria": {
       "has_feather": "2023-11-23 01:42:20 +0100"
@@ -1686,9 +1986,27 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/warped_molded_brown_wallpaper": {
+    "criteria": {
+      "brown_warped_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_alternating_stairs": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/birch_molded_pink_wallpaper": {
+    "criteria": {
+      "pink_birch_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/acacia_molded_red_wallpaper": {
+    "criteria": {
+      "red_acacia_wallpaper": "2023-11-25 23:42:05 +0100"
     },
     "done": true
   },
@@ -1704,6 +2022,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/dark_oak_knife_block": {
+    "criteria": {
+      "dark_oak_knife_block": "2023-11-25 22:02:33 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2023-11-22 23:15:16 +0100"
@@ -1713,6 +2037,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_stairs": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:33 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/wallpaper_light_gray": {
+    "criteria": {
+      "light_gray_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -1878,6 +2208,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/dark_oak_spice_rack_full": {
+    "criteria": {
+      "dark_oak_spice_rack_full": "2023-11-25 22:02:33 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooked_mutton_chops": {
     "criteria": {
       "cooked_mutton_chops": "2023-11-23 02:14:30 +0100"
@@ -1905,6 +2241,12 @@
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2023-11-23 14:25:29 +0100"
+    },
+    "done": true
+  },
+  "ferdinandsflowers:recipes/decorations/planter_dark_oak": {
+    "criteria": {
+      "has_dark_oak_planks": "2023-11-25 22:00:10 +0100"
     },
     "done": true
   },
@@ -1944,6 +2286,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/crimson_molded_cyan_wallpaper": {
+    "criteria": {
+      "cyan_crimson_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2023-11-23 14:25:29 +0100"
@@ -1968,15 +2316,33 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/wallpaper_red": {
+    "criteria": {
+      "red_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ring_of_potential": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/dark_oak_molded_purple_wallpaper": {
+    "criteria": {
+      "purple_dark_oak_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_small_bricks_slab": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:33 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/warped_molded_black_wallpaper": {
+    "criteria": {
+      "black_warped_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -2046,6 +2412,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/wallpaper_pink": {
+    "criteria": {
+      "pink_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/stripped_blue_archwood_wood": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:33 +0100"
@@ -2103,6 +2475,12 @@
   "extradelight:recipes/extradelight.items/stone_spoon": {
     "criteria": {
       "Recipes": "2023-11-22 23:42:24 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/mangrove_molded_yellow_wallpaper": {
+    "criteria": {
+      "yellow_mangrove_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -2226,6 +2604,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/oak_molded_pink_wallpaper": {
+    "criteria": {
+      "pink_oak_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2023-11-22 23:37:18 +0100"
@@ -2250,9 +2634,21 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/mangrove_molded_gray_wallpaper": {
+    "criteria": {
+      "gray_mangrove_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
     "criteria": {
       "has_planks": "2023-11-22 01:33:52 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/crimson_molded_black_wallpaper": {
+    "criteria": {
+      "black_crimson_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -2266,6 +2662,12 @@
   "farmersdelight:recipes/farmersdelight/smoked_ham": {
     "criteria": {
       "has_ham": "2023-11-23 02:08:37 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/mangrove_molded_white_wallpaper": {
+    "criteria": {
+      "white_mangrove_wallpaper": "2023-11-25 23:42:05 +0100"
     },
     "done": true
   },
@@ -2407,6 +2809,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/acacia_molded_brown_wallpaper": {
+    "criteria": {
+      "brown_acacia_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2023-11-24 01:33:57 +0100"
@@ -2473,15 +2881,39 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/warped_molded_pink_wallpaper": {
+    "criteria": {
+      "pink_warped_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/crimson_molded_gray_wallpaper": {
+    "criteria": {
+      "gray_crimson_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooked_chicken_cuts_from_smoking": {
     "criteria": {
       "cooked_chicken_cuts": "2023-11-24 23:57:19 +0100"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2023-11-25 21:58:19 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/rope": {
     "criteria": {
       "has_straw": "2023-11-23 15:45:49 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/wallpaper_green": {
+    "criteria": {
+      "green_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -2506,6 +2938,12 @@
   "extradelight:recipes/extradelight.items/cheeseburger": {
     "criteria": {
       "Recipes": "2023-11-23 02:17:53 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/birch_molded_light_blue_wallpaper": {
+    "criteria": {
+      "light_blue_birch_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -2554,6 +2992,12 @@
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-11-23 00:00:13 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/birch_molded_lime_wallpaper": {
+    "criteria": {
+      "lime_birch_wallpaper": "2023-11-25 23:42:05 +0100"
     },
     "done": true
   },
@@ -2620,6 +3064,12 @@
   "extradelight:recipes/farmersdelight/ham1": {
     "criteria": {
       "ham": "2023-11-23 02:08:37 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/wallpaper_white": {
+    "criteria": {
+      "white_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -2755,6 +3205,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/birch_molded_red_wallpaper": {
+    "criteria": {
+      "red_birch_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_large_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -2791,9 +3247,21 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/dark_oak_molded_white_wallpaper": {
+    "criteria": {
+      "white_dark_oak_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/iron_spoon": {
     "criteria": {
       "Recipes": "2023-11-23 00:28:43 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/acacia_molded_orange_wallpaper": {
+    "criteria": {
+      "orange_acacia_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -2905,6 +3373,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/acacia_molded_blue_wallpaper": {
+    "criteria": {
+      "blue_acacia_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:main/use_cutting_board": {
     "criteria": {
       "cutting_board": "2023-11-23 01:52:46 +0100"
@@ -2953,6 +3427,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/warped_molded_white_wallpaper": {
+    "criteria": {
+      "white_warped_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/air_essence_to_snow_bucket": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -2983,6 +3463,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/acacia_molded_black_wallpaper": {
+    "criteria": {
+      "black_acacia_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2023-11-22 23:15:16 +0100"
@@ -3001,9 +3487,27 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/birch_molded_orange_wallpaper": {
+    "criteria": {
+      "orange_birch_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/crimson_molded_pink_wallpaper": {
+    "criteria": {
+      "pink_crimson_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_alternating_stone_cutterslab": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/spruce_molded_lime_wallpaper": {
+    "criteria": {
+      "lime_spruce_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -3040,6 +3544,12 @@
   "ars_nouveau:recipes/ars_nouveau/sourcestone_alternating_slab": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/warped_molded_cyan_wallpaper": {
+    "criteria": {
+      "cyan_warped_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -3109,6 +3619,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/mangrove_molded_magenta_wallpaper": {
+    "criteria": {
+      "magenta_mangrove_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/dead_chest_boat": {
     "criteria": {
       "has_boat": "2023-11-25 00:34:34 +0100"
@@ -3118,6 +3634,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2023-11-23 00:30:27 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/dark_oak_molded_magenta_wallpaper": {
+    "criteria": {
+      "magenta_dark_oak_wallpaper": "2023-11-25 23:42:05 +0100"
     },
     "done": true
   },
@@ -3139,6 +3661,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/jungle_molded_magenta_wallpaper": {
+    "criteria": {
+      "magenta_jungle_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2023-11-24 15:30:57 +0100"
@@ -3148,6 +3676,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2023-11-24 01:33:57 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/oak_molded_cyan_wallpaper": {
+    "criteria": {
+      "cyan_oak_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -3271,6 +3805,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/wallpaper_gray": {
+    "criteria": {
+      "gray_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "extradelight:recipes/farmersdelight/bacon8": {
     "criteria": {
       "bacon": "2023-11-23 02:13:15 +0100"
@@ -3313,6 +3853,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/dark_oak_molded_black_wallpaper": {
+    "criteria": {
+      "black_dark_oak_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_red_from_white": {
     "criteria": {
       "has_sleeping_bag": "2023-11-23 14:56:46 +0100"
@@ -3337,9 +3883,21 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/acacia_molded_white_wallpaper": {
+    "criteria": {
+      "white_acacia_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_basketweave_stairs": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:33 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/spruce_molded_gray_wallpaper": {
+    "criteria": {
+      "gray_spruce_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -3412,6 +3970,12 @@
   "extradelight:recipes/farmersdelight/oven/sweet_berry_cookie": {
     "criteria": {
       "has_any_ingredient": "2023-11-23 02:06:54 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/wallpaper_cyan": {
+    "criteria": {
+      "cyan_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -3505,6 +4069,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/spruce_molded_red_wallpaper": {
+    "criteria": {
+      "red_spruce_wallpaper": "2023-11-25 23:42:05 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2023-11-22 23:42:24 +0100"
@@ -3529,6 +4099,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2023-11-25 22:34:29 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/cooked_rice": {
     "criteria": {
       "has_rice": "2023-11-23 02:05:29 +0100"
@@ -3550,6 +4126,12 @@
   "farmersdelight:recipes/farmersdelight/cabbage_crate": {
     "criteria": {
       "has_cabbage": "2023-11-25 00:02:54 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/oak_molded_orange_wallpaper": {
+    "criteria": {
+      "orange_oak_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -3596,9 +4178,21 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/acacia_molded_light_gray_wallpaper": {
+    "criteria": {
+      "light_gray_acacia_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "exoticbirds:recipes/mangrove_birdcage": {
     "criteria": {
       "has_stick": "2023-11-22 22:43:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2023-11-25 23:38:54 +0100"
     },
     "done": true
   },
@@ -3629,6 +4223,12 @@
   "ars_nouveau:recipes/ars_nouveau/clear_deny": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/jungle_molded_red_wallpaper": {
+    "criteria": {
+      "red_jungle_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -3680,6 +4280,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/birch_molded_light_gray_wallpaper": {
+    "criteria": {
+      "light_gray_birch_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_17": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:33 +0100"
@@ -3713,6 +4319,18 @@
   "ferdinandsflowers:recipes/decorations/blue_bottom_left": {
     "criteria": {
       "has_wheat_seeds": "2023-11-22 23:15:56 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/warped_molded_red_wallpaper": {
+    "criteria": {
+      "red_warped_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/dark_oak_molded_brown_wallpaper": {
+    "criteria": {
+      "brown_dark_oak_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -3836,6 +4454,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/spruce_molded_cyan_wallpaper": {
+    "criteria": {
+      "cyan_spruce_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_mosaic_stairs": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -3845,6 +4469,12 @@
   "exoticbirds:recipes/light_gray_birdhouse": {
     "criteria": {
       "has_wood": "2023-11-22 01:33:52 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/oak_molded_light_gray_wallpaper": {
+    "criteria": {
+      "light_gray_oak_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -3872,6 +4502,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2023-11-25 22:00:10 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2023-11-23 00:28:43 +0100"
@@ -3881,6 +4517,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2023-11-22 01:33:52 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/wallpaper_brown": {
+    "criteria": {
+      "brown_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -3920,6 +4562,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/dark_oak_molded_lime_wallpaper": {
+    "criteria": {
+      "lime_dark_oak_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_alternating_stairs": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:33 +0100"
@@ -3935,6 +4583,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2023-11-24 00:30:09 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/mangrove_molded_green_wallpaper": {
+    "criteria": {
+      "green_mangrove_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -3974,6 +4628,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/paper_from_tree_bark": {
+    "criteria": {
+      "has_tree_bark": "2023-11-25 23:42:46 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2023-11-24 01:45:20 +0100"
@@ -3989,6 +4649,12 @@
   "ars_nouveau:recipes/ars_nouveau/starbuncle_shades": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:33 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/crimson_molded_purple_wallpaper": {
+    "criteria": {
+      "purple_crimson_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -4016,9 +4682,21 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/spruce_molded_magenta_wallpaper": {
+    "criteria": {
+      "magenta_spruce_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_basketweave_stonecutter_stair": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2023-11-25 23:38:54 +0100"
     },
     "done": true
   },
@@ -4154,9 +4832,33 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/jungle_molded_blue_wallpaper": {
+    "criteria": {
+      "blue_jungle_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/oak_molded_red_wallpaper": {
+    "criteria": {
+      "red_oak_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/mangrove_molded_orange_wallpaper": {
+    "criteria": {
+      "orange_mangrove_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "extradelight:recipes/food/porkchop9": {
     "criteria": {
       "porkchop": "2023-11-22 23:55:30 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/jungle_molded_pink_wallpaper": {
+    "criteria": {
+      "pink_jungle_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -4285,6 +4987,7 @@
       "orchard": "2023-11-25 00:17:59 +0100",
       "mediterranean_forest": "2023-11-25 00:20:30 +0100",
       "coniferous_forest": "2023-11-22 23:53:35 +0100",
+      "spider_nest": "2023-11-25 23:03:53 +0100",
       "redwood_forest": "2023-11-22 01:32:35 +0100",
       "dune_beach": "2023-11-22 23:47:29 +0100",
       "seasonal_forest": "2023-11-22 23:53:59 +0100",
@@ -4346,6 +5049,18 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/warped_molded_yellow_wallpaper": {
+    "criteria": {
+      "yellow_warped_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/acacia_molded_light_blue_wallpaper": {
+    "criteria": {
+      "light_blue_acacia_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ritual_wilden_summon": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -4379,6 +5094,12 @@
   "biomesoplenty:recipes/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2023-11-25 00:34:34 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/spruce_molded_light_blue_wallpaper": {
+    "criteria": {
+      "light_blue_spruce_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -4539,11 +5260,18 @@
       "minecraft:spider": "2023-11-22 23:37:16 +0100",
       "minecraft:creeper": "2023-11-22 23:45:43 +0100",
       "minecraft:witch": "2023-11-23 22:43:39 +0100",
+      "minecraft:cave_spider": "2023-11-25 23:10:10 +0100",
       "minecraft:enderman": "2023-11-24 16:45:23 +0100",
       "minecraft:zombie": "2023-11-23 00:35:07 +0100",
       "minecraft:zombie_villager": "2023-11-23 01:00:42 +0100"
     },
     "done": false
+  },
+  "extradelight:recipes/extradelight.aesthetic/warped_molded_green_wallpaper": {
+    "criteria": {
+      "green_warped_wallpaper": "2023-11-25 23:42:05 +0100"
+    },
+    "done": true
   },
   "farmersdelight:recipes/farmersdelight/cooking_pot": {
     "criteria": {
@@ -4613,6 +5341,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2023-11-25 23:38:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2023-11-26 00:42:57 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_basketweave_stairs": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -4628,6 +5368,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2023-11-22 23:42:24 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/dark_oak_molded_light_blue_wallpaper": {
+    "criteria": {
+      "light_blue_dark_oak_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -4649,9 +5395,21 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/wallpaper_lime": {
+    "criteria": {
+      "lime_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/mangrove_molded_red_wallpaper": {
+    "criteria": {
+      "red_mangrove_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -4677,6 +5435,7 @@
     "criteria": {
       "HAGGIS": "2023-11-25 00:27:02 +0100",
       "JERKY": "2023-11-24 01:42:10 +0100",
+      "SEAWEED_CRISPS": "2023-11-25 23:35:54 +0100",
       "ROASTED_CARROT": "2023-11-23 15:01:50 +0100",
       "MEAT_LOAF": "2023-11-23 15:00:48 +0100",
       "CACTUS_SALAD": "2023-11-25 00:27:03 +0100",
@@ -4687,6 +5446,12 @@
   "exoticbirds:recipes/dark_oak_birdcage": {
     "criteria": {
       "has_stick": "2023-11-22 22:43:32 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/warped_molded_light_blue_wallpaper": {
+    "criteria": {
+      "light_blue_warped_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -4750,9 +5515,27 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/mangrove_molded_cyan_wallpaper": {
+    "criteria": {
+      "cyan_mangrove_wallpaper": "2023-11-25 23:42:05 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/wallpaper_magenta": {
+    "criteria": {
+      "magenta_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2023-11-22 23:15:16 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/birch_molded_green_wallpaper": {
+    "criteria": {
+      "green_birch_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -4804,6 +5587,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/acacia_molded_magenta_wallpaper": {
+    "criteria": {
+      "magenta_acacia_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooked_bacon_from_smoking": {
     "criteria": {
       "cooked_bacon": "2023-11-23 02:13:15 +0100"
@@ -4822,9 +5611,21 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/spruce_molded_brown_wallpaper": {
+    "criteria": {
+      "brown_spruce_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/conjuration_essence_to_end_stone": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:33 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/oak_molded_gray_wallpaper": {
+    "criteria": {
+      "gray_oak_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -4840,6 +5641,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2023-11-26 00:42:57 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/jungle_molded_purple_wallpaper": {
+    "criteria": {
+      "purple_jungle_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/oak_cog": {
     "criteria": {
       "in_water": "2023-11-22 23:30:21 +0100"
@@ -4849,6 +5662,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2023-11-23 00:28:43 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/crimson_molded_brown_wallpaper": {
+    "criteria": {
+      "brown_crimson_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -4933,6 +5752,12 @@
   "farmersdelight:recipes/farmersdelight/beef_patty": {
     "criteria": {
       "beef_patty": "2023-11-23 02:14:36 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/crimson_molded_light_gray_wallpaper": {
+    "criteria": {
+      "light_gray_crimson_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -5032,6 +5857,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2023-11-25 23:38:54 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2023-11-22 23:15:56 +0100"
@@ -5104,6 +5935,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/crimson_molded_light_blue_wallpaper": {
+    "criteria": {
+      "light_blue_crimson_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2023-11-23 14:56:46 +0100",
@@ -5114,6 +5951,12 @@
   "comforts:sleeping_bag_brown": {
     "criteria": {
       "has_brown_wool": "2023-11-23 02:05:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -5147,6 +5990,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/wallpaper_blue": {
+    "criteria": {
+      "blue_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_mosaic_stairs": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -5165,9 +6014,27 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/wallpaper_black": {
+    "criteria": {
+      "black_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2023-11-25 23:38:54 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/oak_molded_lime_wallpaper": {
+    "criteria": {
+      "lime_oak_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -5234,6 +6101,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2023-11-24 15:30:57 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/jungle_molded_light_gray_wallpaper": {
+    "criteria": {
+      "light_gray_jungle_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -5377,9 +6250,21 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/jungle_molded_lime_wallpaper": {
+    "criteria": {
+      "lime_jungle_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/carrot1": {
     "criteria": {
       "carrot": "2023-11-23 16:21:35 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/dark_oak_molded_orange_wallpaper": {
+    "criteria": {
+      "orange_dark_oak_wallpaper": "2023-11-25 23:42:05 +0100"
     },
     "done": true
   },
@@ -5449,6 +6334,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/dark_oak_spice_rack": {
+    "criteria": {
+      "dark_oak_spice_rack": "2023-11-25 22:02:33 +0100"
+    },
+    "done": true
+  },
   "extradelight:recipes/food/beef5": {
     "criteria": {
       "beef": "2023-11-22 23:46:37 +0100"
@@ -5479,6 +6370,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/dark_oak_molded_pink_wallpaper": {
+    "criteria": {
+      "pink_dark_oak_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_honey_bottle": {
     "criteria": {
       "has_honey_bottle": "2023-11-25 00:15:06 +0100"
@@ -5500,6 +6397,12 @@
   "smallships:recipes/transportation/oak_galley": {
     "criteria": {
       "in_water": "2023-11-22 23:30:21 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/spruce_molded_light_gray_wallpaper": {
+    "criteria": {
+      "light_gray_spruce_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -5539,6 +6442,18 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/mangrove_molded_light_gray_wallpaper": {
+    "criteria": {
+      "light_gray_mangrove_wallpaper": "2023-11-25 23:42:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2023-11-25 23:38:54 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/mirrorweave": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:33 +0100"
@@ -5554,6 +6469,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_basketweave_stone_cutterslab": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:33 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/dark_oak_molded_blue_wallpaper": {
+    "criteria": {
+      "blue_dark_oak_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -5605,9 +6526,21 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/dark_oak_molded_light_gray_wallpaper": {
+    "criteria": {
+      "light_gray_dark_oak_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_9": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/dark_oak_molded_gray_wallpaper": {
+    "criteria": {
+      "gray_dark_oak_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -5674,6 +6607,12 @@
   "extradelight:recipes/farmersdelight/mutton_chops2": {
     "criteria": {
       "mutton_chops": "2023-11-23 02:14:30 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/spruce_molded_white_wallpaper": {
+    "criteria": {
+      "white_spruce_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -5845,6 +6784,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/wallpaper_yellow": {
+    "criteria": {
+      "yellow_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/green_sbed": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -5854,6 +6799,12 @@
   "ars_nouveau:recipes/ars_nouveau/archwood_fence_gate": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:33 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/jungle_molded_white_wallpaper": {
+    "criteria": {
+      "white_jungle_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -5875,9 +6826,21 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/birch_molded_blue_wallpaper": {
+    "criteria": {
+      "blue_birch_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2023-11-22 23:30:21 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/crimson_molded_orange_wallpaper": {
+    "criteria": {
+      "orange_crimson_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -5929,6 +6892,18 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/birch_molded_white_wallpaper": {
+    "criteria": {
+      "white_birch_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/oak_molded_green_wallpaper": {
+    "criteria": {
+      "green_oak_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2023-11-22 23:15:16 +0100"
@@ -5959,6 +6934,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2023-11-25 23:38:54 +0100"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2023-11-23 01:06:23 +0100",
@@ -5981,6 +6962,12 @@
   "exoticbirds:recipes/phoenix_egg_from_ender_phoenix": {
     "criteria": {
       "has_egg": "2023-11-22 01:32:33 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/oak_molded_yellow_wallpaper": {
+    "criteria": {
+      "yellow_oak_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -6020,6 +7007,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/acacia_molded_cyan_wallpaper": {
+    "criteria": {
+      "cyan_acacia_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
       "in_water": "2023-11-22 23:30:21 +0100"
@@ -6047,6 +7040,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2023-11-23 22:43:39 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/oak_molded_purple_wallpaper": {
+    "criteria": {
+      "purple_oak_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -6098,6 +7097,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/oak_molded_light_blue_wallpaper": {
+    "criteria": {
+      "light_blue_oak_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ritual_fertility": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:33 +0100"
@@ -6140,6 +7145,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/oak_molded_blue_wallpaper": {
+    "criteria": {
+      "blue_oak_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2023-11-23 01:46:56 +0100"
@@ -6179,6 +7190,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_small_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/acacia_molded_gray_wallpaper": {
+    "criteria": {
+      "gray_acacia_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -6296,6 +7313,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2023-11-25 22:00:10 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ritual_awakening": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -6350,6 +7373,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2023-11-25 22:00:10 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/oak_cabinet": {
     "criteria": {
       "has_oak_trapdoor": "2023-11-23 00:46:21 +0100"
@@ -6392,6 +7421,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/warped_molded_magenta_wallpaper": {
+    "criteria": {
+      "magenta_warped_wallpaper": "2023-11-25 23:42:05 +0100"
+    },
+    "done": true
+  },
   "extradelight:recipes/farmersdelight/sweet_berry_pie_jam": {
     "criteria": {
       "sweet_berry_pie": "2023-11-23 02:06:54 +0100"
@@ -6413,6 +7448,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2023-11-23 14:25:29 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/oak_molded_brown_wallpaper": {
+    "criteria": {
+      "brown_oak_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -6458,6 +7499,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/warped_molded_blue_wallpaper": {
+    "criteria": {
+      "blue_warped_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.aesthetic/birch_step_stool": {
     "criteria": {
       "birch_step_stool": "2023-11-22 22:43:32 +0100"
@@ -6467,6 +7514,12 @@
   "ars_nouveau:recipes/ars_nouveau/archwood_stairs": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/spruce_molded_blue_wallpaper": {
+    "criteria": {
+      "blue_spruce_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -6500,6 +7553,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/warped_molded_purple_wallpaper": {
+    "criteria": {
+      "purple_warped_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/source_jar": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -6509,6 +7568,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2023-11-22 23:15:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2023-11-25 23:38:54 +0100"
     },
     "done": true
   },
@@ -6528,6 +7593,12 @@
       "carrot": "2023-11-24 01:57:03 +0100"
     },
     "done": false
+  },
+  "extradelight:recipes/extradelight.aesthetic/acacia_molded_pink_wallpaper": {
+    "criteria": {
+      "pink_acacia_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
   },
   "exoticbirds:recipes/roost_box": {
     "criteria": {
@@ -6613,6 +7684,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/acacia_molded_purple_wallpaper": {
+    "criteria": {
+      "purple_acacia_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/runic_chalk": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:33 +0100"
@@ -6667,6 +7744,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/birch_molded_yellow_wallpaper": {
+    "criteria": {
+      "yellow_birch_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/apple7": {
     "criteria": {
       "apple": "2023-11-23 14:13:24 +0100"
@@ -6682,6 +7765,12 @@
   "extradelight:recipes/extradelight.items/pestle_diorite": {
     "criteria": {
       "Recipes": "2023-11-24 15:30:57 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/birch_molded_brown_wallpaper": {
+    "criteria": {
+      "brown_birch_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -6736,6 +7825,12 @@
   "extradelight:recipes/extradelight.items/vinegar_pot": {
     "criteria": {
       "Recipes": "2023-11-23 02:05:52 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/spruce_molded_yellow_wallpaper": {
+    "criteria": {
+      "yellow_spruce_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -6835,6 +7930,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/jungle_molded_brown_wallpaper": {
+    "criteria": {
+      "brown_jungle_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ritual_burrowing": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -6889,6 +7990,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/oak_molded_white_wallpaper": {
+    "criteria": {
+      "white_oak_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "exoticbirds:recipes/green_birdhouse": {
     "criteria": {
       "has_wood": "2023-11-22 01:33:52 +0100"
@@ -6898,6 +8005,18 @@
   "ars_nouveau:recipes/building_blocks/manipulation_essence_to_granite": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/jungle_molded_green_wallpaper": {
+    "criteria": {
+      "green_jungle_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/crimson_molded_blue_wallpaper": {
+    "criteria": {
+      "blue_crimson_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -6931,9 +8050,21 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/acacia_molded_lime_wallpaper": {
+    "criteria": {
+      "lime_acacia_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/mortar_andesite": {
     "criteria": {
       "Recipes": "2023-11-22 23:43:21 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/spruce_molded_black_wallpaper": {
+    "criteria": {
+      "black_spruce_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -6979,6 +8110,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/acacia_molded_yellow_wallpaper": {
+    "criteria": {
+      "yellow_acacia_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2023-11-22 23:57:57 +0100"
@@ -6997,6 +8134,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/crimson_molded_red_wallpaper": {
+    "criteria": {
+      "red_crimson_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ritual_harvest": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -7006,6 +8149,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_large_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-11-25 22:00:10 +0100"
     },
     "done": true
   },
@@ -7111,6 +8260,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/spruce_molded_purple_wallpaper": {
+    "criteria": {
+      "purple_spruce_wallpaper": "2023-11-25 23:42:05 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/source_gem_block_2": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:33 +0100"
@@ -7168,6 +8323,12 @@
   "extradelight:recipes/food/oven/cake": {
     "criteria": {
       "has_any_ingredient": "2023-11-23 01:46:56 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/warped_molded_light_gray_wallpaper": {
+    "criteria": {
+      "light_gray_warped_wallpaper": "2023-11-25 23:42:06 +0100"
     },
     "done": true
   },
@@ -7249,6 +8410,18 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.aesthetic/birch_molded_black_wallpaper": {
+    "criteria": {
+      "black_birch_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2023-11-25 23:38:54 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2023-11-22 23:46:37 +0100"
@@ -7258,6 +8431,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stonecutter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2023-11-24 23:44:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2023-11-25 22:00:10 +0100"
     },
     "done": true
   },

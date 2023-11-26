@@ -31,7 +31,8 @@
     "ignoreTools": false,
     "damageMultiplicand": 1.0,
     "damageRounding": "ROUND_DOWN",
-    "speedMultiplicand": 0.0
+    "speedMultiplicand": 0.0,
+    "forceToolUsage": false
   },
   "player": {
     "allowedTags": []
