@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "deeperdarker:stripped_echo_log"
+    },
+    {
+      "item": "deeperdarker:stripped_echo_log"
+    },
+    {
+      "item": "deeperdarker:stripped_echo_log"
+    },
+    {
+      "item": "deeperdarker:stripped_echo_log"
+    },
+    {
+      "item": "deeperdarker:stripped_echo_log"
+    },
+    {
+      "item": "deeperdarker:stripped_echo_log"
+    },
+    {
+      "item": "deeperdarker:stripped_echo_log"
+    },
+    {
+      "item": "deeperdarker:stripped_echo_log"
+    },
+    {
+      "item": "deeperdarker:stripped_echo_log"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:stripped_echo_deeperdarker_kitchen_wall_counter"
+  }
+}

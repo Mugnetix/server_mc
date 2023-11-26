@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "biomesoplenty:cherry_log"
+    },
+    {
+      "item": "biomesoplenty:cherry_log"
+    },
+    {
+      "item": "biomesoplenty:cherry_log"
+    },
+    {
+      "item": "biomesoplenty:cherry_log"
+    },
+    {
+      "item": "biomesoplenty:cherry_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:cherry_biomesoplenty_raw_table_log"
+  }
+}

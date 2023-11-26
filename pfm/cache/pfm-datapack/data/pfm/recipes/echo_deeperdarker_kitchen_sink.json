@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "deeperdarker:echo_planks"
+    },
+    {
+      "item": "deeperdarker:echo_planks"
+    },
+    {
+      "item": "deeperdarker:echo_planks"
+    },
+    {
+      "item": "deeperdarker:echo_planks"
+    },
+    {
+      "item": "deeperdarker:echo_planks"
+    },
+    {
+      "item": "deeperdarker:echo_log"
+    },
+    {
+      "item": "deeperdarker:echo_log"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:echo_deeperdarker_kitchen_sink"
+  }
+}

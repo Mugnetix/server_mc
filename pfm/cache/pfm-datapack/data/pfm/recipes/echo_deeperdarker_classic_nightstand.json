@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "deeperdarker:echo_log"
+    },
+    {
+      "item": "deeperdarker:echo_log"
+    },
+    {
+      "item": "deeperdarker:echo_log"
+    },
+    {
+      "item": "deeperdarker:echo_log"
+    },
+    {
+      "item": "deeperdarker:echo_log"
+    },
+    {
+      "item": "deeperdarker:echo_log"
+    },
+    {
+      "item": "deeperdarker:echo_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:echo_deeperdarker_classic_nightstand"
+  }
+}

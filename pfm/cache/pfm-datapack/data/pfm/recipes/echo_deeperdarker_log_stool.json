@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "deeperdarker:echo_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:echo_deeperdarker_log_stool"
+  }
+}
