@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2023-11-28 02:14:42 +0100"
+    },
+    "done": true
+  },
   "ferdinandsflowers:recipes/decorations/staked_purple_sweet_peas": {
     "criteria": {
       "has_purple_sweet_peas": "2023-11-27 15:35:43 +0100"
@@ -374,6 +380,12 @@
   "ars_nouveau:recipes/building_blocks/manipulation_essence_to_mycelium": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/diorite_classic_stool": {
+    "criteria": {
+      "has_planks": "2023-11-28 01:14:47 +0100"
     },
     "done": true
   },
@@ -695,6 +707,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2023-11-28 01:14:47 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/greater_experience_gem": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
@@ -734,6 +752,12 @@
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2023-11-22 23:21:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_light_blue_dye": "2023-11-28 02:05:00 +0100"
     },
     "done": true
   },
@@ -965,6 +989,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/white_shower_towel": {
+    "criteria": {
+      "has_white_wool": "2023-11-28 02:00:38 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/wixie_hat": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
@@ -992,6 +1022,12 @@
   "pfm:recipes/pfm.furniture/stripped_oak_simple_stool": {
     "criteria": {
       "has_planks": "2023-11-27 13:44:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2023-11-28 01:14:47 +0100"
     },
     "done": true
   },
@@ -1415,6 +1451,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/diorite_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2023-11-28 01:14:47 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ritual_flight": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
@@ -1592,6 +1634,12 @@
   "pfm:recipes/pfm.furniture/dark_oak_kitchen_counter": {
     "criteria": {
       "has_planks": "2023-11-27 13:51:21 +0100"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/diorite_chair_dinner": {
+    "criteria": {
+      "diorite_chair_dinner": "2023-11-28 01:14:47 +0100"
     },
     "done": true
   },
@@ -2118,6 +2166,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/diorite_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2023-11-28 01:14:47 +0100"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.aesthetic/dark_oak_knife_block": {
     "criteria": {
       "dark_oak_knife_block": "2023-11-27 14:22:54 +0100"
@@ -2382,6 +2436,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
+    "criteria": {
+      "has_purple_dye": "2023-11-28 02:00:35 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2023-11-24 23:39:01 +0100"
@@ -2457,6 +2517,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_small_bricks_slab": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/red_shower_towel": {
+    "criteria": {
+      "has_red_wool": "2023-11-28 02:39:17 +0100"
     },
     "done": true
   },
@@ -3523,6 +3589,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/diorite_table_dinner": {
+    "criteria": {
+      "diorite_table_dinner": "2023-11-28 01:14:47 +0100"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/palm_boat": {
     "criteria": {
       "in_water": "2023-11-22 22:41:15 +0100"
@@ -3532,6 +3604,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2023-11-22 23:55:33 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2023-11-28 02:01:48 +0100"
     },
     "done": true
   },
@@ -3598,6 +3676,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_alternating_stairs": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/diorite_table_modern_dinner": {
+    "criteria": {
+      "diorite_table_modern_dinner": "2023-11-28 01:14:47 +0100"
     },
     "done": true
   },
@@ -3829,6 +3913,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/diorite_classic_nightstand": {
+    "criteria": {
+      "diorite_classic_nightstand": "2023-11-28 01:14:47 +0100"
+    },
+    "done": true
+  },
   "extradelight:recipes/farmersdelight/bacon1": {
     "criteria": {
       "bacon": "2023-11-23 02:13:56 +0100"
@@ -3871,6 +3961,12 @@
     },
     "done": true
   },
+  "ferdinandsflowers:recipes/decorations/vase_purple": {
+    "criteria": {
+      "has_purple_dye": "2023-11-28 02:00:35 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2023-11-22 23:48:04 +0100"
@@ -3898,6 +3994,12 @@
   "pfm:recipes/pfm.furniture/andesite_kitchen_wall_counter": {
     "criteria": {
       "has_planks": "2023-11-27 13:44:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2023-11-28 02:00:35 +0100"
     },
     "done": true
   },
@@ -4165,6 +4267,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/diorite_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2023-11-28 01:14:47 +0100"
+    },
+    "done": true
+  },
   "ferdinandsflowers:recipes/decorations/purple_bottom_left": {
     "criteria": {
       "has_wheat_seeds": "2023-11-22 22:42:47 +0100"
@@ -4243,6 +4351,18 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/diorite_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2023-11-28 01:14:47 +0100"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/diorite_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2023-11-28 01:14:47 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
@@ -4306,6 +4426,12 @@
   "pfm:recipes/pfm.furniture/spruce_chair": {
     "criteria": {
       "has_planks": "2023-11-27 13:44:49 +0100"
+    },
+    "done": true
+  },
+  "ferdinandsflowers:recipes/decorations/planter_light_blue": {
+    "criteria": {
+      "has_light_blue_dye": "2023-11-28 02:05:00 +0100"
     },
     "done": true
   },
@@ -5180,6 +5306,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2023-11-28 02:00:35 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_basketweave_stone_cutterslab": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
@@ -5603,6 +5735,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2023-11-28 01:14:47 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_basketweave_stairs": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
@@ -5833,6 +5971,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/oak_chair_classic_red": {
+    "criteria": {
+      "oak_chair_classic_red": "2023-11-28 02:39:17 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_large_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
@@ -5953,6 +6097,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2023-11-28 01:14:47 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2023-11-25 23:32:15 +0100"
@@ -5971,15 +6121,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
+  "pfm:recipes/pfm.furniture/diorite_kitchen_counter_oven": {
     "criteria": {
-      "has_poppy": "2023-11-27 16:15:18 +0100"
+      "has_planks": "2023-11-28 01:14:47 +0100"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/diorite_modern_stool": {
+    "criteria": {
+      "has_planks": "2023-11-28 01:14:47 +0100"
     },
     "done": true
   },
   "ferdinandsflowers:recipes/misc/blue_dye_from_flower": {
     "criteria": {
       "has_blue_flower": "2023-11-27 16:14:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2023-11-27 16:15:18 +0100"
     },
     "done": true
   },
@@ -6076,6 +6238,12 @@
   "ferdinandsflowers:recipes/decorations/cobble_purple_middle_right": {
     "criteria": {
       "has_wheat_seeds": "2023-11-22 22:42:47 +0100"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/diorite_table_classic": {
+    "criteria": {
+      "diorite_table_classic": "2023-11-28 01:14:47 +0100"
     },
     "done": true
   },
@@ -6265,9 +6433,21 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/diorite_chair": {
+    "criteria": {
+      "diorite_chair": "2023-11-28 01:14:47 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
+    },
+    "done": true
+  },
+  "ferdinandsflowers:recipes/decorations/vase_light_blue": {
+    "criteria": {
+      "has_light_blue_dye": "2023-11-28 02:05:00 +0100"
     },
     "done": true
   },
@@ -6346,6 +6526,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2023-11-24 15:25:24 +0100"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/diorite_simple_stool": {
+    "criteria": {
+      "has_planks": "2023-11-28 01:14:47 +0100"
     },
     "done": true
   },
@@ -6646,6 +6832,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2023-11-23 02:01:10 +0100"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/oak_chair_classic_white": {
+    "criteria": {
+      "oak_chair_classic_white": "2023-11-28 02:00:38 +0100"
     },
     "done": true
   },
@@ -7118,6 +7310,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/diorite_table_natural": {
+    "criteria": {
+      "diorite_table_natural": "2023-11-28 01:14:47 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2023-11-24 23:39:28 +0100"
@@ -7240,6 +7438,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/diorite_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2023-11-28 01:14:47 +0100"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
       "in_water": "2023-11-22 22:41:15 +0100"
@@ -7255,6 +7459,12 @@
   "exoticbirds:recipes/magenta_birdhouse": {
     "criteria": {
       "has_wood": "2023-11-22 23:13:19 +0100"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/diorite_chair_classic": {
+    "criteria": {
+      "diorite_chair_classic": "2023-11-28 01:14:47 +0100"
     },
     "done": true
   },
@@ -7594,6 +7804,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2023-11-28 02:14:42 +0100"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.aesthetic/spruce_spice_rack_full": {
     "criteria": {
       "spruce_spice_rack_full": "2023-11-25 22:49:27 +0100"
@@ -7741,6 +7957,12 @@
   "smallships:recipes/transportation/jungle_brigg": {
     "criteria": {
       "in_water": "2023-11-22 22:41:15 +0100"
+    },
+    "done": true
+  },
+  "ferdinandsflowers:recipes/decorations/planter_purple": {
+    "criteria": {
+      "has_purple_dye": "2023-11-28 02:00:35 +0100"
     },
     "done": true
   },
@@ -7928,6 +8150,12 @@
   "extradelight:recipes/extradelight.aesthetic/spruce_knife_block": {
     "criteria": {
       "spruce_knife_block": "2023-11-25 22:49:27 +0100"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/diorite_table_basic": {
+    "criteria": {
+      "diorite_table_basic": "2023-11-28 01:14:47 +0100"
     },
     "done": true
   },
@@ -8267,6 +8495,12 @@
     },
     "done": true
   },
+  "ferdinandsflowers:recipes/misc/white_dye_from_flower": {
+    "criteria": {
+      "has_white_flower": "2023-11-28 01:06:07 +0100"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/redwood_fence_gate": {
     "criteria": {
       "has_planks": "2023-11-22 23:13:19 +0100"
@@ -8351,6 +8585,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/diorite_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2023-11-28 01:14:47 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2023-11-22 23:32:22 +0100"
@@ -8423,6 +8663,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_candle": {
+    "criteria": {
+      "has_light_blue_dye": "2023-11-28 02:05:00 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2023-11-23 23:29:52 +0100"
@@ -8450,6 +8696,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_alternating_slab": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/diorite_chair_modern": {
+    "criteria": {
+      "diorite_chair_modern": "2023-11-28 01:14:47 +0100"
     },
     "done": true
   },
@@ -8564,6 +8816,12 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2023-11-23 01:44:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2023-11-28 02:14:42 +0100"
     },
     "done": true
   },
