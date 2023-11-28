@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_black_dye": "2023-11-29 00:32:01 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2023-11-27 13:58:48 +0100"
@@ -422,6 +428,12 @@
   "ferdinandsflowers:recipes/misc/purple_dye_from_flower": {
     "criteria": {
       "has_purple_flower": "2023-11-22 23:28:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2023-11-29 00:24:08 +0100"
     },
     "done": true
   },
@@ -1037,6 +1049,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2023-11-29 00:24:08 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/fried_egg_from_smoking": {
     "criteria": {
       "fried_egg": "2023-11-22 23:55:33 +0100"
@@ -1298,6 +1316,12 @@
   "chiselsandbits:recipes/chiselsandbits/measuring_tape": {
     "criteria": {
       "has_s": "2023-11-22 23:37:22 +0100"
+    },
+    "done": true
+  },
+  "ferdinandsflowers:recipes/decorations/planter_black": {
+    "criteria": {
+      "has_black_dye": "2023-11-29 00:32:01 +0100"
     },
     "done": true
   },
@@ -1830,6 +1854,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2023-11-29 00:30:20 +0100"
+    },
+    "done": true
+  },
   "ferdinandsflowers:recipes/misc/jack_o_lantern_light_fan": {
     "criteria": {
       "has_jack_o_lantern_light": "2023-11-24 16:39:14 +0100"
@@ -1911,6 +1941,12 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2023-11-22 23:48:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2023-11-29 00:24:08 +0100"
     },
     "done": true
   },
@@ -3433,6 +3469,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/glass_modern_pendant": {
+    "criteria": {
+      "has_white_stained_glass": "2023-11-29 00:24:24 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2023-11-27 14:02:32 +0100"
@@ -4484,6 +4526,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2023-11-29 00:34:47 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2023-11-23 02:01:21 +0100"
@@ -4970,6 +5018,12 @@
     },
     "done": true
   },
+  "ferdinandsflowers:recipes/decorations/planter_white": {
+    "criteria": {
+      "has_white_dye": "2023-11-29 00:24:08 +0100"
+    },
+    "done": true
+  },
   "extradelight:doughshaping": {
     "criteria": {
       "doughshaping": "2023-11-27 14:19:37 +0100"
@@ -5379,6 +5433,12 @@
   "farmersdelight:recipes/farmersdelight/canvas": {
     "criteria": {
       "has_straw": "2023-11-25 23:08:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2023-11-29 00:24:08 +0100"
     },
     "done": true
   },
@@ -5845,9 +5905,21 @@
     },
     "done": true
   },
+  "extradelight:recipes/misc/mortar/black_dye": {
+    "criteria": {
+      "Recipes": "2023-11-29 00:30:20 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_small_bricks_stairs": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_light_gray_dye": "2023-11-29 00:34:47 +0100"
     },
     "done": true
   },
@@ -5914,6 +5986,12 @@
   "pfm:recipes/pfm.furniture/pink_arm_chair": {
     "criteria": {
       "has_wool": "2023-11-27 13:44:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2023-11-29 00:24:08 +0100"
     },
     "done": true
   },
@@ -6577,6 +6655,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2023-11-29 00:24:08 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2023-11-23 23:48:35 +0100",
@@ -6754,6 +6838,12 @@
   "extradelight:recipes/food/beef3": {
     "criteria": {
       "beef": "2023-11-23 01:56:59 +0100"
+    },
+    "done": true
+  },
+  "ferdinandsflowers:recipes/decorations/vase_black": {
+    "criteria": {
+      "has_black_dye": "2023-11-29 00:32:01 +0100"
     },
     "done": true
   },
@@ -6995,6 +7085,12 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2023-11-24 00:11:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2023-11-29 00:24:08 +0100"
     },
     "done": true
   },
@@ -7576,6 +7672,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2023-11-29 00:24:08 +0100"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/jacaranda_fence_gate": {
     "criteria": {
       "has_planks": "2023-11-22 23:14:51 +0100"
@@ -7816,6 +7918,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2023-11-29 00:24:24 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2023-11-23 02:01:10 +0100"
@@ -7873,6 +7981,12 @@
   "extradelight:recipes/extradelight.items/cooked_pumpkin_seeds6": {
     "criteria": {
       "cooked_pumpkin_seeds": "2023-11-23 02:05:08 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/spruce_dried_corn_fence": {
+    "criteria": {
+      "spruce_dried_corn_fence": "2023-11-28 22:26:02 +0100"
     },
     "done": true
   },
@@ -8014,6 +8128,12 @@
     },
     "done": true
   },
+  "ferdinandsflowers:recipes/decorations/vase_white": {
+    "criteria": {
+      "has_white_dye": "2023-11-29 00:24:08 +0100"
+    },
+    "done": true
+  },
   "skilltree:recipes/skilltree/iron_ring": {
     "criteria": {
       "has_nuggets_iron": "2023-11-24 02:03:32 +0100"
@@ -8059,6 +8179,12 @@
   "extradelight:recipes/extradelight.aesthetic/birch_step_stool": {
     "criteria": {
       "birch_step_stool": "2023-11-22 23:15:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2023-11-29 00:32:01 +0100"
     },
     "done": true
   },
@@ -9095,6 +9221,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2023-11-29 00:30:20 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2023-11-24 16:08:33 +0100"
@@ -9128,6 +9260,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-11-23 00:00:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2023-11-29 00:35:03 +0100"
     },
     "done": true
   },
