@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "ferdinandsflowers:recipes/decorations/staked_purple_sweet_peas": {
+    "criteria": {
+      "has_purple_sweet_peas": "2023-12-05 23:44:44 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2023-11-23 00:28:43 +0100"
@@ -416,6 +422,12 @@
   "extradelight:recipes/extradelight.aesthetic/jungle_molded_cyan_wallpaper": {
     "criteria": {
       "cyan_jungle_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2023-12-05 23:33:37 +0100"
     },
     "done": true
   },
@@ -1251,6 +1263,12 @@
   "exoticbirds:recipes/warped_birdcage": {
     "criteria": {
       "has_stick": "2023-11-22 22:43:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2023-12-06 01:33:48 +0100"
     },
     "done": true
   },
@@ -2682,6 +2700,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_organic_compost": {
+    "criteria": {
+      "place_organic_compost": "2023-12-05 22:16:49 +0100"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/pickup_upgrade": {
     "criteria": {
       "has_upgrade_base": "2023-11-24 23:44:19 +0100"
@@ -2908,6 +2932,12 @@
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2023-11-23 15:02:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2023-12-05 22:04:19 +0100"
     },
     "done": true
   },
@@ -3366,6 +3396,12 @@
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2023-11-23 14:25:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2023-12-05 21:56:11 +0100"
     },
     "done": true
   },
@@ -4083,6 +4119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2023-12-05 22:04:19 +0100"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/carrot1": {
     "criteria": {
       "carrot": "2023-11-23 16:21:35 +0100"
@@ -4671,6 +4713,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2023-12-05 22:04:19 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2023-11-23 23:57:13 +0100"
@@ -4979,6 +5027,12 @@
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2023-11-22 23:30:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2023-12-05 22:04:19 +0100"
     },
     "done": true
   },
@@ -5624,6 +5678,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2023-12-05 21:56:11 +0100"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2023-11-24 01:30:49 +0100"
@@ -5879,6 +5939,12 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2023-11-28 02:48:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2023-12-05 22:04:19 +0100"
     },
     "done": true
   },
@@ -9917,6 +9983,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2023-12-05 22:04:19 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2023-11-23 23:51:20 +0100"
@@ -10389,6 +10461,12 @@
   "ars_nouveau:recipes/ars_nouveau/source_jar": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
+    },
+    "done": true
+  },
+  "skilltree:recipes/skilltree/copper_nugget": {
+    "criteria": {
+      "has_ingots_copper": "2023-12-05 21:56:11 +0100"
     },
     "done": true
   },
