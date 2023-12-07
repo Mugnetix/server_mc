@@ -10776,6 +10776,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2023-12-07 21:49:15 +0100"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/pestle_deepslate": {
     "criteria": {
       "Recipes": "2023-12-06 23:37:57 +0100"
