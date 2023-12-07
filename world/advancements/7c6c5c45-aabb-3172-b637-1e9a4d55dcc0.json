@@ -3247,6 +3247,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2023-12-07 23:39:23 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2023-11-25 00:34:34 +0100"
@@ -3558,12 +3564,15 @@
     "criteria": {
       "minecraft:pillager": "2023-11-25 00:08:41 +0100",
       "minecraft:skeleton": "2023-11-23 01:10:33 +0100",
+      "minecraft:vindicator": "2023-12-07 23:22:48 +0100",
       "minecraft:spider": "2023-11-22 23:37:16 +0100",
       "minecraft:creeper": "2023-11-22 23:45:43 +0100",
       "minecraft:witch": "2023-11-23 22:43:39 +0100",
+      "minecraft:husk": "2023-12-07 23:04:05 +0100",
       "minecraft:cave_spider": "2023-11-25 23:10:10 +0100",
       "minecraft:enderman": "2023-11-24 16:45:23 +0100",
       "minecraft:silverfish": "2023-12-06 17:02:00 +0100",
+      "minecraft:stray": "2023-12-07 23:03:57 +0100",
       "minecraft:zombie": "2023-11-23 00:35:07 +0100",
       "minecraft:zombie_villager": "2023-11-23 01:00:42 +0100"
     },
@@ -5391,6 +5400,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2023-12-07 23:39:23 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2023-11-25 03:12:59 +0100"
@@ -5853,6 +5868,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2023-12-07 23:39:23 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_large_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -6207,6 +6228,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2023-12-07 23:07:56 +0100"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/stone_chair_classic": {
     "criteria": {
       "stone_chair_classic": "2023-11-26 03:00:35 +0100"
@@ -6456,6 +6483,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2023-11-26 02:28:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2023-12-07 23:21:39 +0100"
     },
     "done": true
   },
@@ -7431,6 +7464,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/pestle_basalt": {
+    "criteria": {
+      "Recipes": "2023-12-07 23:07:56 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/archwood_fence": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -7578,6 +7617,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/feeding_upgrade": {
     "criteria": {
       "has_upgrade_base": "2023-11-24 23:44:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2023-12-07 23:39:23 +0100"
     },
     "done": true
   },
@@ -8788,6 +8833,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2023-12-07 23:39:23 +0100"
+    },
+    "done": true
+  },
   "extradelight:recipes/misc/mortar/red_dye": {
     "criteria": {
       "Recipes": "2023-11-27 14:00:11 +0100"
@@ -9136,6 +9187,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/mortar_basalt": {
+    "criteria": {
+      "Recipes": "2023-12-07 23:07:56 +0100"
+    },
+    "done": true
+  },
   "ferdinandsflowers:recipes/misc/yelllow_dye_from_flower": {
     "criteria": {
       "has_yellow_flower": "2023-11-23 01:46:29 +0100"
@@ -9259,6 +9316,12 @@
   "ars_nouveau:recipes/ars_nouveau/warp_scroll": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2023-12-07 23:07:56 +0100"
     },
     "done": true
   },
@@ -9901,6 +9964,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2023-11-23 23:50:23 +0100",
+      "minecraft:deep_ocean": "2023-12-07 23:01:53 +0100",
       "minecraft:frozen_river": "2023-11-23 16:16:13 +0100",
       "minecraft:sunflower_plains": "2023-11-22 23:28:25 +0100",
       "minecraft:birch_forest": "2023-11-25 00:34:09 +0100",
@@ -10514,6 +10578,7 @@
     "criteria": {
       "cooked_porkchop": "2023-11-23 01:06:23 +0100",
       "chicken": "2023-12-07 13:44:11 +0100",
+      "honey_bottle": "2023-12-08 00:01:23 +0100",
       "cooked_mutton": "2023-11-22 23:22:34 +0100",
       "cooked_beef": "2023-11-23 00:26:26 +0100",
       "baked_potato": "2023-11-25 01:07:57 +0100",
@@ -10647,6 +10712,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_rose_red": "2023-11-28 22:42:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2023-12-07 23:39:23 +0100"
     },
     "done": true
   },
@@ -11337,6 +11408,12 @@
   "pfm:recipes/pfm.furniture/diorite_kitchen_wall_counter": {
     "criteria": {
       "has_planks": "2023-11-26 02:01:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2023-12-07 23:07:56 +0100"
     },
     "done": true
   },
