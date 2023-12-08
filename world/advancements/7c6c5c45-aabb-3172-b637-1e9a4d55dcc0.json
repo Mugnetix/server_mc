@@ -1140,6 +1140,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2023-12-08 03:35:18 +0100"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/jacaranda_fence": {
     "criteria": {
       "has_planks": "2023-11-22 23:14:56 +0100"
@@ -2757,6 +2763,12 @@
   "pfm:recipes/pfm.furniture/oak_kitchen_counter_oven": {
     "criteria": {
       "has_planks": "2023-11-26 02:01:51 +0100"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/craft_coffin": {
+    "criteria": {
+      "coffin": "2023-12-08 03:20:30 +0100"
     },
     "done": true
   },
@@ -5520,6 +5532,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2023-12-07 23:39:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2023-12-08 03:29:09 +0100"
     },
     "done": true
   },
@@ -10030,6 +10048,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2023-12-08 03:17:05 +0100"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/deepslate_kitchen_counter": {
     "criteria": {
       "has_planks": "2023-11-26 02:01:51 +0100"
@@ -10741,6 +10765,7 @@
       "baked_potato": "2023-11-25 01:07:57 +0100",
       "bread": "2023-11-23 22:57:08 +0100",
       "rotten_flesh": "2023-11-23 15:35:57 +0100",
+      "cookie": "2023-12-08 02:35:25 +0100",
       "dried_kelp": "2023-11-24 02:42:23 +0100",
       "cooked_chicken": "2023-11-23 14:14:31 +0100"
     },
