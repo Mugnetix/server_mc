@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/umbran_planks": {
+    "criteria": {
+      "has_logs": "2023-12-08 13:02:44 +0100"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/oak_brigg": {
     "criteria": {
       "in_water": "2023-11-22 23:30:21 +0100"
@@ -815,6 +821,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/umbran_biomesoplenty_log_stool": {
+    "criteria": {
+      "has_log": "2023-12-08 13:02:44 +0100"
+    },
+    "done": true
+  },
   "extradelight:recipes/food/mutton2": {
     "criteria": {
       "mutton": "2023-11-22 23:15:16 +0100"
@@ -1046,6 +1058,12 @@
   "ferdinandsflowers:recipes/decorations/vase_red": {
     "criteria": {
       "has_red_dye": "2023-11-28 22:42:26 +0100"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/umbran_biomesoplenty_raw_table_log": {
+    "criteria": {
+      "has_log": "2023-12-08 13:02:44 +0100"
     },
     "done": true
   },
@@ -1728,6 +1746,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/umbran_wood": {
+    "criteria": {
+      "has_log": "2023-12-08 13:02:44 +0100"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/spruce_chair_modern": {
     "criteria": {
       "has_planks": "2023-11-26 02:01:51 +0100"
@@ -2274,6 +2298,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2023-12-08 12:51:43 +0100"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/jacaranda_button": {
     "criteria": {
       "has_planks": "2023-11-22 23:14:56 +0100"
@@ -2721,6 +2751,12 @@
   "extradelight:recipes/farmersdelight/bacon9": {
     "criteria": {
       "bacon": "2023-11-23 02:13:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2023-12-08 13:00:40 +0100"
     },
     "done": true
   },
@@ -3295,6 +3331,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2023-12-08 13:00:40 +0100"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/mixing_bowl": {
     "criteria": {
       "Recipes": "2023-11-22 01:33:52 +0100"
@@ -3497,6 +3539,7 @@
       "jade_cliffs": "2023-11-22 23:15:12 +0100",
       "clover_patch": "2023-12-06 22:04:00 +0100",
       "mystic_grove": "2023-12-06 21:52:27 +0100",
+      "cold_desert": "2023-12-08 12:46:41 +0100",
       "wooded_scrubland": "2023-11-25 00:17:14 +0100",
       "maple_woods": "2023-12-08 00:41:52 +0100",
       "field": "2023-11-24 17:08:56 +0100",
@@ -3515,6 +3558,7 @@
       "prairie": "2023-11-22 23:47:25 +0100",
       "grassland": "2023-12-06 21:51:43 +0100",
       "snowy_fir_clearing": "2023-11-23 16:17:39 +0100",
+      "tundra": "2023-12-08 12:46:35 +0100",
       "crag": "2023-11-23 15:04:54 +0100",
       "snowy_maple_woods": "2023-12-08 00:41:25 +0100",
       "ominous_woods": "2023-11-24 16:22:35 +0100"
@@ -3554,6 +3598,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2023-11-23 00:00:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2023-12-08 13:00:40 +0100"
     },
     "done": true
   },
@@ -3684,6 +3734,7 @@
       "minecraft:vindicator": "2023-12-07 23:22:48 +0100",
       "minecraft:spider": "2023-11-22 23:37:16 +0100",
       "minecraft:creeper": "2023-11-22 23:45:43 +0100",
+      "minecraft:phantom": "2023-12-08 12:50:03 +0100",
       "minecraft:witch": "2023-11-23 22:43:39 +0100",
       "minecraft:husk": "2023-12-07 23:04:05 +0100",
       "minecraft:cave_spider": "2023-11-25 23:10:10 +0100",
@@ -4893,15 +4944,39 @@
     },
     "done": true
   },
+  "extradelight:recipes/food/rabbit8": {
+    "criteria": {
+      "rabbit": "2023-12-08 13:00:40 +0100"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/diorite_chair_classic": {
     "criteria": {
       "diorite_chair_classic": "2023-11-26 02:01:51 +0100"
     },
     "done": true
   },
+  "extradelight:recipes/food/rabbit9": {
+    "criteria": {
+      "rabbit": "2023-12-08 13:00:40 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/food/rabbit6": {
+    "criteria": {
+      "rabbit": "2023-12-08 13:00:40 +0100"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/gold_spoon": {
     "criteria": {
       "Recipes": "2023-11-24 01:33:57 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/food/rabbit7": {
+    "criteria": {
+      "rabbit": "2023-12-08 13:00:40 +0100"
     },
     "done": true
   },
@@ -4935,9 +5010,33 @@
     },
     "done": true
   },
+  "extradelight:recipes/food/rabbit4": {
+    "criteria": {
+      "rabbit": "2023-12-08 13:00:40 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/food/rabbit5": {
+    "criteria": {
+      "rabbit": "2023-12-08 13:00:40 +0100"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/pink_dye_from_pink_daffodil": {
     "criteria": {
       "has_flower": "2023-12-06 22:02:51 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/food/rabbit2": {
+    "criteria": {
+      "rabbit": "2023-12-08 13:00:40 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/food/rabbit3": {
+    "criteria": {
+      "rabbit": "2023-12-08 13:00:40 +0100"
     },
     "done": true
   },
@@ -4950,6 +5049,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2023-11-23 02:05:03 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/food/rabbit1": {
+    "criteria": {
+      "rabbit": "2023-12-08 13:00:40 +0100"
     },
     "done": true
   },
@@ -6842,6 +6947,12 @@
       "FUDGE_POPSICLE": "2023-11-25 00:27:02 +0100"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2023-12-08 13:00:42 +0100"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
@@ -10159,6 +10270,7 @@
       "minecraft:cold_ocean": "2023-11-22 23:47:58 +0100",
       "minecraft:forest": "2023-11-23 16:08:01 +0100",
       "minecraft:ice_spikes": "2023-12-08 00:30:32 +0100",
+      "minecraft:frozen_ocean": "2023-12-08 12:53:56 +0100",
       "minecraft:windswept_forest": "2023-12-06 16:52:12 +0100",
       "minecraft:ocean": "2023-11-22 23:30:24 +0100",
       "minecraft:snowy_beach": "2023-12-08 00:30:09 +0100",
@@ -10975,6 +11087,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2023-12-08 12:50:03 +0100"
+    },
+    "done": false
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_small_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -11740,6 +11858,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_the_recipe": "2023-11-28 01:41:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2023-12-08 12:51:43 +0100"
     },
     "done": true
   },
