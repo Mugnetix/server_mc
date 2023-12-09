@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2023-12-09 00:19:06 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_mosaic_slab": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -758,6 +764,12 @@
   "pfm:recipes/pfm.furniture/light_gray_simple_sofa": {
     "criteria": {
       "has_wool": "2023-11-27 14:49:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2023-12-09 01:09:42 +0100"
     },
     "done": true
   },
