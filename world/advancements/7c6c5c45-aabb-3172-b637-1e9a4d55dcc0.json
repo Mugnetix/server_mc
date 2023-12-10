@@ -4161,6 +4161,7 @@
       "ROASTED_CARROT": "2023-11-23 15:01:50 +0100",
       "MEAT_LOAF": "2023-11-23 15:00:48 +0100",
       "CACTUS_SALAD": "2023-11-25 00:27:03 +0100",
+      "QUICHE_SLICE": "2023-12-10 01:17:20 +0100",
       "PORK_STEW_RICE": "2023-11-23 15:00:47 +0100"
     },
     "done": false
@@ -4186,6 +4187,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/everlasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2023-11-24 23:44:19 +0100"
+    },
+    "done": true
+  },
+  "beautify:progression/root": {
+    "criteria": {
+      "Install": "2023-12-10 01:06:31 +0100"
     },
     "done": true
   },
@@ -4610,15 +4617,15 @@
     },
     "done": true
   },
-  "pfm:recipes/pfm.furniture/basic_shower_head": {
-    "criteria": {
-      "has_light_gray_concrete": "2023-12-09 20:23:01 +0100"
-    },
-    "done": true
-  },
   "pfm:recipes/pfm.furniture/gray_oven_range_hood": {
     "criteria": {
       "has_gray_concrete": "2023-12-09 20:09:33 +0100"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/basic_shower_head": {
+    "criteria": {
+      "has_light_gray_concrete": "2023-12-09 20:23:01 +0100"
     },
     "done": true
   },
@@ -4661,6 +4668,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
+    },
+    "done": true
+  },
+  "beautify:blinds": {
+    "criteria": {
+      "requirement": "2023-12-10 01:13:45 +0100"
     },
     "done": true
   },
@@ -11591,6 +11604,12 @@
   "farmersdelight:recipes/farmersdelight/grilled_salmon": {
     "criteria": {
       "has_salmon": "2023-12-08 00:29:33 +0100"
+    },
+    "done": true
+  },
+  "beautify:trellis": {
+    "criteria": {
+      "requirement": "2023-12-10 01:13:45 +0100"
     },
     "done": true
   },
