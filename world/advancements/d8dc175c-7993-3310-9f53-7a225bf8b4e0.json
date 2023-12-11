@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2023-12-11 00:23:32 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_mosaic_slab": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
@@ -776,6 +782,12 @@
   "extradelight:recipes/extradelight.aesthetic/mangrove_molded_black_wallpaper": {
     "criteria": {
       "black_mangrove_wallpaper": "2023-12-07 22:47:54 +0100"
+    },
+    "done": true
+  },
+  "beautify:rope": {
+    "criteria": {
+      "requirement": "2023-12-11 00:00:12 +0100"
     },
     "done": true
   },
@@ -1302,6 +1314,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2023-12-11 01:32:36 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_helmet": "2023-11-24 00:02:37 +0100"
@@ -1605,6 +1623,12 @@
   "pfm:recipes/pfm.furniture/spruce_chair_modern": {
     "criteria": {
       "has_planks": "2023-11-27 13:44:49 +0100"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/brown_shower_towel": {
+    "criteria": {
+      "has_brown_wool": "2023-12-11 00:19:17 +0100"
     },
     "done": true
   },
@@ -3617,6 +3641,12 @@
     },
     "done": true
   },
+  "beautify:progression/root": {
+    "criteria": {
+      "Install": "2023-12-11 00:00:12 +0100"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/stripped_dark_oak_table_basic": {
     "criteria": {
       "has_planks": "2023-11-27 16:03:16 +0100"
@@ -3995,6 +4025,12 @@
     },
     "done": true
   },
+  "beautify:blinds": {
+    "criteria": {
+      "requirement": "2023-12-11 00:19:39 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2023-11-23 23:56:06 +0100"
@@ -4118,6 +4154,12 @@
   "extradelight:recipes/extradelight.aesthetic/jungle_molded_lime_wallpaper": {
     "criteria": {
       "lime_jungle_wallpaper": "2023-12-07 22:47:54 +0100"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/oak_chair_classic_brown": {
+    "criteria": {
+      "oak_chair_classic_brown": "2023-12-11 00:19:17 +0100"
     },
     "done": true
   },
@@ -5272,6 +5314,12 @@
   "exoticbirds:recipes/phoenix_egg_from_cloud_phoenix": {
     "criteria": {
       "has_egg": "2023-11-22 22:25:30 +0100"
+    },
+    "done": true
+  },
+  "beautify:bookstack": {
+    "criteria": {
+      "requirement": "2023-12-11 00:19:18 +0100"
     },
     "done": true
   },
@@ -7568,6 +7616,12 @@
     },
     "done": true
   },
+  "beautify:botanist_workbench": {
+    "criteria": {
+      "requirement": "2023-12-11 00:19:21 +0100"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.aesthetic/crimson_molded_pink_wallpaper": {
     "criteria": {
       "pink_crimson_wallpaper": "2023-12-07 22:47:55 +0100"
@@ -7925,6 +7979,12 @@
   "ars_nouveau:recipes/ars_nouveau/sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2023-12-11 00:08:36 +0100"
     },
     "done": true
   },
@@ -9895,6 +9955,12 @@
     },
     "done": true
   },
+  "beautify:trellis": {
+    "criteria": {
+      "requirement": "2023-12-11 00:19:39 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/orange_sbed": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
@@ -10762,6 +10828,12 @@
   "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
       "has_honeycomb": "2023-11-25 03:24:43 +0100"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2023-12-11 00:24:06 +0100"
     },
     "done": true
   },
