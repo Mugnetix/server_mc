@@ -6791,6 +6791,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2023-12-12 13:58:13 +0100"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.aesthetic/oak_molded_magenta_wallpaper": {
     "criteria": {
       "magenta_oak_wallpaper": "2023-11-25 23:42:06 +0100"
@@ -11262,6 +11268,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2023-12-12 13:58:13 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_black_dye": "2023-11-28 23:56:30 +0100"
@@ -12619,6 +12631,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2023-11-23 00:28:43 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/misc/mortar/light_gray_dye": {
+    "criteria": {
+      "Recipes": "2023-12-12 13:58:13 +0100"
     },
     "done": true
   },
