@@ -503,6 +503,12 @@
     },
     "done": true
   },
+  "iammusicplayer:iammusicplayer/listen_to_music": {
+    "criteria": {
+      "listen_to_music": "2023-12-13 23:48:12 +0100"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/quartz_chair_dinner": {
     "criteria": {
       "quartz_chair_dinner": "2023-12-13 01:26:50 +0100"
@@ -542,6 +548,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/void_upgrade": {
     "criteria": {
       "has_upgrade_base": "2023-11-24 23:44:19 +0100"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/add_music": {
+    "criteria": {
+      "add_music": "2023-12-13 23:47:06 +0100"
     },
     "done": true
   },
@@ -1942,6 +1954,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/hellbark_planks": {
+    "criteria": {
+      "has_logs": "2023-12-14 01:06:15 +0100"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/palm_chest_boat": {
     "criteria": {
       "has_boat": "2023-11-25 00:34:34 +0100"
@@ -3256,6 +3274,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
+    "criteria": {
+      "has_flower": "2023-12-14 01:07:02 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/diamond_knife": {
     "criteria": {
       "has_diamond": "2023-11-23 14:25:29 +0100"
@@ -3512,6 +3536,12 @@
   "endrem:main/corrupted_eye": {
     "criteria": {
       "corrupted_eye": "2023-11-27 14:35:19 +0100"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/iammusicplayer.iammusicplayer/radio_antenna": {
+    "criteria": {
+      "has_ender_pearl": "2023-12-13 23:40:08 +0100"
     },
     "done": true
   },
@@ -3827,6 +3857,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2023-12-14 00:09:19 +0100"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/calcite_simple_stool": {
     "criteria": {
       "has_planks": "2023-11-26 02:01:51 +0100"
@@ -4064,6 +4100,7 @@
       "grassland": "2023-12-06 21:51:43 +0100",
       "snowy_fir_clearing": "2023-11-23 16:17:39 +0100",
       "tundra": "2023-12-08 12:46:35 +0100",
+      "undergrowth": "2023-12-14 00:48:58 +0100",
       "crag": "2023-11-23 15:04:54 +0100",
       "snowy_maple_woods": "2023-12-08 00:41:25 +0100",
       "ominous_woods": "2023-11-24 16:22:35 +0100"
@@ -4091,6 +4128,12 @@
   "ferdinandsflowers:recipes/decorations/vase_yellow": {
     "criteria": {
       "has_yellow_dye": "2023-12-12 01:43:51 +0100"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/root": {
+    "criteria": {
+      "iammusicplayer": "2023-12-13 23:38:29 +0100"
     },
     "done": true
   },
@@ -4292,6 +4335,7 @@
       "minecraft:blaze": "2023-12-13 00:27:44 +0100",
       "minecraft:skeleton": "2023-11-23 01:10:33 +0100",
       "minecraft:ghast": "2023-12-12 23:47:40 +0100",
+      "minecraft:hoglin": "2023-12-14 00:04:19 +0100",
       "minecraft:vindicator": "2023-12-07 23:22:48 +0100",
       "minecraft:magma_cube": "2023-12-12 23:51:47 +0100",
       "minecraft:spider": "2023-11-22 23:37:16 +0100",
@@ -4300,6 +4344,7 @@
       "minecraft:phantom": "2023-12-08 12:50:03 +0100",
       "minecraft:zombified_piglin": "2023-12-13 00:22:47 +0100",
       "minecraft:witch": "2023-11-23 22:43:39 +0100",
+      "minecraft:wither_skeleton": "2023-12-14 00:11:35 +0100",
       "minecraft:husk": "2023-12-07 23:04:05 +0100",
       "minecraft:cave_spider": "2023-11-25 23:10:10 +0100",
       "minecraft:enderman": "2023-11-24 16:45:23 +0100",
@@ -5877,6 +5922,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2023-12-14 00:09:19 +0100"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2023-11-22 23:22:34 +0100"
@@ -6521,6 +6572,12 @@
     },
     "done": true
   },
+  "iammusicplayer:recipes/iammusicplayer.iammusicplayer/boombox": {
+    "criteria": {
+      "has_the_recipe": "2023-12-13 23:43:10 +0100"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.aesthetic/crimson_molded_blue_wallpaper": {
     "criteria": {
       "blue_crimson_wallpaper": "2023-11-25 23:42:06 +0100"
@@ -6938,6 +6995,12 @@
   "smallships:recipes/transportation/dark_oak_cog": {
     "criteria": {
       "in_water": "2023-11-22 23:30:21 +0100"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/iammusicplayer.iammusicplayer/parabolic_antenna": {
+    "criteria": {
+      "has_ender_pearl": "2023-12-13 23:40:08 +0100"
     },
     "done": true
   },
@@ -7976,6 +8039,12 @@
   "ars_nouveau:recipes/ars_nouveau/ritual_moonfall": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
+    },
+    "done": true
+  },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2023-12-14 00:28:34 +0100"
     },
     "done": true
   },
@@ -9042,6 +9111,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/hellbark_biomesoplenty_raw_table_log": {
+    "criteria": {
+      "has_log": "2023-12-14 01:06:15 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2023-11-22 01:33:43 +0100"
@@ -9117,6 +9192,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2023-11-22 23:43:21 +0100"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/listen_to_remote_music": {
+    "criteria": {
+      "listen_to_remote_music": "2023-12-13 23:48:12 +0100"
     },
     "done": true
   },
@@ -9861,6 +9942,12 @@
   "exoticbirds:recipes/jungle_birdcage": {
     "criteria": {
       "has_stick": "2023-11-22 22:43:32 +0100"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/hellbark_biomesoplenty_log_stool": {
+    "criteria": {
+      "has_log": "2023-12-14 01:06:15 +0100"
     },
     "done": true
   },
@@ -10689,6 +10776,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_mosaic_slab": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2023-12-14 01:05:12 +0100"
     },
     "done": true
   },
@@ -11643,6 +11736,12 @@
   "extradelight:recipes/food/beef8": {
     "criteria": {
       "beef": "2023-11-22 23:46:37 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/hellbark_wood": {
+    "criteria": {
+      "has_log": "2023-12-14 01:06:15 +0100"
     },
     "done": true
   },
