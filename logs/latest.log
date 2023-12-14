@@ -1,35 +1,35 @@
-[15Dec2023 00:02:01.452] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.3.0, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, nogui]
-[15Dec2023 00:02:01.460] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 19.0.2 by Oracle Corporation; OS Windows 11 arch amd64 version 10.0
-[15Dec2023 00:02:02.642] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/hello/AppData/Roaming/.minecraft/server_Temp/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[15Dec2023 00:02:03.146] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\hello\AppData\Roaming\.minecraft\server_Temp\libraries\net\minecraftforge\fmlcore\1.19.2-43.3.0\fmlcore-1.19.2-43.3.0.jar is missing mods.toml file
-[15Dec2023 00:02:03.151] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\hello\AppData\Roaming\.minecraft\server_Temp\libraries\net\minecraftforge\javafmllanguage\1.19.2-43.3.0\javafmllanguage-1.19.2-43.3.0.jar is missing mods.toml file
-[15Dec2023 00:02:03.157] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\hello\AppData\Roaming\.minecraft\server_Temp\libraries\net\minecraftforge\lowcodelanguage\1.19.2-43.3.0\lowcodelanguage-1.19.2-43.3.0.jar is missing mods.toml file
-[15Dec2023 00:02:03.162] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\hello\AppData\Roaming\.minecraft\server_Temp\libraries\net\minecraftforge\mclanguage\1.19.2-43.3.0\mclanguage-1.19.2-43.3.0.jar is missing mods.toml file
-[15Dec2023 00:02:03.429] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
-[15Dec2023 00:02:05.753] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[15Dec2023 00:02:05.992] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
-[15Dec2023 00:02:05.995] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[15Dec2023 00:02:06.152] [main/WARN] [mixin/]: Reference map 'smallships-forge-refmap.json' for smallships.mixins.json could not be read. If this is a development environment you can ignore this message
-[15Dec2023 00:02:06.157] [main/WARN] [mixin/]: Reference map 'chiselsandbits.refmap.json' for chisels-and-bits.mixins.json could not be read. If this is a development environment you can ignore this message
-[15Dec2023 00:02:06.831] [main/WARN] [mixin/]: Error loading class: fuzs/easymagic/world/inventory/ModEnchantmentMenu (java.lang.ClassNotFoundException: fuzs.easymagic.world.inventory.ModEnchantmentMenu)
-[15Dec2023 00:02:06.832] [main/WARN] [mixin/]: @Mixin target fuzs.easymagic.world.inventory.ModEnchantmentMenu was not found skilltree.mixins.json:easymagic/MixinModEnchantmentMenu
-[15Dec2023 00:02:06.835] [main/WARN] [mixin/]: Error loading class: shadows/apotheosis/ench/table/ApothEnchantmentMenu (java.lang.ClassNotFoundException: shadows.apotheosis.ench.table.ApothEnchantmentMenu)
-[15Dec2023 00:02:06.837] [main/WARN] [mixin/]: @Mixin target shadows.apotheosis.ench.table.ApothEnchantmentMenu was not found skilltree.mixins.json:apotheosis/MixinApothEnchantContainer
-[15Dec2023 00:02:06.839] [main/WARN] [mixin/]: Error loading class: shadows/apotheosis/adventure/affix/socket/SocketingRecipe (java.lang.ClassNotFoundException: shadows.apotheosis.adventure.affix.socket.SocketingRecipe)
-[15Dec2023 00:02:06.840] [main/WARN] [mixin/]: @Mixin target shadows.apotheosis.adventure.affix.socket.SocketingRecipe was not found skilltree.mixins.json:apotheosis/MixinSocketingRecipe
-[15Dec2023 00:02:06.843] [main/WARN] [mixin/]: Error loading class: shadows/apotheosis/adventure/affix/socket/gem/bonus/AttributeBonus (java.lang.ClassNotFoundException: shadows.apotheosis.adventure.affix.socket.gem.bonus.AttributeBonus)
-[15Dec2023 00:02:06.844] [main/WARN] [mixin/]: @Mixin target shadows.apotheosis.adventure.affix.socket.gem.bonus.AttributeBonus was not found skilltree.mixins.json:apotheosis/MixinAttributeBonus
-[15Dec2023 00:02:06.845] [main/WARN] [mixin/]: Error loading class: shadows/apotheosis/adventure/affix/socket/gem/bonus/EnchantmentBonus (java.lang.ClassNotFoundException: shadows.apotheosis.adventure.affix.socket.gem.bonus.EnchantmentBonus)
-[15Dec2023 00:02:06.845] [main/WARN] [mixin/]: @Mixin target shadows.apotheosis.adventure.affix.socket.gem.bonus.EnchantmentBonus was not found skilltree.mixins.json:apotheosis/MixinEnchantmentBonus
-[15Dec2023 00:02:06.936] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
-[15Dec2023 00:02:06.937] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
-[15Dec2023 00:02:12.589] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
-[15Dec2023 00:02:14.465] [modloading-worker-0/INFO] [scena-forge/]: Initialized scena-forge
-[15Dec2023 00:02:14.476] [modloading-worker-0/INFO] [MaxHealthFix/]: Loaded maxhealthfix for Forge.
-[15Dec2023 00:02:14.528] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.3.0, for MC 1.19.2 with MCP 20220805.130853
-[15Dec2023 00:02:14.528] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@40a72ecd on thread Thread[#64,modloading-worker-0,5,main]
-[15Dec2023 00:02:14.528] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.3.0 Initialized
-[15Dec2023 00:02:14.528] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+[15Dec2023 00:24:56.529] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.3.0, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, nogui]
+[15Dec2023 00:24:56.535] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 19.0.2 by Oracle Corporation; OS Windows 11 arch amd64 version 10.0
+[15Dec2023 00:24:57.704] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/hello/AppData/Roaming/.minecraft/server_Temp/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[15Dec2023 00:24:58.238] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\hello\AppData\Roaming\.minecraft\server_Temp\libraries\net\minecraftforge\fmlcore\1.19.2-43.3.0\fmlcore-1.19.2-43.3.0.jar is missing mods.toml file
+[15Dec2023 00:24:58.242] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\hello\AppData\Roaming\.minecraft\server_Temp\libraries\net\minecraftforge\javafmllanguage\1.19.2-43.3.0\javafmllanguage-1.19.2-43.3.0.jar is missing mods.toml file
+[15Dec2023 00:24:58.247] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\hello\AppData\Roaming\.minecraft\server_Temp\libraries\net\minecraftforge\lowcodelanguage\1.19.2-43.3.0\lowcodelanguage-1.19.2-43.3.0.jar is missing mods.toml file
+[15Dec2023 00:24:58.251] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\hello\AppData\Roaming\.minecraft\server_Temp\libraries\net\minecraftforge\mclanguage\1.19.2-43.3.0\mclanguage-1.19.2-43.3.0.jar is missing mods.toml file
+[15Dec2023 00:24:58.433] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
+[15Dec2023 00:25:01.424] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[15Dec2023 00:25:01.667] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
+[15Dec2023 00:25:01.669] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[15Dec2023 00:25:01.820] [main/WARN] [mixin/]: Reference map 'smallships-forge-refmap.json' for smallships.mixins.json could not be read. If this is a development environment you can ignore this message
+[15Dec2023 00:25:01.824] [main/WARN] [mixin/]: Reference map 'chiselsandbits.refmap.json' for chisels-and-bits.mixins.json could not be read. If this is a development environment you can ignore this message
+[15Dec2023 00:25:02.389] [main/WARN] [mixin/]: Error loading class: fuzs/easymagic/world/inventory/ModEnchantmentMenu (java.lang.ClassNotFoundException: fuzs.easymagic.world.inventory.ModEnchantmentMenu)
+[15Dec2023 00:25:02.389] [main/WARN] [mixin/]: @Mixin target fuzs.easymagic.world.inventory.ModEnchantmentMenu was not found skilltree.mixins.json:easymagic/MixinModEnchantmentMenu
+[15Dec2023 00:25:02.392] [main/WARN] [mixin/]: Error loading class: shadows/apotheosis/ench/table/ApothEnchantmentMenu (java.lang.ClassNotFoundException: shadows.apotheosis.ench.table.ApothEnchantmentMenu)
+[15Dec2023 00:25:02.393] [main/WARN] [mixin/]: @Mixin target shadows.apotheosis.ench.table.ApothEnchantmentMenu was not found skilltree.mixins.json:apotheosis/MixinApothEnchantContainer
+[15Dec2023 00:25:02.395] [main/WARN] [mixin/]: Error loading class: shadows/apotheosis/adventure/affix/socket/SocketingRecipe (java.lang.ClassNotFoundException: shadows.apotheosis.adventure.affix.socket.SocketingRecipe)
+[15Dec2023 00:25:02.395] [main/WARN] [mixin/]: @Mixin target shadows.apotheosis.adventure.affix.socket.SocketingRecipe was not found skilltree.mixins.json:apotheosis/MixinSocketingRecipe
+[15Dec2023 00:25:02.398] [main/WARN] [mixin/]: Error loading class: shadows/apotheosis/adventure/affix/socket/gem/bonus/AttributeBonus (java.lang.ClassNotFoundException: shadows.apotheosis.adventure.affix.socket.gem.bonus.AttributeBonus)
+[15Dec2023 00:25:02.398] [main/WARN] [mixin/]: @Mixin target shadows.apotheosis.adventure.affix.socket.gem.bonus.AttributeBonus was not found skilltree.mixins.json:apotheosis/MixinAttributeBonus
+[15Dec2023 00:25:02.400] [main/WARN] [mixin/]: Error loading class: shadows/apotheosis/adventure/affix/socket/gem/bonus/EnchantmentBonus (java.lang.ClassNotFoundException: shadows.apotheosis.adventure.affix.socket.gem.bonus.EnchantmentBonus)
+[15Dec2023 00:25:02.400] [main/WARN] [mixin/]: @Mixin target shadows.apotheosis.adventure.affix.socket.gem.bonus.EnchantmentBonus was not found skilltree.mixins.json:apotheosis/MixinEnchantmentBonus
+[15Dec2023 00:25:02.500] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
+[15Dec2023 00:25:02.500] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
+[15Dec2023 00:25:07.509] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[15Dec2023 00:25:09.116] [modloading-worker-0/INFO] [scena-forge/]: Initialized scena-forge
+[15Dec2023 00:25:09.127] [modloading-worker-0/INFO] [MaxHealthFix/]: Loaded maxhealthfix for Forge.
+[15Dec2023 00:25:09.172] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.3.0, for MC 1.19.2 with MCP 20220805.130853
+[15Dec2023 00:25:09.173] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.3.0 Initialized
+[15Dec2023 00:25:09.173] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@40a72ecd on thread Thread[#63,modloading-worker-0,5,main]
+[15Dec2023 00:25:09.173] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
 java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.RenderLayer
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.4.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
@@ -75,85 +75,84 @@ java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.Re
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1841) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1806) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:177) [?:?]
-[15Dec2023 00:02:14.532] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
-[15Dec2023 00:02:14.569] [modloading-worker-0/INFO] [xyz.apex.forge.commonality.Mods.CommonalityMod/]: Running Minecraft '1.19.2', & Forge '43.3.0' on Java '19.0.2, Oracle Corporation'
-[15Dec2023 00:02:14.579] [modloading-worker-0/INFO] [TrustedSourceList/]: Loading BlackListed sources from remote... (https://api.stopmodreposts.org/minecraft/sites.txt)
-[15Dec2023 00:02:14.793] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.7.
-[15Dec2023 00:02:15.129] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'apexcore' TrustWorthiness...
-[15Dec2023 00:02:15.131] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
-[15Dec2023 00:02:15.131] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'apexcore' TrustWorthiness: UNKNOWN
-[15Dec2023 00:02:15.133] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'infusedfoods' TrustWorthiness...
-[15Dec2023 00:02:15.134] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
-[15Dec2023 00:02:15.134] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'infusedfoods' TrustWorthiness: UNKNOWN
-[15Dec2023 00:02:15.147] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[15Dec2023 00:02:15.150] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_sync
-[15Dec2023 00:02:15.150] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:block_entity_instruction
-[15Dec2023 00:02:15.151] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_add
-[15Dec2023 00:02:15.151] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:item_instruction
-[15Dec2023 00:02:15.152] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_edit
-[15Dec2023 00:02:15.153] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_change_authority
-[15Dec2023 00:02:15.154] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_add
-[15Dec2023 00:02:15.182] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_edit
-[15Dec2023 00:02:15.187] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_ring_ready_result
-[15Dec2023 00:02:15.194] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_ring_update_result
-[15Dec2023 00:02:15.195] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_or_playlist_delete
-[15Dec2023 00:02:15.196] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:multiple_music_add
-[15Dec2023 00:02:15.199] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:hand_lid_cycle
-[15Dec2023 00:02:15.302] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_long_reach_attack
-[15Dec2023 00:02:15.313] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_lance_collision
-[15Dec2023 00:02:15.408] [modloading-worker-0/INFO] [mod.chiselsandbits.forge.Forge/]: Initialized Chisels&Bits - Forge
-[15Dec2023 00:02:15.694] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModBlockEntityTypes/]: Loaded block entity configuration.
-[15Dec2023 00:02:15.759] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModBlocks/]: Loaded block configuration.
-[15Dec2023 00:02:15.773] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModChiselModeGroups/]: Loaded chisel mode group configuration.
-[15Dec2023 00:02:15.897] [modloading-worker-0/INFO] [TrustedSourceList/]: Loaded 564 BlackListed sources from remote
-[15Dec2023 00:02:15.898] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'commonality' TrustWorthiness...
-[15Dec2023 00:02:15.899] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
-[15Dec2023 00:02:15.899] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'commonality' TrustWorthiness: UNKNOWN
-[15Dec2023 00:02:16.263] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModChiselModes/]: Loaded chisel mode configuration.
-[15Dec2023 00:02:16.264] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModContainerTypes/]: Loaded container type configuration.
-[15Dec2023 00:02:16.268] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModCreativeTabs/]: Loaded item group configuration.
-[15Dec2023 00:02:16.300] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModItems/]: Loaded item configuration.
-[15Dec2023 00:02:16.308] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModMetadataKeys/]: Loaded metadata key configuration.
-[15Dec2023 00:02:16.316] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModelProperties/]: Loaded model property configuration.
-[15Dec2023 00:02:16.324] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModificationOperation/]: Loaded modification operation configuration.
-[15Dec2023 00:02:16.327] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModificationOperationGroups/]: Loaded modification operation group configuration.
-[15Dec2023 00:02:16.345] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModPatternPlacementTypes/]: Loaded pattern placement type configuration.
-[15Dec2023 00:02:16.350] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModRecipeSerializers/]: Loaded recipe serializer configuration.
-[15Dec2023 00:02:16.353] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModTags/]: Loaded tag configuration.
-[15Dec2023 00:02:16.356] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModRecipeTypes/]: Registering recipe types.
-[15Dec2023 00:02:16.358] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModEventHandler/]: Registering event handlers
-[15Dec2023 00:02:17.371] [ForkJoinPool.commonPool-worker-1/INFO] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: [Paladin's Furniture Update Check] Is up to date!
-[15Dec2023 00:02:18.597] [main/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Found block type with duplicate id (minecraft:oak), skipping
-[15Dec2023 00:02:19.782] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\hello\AppData\Roaming\.minecraft\server_Temp\config\chiselsandbits-common.toml is not correct. Correcting
-[15Dec2023 00:02:19.796] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: --- LootTable import: Start ---
-[15Dec2023 00:02:19.814] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 13: Added loot to table: Strainer: strainer_survivalist - Item: minecraft:sand - Count: 1 - Chance: 30 - NBT: null
-[15Dec2023 00:02:19.814] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 14: Added loot to table: Strainer: strainer_survivalist - Item: minecraft:dirt - Count: 1 - Chance: 20 - NBT: null
-[15Dec2023 00:02:19.814] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 15: Added loot to table: Strainer: strainer_survivalist - Item: minecraft:stick - Count: 1 - Chance: 20 - NBT: null
-[15Dec2023 00:02:19.814] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 16: Added loot to table: Strainer: strainer_survivalist - Item: minecraft:clay_ball - Count: 1 - Chance: 15 - NBT: null
-[15Dec2023 00:02:19.815] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 17: Added loot to table: Strainer: strainer_survivalist - Item: minecraft:gravel - Count: 1 - Chance: 13 - NBT: null
-[15Dec2023 00:02:19.815] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 18: Added loot to table: Strainer: strainer_survivalist - Item: minecraft:iron_nugget - Count: 1 - Chance: 1 - NBT: null
-[15Dec2023 00:02:19.815] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 19: Added loot to table: Strainer: strainer_survivalist - Item: minecraft:gold_nugget - Count: 1 - Chance: 1 - NBT: null
-[15Dec2023 00:02:19.815] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 21: Copied loot table data from <parent> 'strainer_survivalist' to <child> 'strainer_survivalist_solid'
-[15Dec2023 00:02:19.815] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 22: Copied loot table data from <parent> 'strainer_survivalist' to <child> 'strainer_survivalist_reinforced'
-[15Dec2023 00:02:19.816] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 25: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:cod - Count: 1 - Chance: 60 - NBT: null
-[15Dec2023 00:02:19.816] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 26: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:salmon - Count: 1 - Chance: 25 - NBT: null
-[15Dec2023 00:02:19.816] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 27: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:pufferfish - Count: 1 - Chance: 13 - NBT: null
-[15Dec2023 00:02:19.816] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 28: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:tropical_fish - Count: 1 - Chance: 2 - NBT: null
-[15Dec2023 00:02:19.816] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 29: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:stick - Count: 1 - Chance: 8 - NBT: null
-[15Dec2023 00:02:19.817] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 30: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:string - Count: 1 - Chance: 4 - NBT: null
-[15Dec2023 00:02:19.817] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 31: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:leather - Count: 1 - Chance: 4 - NBT: null
-[15Dec2023 00:02:19.817] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 32: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:rotten_flesh - Count: 1 - Chance: 4 - NBT: null
-[15Dec2023 00:02:19.817] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 33: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:bone - Count: 1 - Chance: 4 - NBT: null
-[15Dec2023 00:02:19.818] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 34: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:glass_bottle - Count: 1 - Chance: 4 - NBT: null
-[15Dec2023 00:02:19.818] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 35: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:lily_pad - Count: 1 - Chance: 2 - NBT: null
-[15Dec2023 00:02:19.818] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 36: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:vine - Count: 1 - Chance: 2 - NBT: null
-[15Dec2023 00:02:19.818] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 37: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:enchanted_book - Count: 1 - Chance: 1 - NBT: null
-[15Dec2023 00:02:19.818] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 38: Added loot to table: Strainer: strainer_fisherman - Item: $BLANK$ - Count: 1 - Chance: 67 - NBT: null
-[15Dec2023 00:02:19.819] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 40: Copied loot table data from <parent> 'strainer_fisherman' to <child> 'strainer_fisherman_solid'
-[15Dec2023 00:02:19.819] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 41: Copied loot table data from <parent> 'strainer_fisherman' to <child> 'strainer_fisherman_reinforced'
-[15Dec2023 00:02:19.820] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: Result: Found 0 errors
-[15Dec2023 00:02:19.820] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: --- LootTable import: End ---
-[15Dec2023 00:02:19.821] [modloading-worker-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/]: Exception caught during firing event: null
+[15Dec2023 00:25:09.177] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
+[15Dec2023 00:25:09.208] [modloading-worker-0/INFO] [xyz.apex.forge.commonality.Mods.CommonalityMod/]: Running Minecraft '1.19.2', & Forge '43.3.0' on Java '19.0.2, Oracle Corporation'
+[15Dec2023 00:25:09.255] [modloading-worker-0/INFO] [TrustedSourceList/]: Loading BlackListed sources from remote... (https://api.stopmodreposts.org/minecraft/sites.txt)
+[15Dec2023 00:25:09.278] [ForkJoinPool.commonPool-worker-1/INFO] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: [Paladin's Furniture Update Check] Cached update file detected, using that!
+[15Dec2023 00:25:09.415] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.7.
+[15Dec2023 00:25:09.716] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'infusedfoods' TrustWorthiness...
+[15Dec2023 00:25:09.718] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+[15Dec2023 00:25:09.718] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'infusedfoods' TrustWorthiness: UNKNOWN
+[15Dec2023 00:25:09.727] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'apexcore' TrustWorthiness...
+[15Dec2023 00:25:09.727] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+[15Dec2023 00:25:09.727] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'apexcore' TrustWorthiness: UNKNOWN
+[15Dec2023 00:25:09.758] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[15Dec2023 00:25:09.761] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_sync
+[15Dec2023 00:25:09.761] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:block_entity_instruction
+[15Dec2023 00:25:09.764] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:item_instruction
+[15Dec2023 00:25:09.764] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_add
+[15Dec2023 00:25:09.781] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_edit
+[15Dec2023 00:25:09.784] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_change_authority
+[15Dec2023 00:25:09.785] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_add
+[15Dec2023 00:25:09.786] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_edit
+[15Dec2023 00:25:09.787] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_ring_ready_result
+[15Dec2023 00:25:09.789] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_ring_update_result
+[15Dec2023 00:25:09.811] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_or_playlist_delete
+[15Dec2023 00:25:09.812] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:multiple_music_add
+[15Dec2023 00:25:09.813] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:hand_lid_cycle
+[15Dec2023 00:25:09.898] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_long_reach_attack
+[15Dec2023 00:25:09.903] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_lance_collision
+[15Dec2023 00:25:10.017] [modloading-worker-0/INFO] [mod.chiselsandbits.forge.Forge/]: Initialized Chisels&Bits - Forge
+[15Dec2023 00:25:10.174] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModBlockEntityTypes/]: Loaded block entity configuration.
+[15Dec2023 00:25:10.222] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModBlocks/]: Loaded block configuration.
+[15Dec2023 00:25:10.231] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModChiselModeGroups/]: Loaded chisel mode group configuration.
+[15Dec2023 00:25:10.370] [modloading-worker-0/INFO] [TrustedSourceList/]: Loaded 564 BlackListed sources from remote
+[15Dec2023 00:25:10.370] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'commonality' TrustWorthiness...
+[15Dec2023 00:25:10.371] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+[15Dec2023 00:25:10.371] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'commonality' TrustWorthiness: UNKNOWN
+[15Dec2023 00:25:10.606] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModChiselModes/]: Loaded chisel mode configuration.
+[15Dec2023 00:25:10.607] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModContainerTypes/]: Loaded container type configuration.
+[15Dec2023 00:25:10.609] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModCreativeTabs/]: Loaded item group configuration.
+[15Dec2023 00:25:10.625] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModItems/]: Loaded item configuration.
+[15Dec2023 00:25:10.629] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModMetadataKeys/]: Loaded metadata key configuration.
+[15Dec2023 00:25:10.634] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModelProperties/]: Loaded model property configuration.
+[15Dec2023 00:25:10.638] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModificationOperation/]: Loaded modification operation configuration.
+[15Dec2023 00:25:10.639] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModificationOperationGroups/]: Loaded modification operation group configuration.
+[15Dec2023 00:25:10.650] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModPatternPlacementTypes/]: Loaded pattern placement type configuration.
+[15Dec2023 00:25:10.653] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModRecipeSerializers/]: Loaded recipe serializer configuration.
+[15Dec2023 00:25:10.655] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModTags/]: Loaded tag configuration.
+[15Dec2023 00:25:10.656] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModRecipeTypes/]: Registering recipe types.
+[15Dec2023 00:25:10.657] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModEventHandler/]: Registering event handlers
+[15Dec2023 00:25:12.596] [main/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Found block type with duplicate id (minecraft:oak), skipping
+[15Dec2023 00:25:13.461] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: --- LootTable import: Start ---
+[15Dec2023 00:25:13.477] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 13: Added loot to table: Strainer: strainer_survivalist - Item: minecraft:sand - Count: 1 - Chance: 30 - NBT: null
+[15Dec2023 00:25:13.477] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 14: Added loot to table: Strainer: strainer_survivalist - Item: minecraft:dirt - Count: 1 - Chance: 20 - NBT: null
+[15Dec2023 00:25:13.477] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 15: Added loot to table: Strainer: strainer_survivalist - Item: minecraft:stick - Count: 1 - Chance: 20 - NBT: null
+[15Dec2023 00:25:13.478] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 16: Added loot to table: Strainer: strainer_survivalist - Item: minecraft:clay_ball - Count: 1 - Chance: 15 - NBT: null
+[15Dec2023 00:25:13.478] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 17: Added loot to table: Strainer: strainer_survivalist - Item: minecraft:gravel - Count: 1 - Chance: 13 - NBT: null
+[15Dec2023 00:25:13.478] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 18: Added loot to table: Strainer: strainer_survivalist - Item: minecraft:iron_nugget - Count: 1 - Chance: 1 - NBT: null
+[15Dec2023 00:25:13.478] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 19: Added loot to table: Strainer: strainer_survivalist - Item: minecraft:gold_nugget - Count: 1 - Chance: 1 - NBT: null
+[15Dec2023 00:25:13.478] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 21: Copied loot table data from <parent> 'strainer_survivalist' to <child> 'strainer_survivalist_solid'
+[15Dec2023 00:25:13.478] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 22: Copied loot table data from <parent> 'strainer_survivalist' to <child> 'strainer_survivalist_reinforced'
+[15Dec2023 00:25:13.478] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 25: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:cod - Count: 1 - Chance: 60 - NBT: null
+[15Dec2023 00:25:13.480] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 26: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:salmon - Count: 1 - Chance: 25 - NBT: null
+[15Dec2023 00:25:13.480] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 27: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:pufferfish - Count: 1 - Chance: 13 - NBT: null
+[15Dec2023 00:25:13.480] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 28: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:tropical_fish - Count: 1 - Chance: 2 - NBT: null
+[15Dec2023 00:25:13.480] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 29: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:stick - Count: 1 - Chance: 8 - NBT: null
+[15Dec2023 00:25:13.480] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 30: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:string - Count: 1 - Chance: 4 - NBT: null
+[15Dec2023 00:25:13.480] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 31: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:leather - Count: 1 - Chance: 4 - NBT: null
+[15Dec2023 00:25:13.480] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 32: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:rotten_flesh - Count: 1 - Chance: 4 - NBT: null
+[15Dec2023 00:25:13.481] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 33: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:bone - Count: 1 - Chance: 4 - NBT: null
+[15Dec2023 00:25:13.481] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 34: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:glass_bottle - Count: 1 - Chance: 4 - NBT: null
+[15Dec2023 00:25:13.481] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 35: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:lily_pad - Count: 1 - Chance: 2 - NBT: null
+[15Dec2023 00:25:13.481] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 36: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:vine - Count: 1 - Chance: 2 - NBT: null
+[15Dec2023 00:25:13.481] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 37: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:enchanted_book - Count: 1 - Chance: 1 - NBT: null
+[15Dec2023 00:25:13.481] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 38: Added loot to table: Strainer: strainer_fisherman - Item: $BLANK$ - Count: 1 - Chance: 67 - NBT: null
+[15Dec2023 00:25:13.482] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 40: Copied loot table data from <parent> 'strainer_fisherman' to <child> 'strainer_fisherman_solid'
+[15Dec2023 00:25:13.482] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 41: Copied loot table data from <parent> 'strainer_fisherman' to <child> 'strainer_fisherman_reinforced'
+[15Dec2023 00:25:13.483] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: Result: Found 0 errors
+[15Dec2023 00:25:13.483] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: --- LootTable import: End ---
+[15Dec2023 00:25:13.484] [modloading-worker-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/]: Exception caught during firing event: null
 	Index: 1
 	Listeners:
 		0: HIGH
@@ -180,7 +179,7 @@ java.util.ConcurrentModificationException
 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1806)
 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:177)
 
-[15Dec2023 00:02:19.824] [modloading-worker-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Caught exception during event FMLCommonSetupEvent dispatch for modid architectury
+[15Dec2023 00:25:13.487] [modloading-worker-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Caught exception during event FMLCommonSetupEvent dispatch for modid architectury
 java.util.ConcurrentModificationException: null
 	at java.util.HashMap.computeIfAbsent(HashMap.java:1229) ~[?:?]
 	at dev.architectury.registry.level.entity.trade.forge.TradeRegistryImpl.registerVillagerTrade0(TradeRegistryImpl.java:42) ~[architectury-6.5.85-forge.jar%23164!/:?]
@@ -202,22 +201,22 @@ java.util.ConcurrentModificationException: null
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1841) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1806) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:177) [?:?]
-[15Dec2023 00:02:19.881] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Starting version check at https://updates.blamejared.com/get?n=attributefix&gv=1.19.2
-[15Dec2023 00:02:19.889] [main/FATAL] [net.minecraftforge.fml.ModLoader/LOADING]: Failed to complete lifecycle event COMMON_SETUP, 1 errors found
-[15Dec2023 00:02:20.129] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Found status: BETA Current: 17.2.7 Target: 17.2.7
-[15Dec2023 00:02:20.130] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
-[15Dec2023 00:02:20.307] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Found status: AHEAD Current: 15 Target: null
-[15Dec2023 00:02:20.307] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.19.2
-[15Dec2023 00:02:20.347] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 9.0.0+14 Target: 9.0.0+14
-[15Dec2023 00:02:20.347] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [maxhealthfix] Starting version check at https://updates.blamejared.com/get?n=maxhealthfix&gv=1.19.2
-[15Dec2023 00:02:20.388] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [maxhealthfix] Found status: BETA Current: 8.0.2 Target: 8.0.2
-[15Dec2023 00:02:20.388] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[15Dec2023 00:02:20.772] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 43.3.0 Target: null
-[15Dec2023 00:02:20.773] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [commonality] Starting version check at https://api.modrinth.com/updates/apexcore/forge_updates.json
-[15Dec2023 00:02:20.905] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 318247fa-eb6b-4dc3-a93f-5d526feac74d
-[15Dec2023 00:02:20.906] [main/FATAL] [net.minecraftforge.server.loading.ServerModLoader/]: Crash report saved to .\crash-reports\crash-2023-12-15_00.02.20-fml.txt
-[15Dec2023 00:02:20.910] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 4c173b83-4c85-4dbd-9dca-717e88cbb3b0
-[15Dec2023 00:02:20.913] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
+[15Dec2023 00:25:13.547] [main/FATAL] [net.minecraftforge.fml.ModLoader/LOADING]: Failed to complete lifecycle event COMMON_SETUP, 1 errors found
+[15Dec2023 00:25:13.572] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Starting version check at https://updates.blamejared.com/get?n=attributefix&gv=1.19.2
+[15Dec2023 00:25:13.822] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Found status: BETA Current: 17.2.7 Target: 17.2.7
+[15Dec2023 00:25:13.822] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
+[15Dec2023 00:25:14.018] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Found status: AHEAD Current: 15 Target: null
+[15Dec2023 00:25:14.018] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.19.2
+[15Dec2023 00:25:14.059] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 9.0.0+14 Target: 9.0.0+14
+[15Dec2023 00:25:14.060] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [maxhealthfix] Starting version check at https://updates.blamejared.com/get?n=maxhealthfix&gv=1.19.2
+[15Dec2023 00:25:14.100] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [maxhealthfix] Found status: BETA Current: 8.0.2 Target: 8.0.2
+[15Dec2023 00:25:14.101] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[15Dec2023 00:25:14.488] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 43.3.0 Target: null
+[15Dec2023 00:25:14.488] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [commonality] Starting version check at https://api.modrinth.com/updates/apexcore/forge_updates.json
+[15Dec2023 00:25:14.489] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID ea282f1d-b767-41c4-8831-b83ba71d727a
+[15Dec2023 00:25:14.489] [main/FATAL] [net.minecraftforge.server.loading.ServerModLoader/]: Crash report saved to .\crash-reports\crash-2023-12-15_00.25.14-fml.txt
+[15Dec2023 00:25:14.490] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID fb178863-4a57-458e-b415-ca1a7ac9a870
+[15Dec2023 00:25:14.493] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
 net.minecraftforge.fml.LoadingFailedException: Loading errors encountered: [
 	Architectury (architectury) encountered an error during the common_setup event phase
 §7java.util.ConcurrentModificationException: null
