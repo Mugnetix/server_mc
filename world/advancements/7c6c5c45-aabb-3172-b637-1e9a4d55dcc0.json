@@ -1229,6 +1229,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/tatami_block_from_full": {
+    "criteria": {
+      "has_canvas": "2023-12-16 13:13:01 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2023-11-25 22:00:10 +0100"
@@ -1789,6 +1795,12 @@
   "minecraft:recipes/decorations/blue_candle": {
     "criteria": {
       "has_blue_dye": "2023-11-28 23:23:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2023-12-16 13:44:10 +0100"
     },
     "done": true
   },
@@ -3214,6 +3226,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/tatami": {
+    "criteria": {
+      "has_canvas": "2023-12-16 13:13:01 +0100"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/hellbark_stairs": {
     "criteria": {
       "has_planks": "2023-12-15 21:23:59 +0100"
@@ -3749,6 +3767,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/full_tatami_mat_from_halves": {
+    "criteria": {
+      "has_canvas": "2023-12-16 13:13:01 +0100"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/blue_simple_sofa": {
     "criteria": {
       "has_wool": "2023-11-27 14:49:20 +0100"
@@ -3788,6 +3812,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2023-12-08 00:57:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2023-12-16 13:44:10 +0100"
     },
     "done": true
   },
@@ -4055,6 +4085,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/canvas_sign": {
+    "criteria": {
+      "has_canvas": "2023-12-16 13:13:01 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2023-11-23 16:21:35 +0100"
@@ -4296,6 +4332,12 @@
   "extradelight:recipes/brewing/mortar/blaze_powder": {
     "criteria": {
       "Recipes": "2023-11-23 14:33:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2023-12-16 13:44:10 +0100"
     },
     "done": true
   },
@@ -5124,6 +5166,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2023-12-16 13:40:11 +0100"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.aesthetic/wallpaper_blue": {
     "criteria": {
       "blue_wallpaper": "2023-11-25 23:42:06 +0100"
@@ -5442,6 +5490,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/basket": {
+    "criteria": {
+      "has_canvas": "2023-12-16 13:13:01 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/mirrorweave": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:33 +0100"
@@ -5517,6 +5571,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/canvas_rug": {
+    "criteria": {
+      "has_canvas": "2023-12-16 13:13:01 +0100"
     },
     "done": true
   },
@@ -6096,6 +6156,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/canvas_from_canvas_rug": {
+    "criteria": {
+      "has_canvas_rug": "2023-12-16 13:13:53 +0100"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/redwood_fence": {
     "criteria": {
       "has_planks": "2023-11-22 01:33:52 +0100"
@@ -6297,6 +6363,12 @@
   "extradelight:recipes/farmersdelight/sweet_berry_pie_jam": {
     "criteria": {
       "sweet_berry_pie": "2023-11-23 02:06:54 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/book_from_canvas": {
+    "criteria": {
+      "has_canvas": "2023-12-16 13:13:01 +0100"
     },
     "done": true
   },
@@ -6591,6 +6663,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/full_tatami_mat": {
+    "criteria": {
+      "has_canvas": "2023-12-16 13:13:01 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/wilden_summon_alt": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -6845,7 +6923,8 @@
   },
   "extradelight:trays": {
     "criteria": {
-      "pie_dish": "2023-12-09 19:34:11 +0100"
+      "pie_dish": "2023-12-09 19:34:11 +0100",
+      "sheet": "2023-12-16 13:25:20 +0100"
     },
     "done": false
   },
@@ -7869,6 +7948,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2023-12-16 13:44:10 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2023-12-07 23:21:39 +0100"
@@ -8460,6 +8545,12 @@
   "ferdinandsflowers:recipes/decorations/staked_nasturtium_pink": {
     "criteria": {
       "has_nasturtium_pink": "2023-12-06 22:02:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2023-12-16 13:44:10 +0100"
     },
     "done": true
   },
@@ -9659,6 +9750,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/painting_from_canvas": {
+    "criteria": {
+      "has_canvas": "2023-12-16 13:13:01 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_basketweave_slab": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -10199,6 +10296,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/half_tatami_mat": {
+    "criteria": {
+      "has_canvas": "2023-12-16 13:13:01 +0100"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/hellbark_biomesoplenty_log_stool": {
     "criteria": {
       "has_log": "2023-12-14 01:06:15 +0100"
@@ -10541,6 +10644,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/scaffolding_from_canvas": {
+    "criteria": {
+      "has_canvas": "2023-12-16 13:13:01 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2023-11-23 00:30:27 +0100"
@@ -10760,6 +10869,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2023-12-06 15:42:46 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beetroot_from_crate": {
+    "criteria": {
+      "has_beetroot_crate": "2023-12-16 13:17:38 +0100"
     },
     "done": true
   },
@@ -11228,6 +11343,12 @@
   "pfm:recipes/pfm.furniture/light_wood_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2023-12-13 01:26:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2023-12-16 13:44:10 +0100"
     },
     "done": true
   },
@@ -11795,6 +11916,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2023-12-16 13:43:32 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/onion": {
     "criteria": {
       "has_onion_crate": "2023-11-27 18:43:32 +0100"
@@ -11990,6 +12117,12 @@
   "ars_nouveau:recipes/ars_nouveau/arcane_platform": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/fish_flakes": {
+    "criteria": {
+      "has_fish": "2023-12-16 13:30:12 +0100"
     },
     "done": true
   },
@@ -14005,6 +14138,12 @@
   "extradelight:recipes/farmersdelight/chicken_cuts2": {
     "criteria": {
       "chicken_cuts": "2023-11-24 23:57:19 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/sheet": {
+    "criteria": {
+      "has_the_recipe": "2023-12-16 13:25:19 +0100"
     },
     "done": true
   },
