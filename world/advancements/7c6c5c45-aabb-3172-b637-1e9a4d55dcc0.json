@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2023-12-24 18:21:25 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2023-11-23 01:00:07 +0100"
@@ -347,6 +353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2023-12-24 18:38:17 +0100"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/dead_biomesoplenty_white_simple_bed": {
     "criteria": {
       "has_bed": "2023-12-17 21:30:08 +0100"
@@ -374,6 +386,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2023-11-23 00:24:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2023-12-24 18:10:32 +0100"
     },
     "done": true
   },
@@ -1786,6 +1804,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/willow_biomesoplenty_log_stool": {
+    "criteria": {
+      "has_log": "2023-12-24 18:49:46 +0100"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/roasted_carrot_smelt": {
     "criteria": {
       "Recipes": "2023-11-23 15:01:50 +0100"
@@ -2236,6 +2260,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2023-12-24 18:09:49 +0100"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/spruce_chair_modern": {
     "criteria": {
       "has_planks": "2023-11-26 02:01:51 +0100"
@@ -2413,6 +2443,12 @@
   "pfm:recipes/pfm.furniture/oak_classic_nightstand": {
     "criteria": {
       "has_planks": "2023-11-26 02:01:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2023-12-24 18:10:32 +0100"
     },
     "done": true
   },
@@ -2598,6 +2634,7 @@
   },
   "extradelight:jellyall": {
     "criteria": {
+      "jellyall_black": "2023-12-24 19:15:10 +0100",
       "jellyall_brown": "2023-11-25 00:27:03 +0100",
       "jellyall_white": "2023-12-23 14:35:55 +0100"
     },
@@ -2831,6 +2868,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/skilltree/arsonist_necklace": {
+    "criteria": {
+      "has_fire_charge": "2023-12-24 18:54:54 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_mosaic_stonecutter_stair": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -2900,6 +2943,12 @@
   "biomesoplenty:recipes/redstone/jacaranda_button": {
     "criteria": {
       "has_planks": "2023-11-22 23:14:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2023-12-24 18:10:32 +0100"
     },
     "done": true
   },
@@ -3311,6 +3360,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2023-12-24 18:10:32 +0100"
+    },
+    "done": true
+  },
   "extradelight:recipes/farmersdelight/bacon7": {
     "criteria": {
       "bacon": "2023-11-23 02:13:15 +0100"
@@ -3638,6 +3693,12 @@
   "pfm:recipes/pfm.furniture/quartz_classic_stool": {
     "criteria": {
       "has_planks": "2023-12-13 01:26:51 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
+    "criteria": {
+      "has_flower": "2023-12-24 18:46:45 +0100"
     },
     "done": true
   },
@@ -4128,6 +4189,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/misc/mortar/lime_dye": {
+    "criteria": {
+      "Recipes": "2023-12-24 18:57:59 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2023-11-23 16:21:35 +0100"
@@ -4503,10 +4570,13 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "muskeg": "2023-12-17 22:25:36 +0100",
+      "woodland": "2023-12-24 19:13:11 +0100",
       "shrubland": "2023-11-22 23:47:13 +0100",
       "rocky_shrubland": "2023-11-26 03:05:33 +0100",
       "scrubland": "2023-11-25 00:16:35 +0100",
+      "bayou": "2023-12-24 18:49:23 +0100",
       "erupting_inferno": "2023-12-12 23:43:47 +0100",
+      "lush_savanna": "2023-12-24 18:41:44 +0100",
       "highland": "2023-11-23 23:00:43 +0100",
       "marsh": "2023-12-06 17:17:49 +0100",
       "jade_cliffs": "2023-11-22 23:15:12 +0100",
@@ -4533,6 +4603,7 @@
       "dune_beach": "2023-11-22 23:47:29 +0100",
       "highland_moor": "2023-12-08 00:21:57 +0100",
       "seasonal_forest": "2023-11-22 23:53:59 +0100",
+      "volcano": "2023-12-24 18:40:24 +0100",
       "volcanic_plains": "2023-12-23 17:30:31 +0100",
       "lavender_field": "2023-11-22 23:13:35 +0100",
       "fir_clearing": "2023-11-23 02:05:21 +0100",
@@ -4991,6 +5062,7 @@
       "HAGGIS": "2023-11-25 00:27:02 +0100",
       "JERKY": "2023-11-24 01:42:10 +0100",
       "SEAWEED_CRISPS": "2023-11-25 23:35:54 +0100",
+      "CURRY_RICE": "2023-12-24 19:15:12 +0100",
       "ROASTED_CARROT": "2023-11-23 15:01:50 +0100",
       "MEAT_LOAF": "2023-11-23 15:00:48 +0100",
       "CACTUS_SALAD": "2023-11-25 00:27:03 +0100",
@@ -4999,6 +5071,7 @@
       "QUICHE_SLICE": "2023-12-10 01:17:20 +0100",
       "PORK_STEW_RICE": "2023-11-23 15:00:47 +0100",
       "POTATO_SOUP": "2023-12-23 14:08:54 +0100",
+      "CARROT_SALAD": "2023-12-24 19:15:10 +0100",
       "PORK_TENDERLOIN": "2023-12-23 14:09:16 +0100"
     },
     "done": false
@@ -5030,6 +5103,12 @@
   "beautify:progression/root": {
     "criteria": {
       "Install": "2023-12-10 01:06:31 +0100"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/willow_biomesoplenty_raw_table_log": {
+    "criteria": {
+      "has_log": "2023-12-24 18:49:46 +0100"
     },
     "done": true
   },
@@ -5490,6 +5569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2023-12-24 18:10:32 +0100"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/mixingbowl/fish_salad": {
     "criteria": {
       "Recipes": "2023-11-23 15:00:32 +0100"
@@ -5571,6 +5656,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2023-11-23 23:57:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2023-12-24 18:09:49 +0100"
     },
     "done": true
   },
@@ -6087,6 +6178,12 @@
   "extradelight:recipes/farmersdelight/mutton_chops6": {
     "criteria": {
       "mutton_chops": "2023-11-23 02:14:30 +0100"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/mangrove_log_stool": {
+    "criteria": {
+      "has_log": "2023-12-24 18:38:17 +0100"
     },
     "done": true
   },
@@ -8032,6 +8129,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2023-12-24 18:09:49 +0100"
+    },
+    "done": true
+  },
   "skilltree:recipes/skilltree/golden_ring": {
     "criteria": {
       "has_nuggets_gold": "2023-11-24 01:45:20 +0100"
@@ -8089,6 +8192,12 @@
   "ferdinandsflowers:recipes/misc/pink_dye_from_flower": {
     "criteria": {
       "has_pink_flower": "2023-12-06 22:02:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2023-12-24 18:10:32 +0100"
     },
     "done": true
   },
@@ -8644,6 +8753,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2023-12-24 18:21:25 +0100"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/stripped_oak_simple_stool": {
     "criteria": {
       "has_planks": "2023-11-28 00:48:56 +0100"
@@ -8904,9 +9019,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2023-12-24 18:54:19 +0100"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/andesite_classic_stool": {
     "criteria": {
       "has_planks": "2023-12-23 17:08:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2023-12-24 18:57:59 +0100"
     },
     "done": true
   },
@@ -9696,6 +9823,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2023-12-24 18:10:32 +0100"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2023-12-12 22:53:53 +0100"
@@ -9705,6 +9838,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2023-11-22 22:43:32 +0100"
+    },
+    "done": true
+  },
+  "ferdinandsflowers:recipes/misc/green_dye_from_flower": {
+    "criteria": {
+      "has_green_flower": "2023-12-24 18:51:16 +0100"
     },
     "done": true
   },
@@ -9951,6 +10090,12 @@
   "skilltree:recipes/skilltree/assassin_necklace": {
     "criteria": {
       "has_bone": "2023-11-23 01:10:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2023-12-24 18:10:32 +0100"
     },
     "done": true
   },
@@ -10361,6 +10506,18 @@
   "farmersdelight:recipes/farmersdelight/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2023-11-23 02:05:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2023-12-24 18:09:49 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/willow_planks": {
+    "criteria": {
+      "has_logs": "2023-12-24 18:49:46 +0100"
     },
     "done": true
   },
@@ -10802,6 +10959,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2023-12-24 18:54:19 +0100"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/concrete_kitchen_drawer": {
     "criteria": {
       "has_planks": "2023-12-09 20:22:50 +0100"
@@ -10835,6 +10998,12 @@
   "extradelight:recipes/extradelight.aesthetic/oak_molded_cyan_wallpaper": {
     "criteria": {
       "cyan_oak_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2023-12-24 18:10:32 +0100"
     },
     "done": true
   },
@@ -10889,6 +11058,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2023-11-23 22:43:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2023-12-24 18:10:32 +0100"
     },
     "done": true
   },
@@ -11222,6 +11397,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2023-12-24 18:37:13 +0100"
+    },
+    "done": true
+  },
   "skilltree:recipes/skilltree/toxic_quiver": {
     "criteria": {
       "has_fermented_spider_eye": "2023-12-08 02:07:00 +0100"
@@ -11315,6 +11496,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2023-12-23 17:08:21 +0100"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/mangrove_raw_table_log": {
+    "criteria": {
+      "has_log": "2023-12-24 18:38:17 +0100"
     },
     "done": true
   },
@@ -11748,6 +11935,12 @@
   "ars_nouveau:recipes/ars_nouveau/sourcestone_13": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2023-12-24 18:38:17 +0100"
     },
     "done": true
   },
@@ -12724,6 +12917,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/willow_wood": {
+    "criteria": {
+      "has_log": "2023-12-24 18:49:46 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/blaze_fiber": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:33 +0100"
@@ -12999,10 +13198,13 @@
       "minecraft:birch_forest": "2023-11-25 00:34:09 +0100",
       "minecraft:windswept_hills": "2023-12-06 16:33:35 +0100",
       "minecraft:wooded_badlands": "2023-12-23 17:29:33 +0100",
+      "minecraft:bamboo_jungle": "2023-12-24 19:08:58 +0100",
       "minecraft:badlands": "2023-12-23 17:26:48 +0100",
       "minecraft:beach": "2023-11-22 23:36:14 +0100",
       "minecraft:dark_forest": "2023-12-08 00:16:19 +0100",
+      "minecraft:mangrove_swamp": "2023-12-24 18:36:52 +0100",
       "minecraft:river": "2023-11-22 23:13:15 +0100",
+      "minecraft:lukewarm_ocean": "2023-12-24 19:24:43 +0100",
       "minecraft:stony_shore": "2023-11-22 23:28:31 +0100",
       "minecraft:snowy_plains": "2023-11-23 16:12:42 +0100",
       "minecraft:snowy_taiga": "2023-11-23 16:17:11 +0100",
@@ -13023,6 +13225,8 @@
       "minecraft:old_growth_spruce_taiga": "2023-12-23 13:09:11 +0100",
       "minecraft:snowy_beach": "2023-12-08 00:30:09 +0100",
       "minecraft:windswept_savanna": "2023-12-06 17:07:31 +0100",
+      "minecraft:warm_ocean": "2023-12-24 18:57:54 +0100",
+      "minecraft:deep_lukewarm_ocean": "2023-12-24 19:50:10 +0100",
       "minecraft:flower_forest": "2023-11-22 23:56:03 +0100",
       "minecraft:frozen_peaks": "2023-11-24 16:02:25 +0100",
       "minecraft:old_growth_birch_forest": "2023-11-25 00:35:31 +0100",
@@ -13342,6 +13546,12 @@
   "comforts:sleeping_bag_cyan_from_white": {
     "criteria": {
       "has_sleeping_bag": "2023-11-23 14:56:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2023-12-24 18:10:32 +0100"
     },
     "done": true
   },
