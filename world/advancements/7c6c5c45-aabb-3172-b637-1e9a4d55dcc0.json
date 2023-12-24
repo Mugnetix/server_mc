@@ -731,6 +731,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/fish_chips": {
+    "criteria": {
+      "Recipes": "2023-12-24 22:22:23 +0100"
+    },
+    "done": true
+  },
   "extradelight:recipes/food/mutton8": {
     "criteria": {
       "mutton": "2023-11-22 23:15:16 +0100"
@@ -1698,6 +1704,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2023-12-24 23:35:06 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2023-11-22 23:47:59 +0100"
@@ -2536,6 +2548,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2023-12-24 23:53:18 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/tools/lead_from_straw": {
     "criteria": {
       "has_straw": "2023-11-23 15:45:49 +0100"
@@ -3132,6 +3150,12 @@
     },
     "done": true
   },
+  "beautify:progression/hanging_pot": {
+    "criteria": {
+      "obtain": "2023-12-24 23:38:37 +0100"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/bacon_cheeseburger": {
     "criteria": {
       "Recipes": "2023-11-23 02:17:53 +0100"
@@ -3495,6 +3519,12 @@
   "biomesoplenty:recipes/building_blocks/hellbark_stairs": {
     "criteria": {
       "has_planks": "2023-12-15 21:23:59 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/grilled_cheese_smoke": {
+    "criteria": {
+      "Recipes": "2023-12-24 22:22:45 +0100"
     },
     "done": true
   },
@@ -4861,6 +4891,7 @@
       "minecraft:pillager": "2023-11-25 00:08:41 +0100",
       "minecraft:blaze": "2023-12-13 00:27:44 +0100",
       "minecraft:skeleton": "2023-11-23 01:10:33 +0100",
+      "minecraft:ravager": "2023-12-24 22:50:20 +0100",
       "minecraft:ghast": "2023-12-12 23:47:40 +0100",
       "minecraft:hoglin": "2023-12-14 00:04:19 +0100",
       "minecraft:vindicator": "2023-12-07 23:22:48 +0100",
@@ -5008,6 +5039,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/grilled_cheese_smelt": {
+    "criteria": {
+      "Recipes": "2023-12-24 22:22:45 +0100"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.aesthetic/dark_oak_molded_light_blue_wallpaper": {
     "criteria": {
       "light_blue_dark_oak_wallpaper": "2023-11-25 23:42:06 +0100"
@@ -5058,6 +5095,9 @@
   },
   "extradelight:meals": {
     "criteria": {
+      "MEAT_LOAF_SANDWICH": "2023-12-24 22:22:21 +0100",
+      "SEAWEED_SALAD": "2023-12-24 22:17:42 +0100",
+      "GRILLED_CHEESE": "2023-12-24 22:22:45 +0100",
       "EGG_SALAD": "2023-12-23 13:50:58 +0100",
       "HAGGIS": "2023-11-25 00:27:02 +0100",
       "JERKY": "2023-11-24 01:42:10 +0100",
@@ -5068,9 +5108,12 @@
       "CACTUS_SALAD": "2023-11-25 00:27:03 +0100",
       "APPLE_SAUCE": "2023-12-23 13:51:13 +0100",
       "MASHED_POTATO_GRAVY": "2023-12-23 14:35:52 +0100",
+      "SALAD": "2023-12-24 22:17:42 +0100",
       "QUICHE_SLICE": "2023-12-10 01:17:20 +0100",
+      "RICEBALL": "2023-12-24 22:18:54 +0100",
       "PORK_STEW_RICE": "2023-11-23 15:00:47 +0100",
       "POTATO_SOUP": "2023-12-23 14:08:54 +0100",
+      "FRIED_FISH": "2023-12-24 22:22:23 +0100",
       "CARROT_SALAD": "2023-12-24 19:15:10 +0100",
       "PORK_TENDERLOIN": "2023-12-23 14:09:16 +0100"
     },
@@ -5929,6 +5972,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2023-12-24 23:53:53 +0100"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.aesthetic/dark_oak_molded_pink_wallpaper": {
     "criteria": {
       "pink_dark_oak_wallpaper": "2023-11-25 23:42:06 +0100"
@@ -6631,6 +6680,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2023-12-24 23:53:53 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2023-11-24 01:23:59 +0100"
@@ -6730,6 +6785,12 @@
   "extradelight:recipes/extradelight.items/pestle_granite": {
     "criteria": {
       "Recipes": "2023-11-22 23:42:24 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/grilled_cheese_fire": {
+    "criteria": {
+      "Recipes": "2023-12-24 22:22:45 +0100"
     },
     "done": true
   },
@@ -7058,8 +7119,10 @@
       "glow_berries": "2023-12-09 19:49:33 +0100",
       "kelp": "2023-11-24 02:27:21 +0100",
       "beetroot": "2023-12-12 01:57:55 +0100",
+      "brown_mushroom": "2023-12-24 23:22:28 +0100",
       "sugar_cane": "2023-11-23 23:11:40 +0100",
       "potato": "2023-12-06 15:55:43 +0100",
+      "red_mushroom": "2023-12-24 23:25:11 +0100",
       "nether_wart": "2023-12-15 21:07:22 +0100",
       "wheat": "2023-11-23 16:02:21 +0100",
       "carrot": "2023-11-24 01:57:03 +0100"
@@ -7798,6 +7861,13 @@
       "has_egg": "2023-11-22 01:32:33 +0100"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:siamese": "2023-12-24 23:46:03 +0100",
+      "minecraft:all_black": "2023-12-24 23:38:16 +0100"
+    },
+    "done": false
   },
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_alternating_to_sourcestone": {
     "criteria": {
@@ -8954,8 +9024,12 @@
   "extradelight:desert": {
     "criteria": {
       "PUMPKIN_COOKIE": "2023-12-23 13:51:12 +0100",
+      "PUMPKIN_CUSTARD": "2023-12-24 22:22:22 +0100",
+      "GLOW_BERRY_COOKIE": "2023-12-24 22:18:36 +0100",
       "FUDGE_POPSICLE": "2023-11-25 00:27:02 +0100",
-      "HONEY_POPSICLE": "2023-12-23 13:50:57 +0100"
+      "SWEET_BERRY_POPSICLE": "2023-12-24 22:23:16 +0100",
+      "HONEY_POPSICLE": "2023-12-23 13:50:57 +0100",
+      "HONEY_CUSTARD": "2023-12-24 22:22:28 +0100"
     },
     "done": false
   },
@@ -9280,6 +9354,12 @@
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-11-23 00:00:13 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_mushroom_colony": {
+    "criteria": {
+      "brown_mushroom_colony": "2023-12-24 23:23:42 +0100"
     },
     "done": true
   },
@@ -10812,6 +10892,12 @@
   "ars_nouveau:recipes/ars_nouveau/dowsing_rod": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
+    },
+    "done": true
+  },
+  "extradelight:jelly": {
+    "criteria": {
+      "jelly": "2023-12-24 22:18:40 +0100"
     },
     "done": true
   },
@@ -13163,6 +13249,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/middle_bone_staff": {
+    "criteria": {
+      "middle_bone_staff": "2023-12-24 23:12:19 +0100"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/oak_modern_stool": {
     "criteria": {
       "has_planks": "2023-11-26 02:01:51 +0100"
@@ -13190,6 +13282,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2023-11-23 23:50:23 +0100",
+      "minecraft:mushroom_fields": "2023-12-24 23:19:42 +0100",
       "minecraft:taiga": "2023-12-08 00:25:59 +0100",
       "minecraft:deep_ocean": "2023-12-07 23:01:53 +0100",
       "minecraft:eroded_badlands": "2023-12-23 17:34:49 +0100",
@@ -13937,7 +14030,8 @@
       "glow_berries": "2023-12-12 22:45:43 +0100",
       "dried_kelp": "2023-11-24 02:42:23 +0100",
       "melon_slice": "2023-12-23 16:51:15 +0100",
-      "cooked_chicken": "2023-11-23 14:14:31 +0100"
+      "cooked_chicken": "2023-11-23 14:14:31 +0100",
+      "mushroom_stew": "2023-12-24 23:00:38 +0100"
     },
     "done": false
   },

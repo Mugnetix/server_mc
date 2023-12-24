@@ -1,0 +1,26 @@
+[25дек.2023 00:00:17.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mugnetix moved too quickly! 1.3110252298956766,0.8800391385729398,10.049490846440676
+[25дек.2023 00:00:08.396] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[25дек.2023 00:00:27.747] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[25дек.2023 00:03:05.050] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mugnetix lost connection: Disconnected
+[25дек.2023 00:03:05.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mugnetix left the game
+[25дек.2023 00:03:05.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[25дек.2023 00:03:05.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <--[HERE]
+[25дек.2023 00:03:05.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[25дек.2023 00:03:05.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <--[HERE]
+[25дек.2023 00:03:07.326] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 6d849207-61b0-4e02-80e6-a00fce690c23
+[25дек.2023 00:03:07.372] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID a51160c3-344b-469c-80b1-7b2aade6bafc
+[25дек.2023 00:03:07.381] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: C:\Users\Usr\AppData\Roaming\.minecraft\server_Temp\.\crash-reports\crash-2023-12-25_00.03.07-server.txt
+[25дек.2023 00:03:07.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25дек.2023 00:03:07.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25дек.2023 00:03:07.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25дек.2023 00:03:14.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[25дек.2023 00:03:14.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[25дек.2023 00:03:14.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/extradelight:corn_dimension
+[25дек.2023 00:03:14.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[25дек.2023 00:03:14.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[25дек.2023 00:03:14.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25дек.2023 00:03:14.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25дек.2023 00:03:14.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (corn_dimension): All chunks are saved
+[25дек.2023 00:03:14.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[25дек.2023 00:03:14.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25дек.2023 00:03:14.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
