@@ -3432,6 +3432,12 @@
     },
     "done": true
   },
+  "ferdinandsflowers:recipes/decorations/vase_purple": {
+    "criteria": {
+      "has_purple_dye": "2023-12-25 01:08:39 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2023-12-08 00:29:33 +0100"
@@ -3453,6 +3459,12 @@
   "pfm:recipes/pfm.furniture/andesite_kitchen_wall_counter": {
     "criteria": {
       "has_planks": "2023-11-28 00:48:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2023-12-25 01:08:39 +0100"
     },
     "done": true
   },
@@ -4579,6 +4591,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2023-12-25 01:08:39 +0100"
+    },
+    "done": true
+  },
   "exoticbirds:default/root": {
     "criteria": {
       "launch_mod": "2023-11-22 01:32:34 +0100"
@@ -4617,6 +4635,7 @@
       "wooded_scrubland": "2023-11-25 00:17:14 +0100",
       "maple_woods": "2023-12-08 00:41:52 +0100",
       "crystalline_chasm": "2023-12-12 23:43:35 +0100",
+      "wooded_wasteland": "2023-12-25 00:14:16 +0100",
       "field": "2023-11-24 17:08:56 +0100",
       "orchard": "2023-11-25 00:17:59 +0100",
       "mediterranean_forest": "2023-11-25 00:20:30 +0100",
@@ -6338,6 +6357,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2023-12-25 00:25:21 +0100"
+    },
+    "done": true
+  },
   "exoticbirds:recipes/yellow_birdhouse": {
     "criteria": {
       "has_wood": "2023-11-22 01:33:52 +0100"
@@ -6980,6 +7005,12 @@
     },
     "done": true
   },
+  "ferdinandsflowers:recipes/decorations/planter_purple": {
+    "criteria": {
+      "has_purple_dye": "2023-12-25 01:08:39 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2023-11-26 02:57:07 +0100"
@@ -7117,6 +7148,7 @@
       "cabbage": "2023-11-25 00:02:44 +0100",
       "onion": "2023-11-24 15:55:20 +0100",
       "glow_berries": "2023-12-09 19:49:33 +0100",
+      "sweet_berries": "2023-12-25 02:41:21 +0100",
       "kelp": "2023-11-24 02:27:21 +0100",
       "beetroot": "2023-12-12 01:57:55 +0100",
       "brown_mushroom": "2023-12-24 23:22:28 +0100",
@@ -9213,9 +9245,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_upgrade_base": "2023-12-25 01:41:18 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2023-11-23 00:28:43 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stack_upgrade_tier_3": {
+    "criteria": {
+      "has_upgrade_base": "2023-12-25 01:41:22 +0100"
     },
     "done": true
   },
@@ -10002,6 +10046,12 @@
   "ferdinandsflowers:recipes/decorations/planter_dark_oak": {
     "criteria": {
       "has_dark_oak_planks": "2023-11-25 22:00:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
+    "criteria": {
+      "has_purple_dye": "2023-12-25 01:08:39 +0100"
     },
     "done": true
   },
@@ -10901,6 +10951,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/three_bolt_armor": {
+    "criteria": {
+      "three_bolt_armor": "2023-12-25 02:14:00 +0100"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/oven/glow_berry_pie": {
     "criteria": {
       "has_any_ingredient": "2023-12-06 23:03:24 +0100"
@@ -11414,6 +11470,12 @@
   "farmersdelight:recipes/misc/pumpkin_seeds_from_slice": {
     "criteria": {
       "has_pumpkin_slice": "2023-11-23 01:52:46 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/rope_from_safety_net": {
+    "criteria": {
+      "has_safety_net": "2023-12-25 02:42:45 +0100"
     },
     "done": true
   },
@@ -13296,6 +13358,7 @@
       "minecraft:beach": "2023-11-22 23:36:14 +0100",
       "minecraft:dark_forest": "2023-12-08 00:16:19 +0100",
       "minecraft:mangrove_swamp": "2023-12-24 18:36:52 +0100",
+      "minecraft:sparse_jungle": "2023-12-25 00:28:00 +0100",
       "minecraft:river": "2023-11-22 23:13:15 +0100",
       "minecraft:lukewarm_ocean": "2023-12-24 19:24:43 +0100",
       "minecraft:stony_shore": "2023-11-22 23:28:31 +0100",
@@ -14031,7 +14094,8 @@
       "dried_kelp": "2023-11-24 02:42:23 +0100",
       "melon_slice": "2023-12-23 16:51:15 +0100",
       "cooked_chicken": "2023-11-23 14:14:31 +0100",
-      "mushroom_stew": "2023-12-24 23:00:38 +0100"
+      "mushroom_stew": "2023-12-24 23:00:38 +0100",
+      "cod": "2023-12-25 01:48:27 +0100"
     },
     "done": false
   },
