@@ -611,6 +611,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-12-26 01:42:04 +0100"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/jacaranda_slab": {
     "criteria": {
       "has_planks": "2023-11-22 23:14:56 +0100"
@@ -1641,6 +1647,12 @@
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2023-11-26 02:57:07 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cabbage": {
+    "criteria": {
+      "has_cabbage_crate": "2023-12-26 01:23:30 +0100"
     },
     "done": true
   },
@@ -2907,6 +2919,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_mosaic_stonecutter_stair": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-12-26 01:42:05 +0100"
     },
     "done": true
   },
@@ -5408,6 +5426,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/oven/sugar_cookie": {
+    "criteria": {
+      "has_any_ingredient": "2023-12-26 01:06:33 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_alternating_stone_cutterslab": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -6408,6 +6432,12 @@
   "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
       "has_ice": "2023-12-17 22:03:03 +0100"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/light_gray_shower_towel": {
+    "criteria": {
+      "has_light_gray_wool": "2023-12-26 01:45:46 +0100"
     },
     "done": true
   },
@@ -7697,6 +7727,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/oak_chair_classic_light_gray": {
+    "criteria": {
+      "oak_chair_classic_light_gray": "2023-12-26 01:45:46 +0100"
+    },
+    "done": true
+  },
   "comforts:hammock_blue_from_white": {
     "criteria": {
       "has_hammock": "2023-12-05 12:24:08 +0100"
@@ -8835,6 +8871,12 @@
   "extradelight:recipes/extradelight.aesthetic/mangrove_molded_lime_wallpaper": {
     "criteria": {
       "lime_mangrove_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-12-26 01:42:04 +0100"
     },
     "done": true
   },
@@ -10338,6 +10380,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/misc/sugar_from_block": {
+    "criteria": {
+      "Recipes": "2023-12-26 01:06:47 +0100"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/hellbark_biomesoplenty_modern_stool": {
     "criteria": {
       "has_planks": "2023-12-15 21:23:59 +0100"
@@ -11174,6 +11222,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-12-26 01:42:04 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/beef_patty_from_smoking": {
     "criteria": {
       "beef_patty": "2023-11-23 02:14:36 +0100"
@@ -11624,6 +11678,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-12-26 01:42:04 +0100"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/fir_biomesoplenty_white_classic_bed": {
     "criteria": {
       "has_bed": "2023-12-17 21:30:08 +0100"
@@ -11897,6 +11957,12 @@
   "smallships:recipes/transportation/acacia_galley": {
     "criteria": {
       "in_water": "2023-11-22 23:30:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2023-12-26 01:32:02 +0100"
     },
     "done": true
   },
@@ -13186,6 +13252,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-12-26 01:42:04 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2023-11-22 22:43:32 +0100"
@@ -14406,6 +14478,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-12-26 01:42:04 +0100"
+    },
+    "done": true
+  },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
       "phantom": "2023-12-08 12:50:03 +0100"
@@ -14499,6 +14577,12 @@
   "extradelight:recipes/extradelight.items/hash_bowl": {
     "criteria": {
       "has_hotdish": "2023-12-23 14:36:22 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/sugar_to_block": {
+    "criteria": {
+      "Recipes": "2023-12-26 01:06:33 +0100"
     },
     "done": true
   },
@@ -15267,6 +15351,12 @@
   "biomesoplenty:recipes/misc/light_blue_dye_from_blue_hydrangea": {
     "criteria": {
       "has_flower": "2023-12-06 21:54:37 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/tomato": {
+    "criteria": {
+      "has_tomato_crate": "2023-12-26 01:23:34 +0100"
     },
     "done": true
   },
