@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "theabyss:jungle_planks"
+    },
+    {
+      "item": "theabyss:jungle_planks"
+    },
+    {
+      "item": "theabyss:jungle_planks"
+    },
+    {
+      "item": "minecraft:red_bed"
+    },
+    {
+      "item": "theabyss:jungle_fence"
+    },
+    {
+      "item": "theabyss:jungle_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:jungle_theabyss_red_classic_bed"
+  }
+}

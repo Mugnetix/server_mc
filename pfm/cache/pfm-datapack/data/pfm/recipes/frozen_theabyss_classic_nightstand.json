@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "theabyss:frozen_log"
+    },
+    {
+      "item": "theabyss:frozen_log"
+    },
+    {
+      "item": "theabyss:frozen_log"
+    },
+    {
+      "item": "theabyss:frozen_log"
+    },
+    {
+      "item": "theabyss:frozen_log"
+    },
+    {
+      "item": "theabyss:frozen_log"
+    },
+    {
+      "item": "theabyss:frozen_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:frozen_theabyss_classic_nightstand"
+  }
+}

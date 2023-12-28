@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "theabyss:blaru_planks"
+    },
+    {
+      "item": "theabyss:blaru_planks"
+    },
+    {
+      "item": "theabyss:blaru_planks"
+    },
+    {
+      "item": "theabyss:blaru_planks"
+    },
+    {
+      "item": "theabyss:blaru_planks"
+    },
+    {
+      "item": "minecraft:black_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:blaru_theabyss_black_simple_bed"
+  }
+}

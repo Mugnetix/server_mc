@@ -1,0 +1,29 @@
+{
+  "type": "pfm:furniture",
+  "ingredients": [
+    {
+      "item": "minecraft:black_wool"
+    },
+    {
+      "item": "minecraft:black_wool"
+    },
+    {
+      "item": "minecraft:black_wool"
+    },
+    {
+      "item": "theabyss:stripped_blaru_log"
+    },
+    {
+      "item": "theabyss:stripped_blaru_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:basic_lamp",
+    "tag": {
+      "BlockEntityTag": {
+        "color": "black",
+        "variant": "theabyss:blaru"
+      }
+    }
+  }
+}

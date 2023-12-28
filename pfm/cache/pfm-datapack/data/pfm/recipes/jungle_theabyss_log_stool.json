@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "theabyss:jungle_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:jungle_theabyss_log_stool"
+  }
+}

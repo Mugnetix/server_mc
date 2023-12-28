@@ -1,44 +1,26 @@
-[27дек.2023 00:01:46.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mugnetix moved too quickly! -4.145267619348942,-6.690076200887091,-6.415532613581718
-[27дек.2023 00:02:14.939] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
-[27дек.2023 00:02:34.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4167ms or 83 ticks behind
-[27дек.2023 00:07:17.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mugnetix: Set the time to 1000]
-[27дек.2023 00:08:32.837] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2370ms or 47 ticks behind
-[27дек.2023 00:08:54.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6405ms or 128 ticks behind
-[27дек.2023 00:10:04.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mugnetix: Set own game mode to Spectator Mode]
-[27дек.2023 00:10:21.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mugnetix: Set own game mode to Survival Mode]
-[27дек.2023 00:13:43.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mugnetix: Saved the game]
-[27дек.2023 00:14:28.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mugnetix moved too quickly! -1.7631988029529566,-10.201788143051388,1.8447996477436845
-[27дек.2023 00:14:41.811] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4995ms or 99 ticks behind
-[27дек.2023 00:14:41.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mugnetix moved too quickly! -5.868244985702859,-6.230527368912959,5.403249019275563
-[27дек.2023 00:14:56.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mugnetix moved too quickly! -2.029865246924146,-1.5856240997106568,9.911928801825752
-[27дек.2023 00:15:20.544] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2379ms or 47 ticks behind
-[27дек.2023 00:15:21.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mugnetix: Set own game mode to Spectator Mode]
-[27дек.2023 00:15:27.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mugnetix moved too quickly! -9.764693338735924,-0.003770909793352928,3.096271726114537
-[27дек.2023 00:15:29.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mugnetix moved too quickly! -10.361801964163988,-0.06723129332081612,2.5180878444589325
-[27дек.2023 00:15:34.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mugnetix moved too quickly! -10.05306799052596,-0.39000001549720764,1.7535926525404193
-[27дек.2023 00:15:38.248] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mugnetix moved too quickly! -9.271468008801548,-4.499995746251031,1.7683331866351182
-[27дек.2023 00:15:39.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4082ms or 81 ticks behind
-[27дек.2023 00:15:46.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mugnetix: Set own game mode to Survival Mode]
-[27дек.2023 00:16:02.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8032ms or 160 ticks behind
-[27дек.2023 00:17:30.248] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2157ms or 43 ticks behind
-[27дек.2023 00:17:54.710] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9495ms or 189 ticks behind
-[27дек.2023 00:18:26.931] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2416ms or 48 ticks behind
-[27дек.2023 00:18:45.939] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4022ms or 80 ticks behind
-[27дек.2023 00:36:31.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mugnetix: Saved the game]
-[27дек.2023 00:36:55.281] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mugnetix lost connection: Disconnected
-[27дек.2023 00:36:55.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mugnetix left the game
-[27дек.2023 00:37:38.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[27дек.2023 00:37:38.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[27дек.2023 00:37:38.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[27дек.2023 00:37:38.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[27дек.2023 00:37:39.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[27дек.2023 00:37:40.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[27дек.2023 00:37:40.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
-[27дек.2023 00:37:40.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[27дек.2023 00:37:40.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/extradelight:corn_dimension
-[27дек.2023 00:37:40.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[27дек.2023 00:37:40.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[27дек.2023 00:37:40.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
-[27дек.2023 00:37:40.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[27дек.2023 00:37:40.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (corn_dimension): All chunks are saved
-[27дек.2023 00:37:40.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[29дек.2023 00:11:35.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mugnetix has made the advancement [Wall Chicken]
+[29дек.2023 00:14:29.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mugnetix: Set the time to 1000]
+[29дек.2023 00:33:26.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mugnetix has reached the goal [Terrible Armor]
+[29дек.2023 00:40:48.312] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mugnetix lost connection: Disconnected
+[29дек.2023 00:40:48.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mugnetix left the game
+[29дек.2023 00:43:11.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[29дек.2023 00:43:11.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29дек.2023 00:43:11.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29дек.2023 00:43:11.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29дек.2023 00:43:12.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29дек.2023 00:43:12.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/extradelight:corn_dimension
+[29дек.2023 00:43:12.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29дек.2023 00:43:12.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/theabyss:the_abyss
+[29дек.2023 00:43:12.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[29дек.2023 00:43:12.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29дек.2023 00:43:12.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/theabyss:pocket_dimension
+[29дек.2023 00:43:12.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/theabyss:frost_world
+[29дек.2023 00:43:12.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29дек.2023 00:43:12.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (corn_dimension): All chunks are saved
+[29дек.2023 00:43:12.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29дек.2023 00:43:12.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_abyss): All chunks are saved
+[29дек.2023 00:43:12.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[29дек.2023 00:43:12.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29дек.2023 00:43:12.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (pocket_dimension): All chunks are saved
+[29дек.2023 00:43:12.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (frost_world): All chunks are saved
+[29дек.2023 00:43:12.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

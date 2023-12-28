@@ -1,0 +1,29 @@
+{
+  "type": "pfm:furniture",
+  "ingredients": [
+    {
+      "item": "minecraft:yellow_wool"
+    },
+    {
+      "item": "minecraft:yellow_wool"
+    },
+    {
+      "item": "minecraft:yellow_wool"
+    },
+    {
+      "item": "theabyss:stripped_slimed_log"
+    },
+    {
+      "item": "theabyss:stripped_slimed_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:basic_lamp",
+    "tag": {
+      "BlockEntityTag": {
+        "color": "yellow",
+        "variant": "theabyss:slimed"
+      }
+    }
+  }
+}

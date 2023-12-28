@@ -1,0 +1,29 @@
+{
+  "type": "pfm:furniture",
+  "ingredients": [
+    {
+      "item": "minecraft:red_wool"
+    },
+    {
+      "item": "minecraft:red_wool"
+    },
+    {
+      "item": "minecraft:red_wool"
+    },
+    {
+      "item": "theabyss:stripped_jungle_log"
+    },
+    {
+      "item": "theabyss:stripped_jungle_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:basic_lamp",
+    "tag": {
+      "BlockEntityTag": {
+        "color": "red",
+        "variant": "theabyss:jungle"
+      }
+    }
+  }
+}

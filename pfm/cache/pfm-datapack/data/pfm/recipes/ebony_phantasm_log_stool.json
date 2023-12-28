@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "phantasm:ebony_stem"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:ebony_phantasm_log_stool"
+  }
+}

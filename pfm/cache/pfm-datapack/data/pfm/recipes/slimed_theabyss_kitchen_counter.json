@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "theabyss:slimed_planks"
+    },
+    {
+      "item": "theabyss:slimed_planks"
+    },
+    {
+      "item": "theabyss:slimed_planks"
+    },
+    {
+      "item": "theabyss:slimed_planks"
+    },
+    {
+      "item": "theabyss:slimed_planks"
+    },
+    {
+      "item": "theabyss:slimed_planks"
+    },
+    {
+      "item": "theabyss:slimed_log"
+    },
+    {
+      "item": "theabyss:slimed_log"
+    },
+    {
+      "item": "theabyss:slimed_log"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:slimed_theabyss_kitchen_counter"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "phantasm:pream_planks"
+    },
+    {
+      "item": "phantasm:pream_planks"
+    },
+    {
+      "item": "phantasm:pream_planks"
+    },
+    {
+      "item": "phantasm:pream_planks"
+    },
+    {
+      "item": "phantasm:pream_planks"
+    },
+    {
+      "item": "phantasm:pream_planks"
+    },
+    {
+      "item": "phantasm:pream_planks"
+    },
+    {
+      "item": "phantasm:pream_planks"
+    },
+    {
+      "item": "phantasm:pream_planks"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:pream_phantasm_kitchen_wall_counter"
+  }
+}

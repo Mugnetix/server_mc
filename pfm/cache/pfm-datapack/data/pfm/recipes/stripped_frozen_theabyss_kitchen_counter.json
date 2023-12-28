@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "theabyss:stripped_frozen_log"
+    },
+    {
+      "item": "theabyss:stripped_frozen_log"
+    },
+    {
+      "item": "theabyss:stripped_frozen_log"
+    },
+    {
+      "item": "theabyss:stripped_frozen_log"
+    },
+    {
+      "item": "theabyss:stripped_frozen_log"
+    },
+    {
+      "item": "theabyss:stripped_frozen_log"
+    },
+    {
+      "item": "theabyss:frozen_planks"
+    },
+    {
+      "item": "theabyss:frozen_planks"
+    },
+    {
+      "item": "theabyss:frozen_planks"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:stripped_frozen_theabyss_kitchen_counter"
+  }
+}

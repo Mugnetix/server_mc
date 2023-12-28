@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "theabyss:slimed_planks"
+    },
+    {
+      "item": "theabyss:slimed_planks"
+    },
+    {
+      "item": "theabyss:slimed_planks"
+    },
+    {
+      "item": "minecraft:light_blue_bed"
+    },
+    {
+      "item": "theabyss:slimed_fence"
+    },
+    {
+      "item": "theabyss:slimed_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:slimed_theabyss_light_blue_classic_bed"
+  }
+}

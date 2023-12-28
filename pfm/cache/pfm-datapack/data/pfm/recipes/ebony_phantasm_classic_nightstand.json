@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "phantasm:ebony_stem"
+    },
+    {
+      "item": "phantasm:ebony_stem"
+    },
+    {
+      "item": "phantasm:ebony_stem"
+    },
+    {
+      "item": "phantasm:ebony_stem"
+    },
+    {
+      "item": "phantasm:ebony_stem"
+    },
+    {
+      "item": "phantasm:ebony_stem"
+    },
+    {
+      "item": "phantasm:ebony_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:ebony_phantasm_classic_nightstand"
+  }
+}

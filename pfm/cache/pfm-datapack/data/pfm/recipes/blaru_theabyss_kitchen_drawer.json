@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "theabyss:blaru_planks"
+    },
+    {
+      "item": "theabyss:blaru_planks"
+    },
+    {
+      "item": "theabyss:blaru_planks"
+    },
+    {
+      "item": "theabyss:blaru_planks"
+    },
+    {
+      "item": "theabyss:blaru_planks"
+    },
+    {
+      "item": "theabyss:blaru_log"
+    },
+    {
+      "item": "theabyss:blaru_log"
+    },
+    {
+      "item": "theabyss:blaru_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:blaru_theabyss_kitchen_drawer"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "theabyss:blaru_log"
+    },
+    {
+      "item": "theabyss:blaru_log"
+    },
+    {
+      "item": "theabyss:blaru_planks"
+    },
+    {
+      "item": "theabyss:blaru_planks"
+    },
+    {
+      "item": "theabyss:blaru_planks"
+    },
+    {
+      "item": "theabyss:blaru_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:blaru_theabyss_chair"
+  }
+}

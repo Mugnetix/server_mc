@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "phantasm:ebony_stem"
+    },
+    {
+      "item": "phantasm:ebony_stem"
+    },
+    {
+      "item": "phantasm:ebony_stem"
+    },
+    {
+      "item": "phantasm:ebony_planks"
+    },
+    {
+      "item": "phantasm:ebony_planks"
+    },
+    {
+      "item": "phantasm:ebony_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:ebony_phantasm_table_dinner"
+  }
+}

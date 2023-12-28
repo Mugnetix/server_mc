@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "theabyss:slimed_planks"
+    },
+    {
+      "item": "theabyss:slimed_planks"
+    },
+    {
+      "item": "theabyss:slimed_planks"
+    },
+    {
+      "item": "theabyss:slimed_planks"
+    },
+    {
+      "item": "theabyss:slimed_planks"
+    },
+    {
+      "item": "minecraft:cyan_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:slimed_theabyss_cyan_simple_bed"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "phantasm:pream_log"
+    },
+    {
+      "item": "phantasm:pream_log"
+    },
+    {
+      "item": "phantasm:pream_log"
+    },
+    {
+      "item": "phantasm:pream_log"
+    },
+    {
+      "item": "phantasm:pream_planks"
+    },
+    {
+      "item": "phantasm:pream_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:pream_phantasm_chair_classic"
+  }
+}
