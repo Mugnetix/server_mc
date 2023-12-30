@@ -6945,6 +6945,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald_from_smelting_deepslate_emerald_ore": {
+    "criteria": {
+      "has_deepslate_emerald_ore": "2023-12-30 02:15:43 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2023-11-25 00:34:34 +0100"
@@ -14444,6 +14450,7 @@
       "baked_potato": "2023-11-25 01:07:57 +0100",
       "beef": "2023-12-23 15:20:27 +0100",
       "potato": "2023-12-30 00:54:12 +0100",
+      "cooked_cod": "2023-12-30 02:58:01 +0100",
       "pumpkin_pie": "2023-12-28 23:51:05 +0100",
       "bread": "2023-11-23 22:57:08 +0100",
       "golden_apple": "2023-12-23 15:04:53 +0100",
@@ -15286,6 +15293,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2023-12-13 00:25:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_blasting_deepslate_emerald_ore": {
+    "criteria": {
+      "has_deepslate_emerald_ore": "2023-12-30 02:15:43 +0100"
     },
     "done": true
   },
