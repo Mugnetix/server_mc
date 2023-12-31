@@ -1175,6 +1175,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/chicken_parm": {
+    "criteria": {
+      "chicken_parm": "2023-12-31 01:16:23 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2023-11-24 00:26:09 +0100"
@@ -1496,6 +1502,12 @@
   "extradelight:recipes/extradelight.aesthetic/warped_molded_lime_wallpaper": {
     "criteria": {
       "lime_warped_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/hashbrowns_smelt": {
+    "criteria": {
+      "Recipes": "2023-12-31 01:24:37 +0100"
     },
     "done": true
   },
@@ -2398,6 +2410,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/mixingbowl/pasta_alfredo": {
+    "criteria": {
+      "Recipes": "2023-12-31 00:53:58 +0100"
+    },
+    "done": true
+  },
   "extradelight:recipes/food/chicken6": {
     "criteria": {
       "chicken": "2023-11-23 01:46:52 +0100"
@@ -2521,6 +2539,12 @@
   "pfm:recipes/pfm.furniture/oak_classic_nightstand": {
     "criteria": {
       "has_planks": "2023-11-26 02:01:51 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/furikake_rice": {
+    "criteria": {
+      "Recipes": "2023-12-31 00:47:57 +0100"
     },
     "done": true
   },
@@ -5121,6 +5145,7 @@
   },
   "extradelight:ingredients": {
     "criteria": {
+      "ALFREDO_SAUCE": "2023-12-31 00:53:58 +0100",
       "SLICED_APPLE": "2023-11-25 00:05:45 +0100",
       "FLOUR": "2023-12-09 19:26:16 +0100",
       "COOKING_OIL": "2023-12-23 13:50:57 +0100",
@@ -5131,6 +5156,7 @@
       "EGG_MIX": "2023-11-25 00:27:04 +0100",
       "SLICED_POTATO": "2023-12-26 22:00:34 +0100",
       "GRATED_CARROT": "2023-12-23 13:51:12 +0100",
+      "FURIKAKE": "2023-12-31 00:47:57 +0100",
       "BUTTER": "2023-11-27 14:37:35 +0100",
       "SLICED_ONION": "2023-12-27 00:30:17 +0100",
       "SLICED_TOMATO": "2023-12-23 14:35:54 +0100",
@@ -5242,10 +5268,13 @@
   },
   "extradelight:meals": {
     "criteria": {
+      "PORK_TENDERLOIN_SANDWICH": "2023-12-31 00:53:49 +0100",
       "MEAT_LOAF_SANDWICH": "2023-12-24 22:22:21 +0100",
       "SEAWEED_SALAD": "2023-12-24 22:17:42 +0100",
+      "SCRAMBLED_EGGS": "2023-12-31 01:16:25 +0100",
       "GRILLED_CHEESE": "2023-12-24 22:22:45 +0100",
       "EGG_SALAD": "2023-12-23 13:50:58 +0100",
+      "FRIED_CHICKEN": "2023-12-31 01:16:23 +0100",
       "HAGGIS": "2023-11-25 00:27:02 +0100",
       "PASTA_TOMATO": "2023-12-26 22:00:57 +0100",
       "JERKY": "2023-11-24 01:42:10 +0100",
@@ -5259,15 +5288,18 @@
       "FISH_CAKES": "2023-12-26 22:00:59 +0100",
       "CACTUS_SALAD": "2023-11-25 00:27:03 +0100",
       "TOMATO_SOUP": "2023-12-26 22:01:02 +0100",
+      "SALISBURY_STEAK": "2023-12-31 01:15:04 +0100",
       "APPLE_SAUCE": "2023-12-23 13:51:13 +0100",
       "MASHED_POTATO_GRAVY": "2023-12-23 14:35:52 +0100",
       "CHICKEN_ALFREDO": "2023-12-26 22:00:59 +0100",
       "SALAD": "2023-12-24 22:17:42 +0100",
+      "ROASTED_APPLE": "2023-12-31 01:15:11 +0100",
       "COOKED_PASTA": "2023-12-28 23:20:23 +0100",
       "QUICHE_SLICE": "2023-12-10 01:17:20 +0100",
       "RICEBALL": "2023-12-24 22:18:54 +0100",
       "PORK_STEW_RICE": "2023-11-23 15:00:47 +0100",
       "JAM_TOAST": "2023-12-27 00:30:33 +0100",
+      "COOKED_CACTUS": "2023-12-31 00:53:57 +0100",
       "POTATO_SOUP": "2023-12-23 14:08:54 +0100",
       "FRIED_FISH": "2023-12-24 22:22:23 +0100",
       "CARROT_SALAD": "2023-12-24 19:15:10 +0100",
@@ -6813,6 +6845,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/cactus_fire": {
+    "criteria": {
+      "Recipes": "2023-12-31 00:53:57 +0100"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/mahogany_wood": {
     "criteria": {
       "has_log": "2023-12-23 16:46:14 +0100"
@@ -7834,6 +7872,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/roasted_apple_fire": {
+    "criteria": {
+      "Recipes": "2023-12-31 01:15:11 +0100"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/inception_upgrade": {
     "criteria": {
       "has_upgrade_base": "2023-11-24 23:44:19 +0100"
@@ -8328,6 +8372,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/hashbrowns_fire": {
+    "criteria": {
+      "Recipes": "2023-12-31 01:24:37 +0100"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/dark_oak_chair_dinner": {
     "criteria": {
       "has_planks": "2023-11-26 02:01:51 +0100"
@@ -8583,6 +8633,12 @@
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2023-11-22 23:47:59 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/cactus_smoke": {
+    "criteria": {
+      "Recipes": "2023-12-31 00:53:57 +0100"
     },
     "done": true
   },
@@ -9308,9 +9364,13 @@
   },
   "extradelight:desert": {
     "criteria": {
+      "SWEET_BERRY_PIE_SLICE": "2023-12-31 00:53:50 +0100",
+      "GLOW_BERRY_CHEESECAKE_SLICE": "2023-12-31 00:53:50 +0100",
       "PUMPKIN_COOKIE": "2023-12-23 13:51:12 +0100",
       "PUMPKIN_CUSTARD": "2023-12-24 22:22:22 +0100",
+      "CHEESECAKE_SLICE": "2023-12-31 01:16:30 +0100",
       "GLOW_BERRY_COOKIE": "2023-12-24 22:18:36 +0100",
+      "HONEY_CHEESECAKE_SLICE": "2023-12-31 00:54:02 +0100",
       "FUDGE_POPSICLE": "2023-11-25 00:27:02 +0100",
       "SWEET_BERRY_POPSICLE": "2023-12-24 22:23:16 +0100",
       "HONEY_POPSICLE": "2023-12-23 13:50:57 +0100",
@@ -10260,6 +10320,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/roasted_apple_smelt": {
+    "criteria": {
+      "Recipes": "2023-12-31 01:15:11 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_small_bricks_slab": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:33 +0100"
@@ -11060,6 +11126,12 @@
     },
     "done": true
   },
+  "endrem:main/old_eye": {
+    "criteria": {
+      "old_eye": "2023-12-31 01:30:16 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_basketweave_slab": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -11081,6 +11153,12 @@
   "extradelight:recipes/extradelight.items/iron_spoon": {
     "criteria": {
       "Recipes": "2023-11-23 00:28:43 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/egg_mix_smelt": {
+    "criteria": {
+      "Recipes": "2023-12-31 01:16:25 +0100"
     },
     "done": true
   },
@@ -11528,9 +11606,21 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/egg_mix_fire": {
+    "criteria": {
+      "Recipes": "2023-12-31 01:16:25 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2023-11-23 14:24:48 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/hashbrowns_smoke": {
+    "criteria": {
+      "Recipes": "2023-12-31 01:24:37 +0100"
     },
     "done": true
   },
@@ -13391,6 +13481,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed_by": "2023-12-31 00:45:55 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_stonecutter_stair": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -13556,6 +13652,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab": {
     "criteria": {
       "has_deepslate_tiles": "2023-11-26 02:28:39 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/roasted_apple_smoke": {
+    "criteria": {
+      "Recipes": "2023-12-31 01:15:11 +0100"
     },
     "done": true
   },
@@ -14215,6 +14317,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_the_recipe": "2023-12-07 00:59:31 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/mixingbowl/chicken_alfredo": {
+    "criteria": {
+      "Recipes": "2023-12-31 00:53:58 +0100"
     },
     "done": true
   },
@@ -15074,6 +15182,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/cactus_smelt": {
+    "criteria": {
+      "Recipes": "2023-12-31 00:53:57 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/magebloom_to_pink": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:33 +0100"
@@ -15422,6 +15536,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/cooked_cactus": {
+    "criteria": {
+      "Recipes": "2023-12-31 00:53:57 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_basketweave_stone_cutterslab": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:33 +0100"
@@ -15731,6 +15851,12 @@
   "endrem:main/witch_eye": {
     "criteria": {
       "witch_eye": "2023-12-26 23:55:29 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/egg_mix_smoke": {
+    "criteria": {
+      "Recipes": "2023-12-31 01:16:25 +0100"
     },
     "done": true
   },
