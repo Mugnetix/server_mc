@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "truedarkness:darkness_spruce_log"
+    },
+    {
+      "item": "truedarkness:darkness_spruce_log"
+    },
+    {
+      "item": "truedarkness:darkness_spruce_log"
+    },
+    {
+      "item": "truedarkness:darkness_spruce_log"
+    },
+    {
+      "item": "truedarkness:darkness_spruce_log"
+    },
+    {
+      "item": "truedarkness:darkness_spruce_planks"
+    },
+    {
+      "item": "truedarkness:darkness_spruce_planks"
+    },
+    {
+      "item": "truedarkness:darkness_spruce_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:darkness_spruce_truedarkness_table_modern_dinner"
+  }
+}

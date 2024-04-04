@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "truedarkness:stripped_mycelium_log"
+    },
+    {
+      "item": "truedarkness:stripped_mycelium_log"
+    },
+    {
+      "item": "truedarkness:stripped_mycelium_log"
+    },
+    {
+      "item": "truedarkness:stripped_mycelium_log"
+    },
+    {
+      "item": "truedarkness:stripped_mycelium_log"
+    },
+    {
+      "item": "truedarkness:stripped_mycelium_log"
+    },
+    {
+      "item": "truedarkness:mycelium_planks"
+    },
+    {
+      "item": "truedarkness:mycelium_planks"
+    },
+    {
+      "item": "truedarkness:mycelium_planks"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:stripped_mycelium_truedarkness_kitchen_counter"
+  }
+}
