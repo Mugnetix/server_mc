@@ -1,0 +1,29 @@
+{
+  "type": "pfm:furniture",
+  "ingredients": [
+    {
+      "item": "minecraft:lime_wool"
+    },
+    {
+      "item": "minecraft:lime_wool"
+    },
+    {
+      "item": "minecraft:lime_wool"
+    },
+    {
+      "item": "deeperdarker:stripped_echo_log"
+    },
+    {
+      "item": "deeperdarker:stripped_echo_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:basic_lamp",
+    "tag": {
+      "BlockEntityTag": {
+        "color": "lime",
+        "variant": "deeperdarker:echo"
+      }
+    }
+  }
+}
