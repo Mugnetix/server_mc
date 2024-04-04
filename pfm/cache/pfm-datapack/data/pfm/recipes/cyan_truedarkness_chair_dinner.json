@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "truedarkness:cyan_stem"
+    },
+    {
+      "item": "truedarkness:cyan_stem"
+    },
+    {
+      "item": "truedarkness:cyan_stem"
+    },
+    {
+      "item": "truedarkness:cyan_planks"
+    },
+    {
+      "item": "truedarkness:cyan_planks"
+    },
+    {
+      "item": "truedarkness:cyan_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:cyan_truedarkness_chair_dinner"
+  }
+}

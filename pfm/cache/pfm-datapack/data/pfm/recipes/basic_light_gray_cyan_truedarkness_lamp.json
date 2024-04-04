@@ -1,0 +1,29 @@
+{
+  "type": "pfm:furniture",
+  "ingredients": [
+    {
+      "item": "minecraft:light_gray_wool"
+    },
+    {
+      "item": "minecraft:light_gray_wool"
+    },
+    {
+      "item": "minecraft:light_gray_wool"
+    },
+    {
+      "item": "truedarkness:stripped_cyan_log"
+    },
+    {
+      "item": "truedarkness:stripped_cyan_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:basic_lamp",
+    "tag": {
+      "BlockEntityTag": {
+        "color": "light_gray",
+        "variant": "truedarkness:cyan"
+      }
+    }
+  }
+}

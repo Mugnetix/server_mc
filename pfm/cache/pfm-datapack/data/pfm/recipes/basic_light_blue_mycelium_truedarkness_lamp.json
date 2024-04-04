@@ -1,0 +1,29 @@
+{
+  "type": "pfm:furniture",
+  "ingredients": [
+    {
+      "item": "minecraft:light_blue_wool"
+    },
+    {
+      "item": "minecraft:light_blue_wool"
+    },
+    {
+      "item": "minecraft:light_blue_wool"
+    },
+    {
+      "item": "truedarkness:stripped_mycelium_log"
+    },
+    {
+      "item": "truedarkness:stripped_mycelium_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:basic_lamp",
+    "tag": {
+      "BlockEntityTag": {
+        "color": "light_blue",
+        "variant": "truedarkness:mycelium"
+      }
+    }
+  }
+}

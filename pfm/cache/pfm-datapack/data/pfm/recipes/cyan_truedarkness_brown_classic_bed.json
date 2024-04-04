@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "truedarkness:cyan_planks"
+    },
+    {
+      "item": "truedarkness:cyan_planks"
+    },
+    {
+      "item": "truedarkness:cyan_planks"
+    },
+    {
+      "item": "minecraft:brown_bed"
+    },
+    {
+      "item": "truedarkness:cyan_fence"
+    },
+    {
+      "item": "truedarkness:cyan_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:cyan_truedarkness_brown_classic_bed"
+  }
+}
