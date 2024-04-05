@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/jam_toast": {
+    "criteria": {
+      "Recipes": "2024-04-05 11:45:05 +0200"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.aesthetic/wallpaper_purple": {
     "criteria": {
       "purple_wallpaper": "2023-11-25 23:42:06 +0100"
@@ -1202,6 +1208,12 @@
   "ars_nouveau:recipes/combat/spike_to_arrow": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/bacon_cheeseburger_cheeseburger": {
+    "criteria": {
+      "Recipes": "2024-04-05 13:28:23 +0200"
     },
     "done": true
   },
@@ -5073,6 +5085,7 @@
       "minecraft:wither_skeleton": "2023-12-14 00:11:35 +0100",
       "minecraft:husk": "2023-12-07 23:04:05 +0100",
       "minecraft:cave_spider": "2023-11-25 23:10:10 +0100",
+      "minecraft:piglin": "2024-04-05 13:43:17 +0200",
       "minecraft:enderman": "2023-11-24 16:45:23 +0100",
       "minecraft:silverfish": "2023-12-06 17:02:00 +0100",
       "minecraft:stray": "2023-12-07 23:03:57 +0100",
@@ -5154,6 +5167,7 @@
       "OMELETTE_MIX": "2023-12-09 19:25:37 +0100",
       "BREAD_CRUMBS": "2023-12-26 22:00:23 +0100",
       "EGG_MIX": "2023-11-25 00:27:04 +0100",
+      "APPLE_JAM": "2024-04-05 11:45:05 +0200",
       "SLICED_POTATO": "2023-12-26 22:00:34 +0100",
       "GRATED_CARROT": "2023-12-23 13:51:12 +0100",
       "FURIKAKE": "2023-12-31 00:47:57 +0100",
@@ -5276,13 +5290,16 @@
       "EGG_SALAD": "2023-12-23 13:50:58 +0100",
       "FRIED_CHICKEN": "2023-12-31 01:16:23 +0100",
       "HAGGIS": "2023-11-25 00:27:02 +0100",
+      "CHICKEN_STEW": "2024-04-05 11:45:02 +0200",
       "PASTA_TOMATO": "2023-12-26 22:00:57 +0100",
       "JERKY": "2023-11-24 01:42:10 +0100",
       "SEAWEED_CRISPS": "2023-11-25 23:35:54 +0100",
+      "CHEESEBURGER": "2024-04-05 13:28:23 +0200",
       "CURRY_RICE": "2023-12-24 19:15:12 +0100",
       "ROASTED_CARROT": "2023-11-23 15:01:50 +0100",
       "SAUSAGE_ROLL": "2023-12-26 22:01:01 +0100",
       "MEAT_LOAF": "2023-11-23 15:00:48 +0100",
+      "RICEBALL_FILLED": "2024-04-05 13:28:28 +0200",
       "HASH": "2023-12-30 00:50:41 +0100",
       "FISH_SALAD_SANDWICH": "2023-12-28 23:20:16 +0100",
       "FISH_CAKES": "2023-12-26 22:00:59 +0100",
@@ -6479,6 +6496,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/play_jukebox_in_meadows": {
+    "criteria": {
+      "play_jukebox_in_meadows": "2024-04-05 12:23:26 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooked_bacon_from_campfire_cooking": {
     "criteria": {
       "cooked_bacon": "2023-11-23 02:13:15 +0100"
@@ -7055,6 +7078,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_pump_upgrade": {
+    "criteria": {
+      "has_pump_upgrade": "2024-04-05 13:20:24 +0200"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/pestle_granite": {
     "criteria": {
       "Recipes": "2023-11-22 23:42:24 +0100"
@@ -7292,6 +7321,12 @@
   "extradelight:recipes/extradelight.aesthetic/warped_molded_magenta_wallpaper": {
     "criteria": {
       "magenta_warped_wallpaper": "2023-11-25 23:42:05 +0100"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-04-05 11:02:14 +0200"
     },
     "done": true
   },
@@ -10062,6 +10097,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/lamb_stew_rice": {
+    "criteria": {
+      "has_lamb_stew": "2024-04-05 11:45:13 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/deepslate_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2023-11-26 02:01:51 +0100"
@@ -10859,6 +10900,12 @@
   "extradelight:recipes/extradelight.items/pestle_andesite": {
     "criteria": {
       "Recipes": "2023-11-22 23:43:21 +0100"
+    },
+    "done": true
+  },
+  "truedarkness:root_adv": {
+    "criteria": {
+      "root_adv": "2024-04-05 11:02:14 +0200"
     },
     "done": true
   },
@@ -13182,6 +13229,7 @@
   "extradelight:feasts": {
     "criteria": {
       "hotdish": "2023-12-26 22:01:01 +0100",
+      "lamb_stew": "2024-04-05 11:45:14 +0200",
       "quiche": "2023-12-09 19:37:47 +0100",
       "mash_potato": "2023-12-23 14:36:22 +0100"
     },
@@ -14353,6 +14401,12 @@
   "exoticbirds:recipes/white_birdhouse": {
     "criteria": {
       "has_wood": "2023-11-22 01:33:52 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/lamb_stew_bowl": {
+    "criteria": {
+      "has_lamb_stew": "2024-04-05 11:45:14 +0200"
     },
     "done": true
   },

@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-04-05 11:44:31 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/spruce_simple_stool": {
     "criteria": {
       "has_planks": "2023-11-27 13:44:49 +0100"
@@ -179,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-04-05 11:44:31 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2023-11-24 23:43:27 +0100"
@@ -212,6 +224,12 @@
   "pfm:recipes/pfm.furniture/dark_oak_simple_bunk_ladder": {
     "criteria": {
       "has_planks": "2023-11-27 13:51:21 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/jam_toast": {
+    "criteria": {
+      "Recipes": "2024-04-05 12:14:43 +0200"
     },
     "done": true
   },
@@ -473,6 +491,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2024-04-05 12:11:16 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall": {
     "criteria": {
       "has_polished_deepslate": "2023-12-08 01:57:21 +0100"
@@ -677,6 +701,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-04-05 13:21:22 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2023-11-24 23:39:01 +0100"
@@ -821,6 +851,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2024-04-05 11:19:46 +0200"
+    },
+    "done": true
+  },
   "exoticbirds:recipes/phoenix_egg_from_fire_phoenix": {
     "criteria": {
       "has_egg": "2023-11-22 22:25:30 +0100"
@@ -830,6 +866,12 @@
   "exoticbirds:recipes/birch_birdcage": {
     "criteria": {
       "has_stick": "2023-11-22 23:15:00 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2024-04-05 12:10:53 +0200"
     },
     "done": true
   },
@@ -938,6 +980,12 @@
   "fairylights:recipes/fairylights/incandescent_light": {
     "criteria": {
       "has_iron": "2024-04-04 22:09:02 +0200"
+    },
+    "done": true
+  },
+  "endrem:main/rogue_eye": {
+    "criteria": {
+      "rogue_eye": "2024-04-05 11:04:36 +0200"
     },
     "done": true
   },
@@ -1188,6 +1236,12 @@
     },
     "done": true
   },
+  "endrem:main/guardian_eye": {
+    "criteria": {
+      "guardian_eye": "2024-04-05 11:04:37 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/yellow_arm_chair": {
     "criteria": {
       "has_wool": "2023-11-27 13:44:49 +0100"
@@ -1335,9 +1389,12 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2023-12-12 22:53:53 +0100",
-      "minecraft:nether_wastes": "2023-12-13 00:39:26 +0100"
+      "minecraft:nether_wastes": "2023-12-13 00:39:26 +0100",
+      "minecraft:soul_sand_valley": "2024-04-05 14:32:47 +0200",
+      "minecraft:basalt_deltas": "2024-04-05 14:16:25 +0200",
+      "minecraft:warped_forest": "2024-04-05 14:05:55 +0200"
     },
-    "done": false
+    "done": true
   },
   "extradelight:recipes/extradelight.items/roasted_carrot_smelt": {
     "criteria": {
@@ -1459,6 +1516,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-04-05 12:10:59 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ritual_conjure_island_plains": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
@@ -1498,6 +1561,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_alternating_stonecutter_stair": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2024-04-05 12:11:16 +0200"
     },
     "done": true
   },
@@ -1594,6 +1663,12 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2023-11-23 22:50:42 +0100"
+    },
+    "done": true
+  },
+  "extradelight:oven": {
+    "criteria": {
+      "oven": "2024-04-05 11:44:55 +0200"
     },
     "done": true
   },
@@ -1717,6 +1792,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/mixingbowl/pasta_alfredo": {
+    "criteria": {
+      "Recipes": "2024-04-05 12:14:34 +0200"
+    },
+    "done": true
+  },
   "extradelight:recipes/food/chicken6": {
     "criteria": {
       "chicken": "2023-11-23 01:45:14 +0100"
@@ -1825,6 +1906,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/furikake_rice": {
+    "criteria": {
+      "Recipes": "2024-04-05 12:25:08 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/stone_kitchen_wall_counter": {
     "criteria": {
       "has_planks": "2023-11-27 13:58:48 +0100"
@@ -1885,9 +1972,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-04-05 12:10:59 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/tools/lead_from_straw": {
     "criteria": {
       "has_straw": "2023-11-25 23:08:28 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2024-04-05 12:11:16 +0200"
     },
     "done": true
   },
@@ -2371,6 +2470,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-04-05 11:44:31 +0200"
+    },
+    "done": true
+  },
   "extradelight:recipes/misc/lgray_azure": {
     "criteria": {
       "Recipes": "2023-11-27 16:12:40 +0100"
@@ -2581,6 +2686,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-04-05 11:44:31 +0200"
+    },
+    "done": true
+  },
   "extradelight:recipes/farmersdelight/bacon5": {
     "criteria": {
       "bacon": "2023-11-23 02:13:56 +0100"
@@ -2761,9 +2872,21 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/cactus_juice": {
+    "criteria": {
+      "Recipes": "2024-04-05 13:37:01 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/red_simple_sofa": {
     "criteria": {
       "has_wool": "2023-11-27 13:44:49 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
+    "criteria": {
+      "has_flower": "2024-04-05 14:06:26 +0200"
     },
     "done": true
   },
@@ -2827,6 +2950,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2024-04-05 13:59:10 +0200"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.aesthetic/spruce_molded_red_wallpaper": {
     "criteria": {
       "red_spruce_wallpaper": "2023-12-07 22:47:54 +0100"
@@ -2872,6 +3001,12 @@
   "extradelight:recipes/extradelight.aesthetic/oak_molded_orange_wallpaper": {
     "criteria": {
       "orange_oak_wallpaper": "2023-12-07 22:47:55 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2024-04-05 12:10:53 +0200"
     },
     "done": true
   },
@@ -3050,6 +3185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2024-04-05 13:59:10 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2023-11-24 23:39:01 +0100"
@@ -3095,6 +3236,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2023-11-22 23:15:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2024-04-05 12:39:12 +0200"
     },
     "done": true
   },
@@ -3266,6 +3413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-04-05 11:44:31 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2023-11-23 23:56:06 +0100"
@@ -3409,11 +3562,13 @@
       "shrubland": "2023-11-22 23:47:11 +0100",
       "rocky_shrubland": "2023-11-25 01:27:22 +0100",
       "scrubland": "2023-11-25 00:16:42 +0100",
+      "erupting_inferno": "2024-04-05 13:55:21 +0200",
       "highland": "2023-12-08 00:22:04 +0100",
       "jade_cliffs": "2023-11-22 23:15:28 +0100",
       "clover_patch": "2023-12-08 00:21:36 +0100",
       "wooded_scrubland": "2023-11-25 00:17:13 +0100",
       "maple_woods": "2023-12-08 00:41:58 +0100",
+      "crystalline_chasm": "2024-04-05 14:32:21 +0200",
       "orchard": "2023-11-25 00:17:52 +0100",
       "field": "2023-12-08 00:22:53 +0100",
       "lavender_forest": "2023-11-25 03:57:24 +0100",
@@ -3421,6 +3576,7 @@
       "coniferous_forest": "2023-11-22 23:54:12 +0100",
       "spider_nest": "2023-12-05 20:57:01 +0100",
       "redwood_forest": "2023-11-22 22:25:31 +0100",
+      "visceral_heap": "2024-04-05 13:50:20 +0200",
       "dune_beach": "2023-11-22 23:47:32 +0100",
       "highland_moor": "2023-12-08 00:21:54 +0100",
       "seasonal_forest": "2023-11-22 23:54:24 +0100",
@@ -3428,6 +3584,7 @@
       "fir_clearing": "2023-11-23 02:00:57 +0100",
       "prairie": "2023-11-22 23:47:26 +0100",
       "grassland": "2023-12-07 23:01:11 +0100",
+      "undergrowth": "2024-04-05 14:06:27 +0200",
       "crag": "2023-11-24 16:07:21 +0100",
       "snowy_maple_woods": "2023-12-08 00:41:26 +0100",
       "ominous_woods": "2023-11-24 16:33:18 +0100"
@@ -3588,7 +3745,9 @@
     "criteria": {
       "minecraft:pillager": "2023-11-25 00:08:36 +0100",
       "minecraft:skeleton": "2023-11-23 01:40:13 +0100",
+      "minecraft:hoglin": "2024-04-05 14:26:51 +0200",
       "minecraft:vindicator": "2023-12-07 23:22:36 +0100",
+      "minecraft:magma_cube": "2024-04-05 13:54:58 +0200",
       "minecraft:spider": "2023-11-23 23:23:37 +0100",
       "minecraft:creeper": "2023-11-23 23:23:35 +0100",
       "minecraft:slime": "2023-11-24 15:31:50 +0100",
@@ -3639,9 +3798,14 @@
   },
   "extradelight:ingredients": {
     "criteria": {
+      "ALFREDO_SAUCE": "2024-04-05 12:14:34 +0200",
       "SLICED_APPLE": "2023-11-24 23:52:21 +0100",
       "FLOUR": "2023-11-25 23:12:27 +0100",
       "COOKING_OIL": "2023-11-25 23:12:32 +0100",
+      "CACTUS": "2024-04-05 13:37:01 +0200",
+      "APPLE_JAM": "2024-04-05 12:14:43 +0200",
+      "SLICED_POTATO": "2024-04-05 11:26:23 +0200",
+      "FURIKAKE": "2024-04-05 12:25:08 +0200",
       "BUTTER": "2023-11-27 14:37:39 +0100",
       "GRAVY": "2023-11-26 00:08:05 +0100"
     },
@@ -3723,7 +3887,8 @@
     "criteria": {
       "JERKY": "2023-11-24 01:43:23 +0100",
       "SEAWEED_CRISPS": "2023-11-25 23:14:29 +0100",
-      "ROASTED_CARROT": "2023-11-24 00:36:54 +0100"
+      "ROASTED_CARROT": "2023-11-24 00:36:54 +0100",
+      "RICEBALL": "2024-04-05 12:14:32 +0200"
     },
     "done": false
   },
@@ -3910,6 +4075,12 @@
   "pfm:recipes/pfm.furniture/oak_kitchen_counter": {
     "criteria": {
       "has_planks": "2023-11-27 13:44:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-04-05 13:59:10 +0200"
     },
     "done": true
   },
@@ -4159,6 +4330,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
+    "criteria": {
+      "has_rose_quartz_shard": "2024-04-05 14:32:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-04-05 11:44:31 +0200"
+    },
+    "done": true
+  },
   "beautify:iron_blinds": {
     "criteria": {
       "requirement": "2023-12-13 00:38:01 +0100"
@@ -4219,6 +4402,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-04-05 11:44:31 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/stripped_spruce_table_log": {
     "criteria": {
       "has_log": "2023-11-27 13:44:50 +0100"
@@ -4243,9 +4432,63 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/cooked_cactus1": {
+    "criteria": {
+      "cooked_cactus": "2024-04-05 13:37:01 +0200"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/cooked_cactus2": {
+    "criteria": {
+      "cooked_cactus": "2024-04-05 13:37:01 +0200"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/cooked_cactus3": {
+    "criteria": {
+      "cooked_cactus": "2024-04-05 13:37:01 +0200"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/cooked_cactus4": {
+    "criteria": {
+      "cooked_cactus": "2024-04-05 13:37:01 +0200"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/cooked_cactus5": {
+    "criteria": {
+      "cooked_cactus": "2024-04-05 13:37:01 +0200"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/cooked_cactus6": {
+    "criteria": {
+      "cooked_cactus": "2024-04-05 13:37:01 +0200"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/cooked_cactus7": {
+    "criteria": {
+      "cooked_cactus": "2024-04-05 13:37:01 +0200"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/cooked_cactus8": {
+    "criteria": {
+      "cooked_cactus": "2024-04-05 13:37:01 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/beef_patty_from_campfire_cooking": {
     "criteria": {
       "beef_patty": "2023-11-27 18:28:52 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/cooked_cactus9": {
+    "criteria": {
+      "cooked_cactus": "2024-04-05 13:37:01 +0200"
     },
     "done": true
   },
@@ -4435,6 +4678,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-04-05 11:44:31 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2023-11-23 22:50:45 +0100"
@@ -4444,6 +4693,12 @@
   "pfm:recipes/pfm.furniture/stripped_spruce_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2023-11-27 13:44:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-04-05 11:44:31 +0200"
     },
     "done": true
   },
@@ -4975,6 +5230,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/misc/red_beet": {
+    "criteria": {
+      "Recipes": "2024-04-05 12:10:59 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2023-11-22 23:15:44 +0100"
@@ -5085,7 +5346,11 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2024-04-05 12:10:55 +0200",
+      "tomato": "2024-04-05 12:11:26 +0200",
       "kelp": "2023-12-07 22:32:00 +0100",
+      "beetroot": "2024-04-05 12:11:02 +0200",
+      "potato": "2024-04-05 11:09:07 +0200",
       "wheat": "2023-11-23 22:50:36 +0100",
       "carrot": "2023-11-25 03:18:11 +0100"
     },
@@ -5361,6 +5626,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/tomato_juice": {
+    "criteria": {
+      "Recipes": "2024-04-05 12:11:16 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/stone_kitchen_sink": {
     "criteria": {
       "has_planks": "2023-11-27 13:58:48 +0100"
@@ -5457,9 +5728,21 @@
     },
     "done": true
   },
+  "extradelight:trays": {
+    "criteria": {
+      "sheet": "2024-04-05 11:30:42 +0200"
+    },
+    "done": false
+  },
   "ars_nouveau:recipes/ars_nouveau/arcane_pedestal": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2024-04-05 11:19:46 +0200"
     },
     "done": true
   },
@@ -5496,6 +5779,12 @@
   "exoticbirds:recipes/phoenix_egg_from_cloud_phoenix": {
     "criteria": {
       "has_egg": "2023-11-22 22:25:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2024-04-05 13:59:10 +0200"
     },
     "done": true
   },
@@ -5877,6 +6166,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/salad_veg": {
+    "criteria": {
+      "Recipes": "2024-04-05 12:10:53 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2023-11-25 21:34:38 +0100"
@@ -5886,6 +6181,12 @@
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2023-11-28 02:14:42 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mossy_cobblestone_from_willow_vine": {
+    "criteria": {
+      "has_vine": "2024-04-05 14:25:57 +0200"
     },
     "done": true
   },
@@ -6327,6 +6628,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2024-04-05 13:59:10 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/white_shower_towel": {
     "criteria": {
       "has_white_wool": "2023-11-28 02:00:38 +0100"
@@ -6477,6 +6784,13 @@
     },
     "done": true
   },
+  "extradelight:desert": {
+    "criteria": {
+      "PUMPKIN_COOKIE": "2024-04-05 11:46:17 +0200",
+      "PUMPKIN_CUSTARD": "2024-04-05 13:37:21 +0200"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2023-11-22 23:15:40 +0100"
@@ -6555,6 +6869,12 @@
     },
     "done": true
   },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2024-04-05 11:04:35 +0200"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/oven/pumpkin_cookie": {
     "criteria": {
       "has_any_ingredient": "2023-11-23 02:19:03 +0100"
@@ -6579,9 +6899,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_upgrade_base": "2024-04-05 13:23:55 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2023-11-23 02:01:21 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stack_upgrade_tier_3": {
+    "criteria": {
+      "has_upgrade_base": "2024-04-05 13:24:29 +0200"
     },
     "done": true
   },
@@ -6975,6 +7307,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-04-05 11:44:31 +0200"
+    },
+    "done": true
+  },
   "skilltree:recipes/skilltree/silent_quiver": {
     "criteria": {
       "has_feather": "2023-11-22 23:32:40 +0100"
@@ -7203,6 +7541,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2024-04-05 11:43:44 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2023-11-23 02:01:19 +0100"
@@ -7212,6 +7556,12 @@
   "ars_nouveau:recipes/ars_nouveau/ring_of_potential": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-04-05 12:10:59 +0200"
     },
     "done": true
   },
@@ -7368,6 +7718,12 @@
   "fairylights:recipes/fairylights/square_pennant": {
     "criteria": {
       "has_string": "2024-04-04 22:09:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-04-05 11:44:31 +0200"
     },
     "done": true
   },
@@ -7585,6 +7941,12 @@
   "extradelight:recipes/extradelight.items/cheeseburger": {
     "criteria": {
       "Recipes": "2023-11-23 02:19:19 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/oven/potato_au_gratin_feast": {
+    "criteria": {
+      "has_any_ingredient": "2024-04-05 11:26:23 +0200"
     },
     "done": true
   },
@@ -7870,9 +8232,21 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/mortar/cooking_oil": {
+    "criteria": {
+      "Recipes": "2024-04-05 11:25:55 +0200"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/battery_upgrade": {
     "criteria": {
       "has_upgrade_base": "2023-12-13 00:38:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-04-05 13:59:10 +0200"
     },
     "done": true
   },
@@ -8470,6 +8844,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/salad_meat": {
+    "criteria": {
+      "Recipes": "2024-04-05 12:10:53 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2023-11-24 23:39:01 +0100"
@@ -8755,6 +9135,12 @@
   "pfm:recipes/pfm.furniture/stripped_dark_oak_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2023-11-27 16:03:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-04-05 11:44:31 +0200"
     },
     "done": true
   },
@@ -9157,6 +9543,18 @@
   "extradelight:recipes/extradelight.aesthetic/mangrove_molded_red_wallpaper": {
     "criteria": {
       "red_mangrove_wallpaper": "2023-12-07 22:47:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-04-05 11:44:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-04-05 13:59:10 +0200"
     },
     "done": true
   },
@@ -9577,6 +9975,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_large_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-04-05 13:59:10 +0200"
     },
     "done": true
   },
@@ -10056,6 +10460,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/mixingbowl/chicken_alfredo": {
+    "criteria": {
+      "Recipes": "2024-04-05 12:14:34 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2023-11-22 23:15:44 +0100"
@@ -10143,6 +10553,12 @@
   "extradelight:recipes/extradelight.aesthetic/jungle_molded_white_wallpaper": {
     "criteria": {
       "white_jungle_wallpaper": "2023-12-07 22:47:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2024-04-05 13:59:10 +0200"
     },
     "done": true
   },
@@ -10244,6 +10660,12 @@
       "carrot": "2023-11-25 21:24:45 +0100"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-04-05 11:44:31 +0200"
+    },
+    "done": true
   },
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_basketweave_stonecutter_stair": {
     "criteria": {
@@ -10815,6 +11237,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-04-05 13:57:52 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/pasta_with_mutton_chop": {
     "criteria": {
       "has_any_ingredient": "2023-11-22 23:15:40 +0100"
@@ -10983,6 +11411,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-04-05 11:44:31 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ritual_burrowing": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
@@ -10992,6 +11426,12 @@
   "pfm:recipes/pfm.furniture/stripped_oak_kitchen_counter": {
     "criteria": {
       "has_planks": "2023-11-27 13:44:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-04-05 11:44:31 +0200"
     },
     "done": true
   },
@@ -11151,6 +11591,12 @@
     },
     "done": true
   },
+  "endrem:main/witch_eye": {
+    "criteria": {
+      "witch_eye": "2024-04-05 11:04:34 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2023-11-22 23:21:27 +0100"
@@ -11247,6 +11693,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2024-04-05 14:10:20 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/rotating_turret_to_basic_spell_turret": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
@@ -11322,6 +11774,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/compacting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2023-12-13 00:38:36 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/sheet": {
+    "criteria": {
+      "has_the_recipe": "2024-04-05 11:30:41 +0200"
     },
     "done": true
   },

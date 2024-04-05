@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-04-05 14:17:09 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2023-11-27 15:19:08 +0100"
@@ -209,6 +215,12 @@
     },
     "done": true
   },
+  "fairylights:recipes/fairylights/candle_lantern": {
+    "criteria": {
+      "has_torch": "2024-04-05 12:44:15 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2023-12-12 22:57:13 +0100"
@@ -275,6 +287,12 @@
     },
     "done": true
   },
+  "fairylights:recipes/fairylights/tinsel_garland": {
+    "criteria": {
+      "has_iron": "2024-04-05 12:46:29 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/green_arm_chair": {
     "criteria": {
       "has_wool": "2023-11-27 13:53:02 +0100"
@@ -308,6 +326,12 @@
   "pfm:recipes/pfm.furniture/oak_chair_dinner": {
     "criteria": {
       "has_planks": "2023-11-27 14:43:36 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/bacon_and_eggs": {
+    "criteria": {
+      "has_bacon": "2024-04-05 12:45:24 +0200"
     },
     "done": true
   },
@@ -521,6 +545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-04-05 14:17:09 +0200"
+    },
+    "done": true
+  },
   "exoticbirds:recipes/cyan_birdhouse": {
     "criteria": {
       "has_wood": "2023-11-27 13:47:56 +0100"
@@ -584,6 +614,12 @@
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2023-11-27 14:37:15 +0100"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/oil_lantern_light": {
+    "criteria": {
+      "has_iron": "2024-04-05 12:46:29 +0200"
     },
     "done": true
   },
@@ -719,12 +755,6 @@
     },
     "done": true
   },
-  "iammusicplayer:recipes/iammusicplayer.iammusicplayer/music_manager": {
-    "criteria": {
-      "has_diamond": "2023-12-12 23:09:01 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2023-11-27 15:16:25 +0100"
@@ -758,6 +788,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2023-11-27 15:19:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2024-04-05 14:00:07 +0200"
     },
     "done": true
   },
@@ -821,6 +857,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2024-04-05 14:02:45 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-11-27 14:38:08 +0100"
@@ -860,6 +902,18 @@
   "pfm:recipes/pfm.furniture/stone_chair_dinner": {
     "criteria": {
       "stone_chair_dinner": "2023-12-12 22:57:13 +0100"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/meteor_light": {
+    "criteria": {
+      "has_iron": "2024-04-05 12:46:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-04-05 13:08:09 +0200"
     },
     "done": true
   },
@@ -977,6 +1031,12 @@
     },
     "done": true
   },
+  "extradelight:desert": {
+    "criteria": {
+      "PUMPKIN_COOKIE": "2024-04-05 12:45:23 +0200"
+    },
+    "done": false
+  },
   "beautify:rope": {
     "criteria": {
       "requirement": "2023-12-12 17:19:18 +0100"
@@ -1043,6 +1103,12 @@
     },
     "done": true
   },
+  "fairylights:recipes/fairylights/star_light": {
+    "criteria": {
+      "has_iron": "2024-04-05 12:46:29 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2023-12-12 17:36:39 +0100"
@@ -1088,6 +1154,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_slab": {
     "criteria": {
       "has_journal": "2023-11-27 13:46:28 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/bacon_egg_sandwich_full": {
+    "criteria": {
+      "Recipes": "2024-04-05 12:45:24 +0200"
     },
     "done": true
   },
@@ -1145,6 +1217,12 @@
     },
     "done": true
   },
+  "fairylights:recipes/fairylights/incandescent_light": {
+    "criteria": {
+      "has_torch": "2024-04-05 12:44:15 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ritual_flight": {
     "criteria": {
       "has_journal": "2023-11-27 13:46:28 +0100"
@@ -1166,6 +1244,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2023-11-27 16:31:11 +0100"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/flower_light": {
+    "criteria": {
+      "has_iron": "2024-04-05 12:46:29 +0200"
     },
     "done": true
   },
@@ -1331,6 +1415,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/bacon_egg_sandwich": {
+    "criteria": {
+      "Recipes": "2024-04-05 12:45:24 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2023-11-27 16:27:12 +0100"
@@ -1401,6 +1491,12 @@
   "extradelight:recipes/extradelight.aesthetic/crimson_molded_magenta_wallpaper": {
     "criteria": {
       "magenta_crimson_wallpaper": "2023-12-12 23:45:27 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/nether_salad": {
+    "criteria": {
+      "has_bowl": "2024-04-05 13:33:11 +0200"
     },
     "done": true
   },
@@ -1536,6 +1632,12 @@
     },
     "done": true
   },
+  "ferdinandsflowers:recipes/misc/jack_o_lantern_light_fan": {
+    "criteria": {
+      "has_jack_o_lantern_light": "2024-04-05 14:31:42 +0200"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_yellow_from_white": {
     "criteria": {
       "has_sleeping_bag": "2023-11-27 16:02:17 +0100"
@@ -1608,6 +1710,12 @@
     },
     "done": true
   },
+  "fairylights:recipes/fairylights/icicle_lights": {
+    "criteria": {
+      "has_iron": "2024-04-05 12:46:29 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_small_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2023-11-27 13:46:27 +0100"
@@ -1629,6 +1737,16 @@
   "biomesoplenty:recipes/transportation/jacaranda_boat": {
     "criteria": {
       "in_water": "2023-11-27 14:06:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-04-05 13:42:59 +0200",
+      "minecraft:nether_wastes": "2024-04-05 13:42:44 +0200",
+      "minecraft:soul_sand_valley": "2024-04-05 14:32:38 +0200",
+      "minecraft:basalt_deltas": "2024-04-05 14:16:37 +0200",
+      "minecraft:warped_forest": "2024-04-05 14:05:57 +0200"
     },
     "done": true
   },
@@ -1677,6 +1795,12 @@
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2023-12-12 17:36:39 +0100"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/paper_lantern": {
+    "criteria": {
+      "has_iron": "2024-04-05 12:46:29 +0200"
     },
     "done": true
   },
@@ -1890,6 +2014,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-04-05 13:42:43 +0200"
+    },
+    "done": true
+  },
   "ferdinandsflowers:recipes/decorations/purple_bottom_right": {
     "criteria": {
       "has_wheat_seeds": "2023-11-27 13:56:07 +0100"
@@ -2094,6 +2224,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2024-04-05 12:59:52 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/water_essence_to_bucket": {
     "criteria": {
       "has_journal": "2023-11-27 13:46:27 +0100"
@@ -2286,6 +2422,12 @@
     },
     "done": true
   },
+  "fairylights:recipes/fairylights/square_pennant": {
+    "criteria": {
+      "has_string": "2024-04-05 13:21:40 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ritual_flowering": {
     "criteria": {
       "has_journal": "2023-11-27 13:46:27 +0100"
@@ -2403,6 +2545,12 @@
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2023-11-27 14:41:39 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/hamburger": {
+    "criteria": {
+      "has_beef_patty": "2024-04-05 12:45:25 +0200"
     },
     "done": true
   },
@@ -2592,6 +2740,12 @@
     },
     "done": true
   },
+  "truedarkness:root_adv": {
+    "criteria": {
+      "root_adv": "2024-04-05 12:39:42 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_small_bricks_stairs": {
     "criteria": {
       "has_journal": "2023-11-27 13:46:28 +0100"
@@ -2628,6 +2782,12 @@
     },
     "done": true
   },
+  "fairylights:recipes/fairylights/witch_light": {
+    "criteria": {
+      "has_iron": "2024-04-05 12:46:29 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/warped_white_classic_bed": {
     "criteria": {
       "has_bed": "2023-12-12 17:36:46 +0100"
@@ -2637,6 +2797,12 @@
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-12-12 17:36:46 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/cheeseburger": {
+    "criteria": {
+      "Recipes": "2024-04-05 12:45:25 +0200"
     },
     "done": true
   },
@@ -2736,6 +2902,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-04-05 13:42:43 +0200"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/omelette_mix_mix": {
     "criteria": {
       "Recipes": "2023-11-27 16:11:53 +0100"
@@ -2775,6 +2947,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_mosaic_stonecutter_stair": {
     "criteria": {
       "has_journal": "2023-11-27 13:46:27 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2024-04-05 13:33:11 +0200"
     },
     "done": true
   },
@@ -2841,6 +3019,12 @@
   "extradelight:recipes/extradelight.aesthetic/birch_molded_red_wallpaper": {
     "criteria": {
       "red_birch_wallpaper": "2023-12-12 23:45:27 +0100"
+    },
+    "done": true
+  },
+  "theabyss:unlockthebook": {
+    "criteria": {
+      "unlockthebook": "2024-04-05 12:39:42 +0200"
     },
     "done": true
   },
@@ -2964,9 +3148,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-04-05 14:00:07 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/oak_white_simple_bed": {
     "criteria": {
       "has_bed": "2023-12-12 17:36:46 +0100"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/fairy_light": {
+    "criteria": {
+      "has_iron": "2024-04-05 12:46:29 +0200"
     },
     "done": true
   },
@@ -3060,6 +3256,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/bacon_cheeseburger": {
+    "criteria": {
+      "Recipes": "2024-04-05 12:45:25 +0200"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.aesthetic/crimson_molded_pink_wallpaper": {
     "criteria": {
       "pink_crimson_wallpaper": "2023-12-12 23:45:27 +0100"
@@ -3126,9 +3328,21 @@
     },
     "done": true
   },
+  "fairylights:recipes/fairylights/spider_light": {
+    "criteria": {
+      "has_iron": "2024-04-05 12:46:29 +0200"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.aesthetic/jungle_step_stool": {
     "criteria": {
       "jungle_step_stool": "2023-11-27 13:47:56 +0100"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/moon_light": {
+    "criteria": {
+      "has_iron": "2024-04-05 12:46:29 +0200"
     },
     "done": true
   },
@@ -3231,6 +3445,12 @@
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "redwood_forest": "2023-11-27 13:46:29 +0100"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/candle_lantern_light": {
+    "criteria": {
+      "has_iron": "2024-04-05 12:46:29 +0200"
     },
     "done": true
   },
@@ -3354,6 +3574,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/bacon_sandwich": {
+    "criteria": {
+      "has_bacon": "2024-04-05 12:45:24 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/manipulation_essence_to_grass_block": {
     "criteria": {
       "has_journal": "2023-11-27 13:46:28 +0100"
@@ -3381,6 +3607,12 @@
   "ars_nouveau:recipes/ars_nouveau/sourcestone_basketweave_stairs": {
     "criteria": {
       "has_journal": "2023-11-27 13:46:28 +0100"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/spearhead_pennant": {
+    "criteria": {
+      "has_string": "2024-04-05 13:21:40 +0200"
     },
     "done": true
   },
@@ -3414,6 +3646,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2024-04-05 12:59:52 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2023-11-27 13:46:28 +0100"
@@ -3423,6 +3661,12 @@
   "pfm:recipes/pfm.furniture/kitchen_stovetop": {
     "criteria": {
       "has_iron_ingot": "2023-11-27 14:35:52 +0100"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/letter_bunting": {
+    "criteria": {
+      "has_iron": "2024-04-05 12:46:29 +0200"
     },
     "done": true
   },
@@ -3459,6 +3703,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2023-11-27 14:43:35 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
+    "criteria": {
+      "has_flower": "2024-04-05 14:07:15 +0200"
     },
     "done": true
   },
@@ -3579,6 +3829,12 @@
   "extradelight:recipes/extradelight.items/mortar_deepslate": {
     "criteria": {
       "Recipes": "2023-12-12 23:22:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2024-04-05 14:00:07 +0200"
     },
     "done": true
   },
@@ -3865,6 +4121,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2024-04-05 14:00:07 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-11-27 14:38:08 +0100"
@@ -3916,6 +4178,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2023-11-27 13:48:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2024-04-05 13:38:49 +0200"
     },
     "done": true
   },
@@ -4426,11 +4694,16 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "shrubland": "2023-11-27 13:50:58 +0100",
+      "rocky_shrubland": "2024-04-05 13:31:44 +0200",
+      "erupting_inferno": "2024-04-05 13:55:15 +0200",
+      "crystalline_chasm": "2024-04-05 14:32:04 +0200",
       "orchard": "2023-11-27 14:11:02 +0100",
       "spider_nest": "2023-11-27 14:44:07 +0100",
       "redwood_forest": "2023-11-27 13:46:29 +0100",
+      "visceral_heap": "2024-04-05 13:50:14 +0200",
       "lavender_field": "2023-11-27 13:48:06 +0100",
-      "prairie": "2023-11-27 13:52:53 +0100"
+      "prairie": "2023-11-27 13:52:53 +0100",
+      "undergrowth": "2024-04-05 14:06:26 +0200"
     },
     "done": false
   },
@@ -4813,6 +5086,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-04-05 14:00:07 +0200"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/mortar_granite": {
     "criteria": {
       "Recipes": "2023-11-27 17:16:20 +0100"
@@ -4830,6 +5109,13 @@
       "has_apple": "2023-11-27 14:21:27 +0100"
     },
     "done": true
+  },
+  "extradelight:meals": {
+    "criteria": {
+      "RICEBALL_FILLED": "2024-04-05 13:37:27 +0200",
+      "HASH": "2024-04-05 13:37:25 +0200"
+    },
+    "done": false
   },
   "exoticbirds:recipes/dark_oak_birdcage": {
     "criteria": {
@@ -5071,6 +5357,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-04-05 14:00:07 +0200"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/oak_cog": {
     "criteria": {
       "in_water": "2023-11-27 14:06:22 +0100"
@@ -5206,6 +5498,12 @@
   "pfm:recipes/pfm.furniture/stripped_oak_kitchen_sink": {
     "criteria": {
       "has_planks": "2023-11-27 15:26:19 +0100"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/snowflake_light": {
+    "criteria": {
+      "has_iron": "2024-04-05 12:46:29 +0200"
     },
     "done": true
   },
@@ -5354,6 +5652,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-04-05 14:00:07 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_sword": "2023-11-27 14:36:09 +0100"
@@ -5381,6 +5685,12 @@
   "pfm:recipes/pfm.furniture/calcite_chair_classic": {
     "criteria": {
       "calcite_chair_classic": "2023-11-27 17:19:05 +0100"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/heart_light": {
+    "criteria": {
+      "has_iron": "2024-04-05 12:46:29 +0200"
     },
     "done": true
   },
@@ -5786,6 +6096,12 @@
     },
     "done": true
   },
+  "fairylights:recipes/fairylights/skull_light": {
+    "criteria": {
+      "has_iron": "2024-04-05 12:46:29 +0200"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_cyan_from_white": {
     "criteria": {
       "has_sleeping_bag": "2023-11-27 16:02:17 +0100"
@@ -6050,6 +6366,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2024-04-05 14:00:07 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-12-12 17:36:46 +0100"
@@ -6134,6 +6456,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-04-05 14:17:09 +0200"
+    },
+    "done": true
+  },
   "exoticbirds:recipes/purple_birdhouse": {
     "criteria": {
       "has_wood": "2023-11-27 13:47:56 +0100"
@@ -6170,6 +6498,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2024-04-05 13:33:11 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2023-12-12 17:36:39 +0100"
@@ -6202,8 +6536,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-04-05 14:33:20 +0200",
       "cooked_beef": "2023-11-27 13:58:08 +0100",
       "beef": "2023-11-27 14:19:59 +0100",
+      "baked_potato": "2024-04-05 14:07:11 +0200",
       "apple": "2023-11-27 14:22:11 +0100",
       "bread": "2023-11-27 15:37:46 +0100",
       "rotten_flesh": "2023-11-27 15:05:08 +0100",
@@ -6211,6 +6547,12 @@
       "carrot": "2023-12-12 23:27:37 +0100"
     },
     "done": false
+  },
+  "fairylights:recipes/fairylights/garland": {
+    "criteria": {
+      "has_iron": "2024-04-05 12:46:29 +0200"
+    },
+    "done": true
   },
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_basketweave_stonecutter_stair": {
     "criteria": {
@@ -6404,6 +6746,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-04-05 14:17:09 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-11-27 14:38:08 +0100"
@@ -6485,6 +6833,12 @@
   "pfm:recipes/pfm.furniture/spruce_table_basic": {
     "criteria": {
       "has_planks": "2023-11-27 15:47:50 +0100"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/swallowtail_pennant": {
+    "criteria": {
+      "has_string": "2024-04-05 13:21:40 +0200"
     },
     "done": true
   },
@@ -6578,6 +6932,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2024-04-05 13:25:54 +0200"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/pestle_deepslate": {
     "criteria": {
       "Recipes": "2023-12-12 23:22:58 +0100"
@@ -6623,6 +6983,12 @@
   "red_power:recipes/redstone": {
     "criteria": {
       "has_item": "2023-11-27 16:52:46 +0100"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/oil_lantern": {
+    "criteria": {
+      "has_torch": "2024-04-05 12:44:15 +0200"
     },
     "done": true
   },
@@ -6716,6 +7082,18 @@
     },
     "done": true
   },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-04-05 12:39:42 +0200"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/ghost_light": {
+    "criteria": {
+      "has_iron": "2024-04-05 12:46:29 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/potion_jar_empty": {
     "criteria": {
       "has_journal": "2023-11-27 13:46:27 +0100"
@@ -6749,6 +7127,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2023-11-27 14:06:22 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2024-04-05 14:06:15 +0200"
     },
     "done": true
   },
@@ -6815,6 +7199,12 @@
   "ars_nouveau:recipes/ars_nouveau/ritual_animal_summon": {
     "criteria": {
       "has_journal": "2023-11-27 13:46:28 +0100"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/orb_lantern": {
+    "criteria": {
+      "has_iron": "2024-04-05 12:46:29 +0200"
     },
     "done": true
   },
@@ -6987,6 +7377,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-04-05 13:57:54 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
     "criteria": {
       "has_copper_block": "2023-11-29 00:38:18 +0100"
@@ -7098,6 +7494,12 @@
   "beautify:candleabras": {
     "criteria": {
       "requirement": "2023-12-12 19:01:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-04-05 13:45:11 +0200"
     },
     "done": true
   },
@@ -7254,12 +7656,6 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2023-11-27 16:27:12 +0100"
-    },
-    "done": true
-  },
-  "iammusicplayer:recipes/iammusicplayer.iammusicplayer/manual": {
-    "criteria": {
-      "has_book": "2023-12-12 23:45:29 +0100"
     },
     "done": true
   },
@@ -7449,6 +7845,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-04-05 14:17:09 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/clear_allow": {
     "criteria": {
       "has_journal": "2023-11-27 13:46:28 +0100"
@@ -7512,6 +7914,12 @@
   "ars_nouveau:recipes/building_blocks/manipulation_essence_to_deepslate": {
     "criteria": {
       "has_journal": "2023-11-27 13:46:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2024-04-05 14:00:07 +0200"
     },
     "done": true
   },
@@ -7623,6 +8031,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-04-05 14:17:09 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-12-12 17:36:46 +0100"
@@ -7650,6 +8064,12 @@
   "smallships:recipes/transportation/spruce_galley": {
     "criteria": {
       "in_water": "2023-11-27 14:06:22 +0100"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/triangle_pennant": {
+    "criteria": {
+      "has_string": "2024-04-05 13:21:40 +0200"
     },
     "done": true
   },
@@ -7746,6 +8166,12 @@
   "pfm:recipes/pfm.furniture/crimson_white_classic_bed": {
     "criteria": {
       "has_bed": "2023-12-12 17:36:46 +0100"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/jack_o_lantern": {
+    "criteria": {
+      "has_iron": "2024-04-05 12:46:29 +0200"
     },
     "done": true
   },
