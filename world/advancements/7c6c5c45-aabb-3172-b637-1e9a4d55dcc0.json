@@ -4859,6 +4859,7 @@
       "maple_woods": "2023-12-08 00:41:52 +0100",
       "crystalline_chasm": "2023-12-12 23:43:35 +0100",
       "wooded_wasteland": "2023-12-25 00:14:16 +0100",
+      "withered_abyss": "2024-04-05 19:36:01 +0200",
       "field": "2023-11-24 17:08:56 +0100",
       "orchard": "2023-11-25 00:17:59 +0100",
       "mediterranean_forest": "2023-11-25 00:20:30 +0100",
@@ -6308,6 +6309,12 @@
   "comforts:sleeping_bag_pink_from_white": {
     "criteria": {
       "has_sleeping_bag": "2023-11-23 14:56:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-04-05 19:21:37 +0200"
     },
     "done": true
   },
@@ -8654,6 +8661,12 @@
     },
     "done": true
   },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2024-04-05 19:28:16 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2023-11-23 14:45:04 +0100"
@@ -10758,6 +10771,12 @@
     },
     "done": true
   },
+  "extradelight:gildedblackstone": {
+    "criteria": {
+      "gildedblackstone_mortar": "2024-04-05 19:51:13 +0200"
+    },
+    "done": false
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/restock_upgrade": {
     "criteria": {
       "has_upgrade_base": "2023-11-24 23:44:19 +0100"
@@ -10905,6 +10924,12 @@
   "extradelight:recipes/extradelight.aesthetic/mangrove_molded_gray_wallpaper": {
     "criteria": {
       "gray_mangrove_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-04-05 20:50:19 +0200"
     },
     "done": true
   },
@@ -15972,6 +15997,12 @@
   "pfm:recipes/pfm.furniture/diorite_kitchen_wall_counter": {
     "criteria": {
       "has_planks": "2023-11-26 02:01:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-04-05 20:50:19 +0200"
     },
     "done": true
   },
