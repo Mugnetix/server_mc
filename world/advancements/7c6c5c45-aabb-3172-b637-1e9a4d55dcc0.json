@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/netherite_spoon_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-04-08 15:07:06 +0200"
+    },
+    "done": true
+  },
   "extradelight:recipes/misc/mortar/bone_meal": {
     "criteria": {
       "Recipes": "2023-11-23 14:33:31 +0100"
@@ -1229,6 +1235,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-04-08 15:07:06 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:33 +0100"
@@ -1869,6 +1881,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2023-11-22 23:42:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-04-08 15:07:06 +0200"
     },
     "done": true
   },
@@ -3396,6 +3414,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-04-08 15:07:06 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2023-11-22 23:15:16 +0100"
@@ -4618,6 +4642,12 @@
   "extradelight:recipes/extradelight.items/dough_shaping": {
     "criteria": {
       "Recipes": "2023-12-09 19:26:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-04-08 15:07:06 +0200"
     },
     "done": true
   },
@@ -8182,6 +8212,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2024-04-08 15:07:06 +0200"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.aesthetic/spruce_molded_black_wallpaper": {
     "criteria": {
       "black_spruce_wallpaper": "2023-11-25 23:42:06 +0100"
@@ -8570,6 +8606,12 @@
   "biomesoplenty:recipes/decorations/dead_fence": {
     "criteria": {
       "has_planks": "2024-04-06 12:29:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-04-08 15:07:06 +0200"
     },
     "done": true
   },
@@ -9300,6 +9342,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2024-04-08 15:07:06 +0200"
+    },
+    "done": true
+  },
   "extradelight:recipes/food/potato6": {
     "criteria": {
       "potato": "2023-11-23 14:59:07 +0100"
@@ -9624,6 +9672,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-04-08 15:07:06 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/hellbark_biomesoplenty_table_modern_dinner": {
     "criteria": {
       "has_planks": "2023-12-15 21:23:59 +0100"
@@ -9765,6 +9819,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2023-11-24 15:30:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-04-08 15:07:06 +0200"
     },
     "done": true
   },
@@ -10978,6 +11038,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-04-08 15:07:06 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/archwood_fence": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -11545,6 +11611,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cake_from_slices": {
+    "criteria": {
+      "has_cake_slice": "2024-04-08 15:50:06 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_alternating_slab": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:33 +0100"
@@ -12058,6 +12130,12 @@
   "pfm:recipes/pfm.furniture/concrete_kitchen_drawer": {
     "criteria": {
       "has_planks": "2023-12-09 20:22:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-04-08 15:07:06 +0200"
     },
     "done": true
   },
@@ -14788,6 +14866,12 @@
     },
     "done": true
   },
+  "extradelight:cactus_juice": {
+    "criteria": {
+      "cactus_juice": "2024-04-08 15:34:56 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2023-11-23 14:25:29 +0100"
@@ -15409,6 +15493,12 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2023-12-09 20:05:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-04-08 15:07:06 +0200"
     },
     "done": true
   },

@@ -1984,6 +1984,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/oak_chair_classic_black": {
+    "criteria": {
+      "oak_chair_classic_black": "2024-04-08 15:07:15 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/skillet": {
     "criteria": {
       "has_brick": "2023-11-25 03:45:10 +0100"
@@ -8971,9 +8977,10 @@
   },
   "extradelight:gildedblackstone": {
     "criteria": {
+      "gildedblackstone_mortar": "2024-04-08 15:26:00 +0200",
       "gildedblackstone_pestle": "2024-04-05 16:21:44 +0200"
     },
-    "done": false
+    "done": true
   },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/restock_upgrade": {
     "criteria": {
@@ -12721,6 +12728,12 @@
   "fairylights:recipes/fairylights/swallowtail_pennant": {
     "criteria": {
       "has_string": "2024-04-04 22:09:02 +0200"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/black_shower_towel": {
+    "criteria": {
+      "has_black_wool": "2024-04-08 15:07:15 +0200"
     },
     "done": true
   },
