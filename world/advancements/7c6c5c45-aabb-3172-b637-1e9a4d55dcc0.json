@@ -13989,6 +13989,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2024-04-10 00:28:40 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/stone_simple_stool": {
     "criteria": {
       "has_planks": "2023-11-26 03:00:35 +0100"
