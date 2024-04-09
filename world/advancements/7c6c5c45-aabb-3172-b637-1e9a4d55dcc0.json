@@ -1265,6 +1265,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/caramel_popcorn": {
+    "criteria": {
+      "Recipes": "2024-04-09 00:50:32 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2023-11-22 23:15:16 +0100"
@@ -1376,6 +1382,12 @@
   "pfm:recipes/pfm.furniture/acacia_white_simple_bed": {
     "criteria": {
       "has_bed": "2023-12-17 21:30:08 +0100"
+    },
+    "done": true
+  },
+  "truedarkness:antienite_adv": {
+    "criteria": {
+      "antienite_adv": "2024-04-08 22:06:51 +0200"
     },
     "done": true
   },
@@ -2059,6 +2071,12 @@
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2023-11-22 23:15:16 +0100"
+    },
+    "done": true
+  },
+  "endrem:main/exotic_eye": {
+    "criteria": {
+      "exotic_eye": "2024-04-08 22:04:36 +0200"
     },
     "done": true
   },
@@ -3057,6 +3075,12 @@
   "extradelight:recipes/farmersdelight/ham7": {
     "criteria": {
       "ham": "2023-11-23 02:08:37 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/popcorn_smelt": {
+    "criteria": {
+      "Recipes": "2024-04-09 00:50:32 +0200"
     },
     "done": true
   },
@@ -4636,6 +4660,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_mosaic_stone_cutterslab": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2024-04-08 22:24:09 +0200"
     },
     "done": true
   },
@@ -7575,6 +7605,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/safely_harvest_honey": {
+    "criteria": {
+      "safely_harvest_honey": "2024-04-09 01:45:27 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/stripped_oak_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2023-11-28 00:48:56 +0100"
@@ -10366,6 +10402,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/popcorn_smoke": {
+    "criteria": {
+      "Recipes": "2024-04-09 00:50:32 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/nether_salad": {
     "criteria": {
       "has_bowl": "2023-11-23 15:25:50 +0100"
@@ -11542,6 +11584,12 @@
   "extradelight:recipes/extradelight.items/oven/potato_au_gratin_feast": {
     "criteria": {
       "has_any_ingredient": "2023-12-26 22:00:34 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/popcorn_fire": {
+    "criteria": {
+      "Recipes": "2024-04-09 00:50:32 +0200"
     },
     "done": true
   },
@@ -16981,6 +17029,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2023-11-22 23:30:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2024-04-08 22:24:09 +0200"
     },
     "done": true
   },
