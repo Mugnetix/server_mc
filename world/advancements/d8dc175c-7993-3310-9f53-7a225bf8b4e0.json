@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-04-10 19:08:33 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brick_wall": {
     "criteria": {
       "has_bricks": "2023-11-25 04:23:52 +0100"
@@ -185,6 +191,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/mortar_endstone": {
+    "criteria": {
+      "Recipes": "2024-04-10 18:44:00 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/spruce_simple_stool": {
     "criteria": {
       "has_planks": "2023-11-27 13:44:49 +0100"
@@ -332,6 +344,12 @@
   "ferdinandsflowers:recipes/misc/purple_dye_from_flower": {
     "criteria": {
       "has_purple_flower": "2023-11-22 23:28:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-04-10 18:44:00 +0200"
     },
     "done": true
   },
@@ -578,6 +596,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/void_upgrade": {
     "criteria": {
       "has_upgrade_base": "2023-12-13 00:38:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-04-10 18:44:00 +0200"
     },
     "done": true
   },
@@ -1942,6 +1966,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-04-10 18:44:00 +0200"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.aesthetic/dark_oak_spice_rack_full": {
     "criteria": {
       "dark_oak_spice_rack_full": "2023-11-27 14:22:54 +0100"
@@ -2800,6 +2830,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/pestle_endstone": {
+    "criteria": {
+      "Recipes": "2024-04-10 18:44:00 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/diorite_table_dinner": {
     "criteria": {
       "diorite_table_dinner": "2023-11-28 01:14:47 +0100"
@@ -2809,6 +2845,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2023-11-22 23:55:33 +0100"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/pream_phantasm_log_stool": {
+    "criteria": {
+      "has_log": "2024-04-10 19:32:30 +0200"
     },
     "done": true
   },
@@ -3433,6 +3475,12 @@
   "ars_nouveau:recipes/ars_nouveau/archwood_door": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2024-04-10 18:44:00 +0200"
     },
     "done": true
   },
@@ -4318,6 +4366,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/pream_phantasm_raw_table_log": {
+    "criteria": {
+      "has_log": "2024-04-10 19:32:30 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/straw_bale": {
     "criteria": {
       "has_straw": "2023-11-25 23:08:28 +0100"
@@ -4942,6 +4996,12 @@
   "farmersdelight:recipes/farmersdelight/beef_patty": {
     "criteria": {
       "beef_patty": "2023-11-27 18:28:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-04-10 18:44:00 +0200"
     },
     "done": true
   },
@@ -8672,6 +8732,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-04-10 18:44:00 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2023-11-23 00:25:54 +0100"
@@ -9146,6 +9212,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-04-10 18:44:00 +0200"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/pestle_basalt": {
     "criteria": {
       "Recipes": "2024-04-05 15:19:20 +0200"
@@ -9209,6 +9281,12 @@
   "extradelight:recipes/extradelight.aesthetic/wallpaper_pink": {
     "criteria": {
       "pink_wallpaper": "2023-12-07 22:47:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-04-10 19:08:33 +0200"
     },
     "done": true
   },
@@ -9512,6 +9590,12 @@
   "pfm:recipes/pfm.furniture/light_blue_simple_sofa": {
     "criteria": {
       "has_wool": "2023-11-27 13:44:49 +0100"
+    },
+    "done": true
+  },
+  "phantasm:enter_dreaming_den": {
+    "criteria": {
+      "enter_dreaming_den": "2024-04-10 19:23:04 +0200"
     },
     "done": true
   },
@@ -10217,6 +10301,12 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2024-04-10 19:19:53 +0200"
+    },
+    "done": true
+  },
   "extradelight:grater": {
     "criteria": {
       "grater": "2023-11-27 14:21:26 +0100"
@@ -10460,6 +10550,12 @@
   "pfm:recipes/pfm.furniture/stripped_oak_classic_nightstand": {
     "criteria": {
       "has_planks": "2023-11-27 13:44:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-04-10 18:44:00 +0200"
     },
     "done": true
   },
@@ -11334,6 +11430,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-04-10 18:44:00 +0200"
+    },
+    "done": true
+  },
   "extradelight:recipes/misc/mortar/blue_dye": {
     "criteria": {
       "Recipes": "2023-11-23 23:30:40 +0100"
@@ -11472,6 +11574,12 @@
     },
     "done": true
   },
+  "phantasm:enter_underisland": {
+    "criteria": {
+      "enter_underisland": "2024-04-10 18:33:31 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
@@ -11601,6 +11709,12 @@
   "pfm:recipes/pfm.furniture/birch_chair_modern": {
     "criteria": {
       "has_planks": "2024-04-07 21:15:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-04-10 18:33:31 +0200"
     },
     "done": true
   },
@@ -13492,6 +13606,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-04-10 18:44:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-04-10 18:44:00 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/red_arm_chair": {
     "criteria": {
       "has_wool": "2023-11-27 13:44:49 +0100"
@@ -14041,6 +14167,12 @@
   "pfm:recipes/pfm.furniture/stripped_spruce_chair_classic": {
     "criteria": {
       "has_planks": "2023-11-27 13:44:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-04-10 18:33:31 +0200"
     },
     "done": true
   },
