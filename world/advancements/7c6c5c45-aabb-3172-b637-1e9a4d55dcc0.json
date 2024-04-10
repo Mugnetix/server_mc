@@ -1067,6 +1067,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2024-04-10 22:13:00 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/honey_glazed_ham_block": {
     "criteria": {
       "has_smoked_ham": "2023-11-23 15:39:17 +0100"
@@ -1737,6 +1743,12 @@
   "pfm:recipes/pfm.furniture/hellbark_biomesoplenty_kitchen_wall_counter": {
     "criteria": {
       "has_planks": "2023-12-15 21:23:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2024-04-10 20:24:11 +0200"
     },
     "done": true
   },
@@ -2755,6 +2767,12 @@
   "extradelight:recipes/extradelight.items/furikake_rice": {
     "criteria": {
       "Recipes": "2023-12-31 00:47:57 +0100"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/oak_chair_classic_purple": {
+    "criteria": {
+      "oak_chair_classic_purple": "2024-04-10 22:13:00 +0200"
     },
     "done": true
   },
@@ -4879,6 +4897,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_feeding_upgrade": {
+    "criteria": {
+      "has_feeding_upgrade": "2024-04-10 22:45:01 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2023-12-07 23:39:23 +0100"
@@ -6549,6 +6573,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2024-04-10 22:13:00 +0200"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/carrot2": {
     "criteria": {
       "carrot": "2023-11-23 16:21:35 +0100"
@@ -6732,6 +6762,12 @@
   "pfm:recipes/pfm.furniture/stripped_spruce_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2023-11-26 02:01:51 +0100"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/deeperdarker/soul_elytra": {
+    "criteria": {
+      "has_elytra": "2024-04-10 21:26:42 +0200"
     },
     "done": true
   },
@@ -7833,6 +7869,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2024-04-10 22:13:00 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2023-11-23 00:30:27 +0100"
@@ -8681,6 +8723,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2024-04-10 20:24:11 +0200"
+    },
+    "done": true
+  },
   "extradelight:recipes/misc/mortar/green_dye": {
     "criteria": {
       "Recipes": "2023-12-23 17:25:11 +0100"
@@ -9207,6 +9255,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2023-12-24 18:10:32 +0100"
+    },
+    "done": true
+  },
+  "comforts:hammock_purple": {
+    "criteria": {
+      "has_purple_wool": "2024-04-10 22:13:00 +0200"
     },
     "done": true
   },
@@ -12271,6 +12325,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_purple": {
+    "criteria": {
+      "has_purple_wool": "2024-04-10 22:13:00 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/honey_cookie": {
     "criteria": {
       "has_honey_bottle": "2023-11-25 00:15:06 +0100"
@@ -12484,6 +12544,12 @@
   "extradelight:recipes/extradelight.items/hashbrowns_smoke": {
     "criteria": {
       "Recipes": "2023-12-31 01:24:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2024-04-10 21:31:26 +0200"
     },
     "done": true
   },
@@ -13141,6 +13207,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-04-10 21:26:42 +0200"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/jacaranda_trapdoor": {
     "criteria": {
       "has_planks": "2023-11-22 23:14:56 +0100"
@@ -13180,6 +13252,12 @@
   "farmersdelight:recipes/farmersdelight/rice_bag": {
     "criteria": {
       "has_rice": "2023-11-23 02:05:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2024-04-10 20:24:11 +0200"
     },
     "done": true
   },
@@ -13301,6 +13379,12 @@
   "extradelight:recipes/misc/blue_corn": {
     "criteria": {
       "Recipes": "2023-11-28 03:37:53 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-04-10 20:24:11 +0200"
     },
     "done": true
   },
@@ -15472,6 +15556,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-04-10 20:24:11 +0200"
+    },
+    "done": true
+  },
   "exoticbirds:recipes/gold_birdcage": {
     "criteria": {
       "has_stick": "2023-11-22 22:43:32 +0100"
@@ -15670,6 +15760,7 @@
       "chicken": "2023-12-07 13:44:11 +0100",
       "honey_bottle": "2023-12-08 00:01:23 +0100",
       "cooked_mutton": "2023-11-22 23:22:34 +0100",
+      "sweet_berries": "2024-04-10 23:51:12 +0200",
       "cooked_beef": "2023-11-23 00:26:26 +0100",
       "baked_potato": "2023-11-25 01:07:57 +0100",
       "beef": "2023-12-23 15:20:27 +0100",
@@ -16908,6 +16999,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/purple_shower_towel": {
+    "criteria": {
+      "has_purple_wool": "2024-04-10 22:13:00 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/dead_biomesoplenty_chair_classic": {
     "criteria": {
       "has_planks": "2024-04-06 12:29:57 +0200"
@@ -17343,6 +17440,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2023-11-28 01:39:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2024-04-10 20:24:11 +0200"
     },
     "done": true
   },
