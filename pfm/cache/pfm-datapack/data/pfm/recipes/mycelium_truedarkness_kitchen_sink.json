@@ -3,25 +3,25 @@
   "group": "kitchen",
   "ingredients": [
     {
-      "item": "truedarkness:mycelium_planks"
+      "item": "truedarkness:mycelium_log"
     },
     {
-      "item": "truedarkness:mycelium_planks"
-    },
-    {
-      "item": "truedarkness:mycelium_planks"
-    },
-    {
-      "item": "truedarkness:mycelium_planks"
-    },
-    {
-      "item": "truedarkness:mycelium_planks"
+      "item": "truedarkness:mycelium_log"
     },
     {
       "item": "truedarkness:mycelium_log"
     },
     {
       "item": "truedarkness:mycelium_log"
+    },
+    {
+      "item": "truedarkness:mycelium_log"
+    },
+    {
+      "item": "truedarkness:mycelium_planks"
+    },
+    {
+      "item": "truedarkness:mycelium_planks"
     },
     {
       "item": "minecraft:iron_ingot"

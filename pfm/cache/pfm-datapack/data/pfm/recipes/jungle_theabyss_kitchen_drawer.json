@@ -3,19 +3,10 @@
   "group": "kitchen",
   "ingredients": [
     {
-      "item": "theabyss:jungle_planks"
+      "item": "theabyss:jungle_log"
     },
     {
-      "item": "theabyss:jungle_planks"
-    },
-    {
-      "item": "theabyss:jungle_planks"
-    },
-    {
-      "item": "theabyss:jungle_planks"
-    },
-    {
-      "item": "theabyss:jungle_planks"
+      "item": "theabyss:jungle_log"
     },
     {
       "item": "theabyss:jungle_log"
@@ -25,6 +16,15 @@
     },
     {
       "item": "theabyss:jungle_log"
+    },
+    {
+      "item": "theabyss:jungle_planks"
+    },
+    {
+      "item": "theabyss:jungle_planks"
+    },
+    {
+      "item": "theabyss:jungle_planks"
     },
     {
       "item": "minecraft:chest"

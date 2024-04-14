@@ -14,6 +14,7 @@
           "name": "pfm:calcite_table_basic"
         }
       ],
+      "name": "calcite_table_basic",
       "rolls": 1.0
     }
   ]

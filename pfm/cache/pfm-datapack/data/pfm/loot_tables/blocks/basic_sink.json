@@ -14,6 +14,7 @@
           "name": "pfm:basic_sink"
         }
       ],
+      "name": "basic_sink",
       "rolls": 1.0
     }
   ]

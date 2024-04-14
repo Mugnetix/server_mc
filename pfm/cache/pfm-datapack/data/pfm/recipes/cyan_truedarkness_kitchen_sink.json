@@ -3,25 +3,25 @@
   "group": "kitchen",
   "ingredients": [
     {
-      "item": "truedarkness:cyan_planks"
+      "item": "truedarkness:cyan_stem"
     },
     {
-      "item": "truedarkness:cyan_planks"
-    },
-    {
-      "item": "truedarkness:cyan_planks"
-    },
-    {
-      "item": "truedarkness:cyan_planks"
-    },
-    {
-      "item": "truedarkness:cyan_planks"
+      "item": "truedarkness:cyan_stem"
     },
     {
       "item": "truedarkness:cyan_stem"
     },
     {
       "item": "truedarkness:cyan_stem"
+    },
+    {
+      "item": "truedarkness:cyan_stem"
+    },
+    {
+      "item": "truedarkness:cyan_planks"
+    },
+    {
+      "item": "truedarkness:cyan_planks"
     },
     {
       "item": "minecraft:iron_ingot"

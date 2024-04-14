@@ -3,22 +3,13 @@
   "group": "kitchen",
   "ingredients": [
     {
-      "item": "deeperdarker:echo_planks"
+      "item": "deeperdarker:echo_log"
     },
     {
-      "item": "deeperdarker:echo_planks"
+      "item": "deeperdarker:echo_log"
     },
     {
-      "item": "deeperdarker:echo_planks"
-    },
-    {
-      "item": "deeperdarker:echo_planks"
-    },
-    {
-      "item": "deeperdarker:echo_planks"
-    },
-    {
-      "item": "deeperdarker:echo_planks"
+      "item": "deeperdarker:echo_log"
     },
     {
       "item": "deeperdarker:echo_log"
@@ -28,6 +19,15 @@
     },
     {
       "item": "deeperdarker:echo_log"
+    },
+    {
+      "item": "deeperdarker:echo_planks"
+    },
+    {
+      "item": "deeperdarker:echo_planks"
+    },
+    {
+      "item": "deeperdarker:echo_planks"
     }
   ],
   "result": {

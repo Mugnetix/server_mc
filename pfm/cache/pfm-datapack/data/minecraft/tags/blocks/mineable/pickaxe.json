@@ -358,6 +358,7 @@
     "pfm:iron_chain",
     "pfm:basic_sink",
     "pfm:basic_shower_handle",
-    "pfm:basic_shower_head"
+    "pfm:basic_shower_head",
+    "pfm:basic_bathtub"
   ]
 }

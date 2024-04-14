@@ -3,19 +3,10 @@
   "group": "kitchen",
   "ingredients": [
     {
-      "item": "phantasm:ebony_planks"
+      "item": "phantasm:ebony_stem"
     },
     {
-      "item": "phantasm:ebony_planks"
-    },
-    {
-      "item": "phantasm:ebony_planks"
-    },
-    {
-      "item": "phantasm:ebony_planks"
-    },
-    {
-      "item": "phantasm:ebony_planks"
+      "item": "phantasm:ebony_stem"
     },
     {
       "item": "phantasm:ebony_stem"
@@ -25,6 +16,15 @@
     },
     {
       "item": "phantasm:ebony_stem"
+    },
+    {
+      "item": "phantasm:ebony_planks"
+    },
+    {
+      "item": "phantasm:ebony_planks"
+    },
+    {
+      "item": "phantasm:ebony_planks"
     },
     {
       "item": "minecraft:furnace"

@@ -3,19 +3,10 @@
   "group": "kitchen",
   "ingredients": [
     {
-      "item": "theabyss:vigilant_planks"
+      "item": "theabyss:vigilant_log"
     },
     {
-      "item": "theabyss:vigilant_planks"
-    },
-    {
-      "item": "theabyss:vigilant_planks"
-    },
-    {
-      "item": "theabyss:vigilant_planks"
-    },
-    {
-      "item": "theabyss:vigilant_planks"
+      "item": "theabyss:vigilant_log"
     },
     {
       "item": "theabyss:vigilant_log"
@@ -25,6 +16,15 @@
     },
     {
       "item": "theabyss:vigilant_log"
+    },
+    {
+      "item": "theabyss:vigilant_planks"
+    },
+    {
+      "item": "theabyss:vigilant_planks"
+    },
+    {
+      "item": "theabyss:vigilant_planks"
     },
     {
       "item": "minecraft:chest"

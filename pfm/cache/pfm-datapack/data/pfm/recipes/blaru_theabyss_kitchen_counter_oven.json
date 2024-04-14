@@ -3,19 +3,10 @@
   "group": "kitchen",
   "ingredients": [
     {
-      "item": "theabyss:blaru_planks"
+      "item": "theabyss:blaru_log"
     },
     {
-      "item": "theabyss:blaru_planks"
-    },
-    {
-      "item": "theabyss:blaru_planks"
-    },
-    {
-      "item": "theabyss:blaru_planks"
-    },
-    {
-      "item": "theabyss:blaru_planks"
+      "item": "theabyss:blaru_log"
     },
     {
       "item": "theabyss:blaru_log"
@@ -25,6 +16,15 @@
     },
     {
       "item": "theabyss:blaru_log"
+    },
+    {
+      "item": "theabyss:blaru_planks"
+    },
+    {
+      "item": "theabyss:blaru_planks"
+    },
+    {
+      "item": "theabyss:blaru_planks"
     },
     {
       "item": "minecraft:furnace"
