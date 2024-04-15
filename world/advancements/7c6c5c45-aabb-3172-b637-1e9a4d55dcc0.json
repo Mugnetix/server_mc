@@ -2472,6 +2472,12 @@
     },
     "done": true
   },
+  "minecraft:nether/charge_respawn_anchor": {
+    "criteria": {
+      "charge_respawn_anchor": "2024-04-15 02:23:00 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/crimson_stem_stool": {
     "criteria": {
       "has_log": "2023-12-14 12:17:04 +0100"
@@ -11645,12 +11651,6 @@
     },
     "done": true
   },
-  "infusedfoods:recipes/brewing/infusion_station": {
-    "criteria": {
-      "has_blaze_rod": "2023-12-13 00:27:47 +0100"
-    },
-    "done": true
-  },
   "pfm:recipes/pfm.furniture/dark_wood_table_natural": {
     "criteria": {
       "dark_wood_table_natural": "2023-12-13 01:26:50 +0100"
@@ -11780,6 +11780,12 @@
   "ars_nouveau:recipes/ars_nouveau/scryers_crystal": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
+    },
+    "done": true
+  },
+  "farmersrespite:recipes/farmersrespite/black_cod": {
+    "criteria": {
+      "has_cod": "2024-04-15 02:17:36 +0200"
     },
     "done": true
   },
