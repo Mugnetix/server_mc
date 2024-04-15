@@ -3406,6 +3406,12 @@
     },
     "done": true
   },
+  "farmersrespite:recipes/farmersrespite/brewing/purulent_tea": {
+    "criteria": {
+      "has_any_ingredient": "2024-04-15 20:23:16 +0200"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_brown": {
     "criteria": {
       "has_brown_wool": "2023-11-23 02:05:05 +0100"
@@ -8710,6 +8716,12 @@
     },
     "done": true
   },
+  "farmersrespite:recipes/farmersrespite/nether_wart_sourdough": {
+    "criteria": {
+      "has_wart": "2024-04-15 20:23:16 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/deny_scroll": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:33 +0100"
@@ -13178,6 +13190,12 @@
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2023-12-26 23:48:25 +0100"
+    },
+    "done": true
+  },
+  "farmersrespite:recipes/farmersrespite/cooking/blazing_chili": {
+    "criteria": {
+      "has_any_ingredient": "2024-04-15 20:23:16 +0200"
     },
     "done": true
   },
@@ -18586,6 +18604,12 @@
     },
     "done": true
   },
+  "farmersrespite:recipes/farmersrespite/brewing/melon_juice": {
+    "criteria": {
+      "has_melon": "2024-04-15 20:28:19 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/archwood_slab": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -18643,6 +18667,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2023-11-22 22:53:15 +0100"
+    },
+    "done": true
+  },
+  "farmersrespite:recipes/farmersrespite/brewing/gamblers_tea": {
+    "criteria": {
+      "has_any_ingredient": "2024-04-15 20:47:03 +0200"
     },
     "done": true
   },
