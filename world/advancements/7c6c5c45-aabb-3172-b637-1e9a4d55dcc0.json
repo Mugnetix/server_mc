@@ -359,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2024-04-17 23:23:14 +0200"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/void_upgrade": {
     "criteria": {
       "has_upgrade_base": "2023-11-24 23:44:19 +0100"
@@ -9190,6 +9196,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2024-04-17 23:23:14 +0200"
+    },
+    "done": true
+  },
   "ferdinandsflowers:recipes/decorations/staked_dark_blue_sweet_peas": {
     "criteria": {
       "has_dark_blue_sweet_peas": "2023-11-23 16:24:08 +0100"
@@ -9643,6 +9655,12 @@
   "pfm:recipes/pfm.furniture/spruce_simple_stool": {
     "criteria": {
       "has_planks": "2023-11-26 02:01:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2024-04-17 23:23:14 +0200"
     },
     "done": true
   },
@@ -14088,6 +14106,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2024-04-17 23:23:14 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/oak_chair_classic_light_gray": {
     "criteria": {
       "oak_chair_classic_light_gray": "2023-12-26 01:45:46 +0100"
@@ -18039,6 +18063,7 @@
       "cooked_mutton": "2023-11-22 23:22:34 +0100",
       "sweet_berries": "2024-04-10 23:51:12 +0200",
       "cooked_beef": "2023-11-23 00:26:26 +0100",
+      "chorus_fruit": "2024-04-17 23:43:32 +0200",
       "baked_potato": "2023-11-25 01:07:57 +0100",
       "beef": "2023-12-23 15:20:27 +0100",
       "porkchop": "2024-04-07 16:56:58 +0200",
