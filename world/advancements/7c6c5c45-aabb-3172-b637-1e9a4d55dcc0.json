@@ -10342,6 +10342,12 @@
     },
     "done": true
   },
+  "smallships:recipes/combat/cannon": {
+    "criteria": {
+      "has_ship": "2024-04-17 20:57:12 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/oak_kitchen_sink": {
     "criteria": {
       "has_planks": "2023-11-26 02:01:51 +0100"
@@ -14781,6 +14787,12 @@
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2023-12-13 01:26:51 +0100"
+    },
+    "done": true
+  },
+  "farmersrespite:recipes/farmersrespite/cooking/tea_curry": {
+    "criteria": {
+      "has_any_ingredient": "2024-04-17 21:03:15 +0200"
     },
     "done": true
   },
