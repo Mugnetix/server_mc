@@ -1470,6 +1470,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/light_wood_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2024-04-17 19:29:46 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/pream_phantasm_modern_stool": {
     "criteria": {
       "has_planks": "2024-04-12 13:35:02 +0200"
@@ -3352,6 +3358,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/light_wood_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2024-04-17 19:29:46 +0200"
+    },
+    "done": true
+  },
   "exoticbirds:default/craft_identifier": {
     "criteria": {
       "egg_identifier": "2023-11-25 23:31:11 +0100"
@@ -4456,6 +4468,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/light_wood_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2024-04-17 19:29:46 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/blue_archwood_wood": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
@@ -4707,6 +4725,12 @@
   "ars_nouveau:recipes/ars_nouveau/manipulation_essence_to_vexing_sapling": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/light_wood_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2024-04-17 19:29:46 +0200"
     },
     "done": true
   },
@@ -5843,6 +5867,12 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2023-11-25 23:30:32 +0100"
+    },
+    "done": true
+  },
+  "farmersrespite:recipes/farmersrespite/cooking/blazing_chili": {
+    "criteria": {
+      "has_any_ingredient": "2024-04-17 19:36:24 +0200"
     },
     "done": true
   },
@@ -8263,6 +8293,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/light_wood_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2024-04-17 19:29:46 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/stripped_oak_simple_stool": {
     "criteria": {
       "has_planks": "2023-11-27 13:44:49 +0100"
@@ -9856,6 +9892,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/light_wood_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2024-04-17 19:29:46 +0200"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.aesthetic/acacia_molded_brown_wallpaper": {
     "criteria": {
       "brown_acacia_wallpaper": "2023-12-07 22:47:54 +0100"
@@ -11218,6 +11260,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/light_wood_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2024-04-17 19:29:46 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-04-05 15:33:54 +0200"
@@ -11816,6 +11864,12 @@
   "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
     "criteria": {
       "has_mud_bricks": "2024-04-12 00:28:34 +0200"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/light_wood_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2024-04-17 19:29:46 +0200"
     },
     "done": true
   },
