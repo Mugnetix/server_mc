@@ -3114,6 +3114,7 @@
       "GRILLED_CHEESE": "2023-12-24 22:22:45 +0100",
       "EGG_SALAD": "2023-12-23 13:50:58 +0100",
       "BACON_EGG_SANDWICH": "2024-04-12 20:45:34 +0200",
+      "MEAT_PIE_SLICE": "2024-04-19 12:59:36 +0200",
       "FRIED_CHICKEN": "2023-12-31 01:16:23 +0100",
       "HAGGIS": "2023-11-25 00:27:02 +0100",
       "CHICKEN_STEW": "2024-04-05 11:45:02 +0200",
@@ -5110,6 +5111,12 @@
   "pfm:recipes/pfm.furniture/hellbark_biomesoplenty_chair_classic": {
     "criteria": {
       "has_planks": "2023-12-15 21:23:59 +0100"
+    },
+    "done": true
+  },
+  "farmersrespite:recipes/farmersrespite/brewing/apple_cider": {
+    "criteria": {
+      "has_apple": "2024-04-19 12:50:40 +0200"
     },
     "done": true
   },
@@ -7745,6 +7752,12 @@
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2023-12-13 00:27:04 +0100"
+    },
+    "done": true
+  },
+  "truedarkness:fireflies_flower_adv": {
+    "criteria": {
+      "fireflies_flower_adv": "2024-04-19 12:20:34 +0200"
     },
     "done": true
   },
@@ -11235,6 +11248,12 @@
   "extradelight:recipes/farmersdelight/ham7": {
     "criteria": {
       "ham": "2023-11-23 02:08:37 +0100"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/dead_tree": {
+    "criteria": {
+      "dead_tree": "2024-04-19 12:16:52 +0200"
     },
     "done": true
   },
@@ -16124,6 +16143,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/meat_pie_block_item": {
+    "criteria": {
+      "Recipes": "2024-04-19 12:59:36 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/spruce_kitchen_sink": {
     "criteria": {
       "has_planks": "2023-11-26 02:01:51 +0100"
@@ -17586,6 +17611,7 @@
       "minecraft:dripstone_caves": "2023-11-23 23:48:48 +0100",
       "minecraft:grove": "2023-11-23 15:06:42 +0100",
       "minecraft:swamp": "2023-12-06 22:15:53 +0100",
+      "minecraft:jagged_peaks": "2024-04-19 13:37:17 +0200",
       "minecraft:cold_ocean": "2023-11-22 23:47:58 +0100",
       "minecraft:forest": "2023-11-23 16:08:01 +0100",
       "minecraft:lush_caves": "2023-12-23 17:43:43 +0100",
@@ -17607,6 +17633,7 @@
       "minecraft:old_growth_birch_forest": "2023-11-25 00:35:31 +0100",
       "minecraft:deep_dark": "2023-11-24 00:40:48 +0100",
       "minecraft:meadow": "2023-11-23 23:48:46 +0100",
+      "minecraft:windswept_gravelly_hills": "2024-04-19 12:54:00 +0200",
       "minecraft:savanna": "2023-11-25 00:24:14 +0100",
       "minecraft:plains": "2023-11-22 23:16:02 +0100"
     },
@@ -17966,6 +17993,12 @@
     },
     "done": true
   },
+  "farmersrespite:main/get_tea_seeds": {
+    "criteria": {
+      "get_tea_seeds": "2024-04-19 12:15:59 +0200"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/lamb_stew_bowl": {
     "criteria": {
       "has_lamb_stew": "2024-04-05 11:45:14 +0200"
@@ -18117,6 +18150,7 @@
       "beef": "2023-12-23 15:20:27 +0100",
       "porkchop": "2024-04-07 16:56:58 +0200",
       "beetroot_soup": "2024-04-09 15:12:59 +0200",
+      "apple": "2024-04-19 12:57:53 +0200",
       "potato": "2023-12-30 00:54:12 +0100",
       "cooked_cod": "2023-12-30 02:58:01 +0100",
       "pumpkin_pie": "2023-12-28 23:51:05 +0100",
