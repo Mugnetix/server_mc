@@ -22206,3 +22206,59 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Apr2024 14:34:01.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
 [19Apr2024 14:34:01.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
 [19Apr2024 14:34:02.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19Apr2024 14:34:02.604] [Server thread/ERROR] [net.minecraft.world.level.saveddata.SavedData/]: Could not save data net.p3pp3rf1y.sophisticatedbackpacks.backpack.BackpackStorage@51137429
+java.io.FileNotFoundException: .\world\data\sophisticatedbackpacks.dat (The requested operation cannot be performed on a file with a user-mapped section open)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:295) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:236) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:185) ~[?:?]
+	at net.minecraft.nbt.NbtIo.m_128944_(NbtIo.java:114) ~[server-1.19.2-20220805.130853-srg.jar%23245!/:?]
+	at net.minecraft.world.level.saveddata.SavedData.m_77757_(SavedData.java:40) ~[server-1.19.2-20220805.130853-srg.jar%23245!/:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.m_164865_(DimensionDataStorage.java:161) ~[server-1.19.2-20220805.130853-srg.jar%23245!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.m_78151_(DimensionDataStorage.java:159) ~[server-1.19.2-20220805.130853-srg.jar%23245!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8806_(ServerLevel.java:723) ~[server-1.19.2-20220805.130853-srg.jar%23245!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8643_(ServerLevel.java:702) ~[server-1.19.2-20220805.130853-srg.jar%23245!/:?]
+	at net.minecraft.server.MinecraftServer.m_129885_(MinecraftServer.java:496) ~[server-1.19.2-20220805.130853-srg.jar%23245!/:?]
+	at net.minecraft.server.MinecraftServer.m_7041_(MinecraftServer.java:575) ~[server-1.19.2-20220805.130853-srg.jar%23245!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_7041_(DedicatedServer.java:521) ~[server-1.19.2-20220805.130853-srg.jar%23245!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:682) ~[server-1.19.2-20220805.130853-srg.jar%23245!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23245!/:?]
+	at java.lang.Thread.run(Thread.java:1589) [?:?]
+[19Apr2024 14:34:02.623] [Server thread/ERROR] [net.minecraft.world.level.saveddata.SavedData/]: Could not save data net.minecraft.world.entity.raid.Raids@49bc3918
+java.io.FileNotFoundException: .\world\data\raids.dat (The requested operation cannot be performed on a file with a user-mapped section open)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:295) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:236) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:185) ~[?:?]
+	at net.minecraft.nbt.NbtIo.m_128944_(NbtIo.java:114) ~[server-1.19.2-20220805.130853-srg.jar%23245!/:?]
+	at net.minecraft.world.level.saveddata.SavedData.m_77757_(SavedData.java:40) ~[server-1.19.2-20220805.130853-srg.jar%23245!/:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.m_164865_(DimensionDataStorage.java:161) ~[server-1.19.2-20220805.130853-srg.jar%23245!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.m_78151_(DimensionDataStorage.java:159) ~[server-1.19.2-20220805.130853-srg.jar%23245!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8806_(ServerLevel.java:723) ~[server-1.19.2-20220805.130853-srg.jar%23245!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8643_(ServerLevel.java:702) ~[server-1.19.2-20220805.130853-srg.jar%23245!/:?]
+	at net.minecraft.server.MinecraftServer.m_129885_(MinecraftServer.java:496) ~[server-1.19.2-20220805.130853-srg.jar%23245!/:?]
+	at net.minecraft.server.MinecraftServer.m_7041_(MinecraftServer.java:575) ~[server-1.19.2-20220805.130853-srg.jar%23245!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_7041_(DedicatedServer.java:521) ~[server-1.19.2-20220805.130853-srg.jar%23245!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:682) ~[server-1.19.2-20220805.130853-srg.jar%23245!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23245!/:?]
+	at java.lang.Thread.run(Thread.java:1589) [?:?]
+[19Apr2024 14:34:02.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[19Apr2024 14:34:02.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/truedarkness:yteria
+[19Apr2024 14:34:02.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19Apr2024 14:34:02.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/extradelight:corn_dimension
+[19Apr2024 14:34:02.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/theabyss:pocket_dimension
+[19Apr2024 14:34:02.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/theabyss:the_abyss
+[19Apr2024 14:34:02.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/theabyss:frost_world
+[19Apr2024 14:34:02.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19Apr2024 14:34:02.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19Apr2024 14:34:02.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[19Apr2024 14:34:02.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (yteria): All chunks are saved
+[19Apr2024 14:34:02.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19Apr2024 14:34:02.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (corn_dimension): All chunks are saved
+[19Apr2024 14:34:02.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (pocket_dimension): All chunks are saved
+[19Apr2024 14:34:02.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_abyss): All chunks are saved
+[19Apr2024 14:34:02.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (frost_world): All chunks are saved
+[19Apr2024 14:34:02.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19Apr2024 14:34:02.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
