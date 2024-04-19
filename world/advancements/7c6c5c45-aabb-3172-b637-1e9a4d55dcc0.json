@@ -4904,6 +4904,12 @@
     },
     "done": true
   },
+  "ferdinandsflowers:recipes/decorations/vase_orange": {
+    "criteria": {
+      "has_orange_dye": "2024-04-19 20:46:00 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_large_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -10068,6 +10074,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2024-04-19 20:46:00 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2023-11-25 02:15:37 +0100"
@@ -11002,6 +11014,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2023-11-25 02:15:37 +0100"
+    },
+    "done": true
+  },
+  "ferdinandsflowers:recipes/decorations/planter_orange": {
+    "criteria": {
+      "has_orange_dye": "2024-04-19 20:46:00 +0200"
     },
     "done": true
   },
