@@ -2670,6 +2670,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/large_graveyard": {
+    "criteria": {
+      "large_graveyard": "2024-04-19 13:57:56 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_mosaic_stone_cutterslab": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -17587,6 +17593,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2023-11-23 23:50:23 +0100",
+      "minecraft:old_growth_pine_taiga": "2024-04-19 13:55:17 +0200",
       "minecraft:mushroom_fields": "2023-12-24 23:19:42 +0100",
       "minecraft:taiga": "2023-12-08 00:25:59 +0100",
       "minecraft:deep_ocean": "2023-12-07 23:01:53 +0100",
