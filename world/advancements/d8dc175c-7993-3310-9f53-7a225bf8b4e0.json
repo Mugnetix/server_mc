@@ -1325,6 +1325,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/dark_wood_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2024-04-18 23:39:02 +0200"
+    },
+    "done": true
+  },
   "skilltree:recipes/skilltree/traveler_necklace": {
     "criteria": {
       "has_feather": "2023-11-22 23:32:40 +0100"
@@ -1460,6 +1466,12 @@
   "ferdinandsflowers:recipes/decorations/vase_red": {
     "criteria": {
       "has_red_dye": "2023-12-05 23:55:23 +0100"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/dark_wood_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2024-04-18 23:39:02 +0200"
     },
     "done": true
   },
@@ -2281,6 +2293,12 @@
   "pfm:recipes/pfm.furniture/red_shower_towel": {
     "criteria": {
       "has_red_wool": "2023-11-28 02:39:17 +0100"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/dark_wood_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2024-04-18 23:39:02 +0200"
     },
     "done": true
   },
@@ -7052,6 +7070,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/dark_wood_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2024-04-18 23:39:02 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/blank_thread": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
@@ -9552,6 +9576,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/dark_wood_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2024-04-18 23:39:02 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2023-11-23 23:56:06 +0100"
@@ -10511,6 +10541,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/dark_wood_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2024-04-18 23:39:02 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2023-11-23 02:05:09 +0100"
@@ -11258,6 +11294,12 @@
   "minecraft:recipes/decorations/lime_glazed_terracotta": {
     "criteria": {
       "has_lime_terracotta": "2024-04-12 15:54:05 +0200"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/dark_wood_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2024-04-18 23:39:02 +0200"
     },
     "done": true
   },
@@ -12345,6 +12387,12 @@
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-04-05 15:19:20 +0200"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/dark_wood_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2024-04-18 23:39:02 +0200"
     },
     "done": true
   },
