@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/novelty_hat": {
+    "criteria": {
+      "sopa_de_macaco": "2024-04-19 19:46:06 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2023-11-26 02:57:07 +0100"
@@ -1482,6 +1488,12 @@
   "farmersdelight:recipes/food/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2023-11-23 16:21:35 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/square_pan": {
+    "criteria": {
+      "Recipes": "2024-04-19 19:43:37 +0200"
     },
     "done": true
   },
@@ -3762,6 +3774,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/muffin_tin": {
+    "criteria": {
+      "Recipes": "2024-04-19 19:43:37 +0200"
+    },
+    "done": true
+  },
   "extradelight:recipes/farmersdelight/mutton_chops4": {
     "criteria": {
       "mutton_chops": "2023-11-23 02:14:30 +0100"
@@ -3888,6 +3906,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/tray": {
+    "criteria": {
+      "Recipes": "2024-04-19 19:43:37 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/stripped_oak_raw_table_log": {
     "criteria": {
       "has_log": "2023-11-28 00:48:56 +0100"
@@ -4011,6 +4035,12 @@
   "extradelight:recipes/extradelight.items/gold_spoon": {
     "criteria": {
       "Recipes": "2023-11-24 01:33:57 +0100"
+    },
+    "done": true
+  },
+  "exposure:recipes/tools/black_and_white_film": {
+    "criteria": {
+      "has_camera": "2024-04-19 19:44:00 +0200"
     },
     "done": true
   },
@@ -5751,6 +5781,12 @@
   "pfm:recipes/pfm.furniture/birch_kitchen_drawer": {
     "criteria": {
       "has_planks": "2024-04-07 21:08:41 +0200"
+    },
+    "done": true
+  },
+  "exposure:recipes/developing_color_film": {
+    "criteria": {
+      "has_color_film": "2024-04-19 19:48:26 +0200"
     },
     "done": true
   },
@@ -9054,6 +9090,12 @@
     },
     "done": true
   },
+  "exposure:adventure/expose_film": {
+    "criteria": {
+      "expose_film": "2024-04-19 19:53:02 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/pasta_with_mutton_chop": {
     "criteria": {
       "has_any_ingredient": "2023-11-22 23:15:16 +0100"
@@ -9147,6 +9189,12 @@
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_basketweave_stone_cutterslab": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:33 +0100"
+    },
+    "done": true
+  },
+  "exposure:adventure/take_selfie": {
+    "criteria": {
+      "take_selfie": "2024-04-19 19:54:11 +0200"
     },
     "done": true
   },
@@ -10389,6 +10437,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2023-11-22 23:57:57 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.items/round_pan": {
+    "criteria": {
+      "Recipes": "2024-04-19 19:43:37 +0200"
     },
     "done": true
   },
@@ -12828,6 +12882,12 @@
     },
     "done": true
   },
+  "extradelight:recipes/extradelight.items/loaf_pan": {
+    "criteria": {
+      "Recipes": "2024-04-19 19:43:37 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2023-12-06 15:42:46 +0100"
@@ -14897,6 +14957,12 @@
   "pfm:recipes/pfm.furniture/hellbark_biomesoplenty_table_modern_dinner": {
     "criteria": {
       "has_planks": "2023-12-15 21:23:59 +0100"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/fish_bones": {
+    "criteria": {
+      "sopa_de_macaco": "2024-04-19 19:46:07 +0200"
     },
     "done": true
   },
@@ -18896,6 +18962,12 @@
   "farmersdelight:recipes/farmersdelight/tomato": {
     "criteria": {
       "has_tomato_crate": "2023-12-26 01:23:34 +0100"
+    },
+    "done": true
+  },
+  "exposure:recipes/tools/color_film": {
+    "criteria": {
+      "has_camera": "2024-04-19 19:44:00 +0200"
     },
     "done": true
   },
