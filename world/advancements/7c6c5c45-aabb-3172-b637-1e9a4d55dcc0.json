@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-04-24 00:28:06 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/stripped_dark_oak_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2023-11-28 00:49:11 +0100"
@@ -5102,6 +5108,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-04-24 00:28:06 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/jungle_theabyss_modern_stool": {
     "criteria": {
       "has_planks": "2024-04-12 14:34:00 +0200"
@@ -7935,6 +7947,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/crimson_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2024-04-24 00:19:47 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/fir_biomesoplenty_white_simple_bed": {
     "criteria": {
       "has_bed": "2023-12-17 21:30:08 +0100"
@@ -8580,6 +8598,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/crimson_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2024-04-24 00:19:47 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:novice_spell_book": {
     "criteria": {
       "has_novice_spell_book": "2023-11-27 17:10:22 +0100"
@@ -8769,6 +8793,12 @@
   "pfm:recipes/pfm.furniture/acacia_white_classic_bed": {
     "criteria": {
       "has_bed": "2023-12-17 21:30:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-04-24 00:28:06 +0200"
     },
     "done": true
   },
@@ -10188,6 +10218,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-04-24 00:50:48 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2023-11-22 23:47:59 +0100"
@@ -11191,6 +11227,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/crimson_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2024-04-24 00:19:47 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/dark_wood_kitchen_drawer": {
     "criteria": {
       "has_planks": "2023-12-13 01:26:50 +0100"
@@ -12082,6 +12124,12 @@
   "extradelight:recipes/extradelight.items/cactus_juice": {
     "criteria": {
       "Recipes": "2023-12-23 14:35:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-04-24 00:28:06 +0200"
     },
     "done": true
   },
@@ -14281,6 +14329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-04-24 00:28:06 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2023-11-22 23:46:37 +0100"
@@ -14882,6 +14936,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/crimson_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2024-04-24 00:19:47 +0200"
+    },
+    "done": true
+  },
   "theabyss:recipes/arcane_crafting/ring_of_freeze": {
     "criteria": {
       "on_arcane_table_crafted": "2024-04-14 17:38:21 +0200"
@@ -14897,6 +14957,12 @@
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2023-11-28 01:41:18 +0100"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/crimson_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2024-04-24 00:19:46 +0200"
     },
     "done": true
   },
@@ -15011,6 +15077,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2023-11-23 00:28:43 +0100"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/crimson_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2024-04-24 00:19:47 +0200"
     },
     "done": true
   },
@@ -15371,6 +15443,12 @@
   "extradelight:recipes/extradelight.aesthetic/mangrove_molded_light_blue_wallpaper": {
     "criteria": {
       "light_blue_mangrove_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-04-24 00:28:06 +0200"
     },
     "done": true
   },
@@ -15887,6 +15965,12 @@
   "pfm:recipes/pfm.furniture/stone_table_basic": {
     "criteria": {
       "stone_table_basic": "2023-11-26 03:00:35 +0100"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/crimson_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2024-04-24 00:19:47 +0200"
     },
     "done": true
   },
@@ -18772,6 +18856,12 @@
   "pfm:recipes/pfm.furniture/jungle_purple_classic_bed": {
     "criteria": {
       "has_bed": "2024-04-12 17:27:36 +0200"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/crimson_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2024-04-24 00:19:47 +0200"
     },
     "done": true
   },
