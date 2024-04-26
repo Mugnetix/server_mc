@@ -1,8 +1,8 @@
 {
-  "semanticVersion": "1.2.0",
+  "semanticVersion": "1.2.1",
   "updateInfo": {
-    "en_us": "Paladin's Furniture 1.2.0 has released, for Forge and Fabric, it is a major rewrite improving loading times, reducing memory usage, adding new blocks, and a lot more. Download it at: {link}"
+    "en_us": "Paladin's Furniture 1.2.1 has released, for MinecraftForge, NeoForge and Fabric, the mod has been rewritten to improve loading times even further, reduce memory usage, and fixing many crashes. Download it from: {link}"
 },
-  "modHost": "CurseForge",
-  "modDownload": "https://www.curseforge.com/minecraft/mc-mods/paladins-furniture"
+  "modHost": "Modrinth",
+  "modDownload": "https://modrinth.com/mod/paladins-furniture"
 }
