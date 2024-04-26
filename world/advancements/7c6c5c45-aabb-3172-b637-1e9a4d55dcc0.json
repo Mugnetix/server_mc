@@ -5636,6 +5636,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2024-04-26 17:14:16 +0200"
+    },
+    "done": true
+  },
   "theabyss:recipes/arcane_crafting/ring_of_pocket_box": {
     "criteria": {
       "on_arcane_table_crafted": "2024-04-14 17:38:21 +0200"
@@ -14765,6 +14771,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2023-11-28 02:48:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2024-04-26 17:14:16 +0200"
     },
     "done": true
   },
