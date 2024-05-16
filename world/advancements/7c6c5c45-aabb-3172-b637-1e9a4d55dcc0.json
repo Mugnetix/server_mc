@@ -13015,6 +13015,7 @@
       "erupting_inferno": "2023-12-12 23:43:47 +0100",
       "lush_savanna": "2023-12-24 18:41:44 +0100",
       "highland": "2023-11-23 23:00:43 +0100",
+      "bamboo_grove": "2024-05-16 11:15:29 +0200",
       "marsh": "2023-12-06 17:17:49 +0100",
       "jade_cliffs": "2023-11-22 23:15:12 +0100",
       "clover_patch": "2023-12-06 22:04:00 +0100",
@@ -17582,6 +17583,12 @@
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2023-11-22 23:15:16 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/birch_dried_corn_fence": {
+    "criteria": {
+      "birch_dried_corn_fence": "2024-05-16 10:51:44 +0200"
     },
     "done": true
   },
