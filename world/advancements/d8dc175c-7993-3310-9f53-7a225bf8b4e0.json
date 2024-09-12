@@ -2830,15 +2830,15 @@
     },
     "done": true
   },
-  "pfm:recipes/pfm.furniture/blackstone_kitchen_drawer": {
-    "criteria": {
-      "has_planks": "2024-04-21 13:15:20 +0200"
-    },
-    "done": true
-  },
   "pfm:recipes/pfm.furniture/deepslate_tile_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2024-04-21 13:12:50 +0200"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/blackstone_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2024-04-21 13:15:20 +0200"
     },
     "done": true
   },
