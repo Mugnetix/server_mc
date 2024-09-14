@@ -3328,6 +3328,12 @@
     },
     "done": true
   },
+  "farmersrespite:recipes/farmersrespite/kettle": {
+    "criteria": {
+      "has_brick": "2024-09-14 13:53:25 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/birch_blue_classic_bed": {
     "criteria": {
       "has_bed": "2024-04-19 12:23:45 +0200"
@@ -15014,6 +15020,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2024-04-07 22:53:41 +0200"
+    },
+    "done": true
+  },
+  "exposure:adventure/get_photograph": {
+    "criteria": {
+      "get_photograph": "2024-09-14 16:33:15 +0200"
     },
     "done": true
   },
