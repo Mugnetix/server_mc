@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/crimson_chair_dinner": {
+    "criteria": {
+      "has_planks": "2024-09-14 23:05:24 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2023-11-24 23:43:27 +0100"
@@ -548,6 +554,12 @@
   "extradelight:recipes/farmersdelight/fried_egg5": {
     "criteria": {
       "fried_egg": "2023-11-22 23:55:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2024-09-14 23:05:24 +0200"
     },
     "done": true
   },
@@ -989,6 +1001,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/crimson_chair_modern": {
+    "criteria": {
+      "has_planks": "2024-09-14 23:05:24 +0200"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/spruce_cog": {
     "criteria": {
       "in_water": "2023-11-22 22:41:15 +0100"
@@ -1217,6 +1235,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2024-09-14 23:05:24 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2023-11-22 23:55:33 +0100"
@@ -1238,6 +1262,12 @@
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_pillar": "2024-04-19 22:03:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2024-09-14 23:05:24 +0200"
     },
     "done": true
   },
@@ -2344,6 +2374,12 @@
     },
     "done": true
   },
+  "ferdinandsflowers:recipes/decorations/planter_crimson_stem": {
+    "criteria": {
+      "has_crimson_planks": "2024-09-14 23:05:24 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/calcite_table_modern_dinner": {
     "criteria": {
       "calcite_table_modern_dinner": "2023-11-27 13:59:57 +0100"
@@ -2773,6 +2809,12 @@
   "pfm:recipes/pfm.furniture/deepslate_tile_kitchen_drawer": {
     "criteria": {
       "has_planks": "2024-04-21 13:12:50 +0200"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/crimson_table_basic": {
+    "criteria": {
+      "has_planks": "2024-09-14 23:05:24 +0200"
     },
     "done": true
   },
@@ -3850,6 +3892,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/crimson_chair": {
+    "criteria": {
+      "has_planks": "2024-09-14 23:05:24 +0200"
+    },
+    "done": true
+  },
   "extradelight:recipes/farmersdelight/bacon8": {
     "criteria": {
       "bacon": "2023-11-23 02:13:56 +0100"
@@ -4373,6 +4421,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/crimson_classic_stool": {
+    "criteria": {
+      "has_planks": "2024-09-14 23:05:24 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/spruce_modern_stool": {
     "criteria": {
       "has_planks": "2023-11-27 13:44:49 +0100"
@@ -4436,6 +4490,12 @@
   "pfm:recipes/pfm.furniture/jungle_table_classic": {
     "criteria": {
       "has_planks": "2024-04-07 01:03:40 +0200"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/crimson_table_dinner": {
+    "criteria": {
+      "has_planks": "2024-09-14 23:05:24 +0200"
     },
     "done": true
   },
@@ -4616,6 +4676,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2023-11-22 23:13:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-09-14 23:05:24 +0200"
     },
     "done": true
   },
@@ -5006,14 +5072,17 @@
       "erupting_inferno": "2024-04-05 13:55:21 +0200",
       "lush_savanna": "2024-04-07 20:12:08 +0200",
       "highland": "2023-12-08 00:22:04 +0100",
+      "bamboo_grove": "2024-09-14 21:38:18 +0200",
       "marsh": "2024-04-19 12:12:30 +0200",
       "jade_cliffs": "2023-11-22 23:15:28 +0100",
       "clover_patch": "2023-12-08 00:21:36 +0100",
+      "mystic_grove": "2024-09-14 21:52:41 +0200",
       "cold_desert": "2024-04-07 15:12:16 +0200",
       "old_growth_woodland": "2024-04-07 20:48:01 +0200",
       "wooded_scrubland": "2023-11-25 00:17:13 +0100",
       "maple_woods": "2023-12-08 00:41:58 +0100",
       "crystalline_chasm": "2024-04-05 14:32:21 +0200",
+      "wooded_wasteland": "2024-09-14 22:01:35 +0200",
       "withered_abyss": "2024-04-05 19:35:43 +0200",
       "orchard": "2023-11-25 00:17:52 +0100",
       "field": "2023-12-08 00:22:53 +0100",
@@ -5025,6 +5094,7 @@
       "forested_field": "2024-04-07 17:35:21 +0200",
       "dryland": "2024-04-07 20:06:40 +0200",
       "wasteland": "2024-04-07 18:36:18 +0200",
+      "lush_desert": "2024-09-14 22:08:28 +0200",
       "redwood_forest": "2023-11-22 22:25:31 +0100",
       "visceral_heap": "2024-04-05 13:50:20 +0200",
       "cherry_blossom_grove": "2024-04-19 12:18:07 +0200",
@@ -5032,6 +5102,7 @@
       "highland_moor": "2023-12-08 00:21:54 +0100",
       "seasonal_forest": "2023-11-22 23:54:24 +0100",
       "rocky_rainforest": "2024-04-19 12:05:40 +0200",
+      "volcanic_plains": "2024-09-14 22:13:56 +0200",
       "lavender_field": "2023-11-22 23:13:40 +0100",
       "fir_clearing": "2023-11-23 02:00:57 +0100",
       "pumpkin_patch": "2024-04-07 15:10:54 +0200",
@@ -5431,6 +5502,12 @@
       "GRAVY": "2023-11-26 00:08:05 +0100"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2024-09-14 23:05:24 +0200"
+    },
+    "done": true
   },
   "ars_nouveau:recipes/ars_nouveau/manipulation_essence_to_vexing_sapling": {
     "criteria": {
@@ -6538,6 +6615,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/crimson_table_classic": {
+    "criteria": {
+      "has_planks": "2024-09-14 23:05:24 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/stripped_spruce_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2023-11-27 13:44:50 +0100"
@@ -7264,6 +7347,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/crimson_simple_stool": {
+    "criteria": {
+      "has_planks": "2024-09-14 23:05:24 +0200"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.aesthetic/acacia_molded_gray_wallpaper": {
     "criteria": {
       "gray_acacia_wallpaper": "2023-12-07 22:47:54 +0100"
@@ -7279,6 +7368,12 @@
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2023-12-08 01:27:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2024-09-14 23:05:24 +0200"
     },
     "done": true
   },
@@ -7339,6 +7434,12 @@
   "pfm:recipes/pfm.furniture/calcite_chair_modern": {
     "criteria": {
       "calcite_chair_modern": "2023-11-27 13:59:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-09-14 23:05:24 +0200"
     },
     "done": true
   },
@@ -7441,6 +7542,12 @@
   "extradelight:recipes/extradelight.aesthetic/spruce_dried_corn_fence": {
     "criteria": {
       "spruce_dried_corn_fence": "2023-11-28 22:26:02 +0100"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/crimson_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2024-09-14 23:05:24 +0200"
     },
     "done": true
   },
@@ -8415,6 +8522,12 @@
     },
     "done": true
   },
+  "exposure:recipes/copying_black_and_white_photograph": {
+    "criteria": {
+      "has_photograph": "2024-09-14 20:04:36 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/granite_table_basic": {
     "criteria": {
       "granite_table_basic": "2024-04-19 13:58:55 +0200"
@@ -8850,6 +8963,12 @@
   "pfm:recipes/pfm.furniture/granite_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2024-04-19 13:58:55 +0200"
+    },
+    "done": true
+  },
+  "exposure:recipes/copying_color_photograph": {
+    "criteria": {
+      "has_photograph": "2024-09-14 20:04:36 +0200"
     },
     "done": true
   },
@@ -12210,6 +12329,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/crimson_table_stem": {
+    "criteria": {
+      "has_log": "2024-09-14 23:05:24 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_mosaic_slab": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
@@ -12768,6 +12893,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/crimson_modern_stool": {
+    "criteria": {
+      "has_planks": "2024-09-14 23:05:24 +0200"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.aesthetic/dark_oak_molded_brown_wallpaper": {
     "criteria": {
       "brown_dark_oak_wallpaper": "2023-12-07 22:47:54 +0100"
@@ -12977,6 +13108,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2023-11-24 00:23:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2024-09-14 23:05:24 +0200"
     },
     "done": true
   },
@@ -13784,6 +13921,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/crimson_chair_classic": {
+    "criteria": {
+      "has_planks": "2024-09-14 23:05:24 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2024-04-07 14:45:16 +0200"
@@ -14042,6 +14185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-09-14 23:05:24 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/jungle_theabyss_chair_modern": {
     "criteria": {
       "has_planks": "2024-04-17 23:41:14 +0200"
@@ -14201,6 +14350,12 @@
   "extradelight:recipes/extradelight.aesthetic/acacia_step_stool": {
     "criteria": {
       "acacia_step_stool": "2023-11-22 23:15:00 +0100"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/crimson_simple_bunk_ladder": {
+    "criteria": {
+      "has_planks": "2024-09-14 23:05:24 +0200"
     },
     "done": true
   },
@@ -14473,11 +14628,14 @@
       "minecraft:sunflower_plains": "2023-11-22 23:58:57 +0100",
       "minecraft:birch_forest": "2023-11-25 00:34:12 +0100",
       "minecraft:windswept_hills": "2024-04-19 12:54:45 +0200",
+      "minecraft:bamboo_jungle": "2024-09-14 22:43:34 +0200",
+      "minecraft:wooded_badlands": "2024-09-14 22:02:41 +0200",
       "minecraft:badlands": "2024-04-07 18:36:55 +0200",
       "minecraft:savanna_plateau": "2024-04-20 01:06:30 +0200",
       "minecraft:beach": "2023-11-22 23:36:18 +0100",
       "minecraft:dark_forest": "2023-11-25 21:34:41 +0100",
       "minecraft:stony_peaks": "2024-04-07 22:04:06 +0200",
+      "minecraft:mangrove_swamp": "2024-09-14 22:44:03 +0200",
       "minecraft:sparse_jungle": "2024-04-07 20:15:10 +0200",
       "minecraft:river": "2023-11-22 23:05:06 +0100",
       "minecraft:lukewarm_ocean": "2024-04-07 14:12:44 +0200",
@@ -14499,6 +14657,7 @@
       "minecraft:jungle": "2024-04-19 12:09:47 +0200",
       "minecraft:old_growth_spruce_taiga": "2024-04-19 13:54:37 +0200",
       "minecraft:snowy_beach": "2023-12-08 00:30:10 +0100",
+      "minecraft:windswept_savanna": "2024-09-14 22:04:40 +0200",
       "minecraft:warm_ocean": "2024-04-07 20:40:00 +0200",
       "minecraft:deep_lukewarm_ocean": "2024-04-07 14:13:06 +0200",
       "minecraft:flower_forest": "2023-11-22 23:55:55 +0100",
@@ -16816,6 +16975,12 @@
   "ars_nouveau:recipes/ars_nouveau/rotating_turret_to_basic_spell_turret": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/crimson_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2024-09-14 23:05:24 +0200"
     },
     "done": true
   },
