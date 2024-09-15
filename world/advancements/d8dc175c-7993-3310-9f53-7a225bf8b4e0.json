@@ -9189,6 +9189,12 @@
     },
     "done": true
   },
+  "farmersrespite:recipes/farmersrespite/brewing/apple_cider": {
+    "criteria": {
+      "has_apple": "2024-09-15 22:47:31 +0200"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_light_blue_from_white": {
     "criteria": {
       "has_sleeping_bag": "2023-11-23 22:46:38 +0100"
@@ -12756,6 +12762,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2024-09-16 00:38:03 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/pream_phantasm_chair_classic": {
     "criteria": {
       "has_planks": "2024-04-12 13:35:02 +0200"
@@ -13259,6 +13271,12 @@
   "pfm:recipes/pfm.furniture/pream_phantasm_kitchen_sink": {
     "criteria": {
       "has_planks": "2024-04-12 13:35:02 +0200"
+    },
+    "done": true
+  },
+  "farmersrespite:recipes/farmersrespite/brewing/dandelion_tea": {
+    "criteria": {
+      "has_any_ingredient": "2024-09-15 22:44:24 +0200"
     },
     "done": true
   },
@@ -15486,6 +15504,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-04-05 16:19:22 +0200",
+      "chicken": "2024-09-16 00:37:37 +0200",
       "honey_bottle": "2024-04-12 20:38:50 +0200",
       "cooked_mutton": "2023-11-22 23:23:23 +0100",
       "sweet_berries": "2023-11-25 00:27:44 +0100",
