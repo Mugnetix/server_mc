@@ -2608,6 +2608,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/smooth_stone_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2024-09-15 18:04:00 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2023-11-24 15:25:24 +0100"
@@ -4319,6 +4325,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/smooth_stone_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2024-09-15 18:04:00 +0200"
+    },
+    "done": true
+  },
   "extradelight:recipes/farmersdelight/pie_crust": {
     "criteria": {
       "pie_crust": "2023-11-25 23:12:27 +0100"
@@ -4712,6 +4724,12 @@
   "pfm:recipes/pfm.furniture/iron_freezer": {
     "criteria": {
       "has_iron_ingot": "2023-11-27 14:25:01 +0100"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/smooth_stone_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2024-09-15 18:04:00 +0200"
     },
     "done": true
   },
@@ -5297,6 +5315,12 @@
   "exoticbirds:recipes/phoenix_egg_from_twilight_phoenix": {
     "criteria": {
       "has_egg": "2023-11-22 22:25:30 +0100"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/smooth_stone_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2024-09-15 18:04:00 +0200"
     },
     "done": true
   },
@@ -7819,6 +7843,7 @@
       "kelp": "2023-12-07 22:32:00 +0100",
       "beetroot": "2024-04-05 12:11:02 +0200",
       "cocoa": "2024-04-08 23:44:50 +0200",
+      "brown_mushroom": "2024-09-15 16:31:51 +0200",
       "potato": "2024-04-05 11:09:07 +0200",
       "wheat": "2023-11-23 22:50:36 +0100",
       "melon": "2024-04-12 12:40:10 +0200",
@@ -8693,6 +8718,12 @@
   "aquamirae:recipes/esca": {
     "criteria": {
       "has_item": "2024-04-07 15:32:41 +0200"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/smooth_stone_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2024-09-15 18:04:00 +0200"
     },
     "done": true
   },
@@ -12005,6 +12036,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/smooth_stone_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2024-09-15 18:04:00 +0200"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/tool_swapper_upgrade": {
     "criteria": {
       "has_upgrade_base": "2023-12-13 00:38:36 +0100"
@@ -13708,6 +13745,12 @@
   "pfm:recipes/pfm.furniture/pream_phantasm_purple_simple_bed": {
     "criteria": {
       "has_bed": "2024-04-17 23:30:14 +0200"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/smooth_stone_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2024-09-15 18:04:00 +0200"
     },
     "done": true
   },
@@ -16861,6 +16904,12 @@
   "pfm:recipes/pfm.furniture/redwood_biomesoplenty_kitchen_wall_counter": {
     "criteria": {
       "has_planks": "2024-04-06 14:57:01 +0200"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/smooth_stone_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2024-09-15 18:04:00 +0200"
     },
     "done": true
   },
