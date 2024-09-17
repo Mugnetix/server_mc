@@ -1371,6 +1371,12 @@
     },
     "done": true
   },
+  "nethervinery:crested_crimson_planks": {
+    "criteria": {
+      "has_crimson_planks": "2024-09-17 13:27:29 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_alternating_stonecutter_stair": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -2171,6 +2177,12 @@
     },
     "done": true
   },
+  "nethervinery:crimson_wine_rack_small": {
+    "criteria": {
+      "has_crimson_planks": "2024-09-17 13:27:29 +0200"
+    },
+    "done": true
+  },
   "theabyss:recipes/arcane_crafting/ring_of_invisibility": {
     "criteria": {
       "on_arcane_table_crafted": "2024-04-14 17:38:21 +0200"
@@ -2910,6 +2922,12 @@
     },
     "done": true
   },
+  "vinery:grapevine_lattice": {
+    "criteria": {
+      "has_stick": "2024-09-17 14:24:10 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_terracotta": {
     "criteria": {
       "has_terracotta": "2023-12-09 19:30:45 +0100"
@@ -3562,6 +3580,12 @@
     },
     "done": true
   },
+  "nethervinery:reinforced_crimson_planks": {
+    "criteria": {
+      "has_crimson_planks": "2024-09-17 13:27:29 +0200"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/toast3": {
     "criteria": {
       "toast": "2023-11-24 00:22:08 +0100"
@@ -3661,6 +3685,12 @@
   "extradelight:recipes/extradelight.items/toast8": {
     "criteria": {
       "toast": "2023-11-24 00:22:08 +0100"
+    },
+    "done": true
+  },
+  "vinery:wine_bottle": {
+    "criteria": {
+      "has_glass_bottle": "2024-09-17 14:43:12 +0200"
     },
     "done": true
   },
@@ -4564,6 +4594,12 @@
     },
     "done": true
   },
+  "vinery:shelf": {
+    "criteria": {
+      "has_spruce_planks": "2024-09-17 13:57:39 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/netherite_kitchen_counter": {
     "criteria": {
       "has_planks": "2024-04-05 15:27:51 +0200"
@@ -5395,6 +5431,12 @@
     },
     "done": true
   },
+  "vinery:basket": {
+    "criteria": {
+      "has_wheat": "2024-09-17 14:49:51 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2023-12-26 23:23:45 +0100"
@@ -5476,6 +5518,12 @@
   "pfm:recipes/pfm.furniture/mangrove_chair_modern": {
     "criteria": {
       "has_planks": "2024-09-14 22:31:27 +0200"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/mangrove_dried_corn_fence": {
+    "criteria": {
+      "mangrove_dried_corn_fence": "2024-09-17 15:27:19 +0200"
     },
     "done": true
   },
@@ -5977,6 +6025,12 @@
     },
     "done": true
   },
+  "vinery:grapevine_stem": {
+    "criteria": {
+      "has_oak_log": "2024-09-17 13:27:29 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_candle": {
     "criteria": {
       "has_cyan_dye": "2024-05-04 22:46:29 +0200"
@@ -6399,6 +6453,12 @@
   "pfm:recipes/pfm.furniture/stripped_oak_modern_stool": {
     "criteria": {
       "has_planks": "2023-11-28 00:48:56 +0100"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-09-17 13:27:29 +0200"
     },
     "done": true
   },
@@ -6825,6 +6885,12 @@
   "extradelight:recipes/extradelight.aesthetic/mangrove_molded_gray_wallpaper": {
     "criteria": {
       "gray_mangrove_wallpaper": "2023-11-25 23:42:06 +0100"
+    },
+    "done": true
+  },
+  "chalk:adventure/sleep_three_times_in_one_place": {
+    "criteria": {
+      "sleep_three_times_in_one_place": "2024-09-17 15:14:13 +0200"
     },
     "done": true
   },
@@ -8457,6 +8523,12 @@
     },
     "done": true
   },
+  "nethervinery:crimson_wine_rack_bid": {
+    "criteria": {
+      "has_crimson_planks": "2024-09-17 13:27:29 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:mob_jar": {
     "criteria": {
       "has_mob_jar": "2024-05-07 18:33:42 +0200"
@@ -8568,6 +8640,12 @@
     },
     "done": true
   },
+  "vinery:dirt_slab": {
+    "criteria": {
+      "has_dirt": "2024-09-17 14:42:36 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/basic_plate": {
     "criteria": {
       "has_white_concrete": "2023-12-09 20:22:50 +0100"
@@ -8664,6 +8742,12 @@
     },
     "done": true
   },
+  "vinery:mangrove_wine_rack_big": {
+    "criteria": {
+      "has_mangrove_planks": "2024-09-17 13:27:29 +0200"
+    },
+    "done": true
+  },
   "cataclysm:kill_ender_guardian": {
     "criteria": {
       "enderguardian": "2024-04-10 20:11:40 +0200"
@@ -8691,6 +8775,12 @@
   "comforts:hammock_light_gray_from_white": {
     "criteria": {
       "has_hammock": "2023-12-05 12:24:08 +0100"
+    },
+    "done": true
+  },
+  "nethervinery:crimson_fermentation_barrel": {
+    "criteria": {
+      "has_crimson_planks": "2024-09-17 13:27:29 +0200"
     },
     "done": true
   },
@@ -9231,6 +9321,12 @@
   "smallships:recipes/transportation/jungle_galley": {
     "criteria": {
       "in_water": "2023-11-22 23:30:21 +0100"
+    },
+    "done": true
+  },
+  "vinery:mangrove_wine_rack_small": {
+    "criteria": {
+      "has_mangrove_planks": "2024-09-17 13:27:29 +0200"
     },
     "done": true
   },
@@ -10602,6 +10698,12 @@
     },
     "done": true
   },
+  "nethervinery:crimson_apple_press": {
+    "criteria": {
+      "has_crimson_planks": "2024-09-17 13:27:29 +0200"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/jam_toast": {
     "criteria": {
       "Recipes": "2024-04-05 11:45:05 +0200"
@@ -10791,6 +10893,12 @@
   "biomesoplenty:recipes/redstone/hellbark_trapdoor": {
     "criteria": {
       "has_planks": "2023-12-15 21:23:59 +0100"
+    },
+    "done": true
+  },
+  "extradelight:recipes/extradelight.aesthetic/crimson_dried_corn_fence": {
+    "criteria": {
+      "crimson_dried_corn_fence": "2024-09-17 15:27:06 +0200"
     },
     "done": true
   },
@@ -12127,6 +12235,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mud_brick_chimney": {
+    "criteria": {
+      "has_mud": "2024-09-17 14:49:27 +0200"
+    },
+    "done": true
+  },
   "extradelight:recipes/farmersdelight/ham9": {
     "criteria": {
       "ham": "2023-11-23 02:08:37 +0100"
@@ -13117,6 +13231,12 @@
     },
     "done": true
   },
+  "vinery:oak_wine_rack_small": {
+    "criteria": {
+      "has_oak_planks": "2024-09-17 14:26:52 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/beehive": {
     "criteria": {
       "has_honeycomb": "2024-04-08 22:24:09 +0200"
@@ -13336,6 +13456,12 @@
   "exoticbirds:default/root": {
     "criteria": {
       "launch_mod": "2023-11-22 01:32:34 +0100"
+    },
+    "done": true
+  },
+  "vinery:spruce_wine_rack_big": {
+    "criteria": {
+      "has_spruce_planks": "2024-09-17 13:57:39 +0200"
     },
     "done": true
   },
@@ -13779,6 +13905,12 @@
     },
     "done": true
   },
+  "vinery:spruce_wine_rack_small": {
+    "criteria": {
+      "has_spruce_planks": "2024-09-17 13:57:39 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/white_mirror": {
     "criteria": {
       "has_white_concrete": "2023-12-09 20:22:50 +0100"
@@ -14179,6 +14311,12 @@
   "extradelight:recipes/extradelight.items/carrot4": {
     "criteria": {
       "carrot": "2023-11-23 16:21:35 +0100"
+    },
+    "done": true
+  },
+  "vinery:oak_wine_rack_big": {
+    "criteria": {
+      "has_oak_planks": "2024-09-17 14:26:52 +0200"
     },
     "done": true
   },
@@ -15425,6 +15563,12 @@
     },
     "done": true
   },
+  "nethervinery:crimson_wine_rack_mid": {
+    "criteria": {
+      "has_crimson_planks": "2024-09-17 13:27:29 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/source_gem_block_2": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:33 +0100"
@@ -16487,6 +16631,12 @@
     },
     "done": true
   },
+  "vinery:jungle_wine_rack_big": {
+    "criteria": {
+      "has_jungle_planks": "2024-09-17 16:11:39 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_mushroom_colony": {
     "criteria": {
       "brown_mushroom_colony": "2023-12-24 23:23:42 +0100"
@@ -16556,6 +16706,12 @@
   "farmersdelight:recipes/farmersdelight/nether_salad": {
     "criteria": {
       "has_bowl": "2023-11-23 15:25:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_chimney": {
+    "criteria": {
+      "has_stone": "2024-09-17 14:10:39 +0200"
     },
     "done": true
   },
@@ -16778,6 +16934,12 @@
   "pfm:recipes/pfm.furniture/magic_biomesoplenty_purple_classic_bed": {
     "criteria": {
       "has_bed": "2024-04-12 17:27:36 +0200"
+    },
+    "done": true
+  },
+  "vinery:cherry_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-09-17 14:24:10 +0200"
     },
     "done": true
   },
@@ -17160,6 +17322,12 @@
     },
     "done": true
   },
+  "vinery:jungle_wine_rack_small": {
+    "criteria": {
+      "has_jungle_planks": "2024-09-17 16:11:39 +0200"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.aesthetic/acacia_molded_brown_wallpaper": {
     "criteria": {
       "brown_acacia_wallpaper": "2023-11-25 23:42:06 +0100"
@@ -17250,9 +17418,21 @@
     },
     "done": true
   },
+  "vinery:wine_rack_3": {
+    "criteria": {
+      "has_spruce_planks": "2024-09-17 13:57:39 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/dark_wood_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2023-12-13 01:26:50 +0100"
+    },
+    "done": true
+  },
+  "vinery:wine_rack_5": {
+    "criteria": {
+      "has_spruce_planks": "2024-09-17 13:57:39 +0200"
     },
     "done": true
   },
@@ -17313,6 +17493,18 @@
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2023-11-26 02:57:07 +0100"
+    },
+    "done": true
+  },
+  "vinery:wine_rack_1": {
+    "criteria": {
+      "has_spruce_planks": "2024-09-17 13:57:39 +0200"
+    },
+    "done": true
+  },
+  "vinery:wine_rack_2": {
+    "criteria": {
+      "has_spruce_planks": "2024-09-17 13:57:39 +0200"
     },
     "done": true
   },
@@ -18000,6 +18192,12 @@
     },
     "done": true
   },
+  "vinery:grapevine_pot": {
+    "criteria": {
+      "has_spruce_planks": "2024-09-17 13:57:39 +0200"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/bacon_egg_cheese_sandwich_egg": {
     "criteria": {
       "Recipes": "2023-12-23 14:36:23 +0100"
@@ -18162,9 +18360,21 @@
     },
     "done": true
   },
+  "vinery:cherry_fence": {
+    "criteria": {
+      "has_stick": "2024-09-17 14:24:10 +0200"
+    },
+    "done": true
+  },
   "exoticbirds:recipes/orange_birdhouse": {
     "criteria": {
       "has_wood": "2023-11-22 01:33:52 +0100"
+    },
+    "done": true
+  },
+  "vinery:straw_hat": {
+    "criteria": {
+      "has_wheat": "2024-09-17 14:49:51 +0200"
     },
     "done": true
   },
@@ -19349,6 +19559,12 @@
     },
     "done": true
   },
+  "nethervinery:crimson_grapevine_pot": {
+    "criteria": {
+      "has_crimson_planks": "2024-09-17 13:27:29 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2023-11-27 16:22:16 +0100"
@@ -19364,6 +19580,12 @@
   "farmersdelight:recipes/farmersdelight/cooked_chicken_cuts_from_campfire_cooking": {
     "criteria": {
       "cooked_chicken_cuts": "2023-11-24 23:57:19 +0100"
+    },
+    "done": true
+  },
+  "vinery:campfire": {
+    "criteria": {
+      "has_stick": "2024-09-17 14:24:10 +0200"
     },
     "done": true
   },
@@ -19825,6 +20047,12 @@
   "pfm:recipes/pfm.furniture/diorite_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2023-11-26 02:01:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_chimney": {
+    "criteria": {
+      "has_cobblestone": "2024-09-17 14:10:38 +0200"
     },
     "done": true
   },
@@ -20318,6 +20546,12 @@
   "pfm:recipes/pfm.furniture/red_arm_chair": {
     "criteria": {
       "has_wool": "2023-11-27 14:49:20 +0100"
+    },
+    "done": true
+  },
+  "vinery:stackable_log": {
+    "criteria": {
+      "has_oak_log": "2024-09-17 13:27:29 +0200"
     },
     "done": true
   },

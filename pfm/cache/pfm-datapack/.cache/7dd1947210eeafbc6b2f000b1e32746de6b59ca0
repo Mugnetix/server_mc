@@ -1,7 +1,7 @@
-// 1.19.2	2024-09-15T22:30:47.2326679	PFM Tags for Blocks
-81cccfc7f18d836033d588de39accc02b365b4f8 data/minecraft/tags/blocks/beds.json
-68a3aa549ab04891c2c9254ba6477a96266fcf15 data/minecraft/tags/blocks/climbable.json
-8910b0ef3455ab3309a4d6017e3d2a8f1610dd66 data/minecraft/tags/blocks/mineable/axe.json
-a0fe95a2b8a9f2e76919115acd80a00f9427de3e data/minecraft/tags/blocks/mineable/pickaxe.json
+// 1.19.2	2024-09-17T13:24:47.6699391	PFM Tags for Blocks
+bb18f57e6cfa7b8c8d60e84acca7609468a0e9f2 data/minecraft/tags/blocks/beds.json
+a627ad42aba704739ba6279eaa09edc05c7dcab4 data/minecraft/tags/blocks/climbable.json
+b5558414942d983f8f1b1605280cbc01d953862b data/minecraft/tags/blocks/mineable/axe.json
+ab139a6ae21cca7dab3d324257cdf07cda74598c data/minecraft/tags/blocks/mineable/pickaxe.json
 eb6d8a47199b221f0d4701526c40c7693bbdd3dc data/minecraft/tags/blocks/mineable/shovel.json
-246f4a342184cd42877d5d13d2c2d1eb1233c154 data/pfm/tags/blocks/tuckable_blocks.json
+c952d2ef48f22ffeeef67c6899f90d24e10be3f4 data/pfm/tags/blocks/tuckable_blocks.json

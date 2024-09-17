@@ -1,0 +1,29 @@
+{
+  "type": "pfm:furniture",
+  "ingredients": [
+    {
+      "item": "minecraft:magenta_wool"
+    },
+    {
+      "item": "minecraft:magenta_wool"
+    },
+    {
+      "item": "minecraft:magenta_wool"
+    },
+    {
+      "item": "vinery:stripped_cherry_log"
+    },
+    {
+      "item": "vinery:stripped_cherry_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:basic_lamp",
+    "tag": {
+      "BlockEntityTag": {
+        "color": "magenta",
+        "variant": "vinery:cherry"
+      }
+    }
+  }
+}

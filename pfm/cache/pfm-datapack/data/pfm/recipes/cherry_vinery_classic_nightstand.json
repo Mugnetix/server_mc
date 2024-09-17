@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "vinery:cherry_log"
+    },
+    {
+      "item": "vinery:cherry_log"
+    },
+    {
+      "item": "vinery:cherry_log"
+    },
+    {
+      "item": "vinery:cherry_log"
+    },
+    {
+      "item": "vinery:cherry_log"
+    },
+    {
+      "item": "vinery:cherry_log"
+    },
+    {
+      "item": "vinery:cherry_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:cherry_vinery_classic_nightstand"
+  }
+}

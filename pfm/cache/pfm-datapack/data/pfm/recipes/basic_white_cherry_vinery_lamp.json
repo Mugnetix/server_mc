@@ -1,0 +1,29 @@
+{
+  "type": "pfm:furniture",
+  "ingredients": [
+    {
+      "item": "minecraft:white_wool"
+    },
+    {
+      "item": "minecraft:white_wool"
+    },
+    {
+      "item": "minecraft:white_wool"
+    },
+    {
+      "item": "vinery:stripped_cherry_log"
+    },
+    {
+      "item": "vinery:stripped_cherry_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:basic_lamp",
+    "tag": {
+      "BlockEntityTag": {
+        "color": "white",
+        "variant": "vinery:cherry"
+      }
+    }
+  }
+}

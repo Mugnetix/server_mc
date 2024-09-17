@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "chalk:recipes/tools/chalk_from_pink_dye": {
+    "criteria": {
+      "has_calcite": "2024-09-17 13:26:42 +0200"
+    },
+    "done": true
+  },
   "deeperdarker:main/root": {
     "criteria": {
       "deep_dark": "2023-11-24 00:04:14 +0100"
@@ -1061,6 +1067,12 @@
     },
     "done": true
   },
+  "chalk:recipes/tools/chalk_from_cyan_dye": {
+    "criteria": {
+      "has_calcite": "2024-09-17 13:26:42 +0200"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/oven/cheesecake": {
     "criteria": {
       "has_any_ingredient": "2023-11-25 22:26:51 +0100"
@@ -1514,6 +1526,12 @@
   "pfm:recipes/pfm.furniture/slimed_theabyss_blue_classic_bed": {
     "criteria": {
       "has_bed": "2024-04-19 12:23:45 +0200"
+    },
+    "done": true
+  },
+  "chalk:recipes/tools/chalk_from_blue_dye": {
+    "criteria": {
+      "has_calcite": "2024-09-17 13:26:42 +0200"
     },
     "done": true
   },
@@ -3712,6 +3730,12 @@
     },
     "done": true
   },
+  "chalk:recipes/tools/chalk_from_red_dye": {
+    "criteria": {
+      "has_calcite": "2024-09-17 13:26:42 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/green_simple_sofa": {
     "criteria": {
       "has_wool": "2023-11-27 13:44:49 +0100"
@@ -4865,6 +4889,12 @@
     },
     "done": true
   },
+  "vinery:grapevine_lattice": {
+    "criteria": {
+      "has_coal": "2024-09-17 15:04:41 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/manipulation_essence_to_blazin_sapling": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
@@ -5078,6 +5108,12 @@
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-04-10 00:37:38 +0200"
+    },
+    "done": true
+  },
+  "vinery:spruce_wine_rack_big": {
+    "criteria": {
+      "has_spruce_planks": "2024-09-17 13:25:42 +0200"
     },
     "done": true
   },
@@ -5802,6 +5838,12 @@
   "pfm:recipes/pfm.furniture/oak_chair_classic_red": {
     "criteria": {
       "oak_chair_classic_red": "2023-11-28 02:39:17 +0100"
+    },
+    "done": true
+  },
+  "vinery:spruce_wine_rack_small": {
+    "criteria": {
+      "has_spruce_planks": "2024-09-17 13:25:42 +0200"
     },
     "done": true
   },
@@ -7623,6 +7665,12 @@
     },
     "done": true
   },
+  "vinery:shelf": {
+    "criteria": {
+      "has_spruce_planks": "2024-09-17 13:25:42 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/netherite_kitchen_counter": {
     "criteria": {
       "has_planks": "2024-04-05 15:29:40 +0200"
@@ -7662,6 +7710,12 @@
   "pfm:recipes/pfm.furniture/ebony_phantasm_blue_simple_bed": {
     "criteria": {
       "has_bed": "2024-04-19 12:23:45 +0200"
+    },
+    "done": true
+  },
+  "chalk:recipes/tools/chalk_from_green_dye": {
+    "criteria": {
+      "has_calcite": "2024-09-17 13:26:42 +0200"
     },
     "done": true
   },
@@ -8805,6 +8859,12 @@
     },
     "done": true
   },
+  "chalk:recipes/tools/chalk_from_yellow_dye": {
+    "criteria": {
+      "has_calcite": "2024-09-17 13:26:42 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2023-11-23 02:01:21 +0100"
@@ -8871,6 +8931,12 @@
     },
     "done": true
   },
+  "vinery:big_table": {
+    "criteria": {
+      "has_iron_ingot": "2024-09-17 15:21:06 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/lava_lily": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
@@ -8910,6 +8976,12 @@
   "pfm:recipes/pfm.furniture/pream_phantasm_table_log": {
     "criteria": {
       "has_log": "2024-04-12 13:35:02 +0200"
+    },
+    "done": true
+  },
+  "vinery:basket": {
+    "criteria": {
+      "has_wheat": "2024-09-17 15:23:02 +0200"
     },
     "done": true
   },
@@ -8970,6 +9042,12 @@
   "comforts:hammock_red_from_white": {
     "criteria": {
       "has_hammock": "2024-04-07 15:08:17 +0200"
+    },
+    "done": true
+  },
+  "chalk:recipes/tools/chalk_from_lime_dye": {
+    "criteria": {
+      "has_calcite": "2024-09-17 13:26:42 +0200"
     },
     "done": true
   },
@@ -9867,6 +9945,12 @@
     },
     "done": true
   },
+  "vinery:grapevine_stem": {
+    "criteria": {
+      "has_oak_log": "2024-09-17 15:20:17 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2023-11-24 15:25:24 +0100"
@@ -10369,6 +10453,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_chimney": {
+    "criteria": {
+      "has_stone": "2024-09-17 13:25:42 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/pink_simple_sofa": {
     "criteria": {
       "has_wool": "2023-11-27 13:44:49 +0100"
@@ -10528,6 +10618,12 @@
   "pfm:recipes/pfm.furniture/stripped_oak_modern_stool": {
     "criteria": {
       "has_planks": "2023-11-27 13:44:49 +0100"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-09-17 13:25:42 +0200"
     },
     "done": true
   },
@@ -10732,6 +10828,12 @@
   "exoticbirds:recipes/pigeon_backpack": {
     "criteria": {
       "has_feather": "2023-11-22 23:32:40 +0100"
+    },
+    "done": true
+  },
+  "vinery:cherry_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-09-17 15:21:07 +0200"
     },
     "done": true
   },
@@ -11014,6 +11116,12 @@
   "comforts:hammock_pink_from_white": {
     "criteria": {
       "has_hammock": "2024-04-07 15:08:17 +0200"
+    },
+    "done": true
+  },
+  "chalk:recipes/tools/chalk_from_light_blue_dye": {
+    "criteria": {
+      "has_calcite": "2024-09-17 13:26:42 +0200"
     },
     "done": true
   },
@@ -11324,6 +11432,12 @@
     },
     "done": true
   },
+  "chalk:adventure/sleep_three_times_in_one_place": {
+    "criteria": {
+      "sleep_three_times_in_one_place": "2024-09-17 14:18:47 +0200"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
     "criteria": {
       "has_planks": "2023-11-22 23:13:19 +0100"
@@ -11496,6 +11610,12 @@
     },
     "done": true
   },
+  "chalk:recipes/tools/chalk_from_gray_dye": {
+    "criteria": {
+      "has_calcite": "2024-09-17 13:26:42 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/end_fiber": {
     "criteria": {
       "has_journal": "2023-11-22 22:25:30 +0100"
@@ -11652,9 +11772,21 @@
     },
     "done": true
   },
+  "vinery:wine_rack_3": {
+    "criteria": {
+      "has_spruce_planks": "2024-09-17 13:25:42 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/dark_wood_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2024-04-18 23:39:02 +0200"
+    },
+    "done": true
+  },
+  "vinery:wine_rack_5": {
+    "criteria": {
+      "has_spruce_planks": "2024-09-17 13:25:42 +0200"
     },
     "done": true
   },
@@ -11733,6 +11865,18 @@
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2023-11-25 23:32:15 +0100"
+    },
+    "done": true
+  },
+  "vinery:wine_rack_1": {
+    "criteria": {
+      "has_spruce_planks": "2024-09-17 13:25:42 +0200"
+    },
+    "done": true
+  },
+  "vinery:wine_rack_2": {
+    "criteria": {
+      "has_spruce_planks": "2024-09-17 13:25:42 +0200"
     },
     "done": true
   },
@@ -12306,6 +12450,12 @@
     },
     "done": true
   },
+  "chalk:recipes/tools/chalk_from_white_dye": {
+    "criteria": {
+      "has_calcite": "2024-09-17 13:26:42 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2024-04-21 13:15:20 +0200"
@@ -12798,6 +12948,12 @@
     },
     "done": true
   },
+  "vinery:grapevine_pot": {
+    "criteria": {
+      "has_spruce_planks": "2024-09-17 13:25:42 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-04-05 15:33:54 +0200"
@@ -12849,6 +13005,12 @@
   "cataclysm:find_sunken_city": {
     "criteria": {
       "factory": "2024-04-19 22:00:03 +0200"
+    },
+    "done": true
+  },
+  "vinery:dark_oak_wine_rack_small": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-09-17 13:25:42 +0200"
     },
     "done": true
   },
@@ -12930,6 +13092,12 @@
     },
     "done": true
   },
+  "chalk:recipes/tools/chalk_from_black_dye": {
+    "criteria": {
+      "has_calcite": "2024-09-17 13:26:42 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/birch_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2024-04-07 21:15:34 +0200"
@@ -12990,9 +13158,21 @@
     },
     "done": true
   },
+  "vinery:cherry_fence": {
+    "criteria": {
+      "has_stick": "2024-09-17 15:21:07 +0200"
+    },
+    "done": true
+  },
   "exoticbirds:recipes/orange_birdhouse": {
     "criteria": {
       "has_wood": "2023-11-22 23:13:19 +0100"
+    },
+    "done": true
+  },
+  "vinery:straw_hat": {
+    "criteria": {
+      "has_wheat": "2024-09-17 15:23:02 +0200"
     },
     "done": true
   },
@@ -13307,6 +13487,12 @@
   "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2024-04-21 13:15:20 +0200"
+    },
+    "done": true
+  },
+  "chalk:recipes/tools/chalk_from_orange_dye": {
+    "criteria": {
+      "has_calcite": "2024-09-17 13:26:42 +0200"
     },
     "done": true
   },
@@ -13892,6 +14078,12 @@
     },
     "done": true
   },
+  "chalk:recipes/tools/chalk_from_light_gray_dye": {
+    "criteria": {
+      "has_calcite": "2024-09-17 13:26:42 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2023-11-28 01:14:47 +0100"
@@ -14231,6 +14423,12 @@
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2023-11-25 23:32:15 +0100"
+    },
+    "done": true
+  },
+  "vinery:dirt_slab": {
+    "criteria": {
+      "has_dirt": "2024-09-17 13:25:42 +0200"
     },
     "done": true
   },
@@ -14591,6 +14789,12 @@
   "betterdungeons:root": {
     "criteria": {
       "always": "2023-11-22 22:25:30 +0100"
+    },
+    "done": true
+  },
+  "chalk:recipes/tools/chalk_from_brown_dye": {
+    "criteria": {
+      "has_calcite": "2024-09-17 13:26:42 +0200"
     },
     "done": true
   },
@@ -14978,6 +15182,12 @@
     },
     "done": true
   },
+  "vinery:campfire": {
+    "criteria": {
+      "has_coal": "2024-09-17 15:04:41 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "iron_knife": "2023-11-24 01:55:12 +0100"
@@ -15078,6 +15288,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2024-04-07 14:29:55 +0200"
+    },
+    "done": true
+  },
+  "chalk:recipes/tools/chalk_from_magenta_dye": {
+    "criteria": {
+      "has_calcite": "2024-09-17 13:26:42 +0200"
     },
     "done": true
   },
@@ -15495,6 +15711,12 @@
     },
     "done": true
   },
+  "vinery:dark_oak_wine_rack_big": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-09-17 13:25:42 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/stripped_spruce_table_modern_dinner": {
     "criteria": {
       "has_planks": "2023-11-27 13:44:50 +0100"
@@ -15525,6 +15747,7 @@
       "salmon": "2023-11-22 23:48:07 +0100",
       "dried_kelp": "2023-11-24 15:02:51 +0100",
       "melon_slice": "2024-04-15 20:29:26 +0200",
+      "beetroot": "2024-09-17 15:28:46 +0200",
       "cooked_chicken": "2023-11-23 01:55:07 +0100",
       "cod": "2024-04-07 14:50:24 +0200",
       "rabbit_stew": "2024-04-09 12:22:41 +0200",
@@ -15608,6 +15831,12 @@
   "exoticbirds:recipes/magenta_birdhouse": {
     "criteria": {
       "has_wood": "2023-11-22 23:13:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_chimney": {
+    "criteria": {
+      "has_cobblestone": "2024-09-17 13:52:26 +0200"
     },
     "done": true
   },
@@ -16290,6 +16519,12 @@
     },
     "done": true
   },
+  "vinery:stackable_log": {
+    "criteria": {
+      "has_oak_log": "2024-09-17 15:20:17 +0200"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/blood_sprayer": {
     "criteria": {
       "blood_sprayer": "2024-04-05 21:26:23 +0200"
@@ -16692,6 +16927,12 @@
     },
     "done": true
   },
+  "chalk:recipes/tools/chalk_from_purple_dye": {
+    "criteria": {
+      "has_calcite": "2024-09-17 13:26:42 +0200"
+    },
+    "done": true
+  },
   "ferdinandsflowers:recipes/misc/magenta_dye_from_flower": {
     "criteria": {
       "has_magenta_flower": "2023-11-25 00:33:19 +0100"
@@ -17073,6 +17314,12 @@
   "pfm:recipes/pfm.furniture/dark_oak_chair_classic": {
     "criteria": {
       "has_planks": "2023-11-27 13:51:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_chimney": {
+    "criteria": {
+      "has_iron": "2024-09-17 15:21:06 +0200"
     },
     "done": true
   },

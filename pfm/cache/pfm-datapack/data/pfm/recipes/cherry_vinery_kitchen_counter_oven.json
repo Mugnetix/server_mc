@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "vinery:cherry_log"
+    },
+    {
+      "item": "vinery:cherry_log"
+    },
+    {
+      "item": "vinery:cherry_log"
+    },
+    {
+      "item": "vinery:cherry_log"
+    },
+    {
+      "item": "vinery:cherry_log"
+    },
+    {
+      "item": "vinery:cherry_planks"
+    },
+    {
+      "item": "vinery:cherry_planks"
+    },
+    {
+      "item": "vinery:cherry_planks"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:cherry_vinery_kitchen_counter_oven"
+  }
+}

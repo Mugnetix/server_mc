@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "vinery:cherry_planks"
+    },
+    {
+      "item": "vinery:cherry_planks"
+    },
+    {
+      "item": "vinery:stripped_cherry_log"
+    },
+    {
+      "item": "vinery:stripped_cherry_log"
+    },
+    {
+      "item": "vinery:stripped_cherry_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_cherry_vinery_table_log"
+  }
+}

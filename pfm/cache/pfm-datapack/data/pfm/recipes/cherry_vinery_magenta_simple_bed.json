@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "vinery:cherry_planks"
+    },
+    {
+      "item": "vinery:cherry_planks"
+    },
+    {
+      "item": "vinery:cherry_planks"
+    },
+    {
+      "item": "vinery:cherry_planks"
+    },
+    {
+      "item": "vinery:cherry_planks"
+    },
+    {
+      "item": "minecraft:magenta_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:cherry_vinery_magenta_simple_bed"
+  }
+}
