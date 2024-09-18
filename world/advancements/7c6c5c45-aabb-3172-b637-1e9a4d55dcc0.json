@@ -2682,6 +2682,12 @@
     },
     "done": true
   },
+  "vinery:vinemaker_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-09-18 15:24:21 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/crimson_stem_stool": {
     "criteria": {
       "has_log": "2023-12-14 12:17:04 +0100"
@@ -5422,6 +5428,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2023-11-23 00:24:46 +0100"
+    },
+    "done": true
+  },
+  "vinery:big_table": {
+    "criteria": {
+      "has_iron_ingot": "2024-09-18 15:14:33 +0200"
     },
     "done": true
   },
@@ -10428,6 +10440,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/iron_chimney": {
+    "criteria": {
+      "has_iron": "2024-09-18 15:14:33 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2023-11-23 14:45:04 +0100"
@@ -12046,6 +12064,12 @@
   "pfm:recipes/pfm.furniture/dark_wood_kitchen_drawer": {
     "criteria": {
       "has_planks": "2023-12-13 01:26:50 +0100"
+    },
+    "done": true
+  },
+  "nethervinery:obsidian_stem": {
+    "criteria": {
+      "has_obsidian": "2024-09-18 15:10:49 +0200"
     },
     "done": true
   },

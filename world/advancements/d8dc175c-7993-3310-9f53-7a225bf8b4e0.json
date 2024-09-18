@@ -1073,6 +1073,12 @@
     },
     "done": true
   },
+  "vinery:cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-09-18 15:12:40 +0200"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/oven/cheesecake": {
     "criteria": {
       "has_any_ingredient": "2023-11-25 22:26:51 +0100"
@@ -5155,12 +5161,14 @@
       "dryland": "2024-04-07 20:06:40 +0200",
       "wasteland": "2024-04-07 18:36:18 +0200",
       "lush_desert": "2024-09-14 22:08:28 +0200",
+      "old_growth_dead_forest": "2024-09-18 15:33:15 +0200",
       "redwood_forest": "2023-11-22 22:25:31 +0100",
       "visceral_heap": "2024-04-05 13:50:20 +0200",
       "cherry_blossom_grove": "2024-04-19 12:18:07 +0200",
       "dune_beach": "2023-11-22 23:47:32 +0100",
       "highland_moor": "2023-12-08 00:21:54 +0100",
       "seasonal_forest": "2023-11-22 23:54:24 +0100",
+      "dead_forest": "2024-09-18 15:32:06 +0200",
       "rocky_rainforest": "2024-04-19 12:05:40 +0200",
       "volcanic_plains": "2024-09-14 22:13:56 +0200",
       "lavender_field": "2023-11-22 23:13:40 +0100",
@@ -8338,6 +8346,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/rainbow_jelly": {
+    "criteria": {
+      "gustmaker": "2024-09-18 15:30:47 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/jungle_blue_simple_bed": {
     "criteria": {
       "has_bed": "2024-04-19 12:23:45 +0200"
@@ -9679,6 +9693,12 @@
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2023-12-07 23:21:39 +0100"
+    },
+    "done": true
+  },
+  "chalk:recipes/tools/chalk_box": {
+    "criteria": {
+      "has_paper": "2024-09-18 15:04:21 +0200"
     },
     "done": true
   },
@@ -14433,6 +14453,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/obtain_shell_horn": {
+    "criteria": {
+      "shell_horn": "2024-09-18 15:23:13 +0200"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.aesthetic/jungle_molded_purple_wallpaper": {
     "criteria": {
       "purple_jungle_wallpaper": "2023-12-07 22:47:54 +0100"
@@ -15768,6 +15794,7 @@
       "melon_slice": "2024-04-15 20:29:26 +0200",
       "beetroot": "2024-09-17 15:28:46 +0200",
       "cooked_chicken": "2023-11-23 01:55:07 +0100",
+      "enchanted_golden_apple": "2024-09-18 15:29:20 +0200",
       "cod": "2024-04-07 14:50:24 +0200",
       "rabbit_stew": "2024-04-09 12:22:41 +0200",
       "cooked_salmon": "2024-04-07 17:15:27 +0200",
@@ -16175,6 +16202,12 @@
   "pfm:recipes/pfm.furniture/blackstone_modern_stool": {
     "criteria": {
       "has_planks": "2024-04-21 13:15:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2024-09-18 15:47:23 +0200"
     },
     "done": true
   },
@@ -16943,6 +16976,12 @@
   "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
     "criteria": {
       "has_smooth_quartz": "2024-04-17 23:39:57 +0200"
+    },
+    "done": true
+  },
+  "ferdinandsflowers:recipes/decorations/staked_dark_blue_sweet_peas": {
+    "criteria": {
+      "has_dark_blue_sweet_peas": "2024-09-18 15:11:51 +0200"
     },
     "done": true
   },
