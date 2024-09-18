@@ -785,6 +785,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2024-09-19 01:34:29 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2023-11-24 00:26:09 +0100"
@@ -3121,6 +3127,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/cherry_vinery_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2024-09-19 01:15:57 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/rotating_spell_turret": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -3372,6 +3384,7 @@
       "CHICKEN_STEW": "2024-04-05 11:45:02 +0200",
       "PASTA_TOMATO": "2023-12-26 22:00:57 +0100",
       "BUTTERED_TOAST": "2024-05-07 18:26:05 +0200",
+      "FRIED_MUSHROOMS": "2024-09-19 00:54:32 +0200",
       "JERKY": "2023-11-24 01:42:10 +0100",
       "SEAWEED_CRISPS": "2023-11-25 23:35:54 +0100",
       "CHEESEBURGER": "2024-04-05 13:28:23 +0200",
@@ -6095,6 +6108,7 @@
     "criteria": {
       "SWEET_BERRY_PIE_SLICE": "2023-12-31 00:53:50 +0100",
       "GLOW_BERRY_CHEESECAKE_SLICE": "2023-12-31 00:53:50 +0100",
+      "SUGAR_COOKIE": "2024-09-19 00:54:33 +0200",
       "PUMPKIN_COOKIE": "2023-12-23 13:51:12 +0100",
       "PUMPKIN_CHEESECAKE_SLICE": "2024-05-10 15:31:52 +0200",
       "PUMPKIN_CUSTARD": "2023-12-24 22:22:22 +0100",
@@ -7293,6 +7307,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/cherry_vinery_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2024-09-19 01:15:57 +0200"
+    },
+    "done": true
+  },
   "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
     "criteria": {
       "walk_on_powder_snow_with_leather_boots": "2023-12-17 22:20:16 +0100"
@@ -7485,6 +7505,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/cherry_vinery_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2024-09-19 01:15:57 +0200"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/egg_salad_sandwich_slice": {
     "criteria": {
       "Recipes": "2023-12-23 13:50:58 +0100"
@@ -7506,6 +7532,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2023-12-24 18:10:32 +0100"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/cherry_vinery_raw_table_log": {
+    "criteria": {
+      "has_log": "2024-09-19 01:15:57 +0200"
     },
     "done": true
   },
@@ -8949,6 +8981,12 @@
   "pfm:recipes/pfm.furniture/basic_shower_handle": {
     "criteria": {
       "has_light_gray_concrete": "2023-12-09 20:23:01 +0100"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/cherry_vinery_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2024-09-19 01:15:57 +0200"
     },
     "done": true
   },
@@ -10440,6 +10478,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/cherry_vinery_log_stool": {
+    "criteria": {
+      "has_log": "2024-09-19 01:15:57 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_chimney": {
     "criteria": {
       "has_iron": "2024-09-18 15:14:33 +0200"
@@ -10965,6 +11009,12 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-04-24 00:50:48 +0200"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2024-09-19 01:01:42 +0200"
     },
     "done": true
   },
@@ -13738,6 +13788,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/cherry_vinery_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2024-09-19 01:15:57 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2023-11-22 23:43:21 +0100"
@@ -15574,6 +15630,12 @@
     },
     "done": true
   },
+  "vinery:cherry_planks": {
+    "criteria": {
+      "has_cherry_logs": "2024-09-19 01:15:57 +0200"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/rainbow_jelly": {
     "criteria": {
       "gustmaker": "2023-12-17 22:37:26 +0100"
@@ -16565,6 +16627,12 @@
     },
     "done": true
   },
+  "pfm:recipes/pfm.furniture/cherry_vinery_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2024-09-19 01:15:57 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/source_berry_pie": {
     "criteria": {
       "has_journal": "2023-11-22 01:32:34 +0100"
@@ -16928,6 +16996,12 @@
   "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
       "kill_mob_near_sculk_catalyst": "2024-04-21 13:24:06 +0200"
+    },
+    "done": true
+  },
+  "vinery:cherry_wood": {
+    "criteria": {
+      "has_cherry_wood": "2024-09-19 01:15:57 +0200"
     },
     "done": true
   },
@@ -18213,6 +18287,12 @@
   "minecraft:recipes/building_blocks/purpur_block": {
     "criteria": {
       "has_chorus_fruit_popped": "2024-04-19 22:53:21 +0200"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/cherry_vinery_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2024-09-19 01:15:57 +0200"
     },
     "done": true
   },
@@ -20171,6 +20251,7 @@
       "baked_potato": "2023-11-25 01:07:57 +0100",
       "beef": "2023-12-23 15:20:27 +0100",
       "porkchop": "2024-04-07 16:56:58 +0200",
+      "tropical_fish": "2024-09-19 00:59:30 +0200",
       "beetroot_soup": "2024-04-09 15:12:59 +0200",
       "apple": "2024-04-19 12:57:53 +0200",
       "potato": "2023-12-30 00:54:12 +0100",
@@ -20678,6 +20759,12 @@
   "pfm:recipes/pfm.furniture/deepslate_simple_stool": {
     "criteria": {
       "has_planks": "2023-12-06 15:42:46 +0100"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/cherry_vinery_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2024-09-19 01:15:57 +0200"
     },
     "done": true
   },
