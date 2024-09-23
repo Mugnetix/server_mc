@@ -6746,6 +6746,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_conqueror": {
+    "criteria": {
+      "location0": "2024-09-23 17:39:42 +0200"
+    },
+    "done": true
+  },
   "comforts:hammock_pink_from_white": {
     "criteria": {
       "has_hammock": "2023-12-05 12:24:08 +0100"
@@ -11099,6 +11105,12 @@
   "minecraft:end/kill_dragon": {
     "criteria": {
       "killed_dragon": "2024-04-10 18:48:28 +0200"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/cherry_vinery_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2024-09-23 17:46:18 +0200"
     },
     "done": true
   },
@@ -17495,6 +17507,12 @@
   "extradelight:recipes/misc/sugar_from_block": {
     "criteria": {
       "Recipes": "2023-12-26 01:06:47 +0100"
+    },
+    "done": true
+  },
+  "pfm:recipes/pfm.furniture/cherry_vinery_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2024-09-23 17:46:18 +0200"
     },
     "done": true
   },
