@@ -671,17 +671,6 @@
         "value": 1024
       }
     },
-    "skilltree:brewed_potions_strength": {
-      "enabled": false,
-      "min": {
-        "default": 1,
-        "value": 1
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
     "ars_nouveau:ars_nouveau.perk.saturation": {
       "enabled": false,
       "min": {
@@ -691,6 +680,17 @@
       "max": {
         "default": 10000,
         "value": 10000
+      }
+    },
+    "skilltree:brewed_potions_strength": {
+      "enabled": false,
+      "min": {
+        "default": 1,
+        "value": 1
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "skilltree:crafted_boots_sockets": {
@@ -825,17 +825,6 @@
         "value": 100
       }
     },
-    "skilltree:damage_if_not_hungry": {
-      "enabled": false,
-      "min": {
-        "default": 1,
-        "value": 1
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
     "ars_nouveau:ars_nouveau.perk.mana_regen": {
       "enabled": false,
       "min": {
@@ -845,6 +834,17 @@
       "max": {
         "default": 2000,
         "value": 2000
+      }
+    },
+    "skilltree:damage_if_not_hungry": {
+      "enabled": false,
+      "min": {
+        "default": 1,
+        "value": 1
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "minecraft:generic.attack_damage": {
@@ -1540,22 +1540,22 @@
         "value": 1024
       }
     },
-    "skilltree:crafted_quivers_chance_to_ignite": {
+    "ars_nouveau:ars_nouveau.perk.toughness": {
       "enabled": false,
       "min": {
-        "default": 1,
-        "value": 1
+        "default": 0,
+        "value": 0
       },
       "max": {
         "default": 1024,
         "value": 1024
       }
     },
-    "ars_nouveau:ars_nouveau.perk.toughness": {
+    "skilltree:crafted_quivers_chance_to_ignite": {
       "enabled": false,
       "min": {
-        "default": 0,
-        "value": 0
+        "default": 1,
+        "value": 1
       },
       "max": {
         "default": 1024,

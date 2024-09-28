@@ -7535,6 +7535,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_greenwood_pub": {
+    "criteria": {
+      "location0": "2024-09-28 18:10:44 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2023-12-24 18:10:32 +0100"
@@ -16378,6 +16384,12 @@
   "biomesoplenty:recipes/jacaranda_chest_boat": {
     "criteria": {
       "has_boat": "2023-11-25 00:34:34 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/orange_dye_from_orange_cosmos": {
+    "criteria": {
+      "has_flower": "2024-09-28 18:06:48 +0200"
     },
     "done": true
   },
