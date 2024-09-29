@@ -12029,6 +12029,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_mushroom_mines": {
+    "criteria": {
+      "location0": "2024-09-30 00:31:39 +0200"
+    },
+    "done": true
+  },
   "theabyss:recipes/arcane_crafting/ring_of_eagle": {
     "criteria": {
       "on_arcane_table_crafted": "2024-04-14 17:38:21 +0200"
