@@ -13049,6 +13049,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/skelewag_skull": {
+    "criteria": {
+      "skull": "2024-09-30 17:24:50 +0200"
+    },
+    "done": true
+  },
   "pfm:recipes/pfm.furniture/granite_kitchen_counter": {
     "criteria": {
       "has_planks": "2024-05-05 20:52:37 +0200"
