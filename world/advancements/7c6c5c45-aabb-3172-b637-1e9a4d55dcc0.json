@@ -3418,6 +3418,7 @@
   },
   "extradelight:meals": {
     "criteria": {
+      "RACK_LAMB": "2024-10-01 15:13:33 +0200",
       "PORK_TENDERLOIN_SANDWICH": "2023-12-31 00:53:49 +0100",
       "MEAT_LOAF_SANDWICH": "2023-12-24 22:22:21 +0100",
       "SEAWEED_SALAD": "2023-12-24 22:17:42 +0100",
@@ -3439,6 +3440,7 @@
       "FISH_SALAD": "2024-09-29 18:20:29 +0200",
       "CURRY_RICE": "2023-12-24 19:15:12 +0100",
       "LASAGNA": "2024-05-07 18:22:25 +0200",
+      "LAMB_STEW_RICE": "2024-10-01 15:11:10 +0200",
       "ROASTED_CARROT": "2023-11-23 15:01:50 +0100",
       "SAUSAGE_ROLL": "2023-12-26 22:01:01 +0100",
       "MEAT_LOAF": "2023-11-23 15:00:48 +0100",
@@ -3449,6 +3451,7 @@
       "FISH_SOUP": "2024-04-10 19:55:23 +0200",
       "FISH_CAKES": "2023-12-26 22:00:59 +0100",
       "BBQ_RIBS": "2024-05-10 15:31:45 +0200",
+      "FISH_STEW_RICE": "2024-10-01 15:13:38 +0200",
       "CACTUS_SALAD": "2023-11-25 00:27:03 +0100",
       "TOMATO_SOUP": "2023-12-26 22:01:02 +0100",
       "SALISBURY_STEAK": "2023-12-31 01:15:04 +0100",
@@ -3458,6 +3461,7 @@
       "SALAD": "2023-12-24 22:17:42 +0100",
       "ROASTED_APPLE": "2023-12-31 01:15:11 +0100",
       "COOKED_PASTA": "2023-12-28 23:20:23 +0100",
+      "CACTUS_EGGS": "2024-10-01 15:12:59 +0200",
       "QUICHE_SLICE": "2023-12-10 01:17:20 +0100",
       "RICEBALL": "2023-12-24 22:18:54 +0100",
       "CARROT_SOUP": "2024-04-12 17:41:36 +0200",
@@ -9742,6 +9746,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/terracotta_chimney": {
+    "criteria": {
+      "has_terracotta": "2024-10-01 15:00:31 +0200"
+    },
+    "done": true
+  },
   "extradelight:recipes/extradelight.items/roasted_carrot_smoke": {
     "criteria": {
       "Recipes": "2023-11-23 15:01:50 +0100"
@@ -11185,6 +11195,12 @@
   "theabyss:recipes/somnium_infusing/somnium_regen_upgrade": {
     "criteria": {
       "has_somnium_infuser": "2024-04-14 16:31:54 +0200"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_thornborn_towers": {
+    "criteria": {
+      "location0": "2024-10-01 14:42:30 +0200"
     },
     "done": true
   },
@@ -14138,6 +14154,7 @@
       "FURIKAKE": "2023-12-31 00:47:57 +0100",
       "BUTTER": "2023-11-27 14:37:35 +0100",
       "SLICED_ONION": "2023-12-27 00:30:17 +0100",
+      "GRAVY": "2024-10-01 15:13:01 +0200",
       "SLICED_TOMATO": "2023-12-23 14:35:54 +0100",
       "CHEESE": "2023-12-23 14:36:23 +0100"
     },
