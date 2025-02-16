@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "deeperdarker:sculk_stone"
+    },
+    {
+      "item": "deeperdarker:sculk_stone"
+    },
+    {
+      "item": "deeperdarker:sculk_stone"
+    },
+    {
+      "item": "deeperdarker:sculk_stone"
+    },
+    {
+      "item": "deeperdarker:sculk_stone"
+    },
+    {
+      "item": "deeperdarker:polished_sculk_stone"
+    },
+    {
+      "item": "deeperdarker:polished_sculk_stone"
+    },
+    {
+      "item": "deeperdarker:polished_sculk_stone"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:sculk_stone_deeperdarker_kitchen_counter_oven"
+  }
+}

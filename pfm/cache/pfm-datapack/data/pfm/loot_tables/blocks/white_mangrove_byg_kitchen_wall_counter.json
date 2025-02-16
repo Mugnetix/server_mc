@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:white_mangrove_byg_kitchen_wall_counter"
+        }
+      ],
+      "name": "white_mangrove_byg_kitchen_wall_counter",
+      "rolls": 1.0
+    }
+  ]
+}

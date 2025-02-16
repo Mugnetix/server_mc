@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:taratite_blue_skies_modern_stool"
+        }
+      ],
+      "name": "taratite_blue_skies_modern_stool",
+      "rolls": 1.0
+    }
+  ]
+}

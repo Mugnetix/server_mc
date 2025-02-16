@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "extradelight:cinnamon_planks"
+    },
+    {
+      "item": "extradelight:cinnamon_planks"
+    },
+    {
+      "item": "extradelight:cinnamon_planks"
+    },
+    {
+      "item": "extradelight:cinnamon_planks"
+    },
+    {
+      "item": "extradelight:cinnamon_planks"
+    },
+    {
+      "item": "minecraft:pink_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:cinnamon_extradelight_pink_simple_bed"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "naturesaura:ancient_planks"
+    },
+    {
+      "item": "naturesaura:ancient_planks"
+    },
+    {
+      "item": "naturesaura:ancient_planks"
+    },
+    {
+      "item": "naturesaura:ancient_planks"
+    },
+    {
+      "item": "naturesaura:ancient_planks"
+    },
+    {
+      "item": "naturesaura:ancient_planks"
+    },
+    {
+      "item": "naturesaura:ancient_log"
+    },
+    {
+      "item": "naturesaura:ancient_log"
+    },
+    {
+      "item": "naturesaura:ancient_log"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:ancient_naturesaura_kitchen_counter"
+  }
+}

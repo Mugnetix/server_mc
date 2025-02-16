@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "theabyss:stripped_slimed_log"
+    },
+    {
+      "item": "theabyss:stripped_slimed_log"
+    },
+    {
+      "item": "theabyss:stripped_slimed_log"
+    },
+    {
+      "item": "theabyss:stripped_slimed_log"
+    },
+    {
+      "item": "theabyss:stripped_slimed_log"
+    },
+    {
+      "item": "theabyss:stripped_slimed_log"
+    },
+    {
+      "item": "theabyss:slimed_planks"
+    },
+    {
+      "item": "theabyss:slimed_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_slimed_theabyss_kitchen_wall_drawer"
+  }
+}

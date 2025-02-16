@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "hexerei:mahogany_planks"
+    },
+    {
+      "item": "hexerei:mahogany_planks"
+    },
+    {
+      "item": "hexerei:mahogany_planks"
+    },
+    {
+      "item": "hexerei:mahogany_planks"
+    },
+    {
+      "item": "hexerei:mahogany_planks"
+    },
+    {
+      "item": "minecraft:blue_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:mahogany_hexerei_blue_simple_bed"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "blue_skies:lunar_log"
+    },
+    {
+      "item": "blue_skies:lunar_log"
+    },
+    {
+      "item": "blue_skies:lunar_log"
+    },
+    {
+      "item": "blue_skies:lunar_log"
+    },
+    {
+      "item": "blue_skies:lunar_log"
+    },
+    {
+      "item": "blue_skies:lunar_log"
+    },
+    {
+      "item": "blue_skies:lunar_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:lunar_blue_skies_classic_nightstand"
+  }
+}

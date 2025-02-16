@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:stripped_frozen_theabyss_kitchen_drawer"
+        }
+      ],
+      "name": "stripped_frozen_theabyss_kitchen_drawer",
+      "rolls": 1.0
+    }
+  ]
+}

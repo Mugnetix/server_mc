@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:cika_byg_coffee_table_classic"
+        }
+      ],
+      "name": "cika_byg_coffee_table_classic",
+      "rolls": 1.0
+    }
+  ]
+}

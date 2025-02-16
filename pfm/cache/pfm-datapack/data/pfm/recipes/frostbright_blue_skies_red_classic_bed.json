@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "blue_skies:frostbright_planks"
+    },
+    {
+      "item": "blue_skies:frostbright_planks"
+    },
+    {
+      "item": "blue_skies:frostbright_planks"
+    },
+    {
+      "item": "minecraft:red_bed"
+    },
+    {
+      "item": "blue_skies:frostbright_fence"
+    },
+    {
+      "item": "blue_skies:frostbright_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:frostbright_blue_skies_red_classic_bed"
+  }
+}

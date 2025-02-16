@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "byg:pine_planks"
+    },
+    {
+      "item": "byg:pine_planks"
+    },
+    {
+      "item": "byg:pine_planks"
+    },
+    {
+      "item": "byg:pine_planks"
+    },
+    {
+      "item": "byg:pine_planks"
+    },
+    {
+      "item": "byg:stripped_pine_log"
+    },
+    {
+      "item": "byg:stripped_pine_log"
+    },
+    {
+      "item": "byg:stripped_pine_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_pine_byg_table_modern_dinner"
+  }
+}

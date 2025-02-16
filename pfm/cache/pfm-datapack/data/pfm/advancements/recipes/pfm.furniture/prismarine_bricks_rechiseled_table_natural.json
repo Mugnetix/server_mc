@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pfm:prismarine_bricks_rechiseled_table_natural"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "prismarine_bricks_rechiseled_table_natural": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "rechiseled:prismarine_bricks_polished"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "prismarine_bricks_rechiseled_table_natural",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pfm:prismarine_bricks_rechiseled_table_natural"
+    ]
+  }
+}

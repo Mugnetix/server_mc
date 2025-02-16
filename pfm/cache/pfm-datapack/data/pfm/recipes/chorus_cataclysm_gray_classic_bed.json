@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "cataclysm:chorus_planks"
+    },
+    {
+      "item": "cataclysm:chorus_planks"
+    },
+    {
+      "item": "cataclysm:chorus_planks"
+    },
+    {
+      "item": "minecraft:gray_bed"
+    },
+    {
+      "item": "cataclysm:chorus_fence"
+    },
+    {
+      "item": "cataclysm:chorus_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:chorus_cataclysm_gray_classic_bed"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:white_mangrove_planks"
+    },
+    {
+      "item": "byg:white_mangrove_planks"
+    },
+    {
+      "item": "byg:white_mangrove_planks"
+    },
+    {
+      "item": "byg:white_mangrove_planks"
+    },
+    {
+      "item": "byg:white_mangrove_planks"
+    },
+    {
+      "item": "byg:white_mangrove_log"
+    },
+    {
+      "item": "byg:white_mangrove_log"
+    },
+    {
+      "item": "byg:white_mangrove_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:white_mangrove_byg_kitchen_drawer"
+  }
+}

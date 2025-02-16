@@ -1,0 +1,31 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "byg:cherry_log"
+    },
+    {
+      "item": "byg:cherry_log"
+    },
+    {
+      "item": "byg:cherry_log"
+    },
+    {
+      "item": "byg:cherry_log"
+    },
+    {
+      "item": "byg:cherry_planks"
+    },
+    {
+      "item": "byg:cherry_planks"
+    },
+    {
+      "item": "byg:cherry_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:cherry_byg_coffee_table_modern"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "theabyss:vigilant_log"
+    },
+    {
+      "item": "theabyss:vigilant_log"
+    },
+    {
+      "item": "theabyss:vigilant_log"
+    },
+    {
+      "item": "theabyss:vigilant_log"
+    },
+    {
+      "item": "theabyss:vigilant_log"
+    },
+    {
+      "item": "theabyss:vigilant_log"
+    },
+    {
+      "item": "theabyss:vigilant_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:vigilant_theabyss_classic_nightstand"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "extradelight:cinnamon_planks"
+    },
+    {
+      "item": "extradelight:cinnamon_planks"
+    },
+    {
+      "item": "extradelight:cinnamon_planks"
+    },
+    {
+      "item": "extradelight:cinnamon_planks"
+    },
+    {
+      "item": "extradelight:cinnamon_planks"
+    },
+    {
+      "item": "extradelight:cinnamon_log"
+    },
+    {
+      "item": "extradelight:cinnamon_log"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:cinnamon_extradelight_kitchen_sink"
+  }
+}

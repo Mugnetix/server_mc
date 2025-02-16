@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:willow_planks"
+    },
+    {
+      "item": "byg:willow_planks"
+    },
+    {
+      "item": "byg:willow_planks"
+    },
+    {
+      "item": "byg:willow_planks"
+    },
+    {
+      "item": "byg:willow_planks"
+    },
+    {
+      "item": "byg:willow_planks"
+    },
+    {
+      "item": "byg:willow_log"
+    },
+    {
+      "item": "byg:willow_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:willow_byg_kitchen_wall_drawer"
+  }
+}

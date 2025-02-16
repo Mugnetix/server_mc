@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "byg:maple_planks"
+    },
+    {
+      "item": "byg:maple_planks"
+    },
+    {
+      "item": "byg:maple_planks"
+    },
+    {
+      "item": "byg:maple_planks"
+    },
+    {
+      "item": "byg:maple_planks"
+    },
+    {
+      "item": "byg:stripped_maple_log"
+    },
+    {
+      "item": "byg:stripped_maple_log"
+    },
+    {
+      "item": "byg:stripped_maple_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_maple_byg_table_modern_dinner"
+  }
+}

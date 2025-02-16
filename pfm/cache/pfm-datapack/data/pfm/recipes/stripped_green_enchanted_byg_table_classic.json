@@ -1,0 +1,31 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "byg:green_enchanted_planks"
+    },
+    {
+      "item": "byg:green_enchanted_planks"
+    },
+    {
+      "item": "byg:green_enchanted_planks"
+    },
+    {
+      "item": "byg:green_enchanted_planks"
+    },
+    {
+      "item": "byg:stripped_green_enchanted_log"
+    },
+    {
+      "item": "byg:stripped_green_enchanted_log"
+    },
+    {
+      "item": "byg:stripped_green_enchanted_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_green_enchanted_byg_table_classic"
+  }
+}

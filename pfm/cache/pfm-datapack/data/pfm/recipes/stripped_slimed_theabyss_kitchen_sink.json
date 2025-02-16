@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "theabyss:stripped_slimed_log"
+    },
+    {
+      "item": "theabyss:stripped_slimed_log"
+    },
+    {
+      "item": "theabyss:stripped_slimed_log"
+    },
+    {
+      "item": "theabyss:stripped_slimed_log"
+    },
+    {
+      "item": "theabyss:stripped_slimed_log"
+    },
+    {
+      "item": "theabyss:slimed_planks"
+    },
+    {
+      "item": "theabyss:slimed_planks"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_slimed_theabyss_kitchen_sink"
+  }
+}

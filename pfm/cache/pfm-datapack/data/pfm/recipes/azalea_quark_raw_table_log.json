@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "quark:azalea_log"
+    },
+    {
+      "item": "quark:azalea_log"
+    },
+    {
+      "item": "quark:azalea_log"
+    },
+    {
+      "item": "quark:azalea_log"
+    },
+    {
+      "item": "quark:azalea_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:azalea_quark_raw_table_log"
+  }
+}

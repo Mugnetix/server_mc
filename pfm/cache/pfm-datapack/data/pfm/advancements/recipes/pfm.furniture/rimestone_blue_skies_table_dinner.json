@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pfm:rimestone_blue_skies_table_dinner"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "rimestone_blue_skies_table_dinner": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "blue_skies:polished_rimestone"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "rimestone_blue_skies_table_dinner",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pfm:rimestone_blue_skies_table_dinner"
+    ]
+  }
+}

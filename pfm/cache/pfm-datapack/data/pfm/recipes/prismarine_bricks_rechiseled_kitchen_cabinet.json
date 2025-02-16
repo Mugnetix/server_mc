@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "rechiseled:prismarine_bricks_polished"
+    },
+    {
+      "item": "rechiseled:prismarine_bricks_polished"
+    },
+    {
+      "item": "rechiseled:prismarine_bricks_polished"
+    },
+    {
+      "item": "rechiseled:prismarine_bricks_polished"
+    },
+    {
+      "item": "rechiseled:prismarine_bricks_polished"
+    },
+    {
+      "item": "rechiseled:prismarine_bricks_polished"
+    },
+    {
+      "item": "minecraft:prismarine_bricks"
+    },
+    {
+      "item": "minecraft:prismarine_bricks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:prismarine_bricks_rechiseled_kitchen_cabinet"
+  }
+}

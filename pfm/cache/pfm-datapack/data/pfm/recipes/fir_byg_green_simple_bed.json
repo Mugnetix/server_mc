@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "byg:fir_planks"
+    },
+    {
+      "item": "byg:fir_planks"
+    },
+    {
+      "item": "byg:fir_planks"
+    },
+    {
+      "item": "byg:fir_planks"
+    },
+    {
+      "item": "byg:fir_planks"
+    },
+    {
+      "item": "minecraft:green_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:fir_byg_green_simple_bed"
+  }
+}

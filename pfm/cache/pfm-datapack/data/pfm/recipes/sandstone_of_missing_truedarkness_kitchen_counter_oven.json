@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "truedarkness:sandstone_of_missing"
+    },
+    {
+      "item": "truedarkness:sandstone_of_missing"
+    },
+    {
+      "item": "truedarkness:sandstone_of_missing"
+    },
+    {
+      "item": "truedarkness:sandstone_of_missing"
+    },
+    {
+      "item": "truedarkness:sandstone_of_missing"
+    },
+    {
+      "item": "truedarkness:polished_sandstone_of_missing"
+    },
+    {
+      "item": "truedarkness:polished_sandstone_of_missing"
+    },
+    {
+      "item": "truedarkness:polished_sandstone_of_missing"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:sandstone_of_missing_truedarkness_kitchen_counter_oven"
+  }
+}

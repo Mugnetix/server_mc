@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "byg:mahogany_log"
+    },
+    {
+      "item": "byg:mahogany_log"
+    },
+    {
+      "item": "byg:mahogany_log"
+    },
+    {
+      "item": "byg:mahogany_planks"
+    },
+    {
+      "item": "byg:mahogany_planks"
+    },
+    {
+      "item": "byg:mahogany_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:mahogany_byg_coffee_table_basic"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "byg:maple_planks"
+    },
+    {
+      "item": "byg:maple_planks"
+    },
+    {
+      "item": "byg:maple_planks"
+    },
+    {
+      "item": "minecraft:lime_bed"
+    },
+    {
+      "item": "byg:maple_fence"
+    },
+    {
+      "item": "byg:maple_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:maple_byg_lime_classic_bed"
+  }
+}

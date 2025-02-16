@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "byg:blue_enchanted_log"
+    },
+    {
+      "item": "byg:blue_enchanted_log"
+    },
+    {
+      "item": "byg:blue_enchanted_log"
+    },
+    {
+      "item": "byg:blue_enchanted_log"
+    },
+    {
+      "item": "byg:blue_enchanted_log"
+    },
+    {
+      "item": "byg:blue_enchanted_log"
+    },
+    {
+      "item": "byg:blue_enchanted_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:blue_enchanted_byg_classic_nightstand"
+  }
+}

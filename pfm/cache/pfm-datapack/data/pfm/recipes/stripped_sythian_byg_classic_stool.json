@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "byg:sythian_planks"
+    },
+    {
+      "item": "byg:sythian_planks"
+    },
+    {
+      "item": "byg:sythian_planks"
+    },
+    {
+      "item": "byg:stripped_sythian_stem"
+    },
+    {
+      "item": "byg:stripped_sythian_stem"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_sythian_byg_classic_stool"
+  }
+}

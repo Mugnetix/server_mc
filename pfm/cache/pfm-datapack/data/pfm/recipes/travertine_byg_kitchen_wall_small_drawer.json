@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:polished_travertine"
+    },
+    {
+      "item": "byg:polished_travertine"
+    },
+    {
+      "item": "byg:polished_travertine"
+    },
+    {
+      "item": "byg:travertine"
+    },
+    {
+      "item": "byg:travertine"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:travertine_byg_kitchen_wall_small_drawer"
+  }
+}

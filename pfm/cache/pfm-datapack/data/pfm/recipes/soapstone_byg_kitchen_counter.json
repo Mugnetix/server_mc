@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:polished_soapstone"
+    },
+    {
+      "item": "byg:polished_soapstone"
+    },
+    {
+      "item": "byg:polished_soapstone"
+    },
+    {
+      "item": "byg:polished_soapstone"
+    },
+    {
+      "item": "byg:polished_soapstone"
+    },
+    {
+      "item": "byg:polished_soapstone"
+    },
+    {
+      "item": "byg:soapstone"
+    },
+    {
+      "item": "byg:soapstone"
+    },
+    {
+      "item": "byg:soapstone"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:soapstone_byg_kitchen_counter"
+  }
+}

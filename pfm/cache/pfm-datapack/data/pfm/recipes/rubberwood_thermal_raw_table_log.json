@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "thermal:rubberwood_log"
+    },
+    {
+      "item": "thermal:rubberwood_log"
+    },
+    {
+      "item": "thermal:rubberwood_log"
+    },
+    {
+      "item": "thermal:rubberwood_log"
+    },
+    {
+      "item": "thermal:rubberwood_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:rubberwood_thermal_raw_table_log"
+  }
+}

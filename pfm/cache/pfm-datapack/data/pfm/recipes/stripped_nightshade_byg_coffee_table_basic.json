@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "byg:nightshade_planks"
+    },
+    {
+      "item": "byg:nightshade_planks"
+    },
+    {
+      "item": "byg:nightshade_planks"
+    },
+    {
+      "item": "byg:stripped_nightshade_log"
+    },
+    {
+      "item": "byg:stripped_nightshade_log"
+    },
+    {
+      "item": "byg:stripped_nightshade_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_nightshade_byg_coffee_table_basic"
+  }
+}

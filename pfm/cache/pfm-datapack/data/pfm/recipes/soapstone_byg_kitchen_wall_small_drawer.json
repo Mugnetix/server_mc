@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:polished_soapstone"
+    },
+    {
+      "item": "byg:polished_soapstone"
+    },
+    {
+      "item": "byg:polished_soapstone"
+    },
+    {
+      "item": "byg:soapstone"
+    },
+    {
+      "item": "byg:soapstone"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:soapstone_byg_kitchen_wall_small_drawer"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "naturesaura:ancient_log"
+    },
+    {
+      "item": "naturesaura:ancient_log"
+    },
+    {
+      "item": "naturesaura:ancient_log"
+    },
+    {
+      "item": "naturesaura:ancient_log"
+    },
+    {
+      "item": "naturesaura:ancient_log"
+    },
+    {
+      "item": "naturesaura:ancient_planks"
+    },
+    {
+      "item": "naturesaura:ancient_planks"
+    },
+    {
+      "item": "naturesaura:ancient_planks"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:ancient_naturesaura_kitchen_counter_oven"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "allthemodium:demonic_planks"
+    },
+    {
+      "item": "allthemodium:demonic_planks"
+    },
+    {
+      "item": "allthemodium:demonic_planks"
+    },
+    {
+      "item": "allthemodium:demonic_planks"
+    },
+    {
+      "item": "allthemodium:demonic_planks"
+    },
+    {
+      "item": "allthemodium:demonic_planks"
+    },
+    {
+      "item": "allthemodium:demonic_log"
+    },
+    {
+      "item": "allthemodium:demonic_log"
+    },
+    {
+      "item": "allthemodium:demonic_log"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:demonic_allthemodium_kitchen_counter"
+  }
+}

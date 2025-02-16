@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "undergarden:depthrock"
+    },
+    {
+      "item": "undergarden:depthrock"
+    },
+    {
+      "item": "undergarden:depthrock"
+    },
+    {
+      "item": "undergarden:depthrock"
+    },
+    {
+      "item": "undergarden:depthrock"
+    },
+    {
+      "item": "undergarden:polished_depthrock"
+    },
+    {
+      "item": "undergarden:polished_depthrock"
+    },
+    {
+      "item": "undergarden:polished_depthrock"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:depthrock_undergarden_table_modern_dinner"
+  }
+}

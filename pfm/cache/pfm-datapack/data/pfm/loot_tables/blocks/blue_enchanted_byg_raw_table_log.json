@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:blue_enchanted_byg_raw_table_log"
+        }
+      ],
+      "name": "blue_enchanted_byg_raw_table_log",
+      "rolls": 1.0
+    }
+  ]
+}

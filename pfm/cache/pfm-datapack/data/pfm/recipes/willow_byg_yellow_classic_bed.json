@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "byg:willow_planks"
+    },
+    {
+      "item": "byg:willow_planks"
+    },
+    {
+      "item": "byg:willow_planks"
+    },
+    {
+      "item": "minecraft:yellow_bed"
+    },
+    {
+      "item": "byg:willow_fence"
+    },
+    {
+      "item": "byg:willow_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:willow_byg_yellow_classic_bed"
+  }
+}

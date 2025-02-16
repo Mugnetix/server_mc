@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "blue_skies:starlit_planks"
+    },
+    {
+      "item": "blue_skies:starlit_planks"
+    },
+    {
+      "item": "blue_skies:starlit_planks"
+    },
+    {
+      "item": "blue_skies:starlit_planks"
+    },
+    {
+      "item": "blue_skies:starlit_planks"
+    },
+    {
+      "item": "blue_skies:starlit_planks"
+    },
+    {
+      "item": "blue_skies:starlit_log"
+    },
+    {
+      "item": "blue_skies:starlit_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:starlit_blue_skies_kitchen_cabinet"
+  }
+}

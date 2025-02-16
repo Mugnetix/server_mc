@@ -1,0 +1,22 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "byg:imparius_stem"
+    },
+    {
+      "item": "byg:imparius_planks"
+    },
+    {
+      "item": "byg:imparius_planks"
+    },
+    {
+      "item": "byg:imparius_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:imparius_byg_modern_stool"
+  }
+}

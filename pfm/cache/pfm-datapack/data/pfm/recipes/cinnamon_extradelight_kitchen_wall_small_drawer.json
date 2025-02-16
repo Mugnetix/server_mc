@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "extradelight:cinnamon_planks"
+    },
+    {
+      "item": "extradelight:cinnamon_planks"
+    },
+    {
+      "item": "extradelight:cinnamon_planks"
+    },
+    {
+      "item": "extradelight:cinnamon_log"
+    },
+    {
+      "item": "extradelight:cinnamon_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:cinnamon_extradelight_kitchen_wall_small_drawer"
+  }
+}

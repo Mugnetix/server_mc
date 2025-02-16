@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "botania:livingwood_planks"
+    },
+    {
+      "item": "botania:livingwood_planks"
+    },
+    {
+      "item": "botania:livingwood_planks"
+    },
+    {
+      "item": "botania:livingwood_planks"
+    },
+    {
+      "item": "botania:livingwood_planks"
+    },
+    {
+      "item": "botania:livingwood_planks"
+    },
+    {
+      "item": "botania:livingwood_log"
+    },
+    {
+      "item": "botania:livingwood_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:livingwood_botania_kitchen_wall_drawer"
+  }
+}

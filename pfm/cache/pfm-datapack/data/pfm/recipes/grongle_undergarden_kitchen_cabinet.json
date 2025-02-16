@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "undergarden:grongle_planks"
+    },
+    {
+      "item": "undergarden:grongle_planks"
+    },
+    {
+      "item": "undergarden:grongle_planks"
+    },
+    {
+      "item": "undergarden:grongle_planks"
+    },
+    {
+      "item": "undergarden:grongle_planks"
+    },
+    {
+      "item": "undergarden:grongle_planks"
+    },
+    {
+      "item": "undergarden:grongle_log"
+    },
+    {
+      "item": "undergarden:grongle_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:grongle_undergarden_kitchen_cabinet"
+  }
+}

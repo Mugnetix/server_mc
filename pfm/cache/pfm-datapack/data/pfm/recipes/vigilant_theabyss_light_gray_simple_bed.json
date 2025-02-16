@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "theabyss:vigilant_planks"
+    },
+    {
+      "item": "theabyss:vigilant_planks"
+    },
+    {
+      "item": "theabyss:vigilant_planks"
+    },
+    {
+      "item": "theabyss:vigilant_planks"
+    },
+    {
+      "item": "theabyss:vigilant_planks"
+    },
+    {
+      "item": "minecraft:light_gray_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:vigilant_theabyss_light_gray_simple_bed"
+  }
+}

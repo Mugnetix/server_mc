@@ -1,0 +1,22 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "blue_skies:dusk_planks"
+    },
+    {
+      "item": "blue_skies:stripped_dusk_log"
+    },
+    {
+      "item": "blue_skies:stripped_dusk_log"
+    },
+    {
+      "item": "blue_skies:stripped_dusk_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_dusk_blue_skies_modern_stool"
+  }
+}

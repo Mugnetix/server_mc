@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "botania:dreamwood_planks"
+    },
+    {
+      "item": "botania:dreamwood_planks"
+    },
+    {
+      "item": "botania:dreamwood_planks"
+    },
+    {
+      "item": "botania:dreamwood_planks"
+    },
+    {
+      "item": "botania:dreamwood_planks"
+    },
+    {
+      "item": "botania:dreamwood_planks"
+    },
+    {
+      "item": "botania:dreamwood_log"
+    },
+    {
+      "item": "botania:dreamwood_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:dreamwood_botania_kitchen_wall_drawer"
+  }
+}

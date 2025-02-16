@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:palm_planks"
+    },
+    {
+      "item": "byg:palm_planks"
+    },
+    {
+      "item": "byg:palm_planks"
+    },
+    {
+      "item": "byg:palm_planks"
+    },
+    {
+      "item": "byg:palm_planks"
+    },
+    {
+      "item": "byg:palm_planks"
+    },
+    {
+      "item": "byg:palm_log"
+    },
+    {
+      "item": "byg:palm_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:palm_byg_kitchen_wall_drawer"
+  }
+}

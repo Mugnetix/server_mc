@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "quark:polished_jasper"
+    },
+    {
+      "item": "quark:polished_jasper"
+    },
+    {
+      "item": "quark:polished_jasper"
+    },
+    {
+      "item": "quark:polished_jasper"
+    },
+    {
+      "item": "quark:polished_jasper"
+    },
+    {
+      "item": "quark:polished_jasper"
+    },
+    {
+      "item": "quark:jasper"
+    },
+    {
+      "item": "quark:jasper"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:jasper_quark_kitchen_cabinet"
+  }
+}

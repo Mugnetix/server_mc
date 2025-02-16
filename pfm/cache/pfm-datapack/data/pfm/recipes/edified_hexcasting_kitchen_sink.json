@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "hexcasting:edified_planks"
+    },
+    {
+      "item": "hexcasting:edified_planks"
+    },
+    {
+      "item": "hexcasting:edified_planks"
+    },
+    {
+      "item": "hexcasting:edified_planks"
+    },
+    {
+      "item": "hexcasting:edified_planks"
+    },
+    {
+      "item": "hexcasting:edified_log"
+    },
+    {
+      "item": "hexcasting:edified_log"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:edified_hexcasting_kitchen_sink"
+  }
+}

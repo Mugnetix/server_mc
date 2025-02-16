@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:cika_planks"
+    },
+    {
+      "item": "byg:cika_planks"
+    },
+    {
+      "item": "byg:cika_planks"
+    },
+    {
+      "item": "byg:cika_planks"
+    },
+    {
+      "item": "byg:cika_planks"
+    },
+    {
+      "item": "byg:cika_planks"
+    },
+    {
+      "item": "byg:cika_log"
+    },
+    {
+      "item": "byg:cika_log"
+    },
+    {
+      "item": "byg:cika_log"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:cika_byg_kitchen_counter"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "phantasm:ebony_planks"
+    },
+    {
+      "item": "phantasm:stripped_ebony_stem"
+    },
+    {
+      "item": "phantasm:stripped_ebony_stem"
+    },
+    {
+      "item": "phantasm:stripped_ebony_stem"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_ebony_phantasm_modern_stool"
+  }
+}

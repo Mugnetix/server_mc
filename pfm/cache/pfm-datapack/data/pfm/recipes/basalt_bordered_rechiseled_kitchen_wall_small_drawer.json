@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "rechiseled:basalt_bordered_polished"
+    },
+    {
+      "item": "rechiseled:basalt_bordered_polished"
+    },
+    {
+      "item": "rechiseled:basalt_bordered_polished"
+    },
+    {
+      "item": "rechiseled:basalt_bordered"
+    },
+    {
+      "item": "rechiseled:basalt_bordered"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:basalt_bordered_rechiseled_kitchen_wall_small_drawer"
+  }
+}

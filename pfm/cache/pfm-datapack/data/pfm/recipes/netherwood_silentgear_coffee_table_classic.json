@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "silentgear:netherwood_log"
+    },
+    {
+      "item": "silentgear:netherwood_log"
+    },
+    {
+      "item": "silentgear:netherwood_planks"
+    },
+    {
+      "item": "silentgear:netherwood_planks"
+    },
+    {
+      "item": "silentgear:netherwood_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:netherwood_silentgear_coffee_table_classic"
+  }
+}

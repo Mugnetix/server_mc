@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:ether_planks"
+    },
+    {
+      "item": "byg:ether_planks"
+    },
+    {
+      "item": "byg:ether_planks"
+    },
+    {
+      "item": "byg:ether_planks"
+    },
+    {
+      "item": "byg:ether_planks"
+    },
+    {
+      "item": "byg:ether_planks"
+    },
+    {
+      "item": "byg:ether_log"
+    },
+    {
+      "item": "byg:ether_log"
+    },
+    {
+      "item": "byg:ether_log"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:ether_byg_kitchen_counter"
+  }
+}

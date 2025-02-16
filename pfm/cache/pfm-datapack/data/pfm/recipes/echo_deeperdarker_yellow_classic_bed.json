@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "deeperdarker:echo_planks"
+    },
+    {
+      "item": "deeperdarker:echo_planks"
+    },
+    {
+      "item": "deeperdarker:echo_planks"
+    },
+    {
+      "item": "minecraft:yellow_bed"
+    },
+    {
+      "item": "deeperdarker:echo_fence"
+    },
+    {
+      "item": "deeperdarker:echo_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:echo_deeperdarker_yellow_classic_bed"
+  }
+}

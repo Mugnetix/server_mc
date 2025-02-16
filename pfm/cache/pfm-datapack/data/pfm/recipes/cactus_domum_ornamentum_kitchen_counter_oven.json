@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "minecraft:cactus"
+    },
+    {
+      "item": "minecraft:cactus"
+    },
+    {
+      "item": "minecraft:cactus"
+    },
+    {
+      "item": "minecraft:cactus"
+    },
+    {
+      "item": "minecraft:cactus"
+    },
+    {
+      "item": "domum_ornamentum:green_cactus_extra"
+    },
+    {
+      "item": "domum_ornamentum:green_cactus_extra"
+    },
+    {
+      "item": "domum_ornamentum:green_cactus_extra"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:cactus_domum_ornamentum_kitchen_counter_oven"
+  }
+}

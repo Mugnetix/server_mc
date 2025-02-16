@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:mycelium_truedarkness_classic_nightstand"
+        }
+      ],
+      "name": "mycelium_truedarkness_classic_nightstand",
+      "rolls": 1.0
+    }
+  ]
+}

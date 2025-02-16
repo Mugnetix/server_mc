@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:stripped_rainbow_eucalyptus_log"
+    },
+    {
+      "item": "byg:stripped_rainbow_eucalyptus_log"
+    },
+    {
+      "item": "byg:stripped_rainbow_eucalyptus_log"
+    },
+    {
+      "item": "byg:stripped_rainbow_eucalyptus_log"
+    },
+    {
+      "item": "byg:stripped_rainbow_eucalyptus_log"
+    },
+    {
+      "item": "byg:rainbow_eucalyptus_planks"
+    },
+    {
+      "item": "byg:rainbow_eucalyptus_planks"
+    },
+    {
+      "item": "byg:rainbow_eucalyptus_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_rainbow_eucalyptus_byg_kitchen_drawer"
+  }
+}

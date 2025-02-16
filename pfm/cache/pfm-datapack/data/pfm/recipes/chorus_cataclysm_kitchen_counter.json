@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "cataclysm:chorus_planks"
+    },
+    {
+      "item": "cataclysm:chorus_planks"
+    },
+    {
+      "item": "cataclysm:chorus_planks"
+    },
+    {
+      "item": "cataclysm:chorus_planks"
+    },
+    {
+      "item": "cataclysm:chorus_planks"
+    },
+    {
+      "item": "cataclysm:chorus_planks"
+    },
+    {
+      "item": "cataclysm:chorus_stem"
+    },
+    {
+      "item": "cataclysm:chorus_stem"
+    },
+    {
+      "item": "cataclysm:chorus_stem"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:chorus_cataclysm_kitchen_counter"
+  }
+}

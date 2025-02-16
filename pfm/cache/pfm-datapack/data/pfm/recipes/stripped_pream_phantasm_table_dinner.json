@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "phantasm:pream_planks"
+    },
+    {
+      "item": "phantasm:pream_planks"
+    },
+    {
+      "item": "phantasm:pream_planks"
+    },
+    {
+      "item": "phantasm:stripped_pream_log"
+    },
+    {
+      "item": "phantasm:stripped_pream_log"
+    },
+    {
+      "item": "phantasm:stripped_pream_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_pream_phantasm_table_dinner"
+  }
+}

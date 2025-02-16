@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "byg:imparius_stem"
+    },
+    {
+      "item": "byg:imparius_stem"
+    },
+    {
+      "item": "byg:imparius_stem"
+    },
+    {
+      "item": "byg:imparius_stem"
+    },
+    {
+      "item": "byg:imparius_stem"
+    },
+    {
+      "item": "byg:imparius_planks"
+    },
+    {
+      "item": "byg:imparius_planks"
+    },
+    {
+      "item": "byg:imparius_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:imparius_byg_table_modern_dinner"
+  }
+}

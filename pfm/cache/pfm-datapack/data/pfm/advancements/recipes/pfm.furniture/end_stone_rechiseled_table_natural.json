@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "end_stone_rechiseled_table_natural": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "rechiseled:end_stone_polished"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pfm:end_stone_rechiseled_table_natural"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "end_stone_rechiseled_table_natural",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pfm:end_stone_rechiseled_table_natural"
+    ]
+  }
+}

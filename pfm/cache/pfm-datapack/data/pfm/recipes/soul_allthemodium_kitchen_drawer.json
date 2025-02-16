@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "allthemodium:soul_planks"
+    },
+    {
+      "item": "allthemodium:soul_planks"
+    },
+    {
+      "item": "allthemodium:soul_planks"
+    },
+    {
+      "item": "allthemodium:soul_planks"
+    },
+    {
+      "item": "allthemodium:soul_planks"
+    },
+    {
+      "item": "allthemodium:soul_log"
+    },
+    {
+      "item": "allthemodium:soul_log"
+    },
+    {
+      "item": "allthemodium:soul_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:soul_allthemodium_kitchen_drawer"
+  }
+}

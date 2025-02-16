@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "quark:jasper"
+    },
+    {
+      "item": "quark:jasper"
+    },
+    {
+      "item": "quark:jasper"
+    },
+    {
+      "item": "quark:jasper"
+    },
+    {
+      "item": "quark:jasper"
+    },
+    {
+      "item": "quark:jasper"
+    },
+    {
+      "item": "quark:polished_jasper"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:jasper_quark_classic_nightstand"
+  }
+}

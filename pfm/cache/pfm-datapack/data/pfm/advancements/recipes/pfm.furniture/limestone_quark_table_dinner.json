@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pfm:limestone_quark_table_dinner"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "limestone_quark_table_dinner": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "quark:polished_limestone"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "limestone_quark_table_dinner",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pfm:limestone_quark_table_dinner"
+    ]
+  }
+}

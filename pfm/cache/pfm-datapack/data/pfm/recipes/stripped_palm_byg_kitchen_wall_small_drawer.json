@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:stripped_palm_log"
+    },
+    {
+      "item": "byg:stripped_palm_log"
+    },
+    {
+      "item": "byg:stripped_palm_log"
+    },
+    {
+      "item": "byg:palm_planks"
+    },
+    {
+      "item": "byg:palm_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:stripped_palm_byg_kitchen_wall_small_drawer"
+  }
+}

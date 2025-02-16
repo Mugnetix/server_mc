@@ -1,0 +1,31 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "theabyss:slimed_planks"
+    },
+    {
+      "item": "theabyss:slimed_planks"
+    },
+    {
+      "item": "theabyss:slimed_planks"
+    },
+    {
+      "item": "theabyss:slimed_planks"
+    },
+    {
+      "item": "theabyss:stripped_slimed_log"
+    },
+    {
+      "item": "theabyss:stripped_slimed_log"
+    },
+    {
+      "item": "theabyss:stripped_slimed_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_slimed_theabyss_table_classic"
+  }
+}

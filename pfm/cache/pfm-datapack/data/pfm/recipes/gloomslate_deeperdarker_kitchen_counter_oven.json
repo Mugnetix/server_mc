@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "deeperdarker:gloomslate"
+    },
+    {
+      "item": "deeperdarker:gloomslate"
+    },
+    {
+      "item": "deeperdarker:gloomslate"
+    },
+    {
+      "item": "deeperdarker:gloomslate"
+    },
+    {
+      "item": "deeperdarker:gloomslate"
+    },
+    {
+      "item": "deeperdarker:polished_gloomslate"
+    },
+    {
+      "item": "deeperdarker:polished_gloomslate"
+    },
+    {
+      "item": "deeperdarker:polished_gloomslate"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:gloomslate_deeperdarker_kitchen_counter_oven"
+  }
+}

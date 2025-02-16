@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "quark:ancient_log"
+    },
+    {
+      "item": "quark:ancient_log"
+    },
+    {
+      "item": "quark:ancient_log"
+    },
+    {
+      "item": "quark:ancient_planks"
+    },
+    {
+      "item": "quark:ancient_planks"
+    },
+    {
+      "item": "quark:ancient_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:ancient_quark_chair_dinner"
+  }
+}

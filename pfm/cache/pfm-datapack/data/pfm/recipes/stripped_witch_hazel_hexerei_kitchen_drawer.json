@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "hexerei:stripped_witch_hazel_log"
+    },
+    {
+      "item": "hexerei:stripped_witch_hazel_log"
+    },
+    {
+      "item": "hexerei:stripped_witch_hazel_log"
+    },
+    {
+      "item": "hexerei:stripped_witch_hazel_log"
+    },
+    {
+      "item": "hexerei:stripped_witch_hazel_log"
+    },
+    {
+      "item": "hexerei:witch_hazel_planks"
+    },
+    {
+      "item": "hexerei:witch_hazel_planks"
+    },
+    {
+      "item": "hexerei:witch_hazel_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_witch_hazel_hexerei_kitchen_drawer"
+  }
+}

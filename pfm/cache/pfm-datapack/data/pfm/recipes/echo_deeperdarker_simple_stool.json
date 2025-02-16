@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "deeperdarker:echo_log"
+    },
+    {
+      "item": "deeperdarker:echo_log"
+    },
+    {
+      "item": "deeperdarker:echo_planks"
+    },
+    {
+      "item": "deeperdarker:echo_planks"
+    },
+    {
+      "item": "deeperdarker:echo_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:echo_deeperdarker_simple_stool"
+  }
+}

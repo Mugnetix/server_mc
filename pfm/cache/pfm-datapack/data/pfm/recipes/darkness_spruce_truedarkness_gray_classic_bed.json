@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "truedarkness:darkness_spruce_planks"
+    },
+    {
+      "item": "truedarkness:darkness_spruce_planks"
+    },
+    {
+      "item": "truedarkness:darkness_spruce_planks"
+    },
+    {
+      "item": "minecraft:gray_bed"
+    },
+    {
+      "item": "truedarkness:darkness_spruce_fence"
+    },
+    {
+      "item": "truedarkness:darkness_spruce_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:darkness_spruce_truedarkness_gray_classic_bed"
+  }
+}

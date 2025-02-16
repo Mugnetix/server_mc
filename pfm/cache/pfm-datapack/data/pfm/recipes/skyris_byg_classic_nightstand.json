@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "byg:skyris_log"
+    },
+    {
+      "item": "byg:skyris_log"
+    },
+    {
+      "item": "byg:skyris_log"
+    },
+    {
+      "item": "byg:skyris_log"
+    },
+    {
+      "item": "byg:skyris_log"
+    },
+    {
+      "item": "byg:skyris_log"
+    },
+    {
+      "item": "byg:skyris_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:skyris_byg_classic_nightstand"
+  }
+}

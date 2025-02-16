@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:baobab_planks"
+    },
+    {
+      "item": "byg:baobab_planks"
+    },
+    {
+      "item": "byg:baobab_planks"
+    },
+    {
+      "item": "byg:baobab_log"
+    },
+    {
+      "item": "byg:baobab_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:baobab_byg_kitchen_wall_small_drawer"
+  }
+}

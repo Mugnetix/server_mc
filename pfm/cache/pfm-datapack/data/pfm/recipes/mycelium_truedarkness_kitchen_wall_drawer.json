@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "truedarkness:mycelium_planks"
+    },
+    {
+      "item": "truedarkness:mycelium_planks"
+    },
+    {
+      "item": "truedarkness:mycelium_planks"
+    },
+    {
+      "item": "truedarkness:mycelium_planks"
+    },
+    {
+      "item": "truedarkness:mycelium_planks"
+    },
+    {
+      "item": "truedarkness:mycelium_planks"
+    },
+    {
+      "item": "truedarkness:mycelium_log"
+    },
+    {
+      "item": "truedarkness:mycelium_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:mycelium_truedarkness_kitchen_wall_drawer"
+  }
+}

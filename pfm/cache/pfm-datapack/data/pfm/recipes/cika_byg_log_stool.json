@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "byg:cika_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:cika_byg_log_stool"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "hexerei:stripped_mahogany_log"
+    },
+    {
+      "item": "hexerei:stripped_mahogany_log"
+    },
+    {
+      "item": "hexerei:stripped_mahogany_log"
+    },
+    {
+      "item": "hexerei:stripped_mahogany_log"
+    },
+    {
+      "item": "hexerei:stripped_mahogany_log"
+    },
+    {
+      "item": "hexerei:mahogany_planks"
+    },
+    {
+      "item": "hexerei:mahogany_planks"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_mahogany_hexerei_kitchen_sink"
+  }
+}

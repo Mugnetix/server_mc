@@ -1,0 +1,31 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "theabyss:vigilant_log"
+    },
+    {
+      "item": "theabyss:vigilant_log"
+    },
+    {
+      "item": "theabyss:vigilant_log"
+    },
+    {
+      "item": "theabyss:vigilant_log"
+    },
+    {
+      "item": "theabyss:vigilant_planks"
+    },
+    {
+      "item": "theabyss:vigilant_planks"
+    },
+    {
+      "item": "theabyss:vigilant_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:vigilant_theabyss_table_classic"
+  }
+}

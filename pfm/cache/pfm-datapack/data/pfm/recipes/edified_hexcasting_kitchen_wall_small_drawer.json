@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "hexcasting:edified_planks"
+    },
+    {
+      "item": "hexcasting:edified_planks"
+    },
+    {
+      "item": "hexcasting:edified_planks"
+    },
+    {
+      "item": "hexcasting:edified_log"
+    },
+    {
+      "item": "hexcasting:edified_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:edified_hexcasting_kitchen_wall_small_drawer"
+  }
+}

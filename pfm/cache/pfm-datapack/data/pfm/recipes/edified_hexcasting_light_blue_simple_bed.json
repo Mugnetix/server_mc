@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "hexcasting:edified_planks"
+    },
+    {
+      "item": "hexcasting:edified_planks"
+    },
+    {
+      "item": "hexcasting:edified_planks"
+    },
+    {
+      "item": "hexcasting:edified_planks"
+    },
+    {
+      "item": "hexcasting:edified_planks"
+    },
+    {
+      "item": "minecraft:light_blue_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:edified_hexcasting_light_blue_simple_bed"
+  }
+}

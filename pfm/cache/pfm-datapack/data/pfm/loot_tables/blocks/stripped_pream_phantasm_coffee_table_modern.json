@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:stripped_pream_phantasm_coffee_table_modern"
+        }
+      ],
+      "name": "stripped_pream_phantasm_coffee_table_modern",
+      "rolls": 1.0
+    }
+  ]
+}

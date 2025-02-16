@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "myrtrees:rubberwood_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:rubberwood_myrtrees_log_stool"
+  }
+}

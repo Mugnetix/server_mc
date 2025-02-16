@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "theabyss:blaru_planks"
+    },
+    {
+      "item": "theabyss:blaru_planks"
+    },
+    {
+      "item": "theabyss:blaru_planks"
+    },
+    {
+      "item": "theabyss:blaru_planks"
+    },
+    {
+      "item": "theabyss:blaru_planks"
+    },
+    {
+      "item": "theabyss:blaru_planks"
+    },
+    {
+      "item": "theabyss:blaru_planks"
+    },
+    {
+      "item": "theabyss:blaru_planks"
+    },
+    {
+      "item": "theabyss:blaru_planks"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:blaru_theabyss_kitchen_wall_counter"
+  }
+}

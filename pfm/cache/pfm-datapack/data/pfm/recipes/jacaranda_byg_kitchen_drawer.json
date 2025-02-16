@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:jacaranda_planks"
+    },
+    {
+      "item": "byg:jacaranda_planks"
+    },
+    {
+      "item": "byg:jacaranda_planks"
+    },
+    {
+      "item": "byg:jacaranda_planks"
+    },
+    {
+      "item": "byg:jacaranda_planks"
+    },
+    {
+      "item": "byg:jacaranda_log"
+    },
+    {
+      "item": "byg:jacaranda_log"
+    },
+    {
+      "item": "byg:jacaranda_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:jacaranda_byg_kitchen_drawer"
+  }
+}

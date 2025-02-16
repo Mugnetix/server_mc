@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "silentgear:netherwood_planks"
+    },
+    {
+      "item": "silentgear:netherwood_planks"
+    },
+    {
+      "item": "silentgear:netherwood_planks"
+    },
+    {
+      "item": "silentgear:netherwood_planks"
+    },
+    {
+      "item": "silentgear:netherwood_planks"
+    },
+    {
+      "item": "silentgear:netherwood_planks"
+    },
+    {
+      "item": "silentgear:netherwood_log"
+    },
+    {
+      "item": "silentgear:netherwood_log"
+    },
+    {
+      "item": "silentgear:netherwood_log"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:netherwood_silentgear_kitchen_counter"
+  }
+}

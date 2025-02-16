@@ -1,0 +1,31 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "truedarkness:cyan_planks"
+    },
+    {
+      "item": "truedarkness:cyan_planks"
+    },
+    {
+      "item": "truedarkness:cyan_planks"
+    },
+    {
+      "item": "truedarkness:cyan_planks"
+    },
+    {
+      "item": "truedarkness:stripped_cyan_log"
+    },
+    {
+      "item": "truedarkness:stripped_cyan_log"
+    },
+    {
+      "item": "truedarkness:stripped_cyan_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_cyan_truedarkness_table_classic"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "byg:cherry_planks"
+    },
+    {
+      "item": "byg:cherry_planks"
+    },
+    {
+      "item": "byg:cherry_planks"
+    },
+    {
+      "item": "byg:cherry_planks"
+    },
+    {
+      "item": "byg:cherry_planks"
+    },
+    {
+      "item": "minecraft:black_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:cherry_byg_black_simple_bed"
+  }
+}

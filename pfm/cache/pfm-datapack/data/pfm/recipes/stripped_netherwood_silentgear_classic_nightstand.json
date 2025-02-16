@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "silentgear:netherwood_planks"
+    },
+    {
+      "item": "silentgear:netherwood_planks"
+    },
+    {
+      "item": "silentgear:netherwood_planks"
+    },
+    {
+      "item": "silentgear:netherwood_planks"
+    },
+    {
+      "item": "silentgear:netherwood_planks"
+    },
+    {
+      "item": "silentgear:netherwood_planks"
+    },
+    {
+      "item": "silentgear:stripped_netherwood_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_netherwood_silentgear_classic_nightstand"
+  }
+}

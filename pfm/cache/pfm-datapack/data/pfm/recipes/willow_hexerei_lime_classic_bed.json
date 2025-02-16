@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "hexerei:willow_planks"
+    },
+    {
+      "item": "hexerei:willow_planks"
+    },
+    {
+      "item": "hexerei:willow_planks"
+    },
+    {
+      "item": "minecraft:lime_bed"
+    },
+    {
+      "item": "hexerei:willow_fence"
+    },
+    {
+      "item": "hexerei:willow_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:willow_hexerei_lime_classic_bed"
+  }
+}

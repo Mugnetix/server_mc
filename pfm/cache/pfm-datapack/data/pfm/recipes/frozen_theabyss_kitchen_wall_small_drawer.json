@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "theabyss:frozen_planks"
+    },
+    {
+      "item": "theabyss:frozen_planks"
+    },
+    {
+      "item": "theabyss:frozen_planks"
+    },
+    {
+      "item": "theabyss:frozen_log"
+    },
+    {
+      "item": "theabyss:frozen_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:frozen_theabyss_kitchen_wall_small_drawer"
+  }
+}

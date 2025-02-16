@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pfm:limestone_quark_coffee_table_classic"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "limestone_quark_coffee_table_classic": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "quark:polished_limestone"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "limestone_quark_coffee_table_classic",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pfm:limestone_quark_coffee_table_classic"
+    ]
+  }
+}

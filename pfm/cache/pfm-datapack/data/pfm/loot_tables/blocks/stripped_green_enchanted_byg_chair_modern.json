@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:stripped_green_enchanted_byg_chair_modern"
+        }
+      ],
+      "name": "stripped_green_enchanted_byg_chair_modern",
+      "rolls": 1.0
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:bulbis_stem"
+    },
+    {
+      "item": "byg:bulbis_stem"
+    },
+    {
+      "item": "byg:bulbis_stem"
+    },
+    {
+      "item": "byg:bulbis_stem"
+    },
+    {
+      "item": "byg:bulbis_stem"
+    },
+    {
+      "item": "byg:bulbis_planks"
+    },
+    {
+      "item": "byg:bulbis_planks"
+    },
+    {
+      "item": "byg:bulbis_planks"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:bulbis_byg_kitchen_counter_oven"
+  }
+}

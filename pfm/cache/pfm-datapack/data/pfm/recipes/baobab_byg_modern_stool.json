@@ -1,0 +1,22 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "byg:baobab_log"
+    },
+    {
+      "item": "byg:baobab_planks"
+    },
+    {
+      "item": "byg:baobab_planks"
+    },
+    {
+      "item": "byg:baobab_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:baobab_byg_modern_stool"
+  }
+}

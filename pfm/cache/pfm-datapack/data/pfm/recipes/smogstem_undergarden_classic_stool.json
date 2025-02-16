@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "undergarden:smogstem_log"
+    },
+    {
+      "item": "undergarden:smogstem_log"
+    },
+    {
+      "item": "undergarden:smogstem_log"
+    },
+    {
+      "item": "undergarden:smogstem_planks"
+    },
+    {
+      "item": "undergarden:smogstem_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:smogstem_undergarden_classic_stool"
+  }
+}

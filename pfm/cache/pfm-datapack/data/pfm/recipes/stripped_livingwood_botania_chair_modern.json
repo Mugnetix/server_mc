@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "botania:livingwood_planks"
+    },
+    {
+      "item": "botania:livingwood_planks"
+    },
+    {
+      "item": "botania:livingwood_planks"
+    },
+    {
+      "item": "botania:stripped_livingwood_log"
+    },
+    {
+      "item": "botania:stripped_livingwood_log"
+    },
+    {
+      "item": "botania:stripped_livingwood_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_livingwood_botania_chair_modern"
+  }
+}

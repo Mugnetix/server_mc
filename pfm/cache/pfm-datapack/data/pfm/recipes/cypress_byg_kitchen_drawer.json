@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:cypress_planks"
+    },
+    {
+      "item": "byg:cypress_planks"
+    },
+    {
+      "item": "byg:cypress_planks"
+    },
+    {
+      "item": "byg:cypress_planks"
+    },
+    {
+      "item": "byg:cypress_planks"
+    },
+    {
+      "item": "byg:cypress_log"
+    },
+    {
+      "item": "byg:cypress_log"
+    },
+    {
+      "item": "byg:cypress_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:cypress_byg_kitchen_drawer"
+  }
+}

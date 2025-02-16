@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "quark:blossom_log"
+    },
+    {
+      "item": "quark:blossom_log"
+    },
+    {
+      "item": "quark:blossom_log"
+    },
+    {
+      "item": "quark:blossom_log"
+    },
+    {
+      "item": "quark:blossom_log"
+    },
+    {
+      "item": "quark:blossom_log"
+    },
+    {
+      "item": "quark:blossom_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:blossom_quark_classic_nightstand"
+  }
+}

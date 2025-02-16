@@ -1,0 +1,31 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "byg:rainbow_eucalyptus_planks"
+    },
+    {
+      "item": "byg:rainbow_eucalyptus_planks"
+    },
+    {
+      "item": "byg:rainbow_eucalyptus_planks"
+    },
+    {
+      "item": "byg:rainbow_eucalyptus_planks"
+    },
+    {
+      "item": "byg:stripped_rainbow_eucalyptus_log"
+    },
+    {
+      "item": "byg:stripped_rainbow_eucalyptus_log"
+    },
+    {
+      "item": "byg:stripped_rainbow_eucalyptus_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_rainbow_eucalyptus_byg_table_classic"
+  }
+}

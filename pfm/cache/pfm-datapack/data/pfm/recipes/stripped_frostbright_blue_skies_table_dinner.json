@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "blue_skies:frostbright_planks"
+    },
+    {
+      "item": "blue_skies:frostbright_planks"
+    },
+    {
+      "item": "blue_skies:frostbright_planks"
+    },
+    {
+      "item": "blue_skies:stripped_frostbright_log"
+    },
+    {
+      "item": "blue_skies:stripped_frostbright_log"
+    },
+    {
+      "item": "blue_skies:stripped_frostbright_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_frostbright_blue_skies_table_dinner"
+  }
+}

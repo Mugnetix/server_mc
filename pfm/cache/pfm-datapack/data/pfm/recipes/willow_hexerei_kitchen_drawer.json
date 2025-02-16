@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "hexerei:willow_planks"
+    },
+    {
+      "item": "hexerei:willow_planks"
+    },
+    {
+      "item": "hexerei:willow_planks"
+    },
+    {
+      "item": "hexerei:willow_planks"
+    },
+    {
+      "item": "hexerei:willow_planks"
+    },
+    {
+      "item": "hexerei:willow_log"
+    },
+    {
+      "item": "hexerei:willow_log"
+    },
+    {
+      "item": "hexerei:willow_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:willow_hexerei_kitchen_drawer"
+  }
+}

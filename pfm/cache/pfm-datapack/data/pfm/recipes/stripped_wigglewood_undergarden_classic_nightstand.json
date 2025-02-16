@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "undergarden:wigglewood_planks"
+    },
+    {
+      "item": "undergarden:wigglewood_planks"
+    },
+    {
+      "item": "undergarden:wigglewood_planks"
+    },
+    {
+      "item": "undergarden:wigglewood_planks"
+    },
+    {
+      "item": "undergarden:wigglewood_planks"
+    },
+    {
+      "item": "undergarden:wigglewood_planks"
+    },
+    {
+      "item": "undergarden:stripped_wigglewood_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_wigglewood_undergarden_classic_nightstand"
+  }
+}

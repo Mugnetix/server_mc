@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "byg:pine_log"
+    },
+    {
+      "item": "byg:pine_log"
+    },
+    {
+      "item": "byg:pine_log"
+    },
+    {
+      "item": "byg:pine_log"
+    },
+    {
+      "item": "byg:pine_log"
+    },
+    {
+      "item": "byg:pine_log"
+    },
+    {
+      "item": "byg:pine_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:pine_byg_classic_nightstand"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "theabyss:blaru_planks"
+    },
+    {
+      "item": "theabyss:blaru_planks"
+    },
+    {
+      "item": "theabyss:blaru_planks"
+    },
+    {
+      "item": "theabyss:blaru_planks"
+    },
+    {
+      "item": "theabyss:blaru_planks"
+    },
+    {
+      "item": "theabyss:stripped_blaru_log"
+    },
+    {
+      "item": "theabyss:stripped_blaru_log"
+    },
+    {
+      "item": "theabyss:stripped_blaru_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_blaru_theabyss_table_basic"
+  }
+}

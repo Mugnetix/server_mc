@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "myrtrees:rubberwood_log"
+    },
+    {
+      "item": "myrtrees:rubberwood_log"
+    },
+    {
+      "item": "myrtrees:rubberwood_log"
+    },
+    {
+      "item": "myrtrees:rubberwood_log"
+    },
+    {
+      "item": "myrtrees:rubberwood_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:rubberwood_myrtrees_raw_table_log"
+  }
+}

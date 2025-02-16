@@ -1,0 +1,31 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "quark:limestone"
+    },
+    {
+      "item": "quark:limestone"
+    },
+    {
+      "item": "quark:limestone"
+    },
+    {
+      "item": "quark:limestone"
+    },
+    {
+      "item": "quark:polished_limestone"
+    },
+    {
+      "item": "quark:polished_limestone"
+    },
+    {
+      "item": "quark:polished_limestone"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:limestone_quark_table_classic"
+  }
+}

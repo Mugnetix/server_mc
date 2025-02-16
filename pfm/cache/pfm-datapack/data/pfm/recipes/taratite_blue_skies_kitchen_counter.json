@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "blue_skies:polished_taratite"
+    },
+    {
+      "item": "blue_skies:polished_taratite"
+    },
+    {
+      "item": "blue_skies:polished_taratite"
+    },
+    {
+      "item": "blue_skies:polished_taratite"
+    },
+    {
+      "item": "blue_skies:polished_taratite"
+    },
+    {
+      "item": "blue_skies:polished_taratite"
+    },
+    {
+      "item": "blue_skies:taratite"
+    },
+    {
+      "item": "blue_skies:taratite"
+    },
+    {
+      "item": "blue_skies:taratite"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:taratite_blue_skies_kitchen_counter"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "byg:imparius_stem"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:imparius_byg_log_stool"
+  }
+}

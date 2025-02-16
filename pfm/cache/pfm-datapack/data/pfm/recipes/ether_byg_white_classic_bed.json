@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "byg:ether_planks"
+    },
+    {
+      "item": "byg:ether_planks"
+    },
+    {
+      "item": "byg:ether_planks"
+    },
+    {
+      "item": "minecraft:white_bed"
+    },
+    {
+      "item": "byg:ether_fence"
+    },
+    {
+      "item": "byg:ether_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:ether_byg_white_classic_bed"
+  }
+}

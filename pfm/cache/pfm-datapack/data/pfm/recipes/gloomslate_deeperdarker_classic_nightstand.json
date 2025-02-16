@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "deeperdarker:gloomslate"
+    },
+    {
+      "item": "deeperdarker:gloomslate"
+    },
+    {
+      "item": "deeperdarker:gloomslate"
+    },
+    {
+      "item": "deeperdarker:gloomslate"
+    },
+    {
+      "item": "deeperdarker:gloomslate"
+    },
+    {
+      "item": "deeperdarker:gloomslate"
+    },
+    {
+      "item": "deeperdarker:polished_gloomslate"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:gloomslate_deeperdarker_classic_nightstand"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:stripped_jacaranda_log"
+    },
+    {
+      "item": "byg:stripped_jacaranda_log"
+    },
+    {
+      "item": "byg:stripped_jacaranda_log"
+    },
+    {
+      "item": "byg:stripped_jacaranda_log"
+    },
+    {
+      "item": "byg:stripped_jacaranda_log"
+    },
+    {
+      "item": "byg:jacaranda_planks"
+    },
+    {
+      "item": "byg:jacaranda_planks"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_jacaranda_byg_kitchen_sink"
+  }
+}

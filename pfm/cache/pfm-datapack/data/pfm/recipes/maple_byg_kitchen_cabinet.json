@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:maple_planks"
+    },
+    {
+      "item": "byg:maple_planks"
+    },
+    {
+      "item": "byg:maple_planks"
+    },
+    {
+      "item": "byg:maple_planks"
+    },
+    {
+      "item": "byg:maple_planks"
+    },
+    {
+      "item": "byg:maple_planks"
+    },
+    {
+      "item": "byg:maple_log"
+    },
+    {
+      "item": "byg:maple_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:maple_byg_kitchen_cabinet"
+  }
+}

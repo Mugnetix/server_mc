@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "integrateddynamics:menril_planks"
+    },
+    {
+      "item": "integrateddynamics:menril_planks"
+    },
+    {
+      "item": "integrateddynamics:menril_planks"
+    },
+    {
+      "item": "integrateddynamics:menril_planks"
+    },
+    {
+      "item": "integrateddynamics:menril_planks"
+    },
+    {
+      "item": "integrateddynamics:menril_log"
+    },
+    {
+      "item": "integrateddynamics:menril_log"
+    },
+    {
+      "item": "integrateddynamics:menril_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:menril_integrateddynamics_kitchen_drawer"
+  }
+}

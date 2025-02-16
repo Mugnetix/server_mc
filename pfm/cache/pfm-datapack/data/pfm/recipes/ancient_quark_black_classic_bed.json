@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "quark:ancient_planks"
+    },
+    {
+      "item": "quark:ancient_planks"
+    },
+    {
+      "item": "quark:ancient_planks"
+    },
+    {
+      "item": "minecraft:black_bed"
+    },
+    {
+      "item": "quark:ancient_fence"
+    },
+    {
+      "item": "quark:ancient_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:ancient_quark_black_classic_bed"
+  }
+}

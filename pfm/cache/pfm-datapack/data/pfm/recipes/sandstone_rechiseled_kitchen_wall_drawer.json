@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "rechiseled:sandstone_polished"
+    },
+    {
+      "item": "rechiseled:sandstone_polished"
+    },
+    {
+      "item": "rechiseled:sandstone_polished"
+    },
+    {
+      "item": "rechiseled:sandstone_polished"
+    },
+    {
+      "item": "rechiseled:sandstone_polished"
+    },
+    {
+      "item": "rechiseled:sandstone_polished"
+    },
+    {
+      "item": "minecraft:sandstone"
+    },
+    {
+      "item": "minecraft:sandstone"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:sandstone_rechiseled_kitchen_wall_drawer"
+  }
+}

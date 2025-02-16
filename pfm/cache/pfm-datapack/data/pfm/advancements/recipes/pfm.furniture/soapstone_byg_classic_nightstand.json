@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pfm:soapstone_byg_classic_nightstand"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "soapstone_byg_classic_nightstand": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "byg:polished_soapstone"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "soapstone_byg_classic_nightstand",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pfm:soapstone_byg_classic_nightstand"
+    ]
+  }
+}

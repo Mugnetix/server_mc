@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "undergarden:wigglewood_planks"
+    },
+    {
+      "item": "undergarden:wigglewood_planks"
+    },
+    {
+      "item": "undergarden:wigglewood_planks"
+    },
+    {
+      "item": "undergarden:wigglewood_planks"
+    },
+    {
+      "item": "undergarden:wigglewood_planks"
+    },
+    {
+      "item": "undergarden:wigglewood_log"
+    },
+    {
+      "item": "undergarden:wigglewood_log"
+    },
+    {
+      "item": "undergarden:wigglewood_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:wigglewood_undergarden_kitchen_drawer"
+  }
+}

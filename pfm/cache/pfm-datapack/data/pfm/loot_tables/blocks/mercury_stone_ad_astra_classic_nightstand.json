@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:mercury_stone_ad_astra_classic_nightstand"
+        }
+      ],
+      "name": "mercury_stone_ad_astra_classic_nightstand",
+      "rolls": 1.0
+    }
+  ]
+}

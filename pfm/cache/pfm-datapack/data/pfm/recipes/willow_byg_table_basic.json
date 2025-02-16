@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "byg:willow_log"
+    },
+    {
+      "item": "byg:willow_log"
+    },
+    {
+      "item": "byg:willow_log"
+    },
+    {
+      "item": "byg:willow_log"
+    },
+    {
+      "item": "byg:willow_log"
+    },
+    {
+      "item": "byg:willow_planks"
+    },
+    {
+      "item": "byg:willow_planks"
+    },
+    {
+      "item": "byg:willow_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:willow_byg_table_basic"
+  }
+}

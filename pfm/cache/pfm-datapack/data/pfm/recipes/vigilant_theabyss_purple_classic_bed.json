@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "theabyss:vigilant_planks"
+    },
+    {
+      "item": "theabyss:vigilant_planks"
+    },
+    {
+      "item": "theabyss:vigilant_planks"
+    },
+    {
+      "item": "minecraft:purple_bed"
+    },
+    {
+      "item": "theabyss:vigilant_fence"
+    },
+    {
+      "item": "theabyss:vigilant_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:vigilant_theabyss_purple_classic_bed"
+  }
+}

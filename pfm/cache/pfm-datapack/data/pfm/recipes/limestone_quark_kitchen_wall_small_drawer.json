@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "quark:polished_limestone"
+    },
+    {
+      "item": "quark:polished_limestone"
+    },
+    {
+      "item": "quark:polished_limestone"
+    },
+    {
+      "item": "quark:limestone"
+    },
+    {
+      "item": "quark:limestone"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:limestone_quark_kitchen_wall_small_drawer"
+  }
+}

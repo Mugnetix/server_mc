@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "myrtrees:rubberwood_planks"
+    },
+    {
+      "item": "myrtrees:rubberwood_planks"
+    },
+    {
+      "item": "myrtrees:rubberwood_planks"
+    },
+    {
+      "item": "myrtrees:rubberwood_planks"
+    },
+    {
+      "item": "myrtrees:rubberwood_planks"
+    },
+    {
+      "item": "minecraft:light_blue_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:rubberwood_myrtrees_light_blue_simple_bed"
+  }
+}

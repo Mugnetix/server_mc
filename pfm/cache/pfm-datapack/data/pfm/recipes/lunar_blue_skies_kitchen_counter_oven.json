@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "blue_skies:lunar_log"
+    },
+    {
+      "item": "blue_skies:lunar_log"
+    },
+    {
+      "item": "blue_skies:lunar_log"
+    },
+    {
+      "item": "blue_skies:lunar_log"
+    },
+    {
+      "item": "blue_skies:lunar_log"
+    },
+    {
+      "item": "blue_skies:lunar_planks"
+    },
+    {
+      "item": "blue_skies:lunar_planks"
+    },
+    {
+      "item": "blue_skies:lunar_planks"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:lunar_blue_skies_kitchen_counter_oven"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "thermal:rubberwood_log"
+    },
+    {
+      "item": "thermal:rubberwood_log"
+    },
+    {
+      "item": "thermal:rubberwood_log"
+    },
+    {
+      "item": "thermal:rubberwood_planks"
+    },
+    {
+      "item": "thermal:rubberwood_planks"
+    },
+    {
+      "item": "thermal:rubberwood_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:rubberwood_thermal_chair_modern"
+  }
+}

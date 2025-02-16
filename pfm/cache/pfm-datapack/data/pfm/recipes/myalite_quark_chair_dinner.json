@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "quark:myalite"
+    },
+    {
+      "item": "quark:myalite"
+    },
+    {
+      "item": "quark:myalite"
+    },
+    {
+      "item": "quark:polished_myalite"
+    },
+    {
+      "item": "quark:polished_myalite"
+    },
+    {
+      "item": "quark:polished_myalite"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:myalite_quark_chair_dinner"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "integrateddynamics:menril_log"
+    },
+    {
+      "item": "integrateddynamics:menril_log"
+    },
+    {
+      "item": "integrateddynamics:menril_log"
+    },
+    {
+      "item": "integrateddynamics:menril_planks"
+    },
+    {
+      "item": "integrateddynamics:menril_planks"
+    },
+    {
+      "item": "integrateddynamics:menril_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:menril_integrateddynamics_chair_dinner"
+  }
+}

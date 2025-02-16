@@ -1,0 +1,22 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "byg:willow_planks"
+    },
+    {
+      "item": "byg:stripped_willow_log"
+    },
+    {
+      "item": "byg:stripped_willow_log"
+    },
+    {
+      "item": "byg:stripped_willow_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_willow_byg_modern_stool"
+  }
+}

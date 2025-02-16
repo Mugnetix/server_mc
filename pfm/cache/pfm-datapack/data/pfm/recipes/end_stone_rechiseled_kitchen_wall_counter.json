@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "rechiseled:end_stone_polished"
+    },
+    {
+      "item": "rechiseled:end_stone_polished"
+    },
+    {
+      "item": "rechiseled:end_stone_polished"
+    },
+    {
+      "item": "rechiseled:end_stone_polished"
+    },
+    {
+      "item": "rechiseled:end_stone_polished"
+    },
+    {
+      "item": "rechiseled:end_stone_polished"
+    },
+    {
+      "item": "rechiseled:end_stone_polished"
+    },
+    {
+      "item": "rechiseled:end_stone_polished"
+    },
+    {
+      "item": "rechiseled:end_stone_polished"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:end_stone_rechiseled_kitchen_wall_counter"
+  }
+}

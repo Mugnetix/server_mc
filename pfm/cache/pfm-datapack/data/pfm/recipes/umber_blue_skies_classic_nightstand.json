@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "blue_skies:umber"
+    },
+    {
+      "item": "blue_skies:umber"
+    },
+    {
+      "item": "blue_skies:umber"
+    },
+    {
+      "item": "blue_skies:umber"
+    },
+    {
+      "item": "blue_skies:umber"
+    },
+    {
+      "item": "blue_skies:umber"
+    },
+    {
+      "item": "blue_skies:polished_umber"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:umber_blue_skies_classic_nightstand"
+  }
+}

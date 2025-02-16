@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "byg:skyris_planks"
+    },
+    {
+      "item": "byg:skyris_planks"
+    },
+    {
+      "item": "byg:skyris_planks"
+    },
+    {
+      "item": "minecraft:light_gray_bed"
+    },
+    {
+      "item": "byg:skyris_fence"
+    },
+    {
+      "item": "byg:skyris_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:skyris_byg_light_gray_classic_bed"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:stripped_blue_enchanted_log"
+    },
+    {
+      "item": "byg:stripped_blue_enchanted_log"
+    },
+    {
+      "item": "byg:stripped_blue_enchanted_log"
+    },
+    {
+      "item": "byg:blue_enchanted_planks"
+    },
+    {
+      "item": "byg:blue_enchanted_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:stripped_blue_enchanted_byg_kitchen_wall_small_drawer"
+  }
+}

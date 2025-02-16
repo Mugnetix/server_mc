@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "quark:myalite"
+    },
+    {
+      "item": "quark:myalite"
+    },
+    {
+      "item": "quark:myalite"
+    },
+    {
+      "item": "quark:myalite"
+    },
+    {
+      "item": "quark:myalite"
+    },
+    {
+      "item": "quark:polished_myalite"
+    },
+    {
+      "item": "quark:polished_myalite"
+    },
+    {
+      "item": "quark:polished_myalite"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:myalite_quark_kitchen_counter_oven"
+  }
+}

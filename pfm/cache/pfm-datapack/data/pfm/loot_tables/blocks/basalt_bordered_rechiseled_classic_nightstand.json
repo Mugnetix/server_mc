@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:basalt_bordered_rechiseled_classic_nightstand"
+        }
+      ],
+      "name": "basalt_bordered_rechiseled_classic_nightstand",
+      "rolls": 1.0
+    }
+  ]
+}

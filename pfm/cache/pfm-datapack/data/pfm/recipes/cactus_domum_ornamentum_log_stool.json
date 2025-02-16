@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "minecraft:cactus"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:cactus_domum_ornamentum_log_stool"
+  }
+}

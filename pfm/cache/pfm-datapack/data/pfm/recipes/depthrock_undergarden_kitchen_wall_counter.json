@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "undergarden:polished_depthrock"
+    },
+    {
+      "item": "undergarden:polished_depthrock"
+    },
+    {
+      "item": "undergarden:polished_depthrock"
+    },
+    {
+      "item": "undergarden:polished_depthrock"
+    },
+    {
+      "item": "undergarden:polished_depthrock"
+    },
+    {
+      "item": "undergarden:polished_depthrock"
+    },
+    {
+      "item": "undergarden:polished_depthrock"
+    },
+    {
+      "item": "undergarden:polished_depthrock"
+    },
+    {
+      "item": "undergarden:polished_depthrock"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:depthrock_undergarden_kitchen_wall_counter"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:willow_hexerei_log_stool"
+        }
+      ],
+      "name": "willow_hexerei_log_stool",
+      "rolls": 1.0
+    }
+  ]
+}

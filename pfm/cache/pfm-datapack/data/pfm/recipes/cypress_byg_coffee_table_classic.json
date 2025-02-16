@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "byg:cypress_log"
+    },
+    {
+      "item": "byg:cypress_log"
+    },
+    {
+      "item": "byg:cypress_planks"
+    },
+    {
+      "item": "byg:cypress_planks"
+    },
+    {
+      "item": "byg:cypress_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:cypress_byg_coffee_table_classic"
+  }
+}

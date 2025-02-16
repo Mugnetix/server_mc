@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "hexerei:mahogany_log"
+    },
+    {
+      "item": "hexerei:mahogany_log"
+    },
+    {
+      "item": "hexerei:mahogany_log"
+    },
+    {
+      "item": "hexerei:mahogany_log"
+    },
+    {
+      "item": "hexerei:mahogany_log"
+    },
+    {
+      "item": "hexerei:mahogany_log"
+    },
+    {
+      "item": "hexerei:mahogany_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:mahogany_hexerei_classic_nightstand"
+  }
+}

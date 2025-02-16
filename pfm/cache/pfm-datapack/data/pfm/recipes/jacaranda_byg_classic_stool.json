@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "byg:jacaranda_log"
+    },
+    {
+      "item": "byg:jacaranda_log"
+    },
+    {
+      "item": "byg:jacaranda_log"
+    },
+    {
+      "item": "byg:jacaranda_planks"
+    },
+    {
+      "item": "byg:jacaranda_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:jacaranda_byg_classic_stool"
+  }
+}

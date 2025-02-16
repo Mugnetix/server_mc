@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "undergarden:depthrock"
+    },
+    {
+      "item": "undergarden:depthrock"
+    },
+    {
+      "item": "undergarden:depthrock"
+    },
+    {
+      "item": "undergarden:depthrock"
+    },
+    {
+      "item": "undergarden:depthrock"
+    },
+    {
+      "item": "undergarden:depthrock"
+    },
+    {
+      "item": "undergarden:polished_depthrock"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:depthrock_undergarden_classic_nightstand"
+  }
+}

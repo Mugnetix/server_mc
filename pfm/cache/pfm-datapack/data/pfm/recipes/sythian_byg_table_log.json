@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "byg:sythian_stem"
+    },
+    {
+      "item": "byg:sythian_stem"
+    },
+    {
+      "item": "byg:sythian_planks"
+    },
+    {
+      "item": "byg:sythian_planks"
+    },
+    {
+      "item": "byg:sythian_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:sythian_byg_table_log"
+  }
+}

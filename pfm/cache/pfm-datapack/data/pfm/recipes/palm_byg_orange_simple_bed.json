@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "byg:palm_planks"
+    },
+    {
+      "item": "byg:palm_planks"
+    },
+    {
+      "item": "byg:palm_planks"
+    },
+    {
+      "item": "byg:palm_planks"
+    },
+    {
+      "item": "byg:palm_planks"
+    },
+    {
+      "item": "minecraft:orange_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:palm_byg_orange_simple_bed"
+  }
+}

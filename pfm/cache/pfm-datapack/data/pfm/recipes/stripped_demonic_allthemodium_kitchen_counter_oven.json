@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "allthemodium:stripped_demonic_log"
+    },
+    {
+      "item": "allthemodium:stripped_demonic_log"
+    },
+    {
+      "item": "allthemodium:stripped_demonic_log"
+    },
+    {
+      "item": "allthemodium:stripped_demonic_log"
+    },
+    {
+      "item": "allthemodium:stripped_demonic_log"
+    },
+    {
+      "item": "allthemodium:demonic_planks"
+    },
+    {
+      "item": "allthemodium:demonic_planks"
+    },
+    {
+      "item": "allthemodium:demonic_planks"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_demonic_allthemodium_kitchen_counter_oven"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "quark:shale"
+    },
+    {
+      "item": "quark:shale"
+    },
+    {
+      "item": "quark:shale"
+    },
+    {
+      "item": "quark:shale"
+    },
+    {
+      "item": "quark:shale"
+    },
+    {
+      "item": "quark:shale"
+    },
+    {
+      "item": "quark:polished_shale"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:shale_quark_classic_nightstand"
+  }
+}

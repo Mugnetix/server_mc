@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "allthemodium:demonic_log"
+    },
+    {
+      "item": "allthemodium:demonic_log"
+    },
+    {
+      "item": "allthemodium:demonic_log"
+    },
+    {
+      "item": "allthemodium:demonic_log"
+    },
+    {
+      "item": "allthemodium:demonic_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:demonic_allthemodium_raw_table_log"
+  }
+}

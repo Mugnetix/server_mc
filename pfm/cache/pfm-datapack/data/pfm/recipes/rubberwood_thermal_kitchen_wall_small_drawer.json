@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "thermal:rubberwood_planks"
+    },
+    {
+      "item": "thermal:rubberwood_planks"
+    },
+    {
+      "item": "thermal:rubberwood_planks"
+    },
+    {
+      "item": "thermal:rubberwood_log"
+    },
+    {
+      "item": "thermal:rubberwood_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:rubberwood_thermal_kitchen_wall_small_drawer"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "undergarden:smogstem_planks"
+    },
+    {
+      "item": "undergarden:smogstem_planks"
+    },
+    {
+      "item": "undergarden:smogstem_planks"
+    },
+    {
+      "item": "undergarden:smogstem_planks"
+    },
+    {
+      "item": "undergarden:smogstem_planks"
+    },
+    {
+      "item": "minecraft:purple_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:smogstem_undergarden_purple_simple_bed"
+  }
+}

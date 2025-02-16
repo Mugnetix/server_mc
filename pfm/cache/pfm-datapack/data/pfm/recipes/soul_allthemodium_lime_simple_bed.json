@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "allthemodium:soul_planks"
+    },
+    {
+      "item": "allthemodium:soul_planks"
+    },
+    {
+      "item": "allthemodium:soul_planks"
+    },
+    {
+      "item": "allthemodium:soul_planks"
+    },
+    {
+      "item": "allthemodium:soul_planks"
+    },
+    {
+      "item": "minecraft:lime_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:soul_allthemodium_lime_simple_bed"
+  }
+}

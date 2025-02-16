@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "deeperdarker:polished_gloomslate"
+    },
+    {
+      "item": "deeperdarker:polished_gloomslate"
+    },
+    {
+      "item": "deeperdarker:polished_gloomslate"
+    },
+    {
+      "item": "deeperdarker:polished_gloomslate"
+    },
+    {
+      "item": "deeperdarker:polished_gloomslate"
+    },
+    {
+      "item": "deeperdarker:polished_gloomslate"
+    },
+    {
+      "item": "deeperdarker:gloomslate"
+    },
+    {
+      "item": "deeperdarker:gloomslate"
+    },
+    {
+      "item": "deeperdarker:gloomslate"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:gloomslate_deeperdarker_kitchen_counter"
+  }
+}

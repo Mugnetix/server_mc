@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "quark:ancient_log"
+    },
+    {
+      "item": "quark:ancient_log"
+    },
+    {
+      "item": "quark:ancient_log"
+    },
+    {
+      "item": "quark:ancient_log"
+    },
+    {
+      "item": "quark:ancient_log"
+    },
+    {
+      "item": "quark:ancient_planks"
+    },
+    {
+      "item": "quark:ancient_planks"
+    },
+    {
+      "item": "quark:ancient_planks"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:ancient_quark_kitchen_counter_oven"
+  }
+}

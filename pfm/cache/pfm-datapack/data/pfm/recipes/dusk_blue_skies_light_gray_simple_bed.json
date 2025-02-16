@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "blue_skies:dusk_planks"
+    },
+    {
+      "item": "blue_skies:dusk_planks"
+    },
+    {
+      "item": "blue_skies:dusk_planks"
+    },
+    {
+      "item": "blue_skies:dusk_planks"
+    },
+    {
+      "item": "blue_skies:dusk_planks"
+    },
+    {
+      "item": "minecraft:light_gray_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:dusk_blue_skies_light_gray_simple_bed"
+  }
+}

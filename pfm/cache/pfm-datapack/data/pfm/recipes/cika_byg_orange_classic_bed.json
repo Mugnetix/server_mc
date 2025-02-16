@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "byg:cika_planks"
+    },
+    {
+      "item": "byg:cika_planks"
+    },
+    {
+      "item": "byg:cika_planks"
+    },
+    {
+      "item": "minecraft:orange_bed"
+    },
+    {
+      "item": "byg:cika_fence"
+    },
+    {
+      "item": "byg:cika_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:cika_byg_orange_classic_bed"
+  }
+}

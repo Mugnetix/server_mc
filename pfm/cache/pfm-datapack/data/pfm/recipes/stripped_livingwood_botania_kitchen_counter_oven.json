@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "botania:stripped_livingwood_log"
+    },
+    {
+      "item": "botania:stripped_livingwood_log"
+    },
+    {
+      "item": "botania:stripped_livingwood_log"
+    },
+    {
+      "item": "botania:stripped_livingwood_log"
+    },
+    {
+      "item": "botania:stripped_livingwood_log"
+    },
+    {
+      "item": "botania:livingwood_planks"
+    },
+    {
+      "item": "botania:livingwood_planks"
+    },
+    {
+      "item": "botania:livingwood_planks"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_livingwood_botania_kitchen_counter_oven"
+  }
+}

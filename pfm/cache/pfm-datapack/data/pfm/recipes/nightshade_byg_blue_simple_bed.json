@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "byg:nightshade_planks"
+    },
+    {
+      "item": "byg:nightshade_planks"
+    },
+    {
+      "item": "byg:nightshade_planks"
+    },
+    {
+      "item": "byg:nightshade_planks"
+    },
+    {
+      "item": "byg:nightshade_planks"
+    },
+    {
+      "item": "minecraft:blue_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:nightshade_byg_blue_simple_bed"
+  }
+}

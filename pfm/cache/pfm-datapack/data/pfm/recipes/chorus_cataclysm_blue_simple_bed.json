@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "cataclysm:chorus_planks"
+    },
+    {
+      "item": "cataclysm:chorus_planks"
+    },
+    {
+      "item": "cataclysm:chorus_planks"
+    },
+    {
+      "item": "cataclysm:chorus_planks"
+    },
+    {
+      "item": "cataclysm:chorus_planks"
+    },
+    {
+      "item": "minecraft:blue_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:chorus_cataclysm_blue_simple_bed"
+  }
+}

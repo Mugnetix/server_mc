@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "truedarkness:polished_swamp_cobblestone"
+    },
+    {
+      "item": "truedarkness:polished_swamp_cobblestone"
+    },
+    {
+      "item": "truedarkness:polished_swamp_cobblestone"
+    },
+    {
+      "item": "truedarkness:polished_swamp_cobblestone"
+    },
+    {
+      "item": "truedarkness:polished_swamp_cobblestone"
+    },
+    {
+      "item": "truedarkness:polished_swamp_cobblestone"
+    },
+    {
+      "item": "truedarkness:polished_swamp_cobblestone"
+    },
+    {
+      "item": "truedarkness:polished_swamp_cobblestone"
+    },
+    {
+      "item": "truedarkness:polished_swamp_cobblestone"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:swamp_cobblestone_truedarkness_kitchen_wall_counter"
+  }
+}

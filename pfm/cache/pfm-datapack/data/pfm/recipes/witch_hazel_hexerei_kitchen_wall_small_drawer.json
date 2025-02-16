@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "hexerei:witch_hazel_planks"
+    },
+    {
+      "item": "hexerei:witch_hazel_planks"
+    },
+    {
+      "item": "hexerei:witch_hazel_planks"
+    },
+    {
+      "item": "hexerei:witch_hazel_log"
+    },
+    {
+      "item": "hexerei:witch_hazel_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:witch_hazel_hexerei_kitchen_wall_small_drawer"
+  }
+}

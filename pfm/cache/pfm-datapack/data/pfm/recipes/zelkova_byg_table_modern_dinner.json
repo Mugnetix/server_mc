@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "byg:zelkova_log"
+    },
+    {
+      "item": "byg:zelkova_log"
+    },
+    {
+      "item": "byg:zelkova_log"
+    },
+    {
+      "item": "byg:zelkova_log"
+    },
+    {
+      "item": "byg:zelkova_log"
+    },
+    {
+      "item": "byg:zelkova_planks"
+    },
+    {
+      "item": "byg:zelkova_planks"
+    },
+    {
+      "item": "byg:zelkova_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:zelkova_byg_table_modern_dinner"
+  }
+}

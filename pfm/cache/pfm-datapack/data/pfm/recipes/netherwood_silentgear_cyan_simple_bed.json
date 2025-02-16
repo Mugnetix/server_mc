@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "silentgear:netherwood_planks"
+    },
+    {
+      "item": "silentgear:netherwood_planks"
+    },
+    {
+      "item": "silentgear:netherwood_planks"
+    },
+    {
+      "item": "silentgear:netherwood_planks"
+    },
+    {
+      "item": "silentgear:netherwood_planks"
+    },
+    {
+      "item": "minecraft:cyan_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:netherwood_silentgear_cyan_simple_bed"
+  }
+}

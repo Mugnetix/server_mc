@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "byg:fir_planks"
+    },
+    {
+      "item": "byg:fir_planks"
+    },
+    {
+      "item": "byg:fir_planks"
+    },
+    {
+      "item": "byg:fir_planks"
+    },
+    {
+      "item": "byg:stripped_fir_log"
+    },
+    {
+      "item": "byg:stripped_fir_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_fir_byg_chair_classic"
+  }
+}

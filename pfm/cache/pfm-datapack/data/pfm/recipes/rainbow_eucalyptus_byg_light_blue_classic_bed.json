@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "byg:rainbow_eucalyptus_planks"
+    },
+    {
+      "item": "byg:rainbow_eucalyptus_planks"
+    },
+    {
+      "item": "byg:rainbow_eucalyptus_planks"
+    },
+    {
+      "item": "minecraft:light_blue_bed"
+    },
+    {
+      "item": "byg:rainbow_eucalyptus_fence"
+    },
+    {
+      "item": "byg:rainbow_eucalyptus_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:rainbow_eucalyptus_byg_light_blue_classic_bed"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pfm:tuff_quark_coffee_table_basic"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "tuff_quark_coffee_table_basic": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "quark:polished_tuff"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "tuff_quark_coffee_table_basic",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pfm:tuff_quark_coffee_table_basic"
+    ]
+  }
+}

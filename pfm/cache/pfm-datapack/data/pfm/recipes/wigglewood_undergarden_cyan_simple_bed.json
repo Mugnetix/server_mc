@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "undergarden:wigglewood_planks"
+    },
+    {
+      "item": "undergarden:wigglewood_planks"
+    },
+    {
+      "item": "undergarden:wigglewood_planks"
+    },
+    {
+      "item": "undergarden:wigglewood_planks"
+    },
+    {
+      "item": "undergarden:wigglewood_planks"
+    },
+    {
+      "item": "minecraft:cyan_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:wigglewood_undergarden_cyan_simple_bed"
+  }
+}

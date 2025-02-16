@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "botania:livingrock"
+    },
+    {
+      "item": "botania:livingrock"
+    },
+    {
+      "item": "botania:livingrock"
+    },
+    {
+      "item": "botania:livingrock"
+    },
+    {
+      "item": "botania:livingrock"
+    },
+    {
+      "item": "botania:polished_livingrock"
+    },
+    {
+      "item": "botania:polished_livingrock"
+    },
+    {
+      "item": "botania:polished_livingrock"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:livingrock_botania_kitchen_counter_oven"
+  }
+}

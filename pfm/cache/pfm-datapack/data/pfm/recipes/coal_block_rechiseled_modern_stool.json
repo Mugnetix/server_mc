@@ -1,0 +1,22 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "minecraft:coal_block"
+    },
+    {
+      "item": "rechiseled:coal_block_polished"
+    },
+    {
+      "item": "rechiseled:coal_block_polished"
+    },
+    {
+      "item": "rechiseled:coal_block_polished"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:coal_block_rechiseled_modern_stool"
+  }
+}

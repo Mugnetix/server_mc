@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:maple_blue_skies_table_modern_dinner"
+        }
+      ],
+      "name": "maple_blue_skies_table_modern_dinner",
+      "rolls": 1.0
+    }
+  ]
+}

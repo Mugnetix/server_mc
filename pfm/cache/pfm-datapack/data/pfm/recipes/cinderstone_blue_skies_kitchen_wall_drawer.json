@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "blue_skies:polished_cinderstone"
+    },
+    {
+      "item": "blue_skies:polished_cinderstone"
+    },
+    {
+      "item": "blue_skies:polished_cinderstone"
+    },
+    {
+      "item": "blue_skies:polished_cinderstone"
+    },
+    {
+      "item": "blue_skies:polished_cinderstone"
+    },
+    {
+      "item": "blue_skies:polished_cinderstone"
+    },
+    {
+      "item": "blue_skies:cinderstone"
+    },
+    {
+      "item": "blue_skies:cinderstone"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:cinderstone_blue_skies_kitchen_wall_drawer"
+  }
+}

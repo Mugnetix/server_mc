@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "cataclysm:polished_end_stone"
+    },
+    {
+      "item": "cataclysm:polished_end_stone"
+    },
+    {
+      "item": "cataclysm:polished_end_stone"
+    },
+    {
+      "item": "minecraft:end_stone"
+    },
+    {
+      "item": "minecraft:end_stone"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:end_stone_cataclysm_kitchen_wall_small_drawer"
+  }
+}

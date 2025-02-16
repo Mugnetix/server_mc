@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "byg:ether_log"
+    },
+    {
+      "item": "byg:ether_log"
+    },
+    {
+      "item": "byg:ether_planks"
+    },
+    {
+      "item": "byg:ether_planks"
+    },
+    {
+      "item": "byg:ether_planks"
+    },
+    {
+      "item": "byg:ether_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:ether_byg_chair"
+  }
+}

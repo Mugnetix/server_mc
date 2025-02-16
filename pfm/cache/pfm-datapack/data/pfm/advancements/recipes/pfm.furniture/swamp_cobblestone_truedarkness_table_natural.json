@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pfm:swamp_cobblestone_truedarkness_table_natural"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "swamp_cobblestone_truedarkness_table_natural": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "truedarkness:polished_swamp_cobblestone"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "swamp_cobblestone_truedarkness_table_natural",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pfm:swamp_cobblestone_truedarkness_table_natural"
+    ]
+  }
+}

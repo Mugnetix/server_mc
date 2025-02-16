@@ -1,0 +1,31 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "byg:skyris_log"
+    },
+    {
+      "item": "byg:skyris_log"
+    },
+    {
+      "item": "byg:skyris_log"
+    },
+    {
+      "item": "byg:skyris_log"
+    },
+    {
+      "item": "byg:skyris_planks"
+    },
+    {
+      "item": "byg:skyris_planks"
+    },
+    {
+      "item": "byg:skyris_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:skyris_byg_coffee_table_modern"
+  }
+}

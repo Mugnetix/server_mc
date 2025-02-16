@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:mars_stone_ad_astra_chair"
+        }
+      ],
+      "name": "mars_stone_ad_astra_chair",
+      "rolls": 1.0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:lunar_blue_skies_chair_classic"
+        }
+      ],
+      "name": "lunar_blue_skies_chair_classic",
+      "rolls": 1.0
+    }
+  ]
+}

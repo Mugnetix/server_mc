@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "hexerei:witch_hazel_planks"
+    },
+    {
+      "item": "hexerei:witch_hazel_planks"
+    },
+    {
+      "item": "hexerei:witch_hazel_planks"
+    },
+    {
+      "item": "minecraft:brown_bed"
+    },
+    {
+      "item": "hexerei:witch_hazel_fence"
+    },
+    {
+      "item": "hexerei:witch_hazel_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:witch_hazel_hexerei_brown_classic_bed"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "byg:white_mangrove_planks"
+    },
+    {
+      "item": "byg:white_mangrove_planks"
+    },
+    {
+      "item": "byg:white_mangrove_planks"
+    },
+    {
+      "item": "byg:white_mangrove_planks"
+    },
+    {
+      "item": "byg:white_mangrove_planks"
+    },
+    {
+      "item": "minecraft:green_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:white_mangrove_byg_green_simple_bed"
+  }
+}

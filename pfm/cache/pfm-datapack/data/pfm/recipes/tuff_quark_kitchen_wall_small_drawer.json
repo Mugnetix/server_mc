@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "quark:polished_tuff"
+    },
+    {
+      "item": "quark:polished_tuff"
+    },
+    {
+      "item": "quark:polished_tuff"
+    },
+    {
+      "item": "minecraft:tuff"
+    },
+    {
+      "item": "minecraft:tuff"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:tuff_quark_kitchen_wall_small_drawer"
+  }
+}

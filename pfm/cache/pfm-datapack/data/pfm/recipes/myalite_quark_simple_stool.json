@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "quark:myalite"
+    },
+    {
+      "item": "quark:myalite"
+    },
+    {
+      "item": "quark:polished_myalite"
+    },
+    {
+      "item": "quark:polished_myalite"
+    },
+    {
+      "item": "quark:polished_myalite"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:myalite_quark_simple_stool"
+  }
+}

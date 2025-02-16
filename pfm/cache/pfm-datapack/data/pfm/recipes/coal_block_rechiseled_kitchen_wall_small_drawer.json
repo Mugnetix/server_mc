@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "rechiseled:coal_block_polished"
+    },
+    {
+      "item": "rechiseled:coal_block_polished"
+    },
+    {
+      "item": "rechiseled:coal_block_polished"
+    },
+    {
+      "item": "minecraft:coal_block"
+    },
+    {
+      "item": "minecraft:coal_block"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:coal_block_rechiseled_kitchen_wall_small_drawer"
+  }
+}

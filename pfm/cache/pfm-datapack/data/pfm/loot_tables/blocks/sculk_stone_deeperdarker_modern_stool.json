@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:sculk_stone_deeperdarker_modern_stool"
+        }
+      ],
+      "name": "sculk_stone_deeperdarker_modern_stool",
+      "rolls": 1.0
+    }
+  ]
+}

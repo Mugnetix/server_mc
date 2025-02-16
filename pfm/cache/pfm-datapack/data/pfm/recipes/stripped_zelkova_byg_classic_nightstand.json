@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "byg:zelkova_planks"
+    },
+    {
+      "item": "byg:zelkova_planks"
+    },
+    {
+      "item": "byg:zelkova_planks"
+    },
+    {
+      "item": "byg:zelkova_planks"
+    },
+    {
+      "item": "byg:zelkova_planks"
+    },
+    {
+      "item": "byg:zelkova_planks"
+    },
+    {
+      "item": "byg:stripped_zelkova_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_zelkova_byg_classic_nightstand"
+  }
+}

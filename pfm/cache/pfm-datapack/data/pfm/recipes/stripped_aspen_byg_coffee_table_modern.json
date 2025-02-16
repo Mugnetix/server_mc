@@ -1,0 +1,31 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "byg:aspen_planks"
+    },
+    {
+      "item": "byg:aspen_planks"
+    },
+    {
+      "item": "byg:aspen_planks"
+    },
+    {
+      "item": "byg:aspen_planks"
+    },
+    {
+      "item": "byg:stripped_aspen_log"
+    },
+    {
+      "item": "byg:stripped_aspen_log"
+    },
+    {
+      "item": "byg:stripped_aspen_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_aspen_byg_coffee_table_modern"
+  }
+}

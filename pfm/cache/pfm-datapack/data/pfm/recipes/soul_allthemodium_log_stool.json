@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "allthemodium:soul_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:soul_allthemodium_log_stool"
+  }
+}

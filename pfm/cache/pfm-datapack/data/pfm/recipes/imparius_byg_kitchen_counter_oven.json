@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:imparius_stem"
+    },
+    {
+      "item": "byg:imparius_stem"
+    },
+    {
+      "item": "byg:imparius_stem"
+    },
+    {
+      "item": "byg:imparius_stem"
+    },
+    {
+      "item": "byg:imparius_stem"
+    },
+    {
+      "item": "byg:imparius_planks"
+    },
+    {
+      "item": "byg:imparius_planks"
+    },
+    {
+      "item": "byg:imparius_planks"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:imparius_byg_kitchen_counter_oven"
+  }
+}

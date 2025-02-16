@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:lament_planks"
+    },
+    {
+      "item": "byg:lament_planks"
+    },
+    {
+      "item": "byg:lament_planks"
+    },
+    {
+      "item": "byg:lament_planks"
+    },
+    {
+      "item": "byg:lament_planks"
+    },
+    {
+      "item": "byg:lament_log"
+    },
+    {
+      "item": "byg:lament_log"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:lament_byg_kitchen_sink"
+  }
+}

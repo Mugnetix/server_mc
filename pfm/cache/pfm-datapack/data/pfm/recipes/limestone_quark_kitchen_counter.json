@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "quark:polished_limestone"
+    },
+    {
+      "item": "quark:polished_limestone"
+    },
+    {
+      "item": "quark:polished_limestone"
+    },
+    {
+      "item": "quark:polished_limestone"
+    },
+    {
+      "item": "quark:polished_limestone"
+    },
+    {
+      "item": "quark:polished_limestone"
+    },
+    {
+      "item": "quark:limestone"
+    },
+    {
+      "item": "quark:limestone"
+    },
+    {
+      "item": "quark:limestone"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:limestone_quark_kitchen_counter"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "byg:ebony_planks"
+    },
+    {
+      "item": "byg:ebony_planks"
+    },
+    {
+      "item": "byg:ebony_planks"
+    },
+    {
+      "item": "byg:ebony_planks"
+    },
+    {
+      "item": "byg:ebony_planks"
+    },
+    {
+      "item": "byg:ebony_planks"
+    },
+    {
+      "item": "byg:stripped_ebony_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_ebony_byg_classic_nightstand"
+  }
+}

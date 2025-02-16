@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:soapstone"
+    },
+    {
+      "item": "byg:soapstone"
+    },
+    {
+      "item": "byg:soapstone"
+    },
+    {
+      "item": "byg:soapstone"
+    },
+    {
+      "item": "byg:soapstone"
+    },
+    {
+      "item": "byg:polished_soapstone"
+    },
+    {
+      "item": "byg:polished_soapstone"
+    },
+    {
+      "item": "byg:polished_soapstone"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:soapstone_byg_kitchen_counter_oven"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "blue_skies:dusk_log"
+    },
+    {
+      "item": "blue_skies:dusk_log"
+    },
+    {
+      "item": "blue_skies:dusk_log"
+    },
+    {
+      "item": "blue_skies:dusk_log"
+    },
+    {
+      "item": "blue_skies:dusk_log"
+    },
+    {
+      "item": "blue_skies:dusk_planks"
+    },
+    {
+      "item": "blue_skies:dusk_planks"
+    },
+    {
+      "item": "blue_skies:dusk_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:dusk_blue_skies_table_basic"
+  }
+}

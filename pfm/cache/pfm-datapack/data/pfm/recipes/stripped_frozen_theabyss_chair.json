@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "theabyss:frozen_planks"
+    },
+    {
+      "item": "theabyss:frozen_planks"
+    },
+    {
+      "item": "theabyss:stripped_frozen_log"
+    },
+    {
+      "item": "theabyss:stripped_frozen_log"
+    },
+    {
+      "item": "theabyss:stripped_frozen_log"
+    },
+    {
+      "item": "theabyss:stripped_frozen_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_frozen_theabyss_chair"
+  }
+}

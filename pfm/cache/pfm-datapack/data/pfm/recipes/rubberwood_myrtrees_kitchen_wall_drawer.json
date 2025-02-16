@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "myrtrees:rubberwood_planks"
+    },
+    {
+      "item": "myrtrees:rubberwood_planks"
+    },
+    {
+      "item": "myrtrees:rubberwood_planks"
+    },
+    {
+      "item": "myrtrees:rubberwood_planks"
+    },
+    {
+      "item": "myrtrees:rubberwood_planks"
+    },
+    {
+      "item": "myrtrees:rubberwood_planks"
+    },
+    {
+      "item": "myrtrees:rubberwood_log"
+    },
+    {
+      "item": "myrtrees:rubberwood_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:rubberwood_myrtrees_kitchen_wall_drawer"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "extradelight:cinnamon_log"
+    },
+    {
+      "item": "extradelight:cinnamon_log"
+    },
+    {
+      "item": "extradelight:cinnamon_log"
+    },
+    {
+      "item": "extradelight:cinnamon_planks"
+    },
+    {
+      "item": "extradelight:cinnamon_planks"
+    },
+    {
+      "item": "extradelight:cinnamon_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:cinnamon_extradelight_chair_dinner"
+  }
+}

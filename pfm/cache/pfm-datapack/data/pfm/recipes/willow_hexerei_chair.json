@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "hexerei:willow_log"
+    },
+    {
+      "item": "hexerei:willow_log"
+    },
+    {
+      "item": "hexerei:willow_planks"
+    },
+    {
+      "item": "hexerei:willow_planks"
+    },
+    {
+      "item": "hexerei:willow_planks"
+    },
+    {
+      "item": "hexerei:willow_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:willow_hexerei_chair"
+  }
+}

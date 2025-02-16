@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "byg:soapstone"
+    },
+    {
+      "item": "byg:soapstone"
+    },
+    {
+      "item": "byg:polished_soapstone"
+    },
+    {
+      "item": "byg:polished_soapstone"
+    },
+    {
+      "item": "byg:polished_soapstone"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:soapstone_byg_simple_stool"
+  }
+}

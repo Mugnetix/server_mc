@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "phantasm:ebony_planks"
+    },
+    {
+      "item": "phantasm:ebony_planks"
+    },
+    {
+      "item": "phantasm:ebony_planks"
+    },
+    {
+      "item": "phantasm:ebony_planks"
+    },
+    {
+      "item": "phantasm:ebony_planks"
+    },
+    {
+      "item": "phantasm:ebony_stem"
+    },
+    {
+      "item": "phantasm:ebony_stem"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:ebony_phantasm_kitchen_sink"
+  }
+}

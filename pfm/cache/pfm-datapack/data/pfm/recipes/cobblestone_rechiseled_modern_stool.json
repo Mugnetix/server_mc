@@ -1,0 +1,22 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "minecraft:cobblestone"
+    },
+    {
+      "item": "rechiseled:cobblestone_polished"
+    },
+    {
+      "item": "rechiseled:cobblestone_polished"
+    },
+    {
+      "item": "rechiseled:cobblestone_polished"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:cobblestone_rechiseled_modern_stool"
+  }
+}

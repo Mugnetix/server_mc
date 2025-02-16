@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "allthemodium:stripped_demonic_log"
+    },
+    {
+      "item": "allthemodium:stripped_demonic_log"
+    },
+    {
+      "item": "allthemodium:stripped_demonic_log"
+    },
+    {
+      "item": "allthemodium:demonic_planks"
+    },
+    {
+      "item": "allthemodium:demonic_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:stripped_demonic_allthemodium_kitchen_wall_small_drawer"
+  }
+}

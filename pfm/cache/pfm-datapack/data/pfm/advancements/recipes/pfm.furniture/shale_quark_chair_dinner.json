@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pfm:shale_quark_chair_dinner"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "shale_quark_chair_dinner": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "quark:polished_shale"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "shale_quark_chair_dinner",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pfm:shale_quark_chair_dinner"
+    ]
+  }
+}

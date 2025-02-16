@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "blue_skies:frostbright_planks"
+    },
+    {
+      "item": "blue_skies:frostbright_planks"
+    },
+    {
+      "item": "blue_skies:frostbright_planks"
+    },
+    {
+      "item": "blue_skies:frostbright_planks"
+    },
+    {
+      "item": "blue_skies:frostbright_planks"
+    },
+    {
+      "item": "minecraft:yellow_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:frostbright_blue_skies_yellow_simple_bed"
+  }
+}

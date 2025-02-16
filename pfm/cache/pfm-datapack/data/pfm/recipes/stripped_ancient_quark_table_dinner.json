@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "quark:ancient_planks"
+    },
+    {
+      "item": "quark:ancient_planks"
+    },
+    {
+      "item": "quark:ancient_planks"
+    },
+    {
+      "item": "quark:stripped_ancient_log"
+    },
+    {
+      "item": "quark:stripped_ancient_log"
+    },
+    {
+      "item": "quark:stripped_ancient_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_ancient_quark_table_dinner"
+  }
+}

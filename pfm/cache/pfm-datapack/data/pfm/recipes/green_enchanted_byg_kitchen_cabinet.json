@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:green_enchanted_planks"
+    },
+    {
+      "item": "byg:green_enchanted_planks"
+    },
+    {
+      "item": "byg:green_enchanted_planks"
+    },
+    {
+      "item": "byg:green_enchanted_planks"
+    },
+    {
+      "item": "byg:green_enchanted_planks"
+    },
+    {
+      "item": "byg:green_enchanted_planks"
+    },
+    {
+      "item": "byg:green_enchanted_log"
+    },
+    {
+      "item": "byg:green_enchanted_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:green_enchanted_byg_kitchen_cabinet"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "minecraft:prismarine_bricks"
+    },
+    {
+      "item": "minecraft:prismarine_bricks"
+    },
+    {
+      "item": "minecraft:prismarine_bricks"
+    },
+    {
+      "item": "rechiseled:prismarine_bricks_polished"
+    },
+    {
+      "item": "rechiseled:prismarine_bricks_polished"
+    },
+    {
+      "item": "rechiseled:prismarine_bricks_polished"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:prismarine_bricks_rechiseled_chair_dinner"
+  }
+}

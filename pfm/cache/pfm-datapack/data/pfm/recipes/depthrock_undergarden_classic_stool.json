@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "undergarden:depthrock"
+    },
+    {
+      "item": "undergarden:depthrock"
+    },
+    {
+      "item": "undergarden:depthrock"
+    },
+    {
+      "item": "undergarden:polished_depthrock"
+    },
+    {
+      "item": "undergarden:polished_depthrock"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:depthrock_undergarden_classic_stool"
+  }
+}

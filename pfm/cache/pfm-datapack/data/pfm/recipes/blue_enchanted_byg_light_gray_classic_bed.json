@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "byg:blue_enchanted_planks"
+    },
+    {
+      "item": "byg:blue_enchanted_planks"
+    },
+    {
+      "item": "byg:blue_enchanted_planks"
+    },
+    {
+      "item": "minecraft:light_gray_bed"
+    },
+    {
+      "item": "byg:blue_enchanted_fence"
+    },
+    {
+      "item": "byg:blue_enchanted_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:blue_enchanted_byg_light_gray_classic_bed"
+  }
+}

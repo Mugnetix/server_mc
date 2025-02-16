@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "hexcasting:edified_planks"
+    },
+    {
+      "item": "hexcasting:edified_planks"
+    },
+    {
+      "item": "hexcasting:edified_planks"
+    },
+    {
+      "item": "minecraft:brown_bed"
+    },
+    {
+      "item": "hexcasting:edified_planks"
+    },
+    {
+      "item": "hexcasting:edified_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:edified_hexcasting_brown_classic_bed"
+  }
+}

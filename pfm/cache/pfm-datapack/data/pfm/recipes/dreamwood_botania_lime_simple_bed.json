@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "botania:dreamwood_planks"
+    },
+    {
+      "item": "botania:dreamwood_planks"
+    },
+    {
+      "item": "botania:dreamwood_planks"
+    },
+    {
+      "item": "botania:dreamwood_planks"
+    },
+    {
+      "item": "botania:dreamwood_planks"
+    },
+    {
+      "item": "minecraft:lime_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:dreamwood_botania_lime_simple_bed"
+  }
+}

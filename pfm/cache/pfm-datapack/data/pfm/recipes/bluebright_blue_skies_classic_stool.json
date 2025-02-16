@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "blue_skies:bluebright_log"
+    },
+    {
+      "item": "blue_skies:bluebright_log"
+    },
+    {
+      "item": "blue_skies:bluebright_log"
+    },
+    {
+      "item": "blue_skies:bluebright_planks"
+    },
+    {
+      "item": "blue_skies:bluebright_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:bluebright_blue_skies_classic_stool"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "byg:redwood_planks"
+    },
+    {
+      "item": "byg:redwood_planks"
+    },
+    {
+      "item": "byg:redwood_planks"
+    },
+    {
+      "item": "minecraft:blue_bed"
+    },
+    {
+      "item": "byg:redwood_fence"
+    },
+    {
+      "item": "byg:redwood_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:redwood_byg_blue_classic_bed"
+  }
+}

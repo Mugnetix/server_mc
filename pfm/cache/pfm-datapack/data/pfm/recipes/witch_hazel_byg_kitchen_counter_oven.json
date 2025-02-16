@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:witch_hazel_log"
+    },
+    {
+      "item": "byg:witch_hazel_log"
+    },
+    {
+      "item": "byg:witch_hazel_log"
+    },
+    {
+      "item": "byg:witch_hazel_log"
+    },
+    {
+      "item": "byg:witch_hazel_log"
+    },
+    {
+      "item": "byg:witch_hazel_planks"
+    },
+    {
+      "item": "byg:witch_hazel_planks"
+    },
+    {
+      "item": "byg:witch_hazel_planks"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:witch_hazel_byg_kitchen_counter_oven"
+  }
+}

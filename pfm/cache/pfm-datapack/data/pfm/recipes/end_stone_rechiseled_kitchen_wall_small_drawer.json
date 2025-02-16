@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "rechiseled:end_stone_polished"
+    },
+    {
+      "item": "rechiseled:end_stone_polished"
+    },
+    {
+      "item": "rechiseled:end_stone_polished"
+    },
+    {
+      "item": "minecraft:end_stone"
+    },
+    {
+      "item": "minecraft:end_stone"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:end_stone_rechiseled_kitchen_wall_small_drawer"
+  }
+}

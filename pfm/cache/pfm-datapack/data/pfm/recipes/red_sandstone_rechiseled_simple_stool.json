@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "minecraft:red_sandstone"
+    },
+    {
+      "item": "minecraft:red_sandstone"
+    },
+    {
+      "item": "rechiseled:red_sandstone_polished"
+    },
+    {
+      "item": "rechiseled:red_sandstone_polished"
+    },
+    {
+      "item": "rechiseled:red_sandstone_polished"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:red_sandstone_rechiseled_simple_stool"
+  }
+}

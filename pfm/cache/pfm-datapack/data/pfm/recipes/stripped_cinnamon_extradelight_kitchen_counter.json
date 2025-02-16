@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "extradelight:stripped_cinnamon_log"
+    },
+    {
+      "item": "extradelight:stripped_cinnamon_log"
+    },
+    {
+      "item": "extradelight:stripped_cinnamon_log"
+    },
+    {
+      "item": "extradelight:stripped_cinnamon_log"
+    },
+    {
+      "item": "extradelight:stripped_cinnamon_log"
+    },
+    {
+      "item": "extradelight:stripped_cinnamon_log"
+    },
+    {
+      "item": "extradelight:cinnamon_planks"
+    },
+    {
+      "item": "extradelight:cinnamon_planks"
+    },
+    {
+      "item": "extradelight:cinnamon_planks"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:stripped_cinnamon_extradelight_kitchen_counter"
+  }
+}

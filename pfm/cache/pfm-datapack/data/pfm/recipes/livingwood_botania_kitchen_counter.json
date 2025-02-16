@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "botania:livingwood_planks"
+    },
+    {
+      "item": "botania:livingwood_planks"
+    },
+    {
+      "item": "botania:livingwood_planks"
+    },
+    {
+      "item": "botania:livingwood_planks"
+    },
+    {
+      "item": "botania:livingwood_planks"
+    },
+    {
+      "item": "botania:livingwood_planks"
+    },
+    {
+      "item": "botania:livingwood_log"
+    },
+    {
+      "item": "botania:livingwood_log"
+    },
+    {
+      "item": "botania:livingwood_log"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:livingwood_botania_kitchen_counter"
+  }
+}

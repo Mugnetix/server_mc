@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "minecraft:tuff"
+    },
+    {
+      "item": "minecraft:tuff"
+    },
+    {
+      "item": "quark:polished_tuff"
+    },
+    {
+      "item": "quark:polished_tuff"
+    },
+    {
+      "item": "quark:polished_tuff"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:tuff_quark_simple_stool"
+  }
+}

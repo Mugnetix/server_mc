@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "blue_skies:frostbright_log"
+    },
+    {
+      "item": "blue_skies:frostbright_log"
+    },
+    {
+      "item": "blue_skies:frostbright_planks"
+    },
+    {
+      "item": "blue_skies:frostbright_planks"
+    },
+    {
+      "item": "blue_skies:frostbright_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:frostbright_blue_skies_table_log"
+  }
+}

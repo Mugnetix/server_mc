@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "byg:sythian_stem"
+    },
+    {
+      "item": "byg:sythian_stem"
+    },
+    {
+      "item": "byg:sythian_stem"
+    },
+    {
+      "item": "byg:sythian_stem"
+    },
+    {
+      "item": "byg:sythian_stem"
+    },
+    {
+      "item": "byg:sythian_stem"
+    },
+    {
+      "item": "byg:sythian_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:sythian_byg_classic_nightstand"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:slimed_theabyss_classic_stool"
+        }
+      ],
+      "name": "slimed_theabyss_classic_stool",
+      "rolls": 1.0
+    }
+  ]
+}

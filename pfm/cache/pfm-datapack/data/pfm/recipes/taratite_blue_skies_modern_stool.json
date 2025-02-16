@@ -1,0 +1,22 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "blue_skies:taratite"
+    },
+    {
+      "item": "blue_skies:polished_taratite"
+    },
+    {
+      "item": "blue_skies:polished_taratite"
+    },
+    {
+      "item": "blue_skies:polished_taratite"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:taratite_blue_skies_modern_stool"
+  }
+}

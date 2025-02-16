@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "byg:aspen_planks"
+    },
+    {
+      "item": "byg:aspen_planks"
+    },
+    {
+      "item": "byg:aspen_planks"
+    },
+    {
+      "item": "minecraft:yellow_bed"
+    },
+    {
+      "item": "byg:aspen_fence"
+    },
+    {
+      "item": "byg:aspen_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:aspen_byg_yellow_classic_bed"
+  }
+}

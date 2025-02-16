@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "allthemodium:soul_log"
+    },
+    {
+      "item": "allthemodium:soul_log"
+    },
+    {
+      "item": "allthemodium:soul_planks"
+    },
+    {
+      "item": "allthemodium:soul_planks"
+    },
+    {
+      "item": "allthemodium:soul_planks"
+    },
+    {
+      "item": "allthemodium:soul_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:soul_allthemodium_chair"
+  }
+}

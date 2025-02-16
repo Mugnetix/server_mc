@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "byg:jacaranda_planks"
+    },
+    {
+      "item": "byg:jacaranda_planks"
+    },
+    {
+      "item": "byg:jacaranda_planks"
+    },
+    {
+      "item": "minecraft:blue_bed"
+    },
+    {
+      "item": "byg:jacaranda_fence"
+    },
+    {
+      "item": "byg:jacaranda_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:jacaranda_byg_blue_classic_bed"
+  }
+}

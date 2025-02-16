@@ -1,0 +1,22 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "botania:dreamwood_log"
+    },
+    {
+      "item": "botania:dreamwood_planks"
+    },
+    {
+      "item": "botania:dreamwood_planks"
+    },
+    {
+      "item": "botania:dreamwood_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:dreamwood_botania_modern_stool"
+  }
+}

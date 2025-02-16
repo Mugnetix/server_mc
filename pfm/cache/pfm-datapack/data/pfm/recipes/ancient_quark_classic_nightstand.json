@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "quark:ancient_log"
+    },
+    {
+      "item": "quark:ancient_log"
+    },
+    {
+      "item": "quark:ancient_log"
+    },
+    {
+      "item": "quark:ancient_log"
+    },
+    {
+      "item": "quark:ancient_log"
+    },
+    {
+      "item": "quark:ancient_log"
+    },
+    {
+      "item": "quark:ancient_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:ancient_quark_classic_nightstand"
+  }
+}

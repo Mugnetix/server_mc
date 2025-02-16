@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "hexerei:willow_planks"
+    },
+    {
+      "item": "hexerei:willow_planks"
+    },
+    {
+      "item": "hexerei:willow_planks"
+    },
+    {
+      "item": "hexerei:willow_planks"
+    },
+    {
+      "item": "hexerei:willow_planks"
+    },
+    {
+      "item": "hexerei:stripped_willow_log"
+    },
+    {
+      "item": "hexerei:stripped_willow_log"
+    },
+    {
+      "item": "hexerei:stripped_willow_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_willow_hexerei_table_modern_dinner"
+  }
+}

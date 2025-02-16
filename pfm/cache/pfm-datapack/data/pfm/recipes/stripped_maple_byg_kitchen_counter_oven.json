@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:stripped_maple_log"
+    },
+    {
+      "item": "byg:stripped_maple_log"
+    },
+    {
+      "item": "byg:stripped_maple_log"
+    },
+    {
+      "item": "byg:stripped_maple_log"
+    },
+    {
+      "item": "byg:stripped_maple_log"
+    },
+    {
+      "item": "byg:maple_planks"
+    },
+    {
+      "item": "byg:maple_planks"
+    },
+    {
+      "item": "byg:maple_planks"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_maple_byg_kitchen_counter_oven"
+  }
+}

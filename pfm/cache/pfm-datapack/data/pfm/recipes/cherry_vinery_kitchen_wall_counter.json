@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "vinery:cherry_planks"
+    },
+    {
+      "item": "vinery:cherry_planks"
+    },
+    {
+      "item": "vinery:cherry_planks"
+    },
+    {
+      "item": "vinery:cherry_planks"
+    },
+    {
+      "item": "vinery:cherry_planks"
+    },
+    {
+      "item": "vinery:cherry_planks"
+    },
+    {
+      "item": "vinery:cherry_planks"
+    },
+    {
+      "item": "vinery:cherry_planks"
+    },
+    {
+      "item": "vinery:cherry_planks"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:cherry_vinery_kitchen_wall_counter"
+  }
+}

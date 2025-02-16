@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "blue_skies:cherry_log"
+    },
+    {
+      "item": "blue_skies:cherry_log"
+    },
+    {
+      "item": "blue_skies:cherry_planks"
+    },
+    {
+      "item": "blue_skies:cherry_planks"
+    },
+    {
+      "item": "blue_skies:cherry_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:cherry_blue_skies_table_log"
+  }
+}

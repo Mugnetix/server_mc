@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "integrateddynamics:menril_planks"
+    },
+    {
+      "item": "integrateddynamics:menril_planks"
+    },
+    {
+      "item": "integrateddynamics:menril_planks"
+    },
+    {
+      "item": "minecraft:blue_bed"
+    },
+    {
+      "item": "integrateddynamics:menril_fence"
+    },
+    {
+      "item": "integrateddynamics:menril_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:menril_integrateddynamics_blue_classic_bed"
+  }
+}

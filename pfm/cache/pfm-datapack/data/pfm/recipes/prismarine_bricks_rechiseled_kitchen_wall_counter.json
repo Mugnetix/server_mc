@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "rechiseled:prismarine_bricks_polished"
+    },
+    {
+      "item": "rechiseled:prismarine_bricks_polished"
+    },
+    {
+      "item": "rechiseled:prismarine_bricks_polished"
+    },
+    {
+      "item": "rechiseled:prismarine_bricks_polished"
+    },
+    {
+      "item": "rechiseled:prismarine_bricks_polished"
+    },
+    {
+      "item": "rechiseled:prismarine_bricks_polished"
+    },
+    {
+      "item": "rechiseled:prismarine_bricks_polished"
+    },
+    {
+      "item": "rechiseled:prismarine_bricks_polished"
+    },
+    {
+      "item": "rechiseled:prismarine_bricks_polished"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:prismarine_bricks_rechiseled_kitchen_wall_counter"
+  }
+}

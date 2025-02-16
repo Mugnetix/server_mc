@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "blue_skies:lunar_planks"
+    },
+    {
+      "item": "blue_skies:lunar_planks"
+    },
+    {
+      "item": "blue_skies:lunar_planks"
+    },
+    {
+      "item": "blue_skies:lunar_planks"
+    },
+    {
+      "item": "blue_skies:lunar_planks"
+    },
+    {
+      "item": "minecraft:magenta_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:lunar_blue_skies_magenta_simple_bed"
+  }
+}

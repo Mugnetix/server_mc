@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "hexcasting:edified_log"
+    },
+    {
+      "item": "hexcasting:edified_log"
+    },
+    {
+      "item": "hexcasting:edified_log"
+    },
+    {
+      "item": "hexcasting:edified_log"
+    },
+    {
+      "item": "hexcasting:edified_log"
+    },
+    {
+      "item": "hexcasting:edified_log"
+    },
+    {
+      "item": "hexcasting:edified_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:edified_hexcasting_classic_nightstand"
+  }
+}

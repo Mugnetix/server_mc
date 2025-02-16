@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "vinery:stripped_cherry_log"
+    },
+    {
+      "item": "vinery:stripped_cherry_log"
+    },
+    {
+      "item": "vinery:stripped_cherry_log"
+    },
+    {
+      "item": "vinery:stripped_cherry_log"
+    },
+    {
+      "item": "vinery:stripped_cherry_log"
+    },
+    {
+      "item": "vinery:stripped_cherry_log"
+    },
+    {
+      "item": "vinery:cherry_planks"
+    },
+    {
+      "item": "vinery:cherry_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_cherry_vinery_kitchen_cabinet"
+  }
+}

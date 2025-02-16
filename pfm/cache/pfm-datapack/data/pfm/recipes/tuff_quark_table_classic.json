@@ -1,0 +1,31 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "minecraft:tuff"
+    },
+    {
+      "item": "minecraft:tuff"
+    },
+    {
+      "item": "minecraft:tuff"
+    },
+    {
+      "item": "minecraft:tuff"
+    },
+    {
+      "item": "quark:polished_tuff"
+    },
+    {
+      "item": "quark:polished_tuff"
+    },
+    {
+      "item": "quark:polished_tuff"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:tuff_quark_table_classic"
+  }
+}

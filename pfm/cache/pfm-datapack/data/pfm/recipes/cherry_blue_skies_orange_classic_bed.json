@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "blue_skies:cherry_planks"
+    },
+    {
+      "item": "blue_skies:cherry_planks"
+    },
+    {
+      "item": "blue_skies:cherry_planks"
+    },
+    {
+      "item": "minecraft:orange_bed"
+    },
+    {
+      "item": "blue_skies:cherry_fence"
+    },
+    {
+      "item": "blue_skies:cherry_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:cherry_blue_skies_orange_classic_bed"
+  }
+}

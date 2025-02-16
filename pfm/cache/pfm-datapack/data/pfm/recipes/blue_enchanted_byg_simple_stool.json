@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "byg:blue_enchanted_log"
+    },
+    {
+      "item": "byg:blue_enchanted_log"
+    },
+    {
+      "item": "byg:blue_enchanted_planks"
+    },
+    {
+      "item": "byg:blue_enchanted_planks"
+    },
+    {
+      "item": "byg:blue_enchanted_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:blue_enchanted_byg_simple_stool"
+  }
+}

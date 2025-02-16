@@ -1,0 +1,22 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "byg:redwood_log"
+    },
+    {
+      "item": "byg:redwood_planks"
+    },
+    {
+      "item": "byg:redwood_planks"
+    },
+    {
+      "item": "byg:redwood_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:redwood_byg_modern_stool"
+  }
+}

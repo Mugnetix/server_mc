@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "undergarden:polished_depthrock"
+    },
+    {
+      "item": "undergarden:polished_depthrock"
+    },
+    {
+      "item": "undergarden:polished_depthrock"
+    },
+    {
+      "item": "undergarden:polished_depthrock"
+    },
+    {
+      "item": "undergarden:polished_depthrock"
+    },
+    {
+      "item": "undergarden:polished_depthrock"
+    },
+    {
+      "item": "undergarden:depthrock"
+    },
+    {
+      "item": "undergarden:depthrock"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:depthrock_undergarden_kitchen_cabinet"
+  }
+}

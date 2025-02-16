@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "quark:stripped_ancient_log"
+    },
+    {
+      "item": "quark:stripped_ancient_log"
+    },
+    {
+      "item": "quark:stripped_ancient_log"
+    },
+    {
+      "item": "quark:stripped_ancient_log"
+    },
+    {
+      "item": "quark:stripped_ancient_log"
+    },
+    {
+      "item": "quark:ancient_planks"
+    },
+    {
+      "item": "quark:ancient_planks"
+    },
+    {
+      "item": "quark:ancient_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_ancient_quark_kitchen_drawer"
+  }
+}

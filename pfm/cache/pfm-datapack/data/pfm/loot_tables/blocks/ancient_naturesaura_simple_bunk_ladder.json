@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:ancient_naturesaura_simple_bunk_ladder"
+        }
+      ],
+      "name": "ancient_naturesaura_simple_bunk_ladder",
+      "rolls": 1.0
+    }
+  ]
+}

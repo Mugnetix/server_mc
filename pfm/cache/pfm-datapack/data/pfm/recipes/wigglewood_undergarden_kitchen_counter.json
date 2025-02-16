@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "undergarden:wigglewood_planks"
+    },
+    {
+      "item": "undergarden:wigglewood_planks"
+    },
+    {
+      "item": "undergarden:wigglewood_planks"
+    },
+    {
+      "item": "undergarden:wigglewood_planks"
+    },
+    {
+      "item": "undergarden:wigglewood_planks"
+    },
+    {
+      "item": "undergarden:wigglewood_planks"
+    },
+    {
+      "item": "undergarden:wigglewood_log"
+    },
+    {
+      "item": "undergarden:wigglewood_log"
+    },
+    {
+      "item": "undergarden:wigglewood_log"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:wigglewood_undergarden_kitchen_counter"
+  }
+}

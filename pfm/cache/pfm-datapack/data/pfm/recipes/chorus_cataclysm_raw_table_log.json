@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "cataclysm:chorus_stem"
+    },
+    {
+      "item": "cataclysm:chorus_stem"
+    },
+    {
+      "item": "cataclysm:chorus_stem"
+    },
+    {
+      "item": "cataclysm:chorus_stem"
+    },
+    {
+      "item": "cataclysm:chorus_stem"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:chorus_cataclysm_raw_table_log"
+  }
+}

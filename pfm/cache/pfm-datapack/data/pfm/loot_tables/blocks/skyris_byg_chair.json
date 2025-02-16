@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:skyris_byg_chair"
+        }
+      ],
+      "name": "skyris_byg_chair",
+      "rolls": 1.0
+    }
+  ]
+}

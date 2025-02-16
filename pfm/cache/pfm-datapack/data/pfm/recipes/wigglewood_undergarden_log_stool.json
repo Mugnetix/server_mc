@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "undergarden:wigglewood_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:wigglewood_undergarden_log_stool"
+  }
+}

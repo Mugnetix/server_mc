@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "undergarden:wigglewood_log"
+    },
+    {
+      "item": "undergarden:wigglewood_log"
+    },
+    {
+      "item": "undergarden:wigglewood_log"
+    },
+    {
+      "item": "undergarden:wigglewood_planks"
+    },
+    {
+      "item": "undergarden:wigglewood_planks"
+    },
+    {
+      "item": "undergarden:wigglewood_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:wigglewood_undergarden_chair_modern"
+  }
+}

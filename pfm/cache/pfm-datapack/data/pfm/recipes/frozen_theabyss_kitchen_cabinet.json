@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "theabyss:frozen_planks"
+    },
+    {
+      "item": "theabyss:frozen_planks"
+    },
+    {
+      "item": "theabyss:frozen_planks"
+    },
+    {
+      "item": "theabyss:frozen_planks"
+    },
+    {
+      "item": "theabyss:frozen_planks"
+    },
+    {
+      "item": "theabyss:frozen_planks"
+    },
+    {
+      "item": "theabyss:frozen_log"
+    },
+    {
+      "item": "theabyss:frozen_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:frozen_theabyss_kitchen_cabinet"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "quark:jasper"
+    },
+    {
+      "item": "quark:jasper"
+    },
+    {
+      "item": "quark:jasper"
+    },
+    {
+      "item": "quark:polished_jasper"
+    },
+    {
+      "item": "quark:polished_jasper"
+    },
+    {
+      "item": "quark:polished_jasper"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:jasper_quark_chair_modern"
+  }
+}

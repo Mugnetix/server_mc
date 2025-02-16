@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pfm:umber_blue_skies_chair"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "umber_blue_skies_chair": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "blue_skies:polished_umber"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "umber_blue_skies_chair",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pfm:umber_blue_skies_chair"
+    ]
+  }
+}

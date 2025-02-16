@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:stripped_redwood_log"
+    },
+    {
+      "item": "byg:stripped_redwood_log"
+    },
+    {
+      "item": "byg:stripped_redwood_log"
+    },
+    {
+      "item": "byg:stripped_redwood_log"
+    },
+    {
+      "item": "byg:stripped_redwood_log"
+    },
+    {
+      "item": "byg:redwood_planks"
+    },
+    {
+      "item": "byg:redwood_planks"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_redwood_byg_kitchen_sink"
+  }
+}

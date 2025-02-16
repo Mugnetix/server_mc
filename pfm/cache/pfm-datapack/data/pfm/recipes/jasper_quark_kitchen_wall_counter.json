@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "quark:polished_jasper"
+    },
+    {
+      "item": "quark:polished_jasper"
+    },
+    {
+      "item": "quark:polished_jasper"
+    },
+    {
+      "item": "quark:polished_jasper"
+    },
+    {
+      "item": "quark:polished_jasper"
+    },
+    {
+      "item": "quark:polished_jasper"
+    },
+    {
+      "item": "quark:polished_jasper"
+    },
+    {
+      "item": "quark:polished_jasper"
+    },
+    {
+      "item": "quark:polished_jasper"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:jasper_quark_kitchen_wall_counter"
+  }
+}

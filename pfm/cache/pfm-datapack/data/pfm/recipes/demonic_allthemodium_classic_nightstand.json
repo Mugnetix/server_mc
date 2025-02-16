@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "allthemodium:demonic_log"
+    },
+    {
+      "item": "allthemodium:demonic_log"
+    },
+    {
+      "item": "allthemodium:demonic_log"
+    },
+    {
+      "item": "allthemodium:demonic_log"
+    },
+    {
+      "item": "allthemodium:demonic_log"
+    },
+    {
+      "item": "allthemodium:demonic_log"
+    },
+    {
+      "item": "allthemodium:demonic_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:demonic_allthemodium_classic_nightstand"
+  }
+}

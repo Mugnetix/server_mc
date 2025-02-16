@@ -1,0 +1,31 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "blue_skies:maple_log"
+    },
+    {
+      "item": "blue_skies:maple_log"
+    },
+    {
+      "item": "blue_skies:maple_log"
+    },
+    {
+      "item": "blue_skies:maple_log"
+    },
+    {
+      "item": "blue_skies:maple_planks"
+    },
+    {
+      "item": "blue_skies:maple_planks"
+    },
+    {
+      "item": "blue_skies:maple_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:maple_blue_skies_coffee_table_modern"
+  }
+}

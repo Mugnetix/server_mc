@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "extradelight:cinnamon_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:cinnamon_extradelight_log_stool"
+  }
+}

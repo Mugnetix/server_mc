@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "quark:polished_myalite"
+    },
+    {
+      "item": "quark:polished_myalite"
+    },
+    {
+      "item": "quark:polished_myalite"
+    },
+    {
+      "item": "quark:polished_myalite"
+    },
+    {
+      "item": "quark:polished_myalite"
+    },
+    {
+      "item": "quark:myalite"
+    },
+    {
+      "item": "quark:myalite"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:myalite_quark_kitchen_sink"
+  }
+}

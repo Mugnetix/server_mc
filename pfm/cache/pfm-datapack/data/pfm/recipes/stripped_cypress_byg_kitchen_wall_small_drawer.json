@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:stripped_cypress_log"
+    },
+    {
+      "item": "byg:stripped_cypress_log"
+    },
+    {
+      "item": "byg:stripped_cypress_log"
+    },
+    {
+      "item": "byg:cypress_planks"
+    },
+    {
+      "item": "byg:cypress_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:stripped_cypress_byg_kitchen_wall_small_drawer"
+  }
+}

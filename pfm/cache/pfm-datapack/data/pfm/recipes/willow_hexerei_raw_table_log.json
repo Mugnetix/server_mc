@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "hexerei:willow_log"
+    },
+    {
+      "item": "hexerei:willow_log"
+    },
+    {
+      "item": "hexerei:willow_log"
+    },
+    {
+      "item": "hexerei:willow_log"
+    },
+    {
+      "item": "hexerei:willow_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:willow_hexerei_raw_table_log"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "botania:livingwood_planks"
+    },
+    {
+      "item": "botania:livingwood_planks"
+    },
+    {
+      "item": "botania:livingwood_planks"
+    },
+    {
+      "item": "minecraft:red_bed"
+    },
+    {
+      "item": "botania:livingwood_fence"
+    },
+    {
+      "item": "botania:livingwood_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:livingwood_botania_red_classic_bed"
+  }
+}

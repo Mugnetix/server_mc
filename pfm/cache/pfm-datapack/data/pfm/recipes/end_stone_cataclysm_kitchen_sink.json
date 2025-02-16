@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "cataclysm:polished_end_stone"
+    },
+    {
+      "item": "cataclysm:polished_end_stone"
+    },
+    {
+      "item": "cataclysm:polished_end_stone"
+    },
+    {
+      "item": "cataclysm:polished_end_stone"
+    },
+    {
+      "item": "cataclysm:polished_end_stone"
+    },
+    {
+      "item": "minecraft:end_stone"
+    },
+    {
+      "item": "minecraft:end_stone"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:end_stone_cataclysm_kitchen_sink"
+  }
+}

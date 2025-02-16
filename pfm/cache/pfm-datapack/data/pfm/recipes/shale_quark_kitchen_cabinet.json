@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "quark:polished_shale"
+    },
+    {
+      "item": "quark:polished_shale"
+    },
+    {
+      "item": "quark:polished_shale"
+    },
+    {
+      "item": "quark:polished_shale"
+    },
+    {
+      "item": "quark:polished_shale"
+    },
+    {
+      "item": "quark:polished_shale"
+    },
+    {
+      "item": "quark:shale"
+    },
+    {
+      "item": "quark:shale"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:shale_quark_kitchen_cabinet"
+  }
+}

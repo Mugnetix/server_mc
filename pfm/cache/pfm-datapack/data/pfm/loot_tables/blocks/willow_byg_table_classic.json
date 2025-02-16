@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:willow_byg_table_classic"
+        }
+      ],
+      "name": "willow_byg_table_classic",
+      "rolls": 1.0
+    }
+  ]
+}

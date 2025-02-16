@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "domum_ornamentum:green_cactus_extra"
+    },
+    {
+      "item": "domum_ornamentum:green_cactus_extra"
+    },
+    {
+      "item": "domum_ornamentum:green_cactus_extra"
+    },
+    {
+      "item": "minecraft:white_bed"
+    },
+    {
+      "item": "domum_ornamentum:green_cactus_extra"
+    },
+    {
+      "item": "domum_ornamentum:green_cactus_extra"
+    }
+  ],
+  "result": {
+    "item": "pfm:cactus_domum_ornamentum_white_classic_bed"
+  }
+}

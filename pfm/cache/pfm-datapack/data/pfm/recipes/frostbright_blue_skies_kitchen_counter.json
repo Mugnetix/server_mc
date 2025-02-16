@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "blue_skies:frostbright_planks"
+    },
+    {
+      "item": "blue_skies:frostbright_planks"
+    },
+    {
+      "item": "blue_skies:frostbright_planks"
+    },
+    {
+      "item": "blue_skies:frostbright_planks"
+    },
+    {
+      "item": "blue_skies:frostbright_planks"
+    },
+    {
+      "item": "blue_skies:frostbright_planks"
+    },
+    {
+      "item": "blue_skies:frostbright_log"
+    },
+    {
+      "item": "blue_skies:frostbright_log"
+    },
+    {
+      "item": "blue_skies:frostbright_log"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:frostbright_blue_skies_kitchen_counter"
+  }
+}

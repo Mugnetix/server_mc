@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "quark:polished_tuff"
+    },
+    {
+      "item": "quark:polished_tuff"
+    },
+    {
+      "item": "quark:polished_tuff"
+    },
+    {
+      "item": "quark:polished_tuff"
+    },
+    {
+      "item": "quark:polished_tuff"
+    },
+    {
+      "item": "minecraft:tuff"
+    },
+    {
+      "item": "minecraft:tuff"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:tuff_quark_kitchen_sink"
+  }
+}

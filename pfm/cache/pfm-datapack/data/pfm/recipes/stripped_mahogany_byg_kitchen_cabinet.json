@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:stripped_mahogany_log"
+    },
+    {
+      "item": "byg:stripped_mahogany_log"
+    },
+    {
+      "item": "byg:stripped_mahogany_log"
+    },
+    {
+      "item": "byg:stripped_mahogany_log"
+    },
+    {
+      "item": "byg:stripped_mahogany_log"
+    },
+    {
+      "item": "byg:stripped_mahogany_log"
+    },
+    {
+      "item": "byg:mahogany_planks"
+    },
+    {
+      "item": "byg:mahogany_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_mahogany_byg_kitchen_cabinet"
+  }
+}

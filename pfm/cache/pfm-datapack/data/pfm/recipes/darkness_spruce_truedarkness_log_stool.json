@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "truedarkness:darkness_spruce_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:darkness_spruce_truedarkness_log_stool"
+  }
+}

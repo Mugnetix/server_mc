@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "theabyss:jungle_planks"
+    },
+    {
+      "item": "theabyss:jungle_planks"
+    },
+    {
+      "item": "theabyss:jungle_planks"
+    },
+    {
+      "item": "theabyss:jungle_planks"
+    },
+    {
+      "item": "theabyss:jungle_planks"
+    },
+    {
+      "item": "theabyss:stripped_jungle_log"
+    },
+    {
+      "item": "theabyss:stripped_jungle_log"
+    },
+    {
+      "item": "theabyss:stripped_jungle_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_jungle_theabyss_table_basic"
+  }
+}

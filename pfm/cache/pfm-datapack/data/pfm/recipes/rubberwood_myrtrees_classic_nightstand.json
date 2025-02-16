@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "myrtrees:rubberwood_log"
+    },
+    {
+      "item": "myrtrees:rubberwood_log"
+    },
+    {
+      "item": "myrtrees:rubberwood_log"
+    },
+    {
+      "item": "myrtrees:rubberwood_log"
+    },
+    {
+      "item": "myrtrees:rubberwood_log"
+    },
+    {
+      "item": "myrtrees:rubberwood_log"
+    },
+    {
+      "item": "myrtrees:rubberwood_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:rubberwood_myrtrees_classic_nightstand"
+  }
+}

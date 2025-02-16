@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "allthemodium:soul_planks"
+    },
+    {
+      "item": "allthemodium:soul_planks"
+    },
+    {
+      "item": "allthemodium:soul_planks"
+    },
+    {
+      "item": "allthemodium:soul_log"
+    },
+    {
+      "item": "allthemodium:soul_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:soul_allthemodium_kitchen_wall_small_drawer"
+  }
+}

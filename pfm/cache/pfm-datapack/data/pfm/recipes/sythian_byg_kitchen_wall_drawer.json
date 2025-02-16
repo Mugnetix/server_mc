@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:sythian_planks"
+    },
+    {
+      "item": "byg:sythian_planks"
+    },
+    {
+      "item": "byg:sythian_planks"
+    },
+    {
+      "item": "byg:sythian_planks"
+    },
+    {
+      "item": "byg:sythian_planks"
+    },
+    {
+      "item": "byg:sythian_planks"
+    },
+    {
+      "item": "byg:sythian_stem"
+    },
+    {
+      "item": "byg:sythian_stem"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:sythian_byg_kitchen_wall_drawer"
+  }
+}

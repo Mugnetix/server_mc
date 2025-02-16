@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:polished_travertine"
+    },
+    {
+      "item": "byg:polished_travertine"
+    },
+    {
+      "item": "byg:polished_travertine"
+    },
+    {
+      "item": "byg:polished_travertine"
+    },
+    {
+      "item": "byg:polished_travertine"
+    },
+    {
+      "item": "byg:polished_travertine"
+    },
+    {
+      "item": "byg:travertine"
+    },
+    {
+      "item": "byg:travertine"
+    },
+    {
+      "item": "byg:travertine"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:travertine_byg_kitchen_counter"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "byg:ebony_planks"
+    },
+    {
+      "item": "byg:ebony_planks"
+    },
+    {
+      "item": "byg:ebony_planks"
+    },
+    {
+      "item": "minecraft:brown_bed"
+    },
+    {
+      "item": "byg:ebony_fence"
+    },
+    {
+      "item": "byg:ebony_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:ebony_byg_brown_classic_bed"
+  }
+}

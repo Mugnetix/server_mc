@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:stripped_blue_enchanted_log"
+    },
+    {
+      "item": "byg:stripped_blue_enchanted_log"
+    },
+    {
+      "item": "byg:stripped_blue_enchanted_log"
+    },
+    {
+      "item": "byg:stripped_blue_enchanted_log"
+    },
+    {
+      "item": "byg:stripped_blue_enchanted_log"
+    },
+    {
+      "item": "byg:blue_enchanted_planks"
+    },
+    {
+      "item": "byg:blue_enchanted_planks"
+    },
+    {
+      "item": "byg:blue_enchanted_planks"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_blue_enchanted_byg_kitchen_counter_oven"
+  }
+}

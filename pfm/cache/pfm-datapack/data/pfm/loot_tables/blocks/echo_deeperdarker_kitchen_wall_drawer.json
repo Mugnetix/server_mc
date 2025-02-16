@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:echo_deeperdarker_kitchen_wall_drawer"
+        }
+      ],
+      "name": "echo_deeperdarker_kitchen_wall_drawer",
+      "rolls": 1.0
+    }
+  ]
+}

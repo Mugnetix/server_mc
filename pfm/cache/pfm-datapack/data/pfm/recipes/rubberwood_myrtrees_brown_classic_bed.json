@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "myrtrees:rubberwood_planks"
+    },
+    {
+      "item": "myrtrees:rubberwood_planks"
+    },
+    {
+      "item": "myrtrees:rubberwood_planks"
+    },
+    {
+      "item": "minecraft:brown_bed"
+    },
+    {
+      "item": "myrtrees:rubberwood_planks"
+    },
+    {
+      "item": "myrtrees:rubberwood_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:rubberwood_myrtrees_brown_classic_bed"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pfm:travertine_byg_chair"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "travertine_byg_chair": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "byg:polished_travertine"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "travertine_byg_chair",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pfm:travertine_byg_chair"
+    ]
+  }
+}

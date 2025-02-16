@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "truedarkness:sandstone_of_missing"
+    },
+    {
+      "item": "truedarkness:sandstone_of_missing"
+    },
+    {
+      "item": "truedarkness:sandstone_of_missing"
+    },
+    {
+      "item": "truedarkness:polished_sandstone_of_missing"
+    },
+    {
+      "item": "truedarkness:polished_sandstone_of_missing"
+    },
+    {
+      "item": "truedarkness:polished_sandstone_of_missing"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:sandstone_of_missing_truedarkness_chair_dinner"
+  }
+}

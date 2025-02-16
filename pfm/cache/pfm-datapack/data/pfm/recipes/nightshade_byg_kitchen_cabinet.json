@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:nightshade_planks"
+    },
+    {
+      "item": "byg:nightshade_planks"
+    },
+    {
+      "item": "byg:nightshade_planks"
+    },
+    {
+      "item": "byg:nightshade_planks"
+    },
+    {
+      "item": "byg:nightshade_planks"
+    },
+    {
+      "item": "byg:nightshade_planks"
+    },
+    {
+      "item": "byg:nightshade_log"
+    },
+    {
+      "item": "byg:nightshade_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:nightshade_byg_kitchen_cabinet"
+  }
+}

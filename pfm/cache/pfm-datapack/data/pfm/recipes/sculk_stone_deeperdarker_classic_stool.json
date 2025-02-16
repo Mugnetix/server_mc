@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "deeperdarker:sculk_stone"
+    },
+    {
+      "item": "deeperdarker:sculk_stone"
+    },
+    {
+      "item": "deeperdarker:sculk_stone"
+    },
+    {
+      "item": "deeperdarker:polished_sculk_stone"
+    },
+    {
+      "item": "deeperdarker:polished_sculk_stone"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:sculk_stone_deeperdarker_classic_stool"
+  }
+}

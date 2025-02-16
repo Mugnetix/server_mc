@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:stripped_pine_log"
+    },
+    {
+      "item": "byg:stripped_pine_log"
+    },
+    {
+      "item": "byg:stripped_pine_log"
+    },
+    {
+      "item": "byg:pine_planks"
+    },
+    {
+      "item": "byg:pine_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:stripped_pine_byg_kitchen_wall_small_drawer"
+  }
+}

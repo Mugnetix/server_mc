@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "undergarden:grongle_planks"
+    },
+    {
+      "item": "undergarden:grongle_planks"
+    },
+    {
+      "item": "undergarden:stripped_grongle_log"
+    },
+    {
+      "item": "undergarden:stripped_grongle_log"
+    },
+    {
+      "item": "undergarden:stripped_grongle_log"
+    },
+    {
+      "item": "undergarden:stripped_grongle_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_grongle_undergarden_chair"
+  }
+}

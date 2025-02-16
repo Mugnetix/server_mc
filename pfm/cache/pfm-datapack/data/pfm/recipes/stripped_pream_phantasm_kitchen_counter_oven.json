@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "phantasm:stripped_pream_log"
+    },
+    {
+      "item": "phantasm:stripped_pream_log"
+    },
+    {
+      "item": "phantasm:stripped_pream_log"
+    },
+    {
+      "item": "phantasm:stripped_pream_log"
+    },
+    {
+      "item": "phantasm:stripped_pream_log"
+    },
+    {
+      "item": "phantasm:pream_planks"
+    },
+    {
+      "item": "phantasm:pream_planks"
+    },
+    {
+      "item": "phantasm:pream_planks"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_pream_phantasm_kitchen_counter_oven"
+  }
+}

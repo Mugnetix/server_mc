@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "blue_skies:stripped_bluebright_log"
+    },
+    {
+      "item": "blue_skies:stripped_bluebright_log"
+    },
+    {
+      "item": "blue_skies:stripped_bluebright_log"
+    },
+    {
+      "item": "blue_skies:stripped_bluebright_log"
+    },
+    {
+      "item": "blue_skies:stripped_bluebright_log"
+    },
+    {
+      "item": "blue_skies:bluebright_planks"
+    },
+    {
+      "item": "blue_skies:bluebright_planks"
+    },
+    {
+      "item": "blue_skies:bluebright_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_bluebright_blue_skies_kitchen_drawer"
+  }
+}

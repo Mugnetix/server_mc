@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "botania:stripped_dreamwood_log"
+    },
+    {
+      "item": "botania:stripped_dreamwood_log"
+    },
+    {
+      "item": "botania:stripped_dreamwood_log"
+    },
+    {
+      "item": "botania:dreamwood_planks"
+    },
+    {
+      "item": "botania:dreamwood_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:stripped_dreamwood_botania_kitchen_wall_small_drawer"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "byg:ebony_planks"
+    },
+    {
+      "item": "byg:ebony_planks"
+    },
+    {
+      "item": "byg:ebony_planks"
+    },
+    {
+      "item": "byg:ebony_planks"
+    },
+    {
+      "item": "byg:ebony_planks"
+    },
+    {
+      "item": "minecraft:black_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:ebony_byg_black_simple_bed"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "byg:lament_log"
+    },
+    {
+      "item": "byg:lament_log"
+    },
+    {
+      "item": "byg:lament_log"
+    },
+    {
+      "item": "byg:lament_planks"
+    },
+    {
+      "item": "byg:lament_planks"
+    },
+    {
+      "item": "byg:lament_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:lament_byg_chair_modern"
+  }
+}

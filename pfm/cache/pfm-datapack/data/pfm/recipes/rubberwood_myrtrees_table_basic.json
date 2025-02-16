@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "myrtrees:rubberwood_log"
+    },
+    {
+      "item": "myrtrees:rubberwood_log"
+    },
+    {
+      "item": "myrtrees:rubberwood_log"
+    },
+    {
+      "item": "myrtrees:rubberwood_log"
+    },
+    {
+      "item": "myrtrees:rubberwood_log"
+    },
+    {
+      "item": "myrtrees:rubberwood_planks"
+    },
+    {
+      "item": "myrtrees:rubberwood_planks"
+    },
+    {
+      "item": "myrtrees:rubberwood_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:rubberwood_myrtrees_table_basic"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:stripped_willow_log"
+    },
+    {
+      "item": "byg:stripped_willow_log"
+    },
+    {
+      "item": "byg:stripped_willow_log"
+    },
+    {
+      "item": "byg:willow_planks"
+    },
+    {
+      "item": "byg:willow_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:stripped_willow_byg_kitchen_wall_small_drawer"
+  }
+}

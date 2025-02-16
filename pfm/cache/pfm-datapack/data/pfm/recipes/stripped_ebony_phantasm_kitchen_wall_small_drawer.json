@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "phantasm:stripped_ebony_stem"
+    },
+    {
+      "item": "phantasm:stripped_ebony_stem"
+    },
+    {
+      "item": "phantasm:stripped_ebony_stem"
+    },
+    {
+      "item": "phantasm:ebony_planks"
+    },
+    {
+      "item": "phantasm:ebony_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:stripped_ebony_phantasm_kitchen_wall_small_drawer"
+  }
+}

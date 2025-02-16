@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "theabyss:stripped_jungle_log"
+    },
+    {
+      "item": "theabyss:stripped_jungle_log"
+    },
+    {
+      "item": "theabyss:stripped_jungle_log"
+    },
+    {
+      "item": "theabyss:stripped_jungle_log"
+    },
+    {
+      "item": "theabyss:stripped_jungle_log"
+    },
+    {
+      "item": "theabyss:jungle_planks"
+    },
+    {
+      "item": "theabyss:jungle_planks"
+    },
+    {
+      "item": "theabyss:jungle_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_jungle_theabyss_kitchen_drawer"
+  }
+}

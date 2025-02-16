@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:ether_planks"
+    },
+    {
+      "item": "byg:ether_planks"
+    },
+    {
+      "item": "byg:ether_planks"
+    },
+    {
+      "item": "byg:ether_planks"
+    },
+    {
+      "item": "byg:ether_planks"
+    },
+    {
+      "item": "byg:ether_log"
+    },
+    {
+      "item": "byg:ether_log"
+    },
+    {
+      "item": "byg:ether_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:ether_byg_kitchen_drawer"
+  }
+}

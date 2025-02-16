@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "domum_ornamentum:cactus_extra"
+    },
+    {
+      "item": "domum_ornamentum:cactus_extra"
+    },
+    {
+      "item": "domum_ornamentum:cactus_extra"
+    },
+    {
+      "item": "domum_ornamentum:cactus_extra"
+    },
+    {
+      "item": "domum_ornamentum:cactus_extra"
+    },
+    {
+      "item": "domum_ornamentum:cactus_extra"
+    },
+    {
+      "item": "minecraft:cactus"
+    },
+    {
+      "item": "minecraft:cactus"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:cactus_extra_domum_ornamentum_kitchen_cabinet"
+  }
+}

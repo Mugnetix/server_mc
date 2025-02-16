@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "byg:mahogany_log"
+    },
+    {
+      "item": "byg:mahogany_log"
+    },
+    {
+      "item": "byg:mahogany_log"
+    },
+    {
+      "item": "byg:mahogany_log"
+    },
+    {
+      "item": "byg:mahogany_log"
+    },
+    {
+      "item": "byg:mahogany_log"
+    },
+    {
+      "item": "byg:mahogany_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:mahogany_byg_classic_nightstand"
+  }
+}

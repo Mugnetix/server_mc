@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:stripped_ether_log"
+    },
+    {
+      "item": "byg:stripped_ether_log"
+    },
+    {
+      "item": "byg:stripped_ether_log"
+    },
+    {
+      "item": "byg:stripped_ether_log"
+    },
+    {
+      "item": "byg:stripped_ether_log"
+    },
+    {
+      "item": "byg:ether_planks"
+    },
+    {
+      "item": "byg:ether_planks"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_ether_byg_kitchen_sink"
+  }
+}

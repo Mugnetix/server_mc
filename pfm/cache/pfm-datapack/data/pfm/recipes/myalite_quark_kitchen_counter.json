@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "quark:polished_myalite"
+    },
+    {
+      "item": "quark:polished_myalite"
+    },
+    {
+      "item": "quark:polished_myalite"
+    },
+    {
+      "item": "quark:polished_myalite"
+    },
+    {
+      "item": "quark:polished_myalite"
+    },
+    {
+      "item": "quark:polished_myalite"
+    },
+    {
+      "item": "quark:myalite"
+    },
+    {
+      "item": "quark:myalite"
+    },
+    {
+      "item": "quark:myalite"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:myalite_quark_kitchen_counter"
+  }
+}

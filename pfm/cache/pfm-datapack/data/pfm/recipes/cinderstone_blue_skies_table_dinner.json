@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "blue_skies:cinderstone"
+    },
+    {
+      "item": "blue_skies:cinderstone"
+    },
+    {
+      "item": "blue_skies:cinderstone"
+    },
+    {
+      "item": "blue_skies:polished_cinderstone"
+    },
+    {
+      "item": "blue_skies:polished_cinderstone"
+    },
+    {
+      "item": "blue_skies:polished_cinderstone"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:cinderstone_blue_skies_table_dinner"
+  }
+}

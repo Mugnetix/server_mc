@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "byg:holly_planks"
+    },
+    {
+      "item": "byg:holly_planks"
+    },
+    {
+      "item": "byg:holly_planks"
+    },
+    {
+      "item": "minecraft:cyan_bed"
+    },
+    {
+      "item": "byg:holly_fence"
+    },
+    {
+      "item": "byg:holly_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:holly_byg_cyan_classic_bed"
+  }
+}

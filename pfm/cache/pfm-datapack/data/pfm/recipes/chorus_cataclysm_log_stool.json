@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "cataclysm:chorus_stem"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:chorus_cataclysm_log_stool"
+  }
+}

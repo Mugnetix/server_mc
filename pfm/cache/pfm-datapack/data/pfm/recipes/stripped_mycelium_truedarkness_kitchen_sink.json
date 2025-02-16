@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "truedarkness:stripped_mycelium_log"
+    },
+    {
+      "item": "truedarkness:stripped_mycelium_log"
+    },
+    {
+      "item": "truedarkness:stripped_mycelium_log"
+    },
+    {
+      "item": "truedarkness:stripped_mycelium_log"
+    },
+    {
+      "item": "truedarkness:stripped_mycelium_log"
+    },
+    {
+      "item": "truedarkness:mycelium_planks"
+    },
+    {
+      "item": "truedarkness:mycelium_planks"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_mycelium_truedarkness_kitchen_sink"
+  }
+}

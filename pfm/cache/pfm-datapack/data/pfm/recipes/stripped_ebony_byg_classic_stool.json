@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "byg:ebony_planks"
+    },
+    {
+      "item": "byg:ebony_planks"
+    },
+    {
+      "item": "byg:ebony_planks"
+    },
+    {
+      "item": "byg:stripped_ebony_log"
+    },
+    {
+      "item": "byg:stripped_ebony_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_ebony_byg_classic_stool"
+  }
+}

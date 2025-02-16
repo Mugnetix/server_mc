@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "rechiseled:cobblestone_polished"
+    },
+    {
+      "item": "rechiseled:cobblestone_polished"
+    },
+    {
+      "item": "rechiseled:cobblestone_polished"
+    },
+    {
+      "item": "rechiseled:cobblestone_polished"
+    },
+    {
+      "item": "rechiseled:cobblestone_polished"
+    },
+    {
+      "item": "rechiseled:cobblestone_polished"
+    },
+    {
+      "item": "rechiseled:cobblestone_polished"
+    },
+    {
+      "item": "rechiseled:cobblestone_polished"
+    },
+    {
+      "item": "rechiseled:cobblestone_polished"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:cobblestone_rechiseled_kitchen_wall_counter"
+  }
+}

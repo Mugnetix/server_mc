@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "blue_skies:cinderstone"
+    },
+    {
+      "item": "blue_skies:cinderstone"
+    },
+    {
+      "item": "blue_skies:cinderstone"
+    },
+    {
+      "item": "blue_skies:cinderstone"
+    },
+    {
+      "item": "blue_skies:cinderstone"
+    },
+    {
+      "item": "blue_skies:cinderstone"
+    },
+    {
+      "item": "blue_skies:polished_cinderstone"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:cinderstone_blue_skies_classic_nightstand"
+  }
+}

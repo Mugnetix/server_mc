@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pfm:taratite_blue_skies_table_dinner"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "taratite_blue_skies_table_dinner": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "blue_skies:polished_taratite"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "taratite_blue_skies_table_dinner",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pfm:taratite_blue_skies_table_dinner"
+    ]
+  }
+}

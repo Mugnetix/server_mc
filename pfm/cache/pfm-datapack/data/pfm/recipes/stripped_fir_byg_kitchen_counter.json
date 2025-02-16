@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:stripped_fir_log"
+    },
+    {
+      "item": "byg:stripped_fir_log"
+    },
+    {
+      "item": "byg:stripped_fir_log"
+    },
+    {
+      "item": "byg:stripped_fir_log"
+    },
+    {
+      "item": "byg:stripped_fir_log"
+    },
+    {
+      "item": "byg:stripped_fir_log"
+    },
+    {
+      "item": "byg:fir_planks"
+    },
+    {
+      "item": "byg:fir_planks"
+    },
+    {
+      "item": "byg:fir_planks"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:stripped_fir_byg_kitchen_counter"
+  }
+}

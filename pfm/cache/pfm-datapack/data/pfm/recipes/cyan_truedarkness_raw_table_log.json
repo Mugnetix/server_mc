@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "truedarkness:cyan_stem"
+    },
+    {
+      "item": "truedarkness:cyan_stem"
+    },
+    {
+      "item": "truedarkness:cyan_stem"
+    },
+    {
+      "item": "truedarkness:cyan_stem"
+    },
+    {
+      "item": "truedarkness:cyan_stem"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:cyan_truedarkness_raw_table_log"
+  }
+}

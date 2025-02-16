@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:pine_log"
+    },
+    {
+      "item": "byg:pine_log"
+    },
+    {
+      "item": "byg:pine_log"
+    },
+    {
+      "item": "byg:pine_log"
+    },
+    {
+      "item": "byg:pine_log"
+    },
+    {
+      "item": "byg:pine_planks"
+    },
+    {
+      "item": "byg:pine_planks"
+    },
+    {
+      "item": "byg:pine_planks"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:pine_byg_kitchen_counter_oven"
+  }
+}

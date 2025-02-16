@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "allthemodium:soul_log"
+    },
+    {
+      "item": "allthemodium:soul_log"
+    },
+    {
+      "item": "allthemodium:soul_log"
+    },
+    {
+      "item": "allthemodium:soul_log"
+    },
+    {
+      "item": "allthemodium:soul_log"
+    },
+    {
+      "item": "allthemodium:soul_planks"
+    },
+    {
+      "item": "allthemodium:soul_planks"
+    },
+    {
+      "item": "allthemodium:soul_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:soul_allthemodium_table_modern_dinner"
+  }
+}

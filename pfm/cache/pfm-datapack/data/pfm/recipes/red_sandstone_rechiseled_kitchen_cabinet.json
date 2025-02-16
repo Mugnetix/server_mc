@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "rechiseled:red_sandstone_polished"
+    },
+    {
+      "item": "rechiseled:red_sandstone_polished"
+    },
+    {
+      "item": "rechiseled:red_sandstone_polished"
+    },
+    {
+      "item": "rechiseled:red_sandstone_polished"
+    },
+    {
+      "item": "rechiseled:red_sandstone_polished"
+    },
+    {
+      "item": "rechiseled:red_sandstone_polished"
+    },
+    {
+      "item": "minecraft:red_sandstone"
+    },
+    {
+      "item": "minecraft:red_sandstone"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:red_sandstone_rechiseled_kitchen_cabinet"
+  }
+}

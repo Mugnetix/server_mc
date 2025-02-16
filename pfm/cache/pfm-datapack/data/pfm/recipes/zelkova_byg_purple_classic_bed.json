@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "byg:zelkova_planks"
+    },
+    {
+      "item": "byg:zelkova_planks"
+    },
+    {
+      "item": "byg:zelkova_planks"
+    },
+    {
+      "item": "minecraft:purple_bed"
+    },
+    {
+      "item": "byg:zelkova_fence"
+    },
+    {
+      "item": "byg:zelkova_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:zelkova_byg_purple_classic_bed"
+  }
+}

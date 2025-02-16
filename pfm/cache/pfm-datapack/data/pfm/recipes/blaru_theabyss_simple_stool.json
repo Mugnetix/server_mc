@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "theabyss:blaru_log"
+    },
+    {
+      "item": "theabyss:blaru_log"
+    },
+    {
+      "item": "theabyss:blaru_planks"
+    },
+    {
+      "item": "theabyss:blaru_planks"
+    },
+    {
+      "item": "theabyss:blaru_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:blaru_theabyss_simple_stool"
+  }
+}

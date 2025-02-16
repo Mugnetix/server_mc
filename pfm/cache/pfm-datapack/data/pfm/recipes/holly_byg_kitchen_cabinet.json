@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:holly_planks"
+    },
+    {
+      "item": "byg:holly_planks"
+    },
+    {
+      "item": "byg:holly_planks"
+    },
+    {
+      "item": "byg:holly_planks"
+    },
+    {
+      "item": "byg:holly_planks"
+    },
+    {
+      "item": "byg:holly_planks"
+    },
+    {
+      "item": "byg:holly_log"
+    },
+    {
+      "item": "byg:holly_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:holly_byg_kitchen_cabinet"
+  }
+}

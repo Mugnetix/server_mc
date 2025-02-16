@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "allthemodium:demonic_log"
+    },
+    {
+      "item": "allthemodium:demonic_log"
+    },
+    {
+      "item": "allthemodium:demonic_planks"
+    },
+    {
+      "item": "allthemodium:demonic_planks"
+    },
+    {
+      "item": "allthemodium:demonic_planks"
+    },
+    {
+      "item": "allthemodium:demonic_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:demonic_allthemodium_chair"
+  }
+}

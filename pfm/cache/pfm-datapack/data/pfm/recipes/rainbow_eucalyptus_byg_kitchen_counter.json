@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:rainbow_eucalyptus_planks"
+    },
+    {
+      "item": "byg:rainbow_eucalyptus_planks"
+    },
+    {
+      "item": "byg:rainbow_eucalyptus_planks"
+    },
+    {
+      "item": "byg:rainbow_eucalyptus_planks"
+    },
+    {
+      "item": "byg:rainbow_eucalyptus_planks"
+    },
+    {
+      "item": "byg:rainbow_eucalyptus_planks"
+    },
+    {
+      "item": "byg:rainbow_eucalyptus_log"
+    },
+    {
+      "item": "byg:rainbow_eucalyptus_log"
+    },
+    {
+      "item": "byg:rainbow_eucalyptus_log"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:rainbow_eucalyptus_byg_kitchen_counter"
+  }
+}

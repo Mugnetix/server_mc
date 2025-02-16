@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "undergarden:grongle_log"
+    },
+    {
+      "item": "undergarden:grongle_log"
+    },
+    {
+      "item": "undergarden:grongle_log"
+    },
+    {
+      "item": "undergarden:grongle_planks"
+    },
+    {
+      "item": "undergarden:grongle_planks"
+    },
+    {
+      "item": "undergarden:grongle_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:grongle_undergarden_table_dinner"
+  }
+}

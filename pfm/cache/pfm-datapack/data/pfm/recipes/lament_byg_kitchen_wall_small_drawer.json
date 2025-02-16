@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:lament_planks"
+    },
+    {
+      "item": "byg:lament_planks"
+    },
+    {
+      "item": "byg:lament_planks"
+    },
+    {
+      "item": "byg:lament_log"
+    },
+    {
+      "item": "byg:lament_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:lament_byg_kitchen_wall_small_drawer"
+  }
+}

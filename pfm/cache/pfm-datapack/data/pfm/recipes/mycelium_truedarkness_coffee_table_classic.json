@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "truedarkness:mycelium_log"
+    },
+    {
+      "item": "truedarkness:mycelium_log"
+    },
+    {
+      "item": "truedarkness:mycelium_planks"
+    },
+    {
+      "item": "truedarkness:mycelium_planks"
+    },
+    {
+      "item": "truedarkness:mycelium_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:mycelium_truedarkness_coffee_table_classic"
+  }
+}

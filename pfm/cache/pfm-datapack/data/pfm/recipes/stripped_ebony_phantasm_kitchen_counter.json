@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "phantasm:stripped_ebony_stem"
+    },
+    {
+      "item": "phantasm:stripped_ebony_stem"
+    },
+    {
+      "item": "phantasm:stripped_ebony_stem"
+    },
+    {
+      "item": "phantasm:stripped_ebony_stem"
+    },
+    {
+      "item": "phantasm:stripped_ebony_stem"
+    },
+    {
+      "item": "phantasm:stripped_ebony_stem"
+    },
+    {
+      "item": "phantasm:ebony_planks"
+    },
+    {
+      "item": "phantasm:ebony_planks"
+    },
+    {
+      "item": "phantasm:ebony_planks"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:stripped_ebony_phantasm_kitchen_counter"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "undergarden:depthrock"
+    },
+    {
+      "item": "undergarden:depthrock"
+    },
+    {
+      "item": "undergarden:depthrock"
+    },
+    {
+      "item": "undergarden:depthrock"
+    },
+    {
+      "item": "undergarden:depthrock"
+    },
+    {
+      "item": "undergarden:polished_depthrock"
+    },
+    {
+      "item": "undergarden:polished_depthrock"
+    },
+    {
+      "item": "undergarden:polished_depthrock"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:depthrock_undergarden_kitchen_counter_oven"
+  }
+}

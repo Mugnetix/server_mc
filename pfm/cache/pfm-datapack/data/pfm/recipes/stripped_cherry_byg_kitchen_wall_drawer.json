@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:stripped_cherry_log"
+    },
+    {
+      "item": "byg:stripped_cherry_log"
+    },
+    {
+      "item": "byg:stripped_cherry_log"
+    },
+    {
+      "item": "byg:stripped_cherry_log"
+    },
+    {
+      "item": "byg:stripped_cherry_log"
+    },
+    {
+      "item": "byg:stripped_cherry_log"
+    },
+    {
+      "item": "byg:cherry_planks"
+    },
+    {
+      "item": "byg:cherry_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_cherry_byg_kitchen_wall_drawer"
+  }
+}

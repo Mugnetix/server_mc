@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "deeperdarker:gloomslate"
+    },
+    {
+      "item": "deeperdarker:gloomslate"
+    },
+    {
+      "item": "deeperdarker:gloomslate"
+    },
+    {
+      "item": "deeperdarker:polished_gloomslate"
+    },
+    {
+      "item": "deeperdarker:polished_gloomslate"
+    },
+    {
+      "item": "deeperdarker:polished_gloomslate"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:gloomslate_deeperdarker_chair_modern"
+  }
+}

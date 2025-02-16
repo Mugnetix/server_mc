@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "pfm:sandstone_of_missing_truedarkness_classic_nightstand"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "sandstone_of_missing_truedarkness_classic_nightstand": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "truedarkness:polished_sandstone_of_missing"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "sandstone_of_missing_truedarkness_classic_nightstand",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "pfm:sandstone_of_missing_truedarkness_classic_nightstand"
+    ]
+  }
+}

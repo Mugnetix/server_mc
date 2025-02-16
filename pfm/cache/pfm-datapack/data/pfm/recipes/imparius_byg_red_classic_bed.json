@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "byg:imparius_planks"
+    },
+    {
+      "item": "byg:imparius_planks"
+    },
+    {
+      "item": "byg:imparius_planks"
+    },
+    {
+      "item": "minecraft:red_bed"
+    },
+    {
+      "item": "byg:imparius_fence"
+    },
+    {
+      "item": "byg:imparius_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:imparius_byg_red_classic_bed"
+  }
+}

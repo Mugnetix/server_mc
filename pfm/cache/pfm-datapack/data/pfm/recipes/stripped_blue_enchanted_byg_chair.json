@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "byg:blue_enchanted_planks"
+    },
+    {
+      "item": "byg:blue_enchanted_planks"
+    },
+    {
+      "item": "byg:stripped_blue_enchanted_log"
+    },
+    {
+      "item": "byg:stripped_blue_enchanted_log"
+    },
+    {
+      "item": "byg:stripped_blue_enchanted_log"
+    },
+    {
+      "item": "byg:stripped_blue_enchanted_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_blue_enchanted_byg_chair"
+  }
+}

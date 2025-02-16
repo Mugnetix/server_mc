@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:baobab_planks"
+    },
+    {
+      "item": "byg:baobab_planks"
+    },
+    {
+      "item": "byg:baobab_planks"
+    },
+    {
+      "item": "byg:baobab_planks"
+    },
+    {
+      "item": "byg:baobab_planks"
+    },
+    {
+      "item": "byg:baobab_planks"
+    },
+    {
+      "item": "byg:baobab_log"
+    },
+    {
+      "item": "byg:baobab_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:baobab_byg_kitchen_cabinet"
+  }
+}

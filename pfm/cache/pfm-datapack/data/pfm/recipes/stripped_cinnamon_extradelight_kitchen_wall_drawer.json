@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "extradelight:stripped_cinnamon_log"
+    },
+    {
+      "item": "extradelight:stripped_cinnamon_log"
+    },
+    {
+      "item": "extradelight:stripped_cinnamon_log"
+    },
+    {
+      "item": "extradelight:stripped_cinnamon_log"
+    },
+    {
+      "item": "extradelight:stripped_cinnamon_log"
+    },
+    {
+      "item": "extradelight:stripped_cinnamon_log"
+    },
+    {
+      "item": "extradelight:cinnamon_planks"
+    },
+    {
+      "item": "extradelight:cinnamon_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_cinnamon_extradelight_kitchen_wall_drawer"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "rechiseled:coal_block_polished"
+    },
+    {
+      "item": "rechiseled:coal_block_polished"
+    },
+    {
+      "item": "rechiseled:coal_block_polished"
+    },
+    {
+      "item": "rechiseled:coal_block_polished"
+    },
+    {
+      "item": "rechiseled:coal_block_polished"
+    },
+    {
+      "item": "minecraft:coal_block"
+    },
+    {
+      "item": "minecraft:coal_block"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:coal_block_rechiseled_kitchen_sink"
+  }
+}

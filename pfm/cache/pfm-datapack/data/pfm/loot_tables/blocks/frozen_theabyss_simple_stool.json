@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:frozen_theabyss_simple_stool"
+        }
+      ],
+      "name": "frozen_theabyss_simple_stool",
+      "rolls": 1.0
+    }
+  ]
+}

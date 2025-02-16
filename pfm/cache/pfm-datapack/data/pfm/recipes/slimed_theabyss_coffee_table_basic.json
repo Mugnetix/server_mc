@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "theabyss:slimed_log"
+    },
+    {
+      "item": "theabyss:slimed_log"
+    },
+    {
+      "item": "theabyss:slimed_log"
+    },
+    {
+      "item": "theabyss:slimed_planks"
+    },
+    {
+      "item": "theabyss:slimed_planks"
+    },
+    {
+      "item": "theabyss:slimed_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:slimed_theabyss_coffee_table_basic"
+  }
+}

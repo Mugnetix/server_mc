@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "theabyss:vigilant_planks"
+    },
+    {
+      "item": "theabyss:vigilant_planks"
+    },
+    {
+      "item": "theabyss:vigilant_planks"
+    },
+    {
+      "item": "theabyss:vigilant_log"
+    },
+    {
+      "item": "theabyss:vigilant_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:vigilant_theabyss_kitchen_wall_small_drawer"
+  }
+}

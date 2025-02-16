@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "botania:polished_livingrock"
+    },
+    {
+      "item": "botania:polished_livingrock"
+    },
+    {
+      "item": "botania:polished_livingrock"
+    },
+    {
+      "item": "botania:polished_livingrock"
+    },
+    {
+      "item": "botania:polished_livingrock"
+    },
+    {
+      "item": "botania:livingrock"
+    },
+    {
+      "item": "botania:livingrock"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:livingrock_botania_kitchen_sink"
+  }
+}

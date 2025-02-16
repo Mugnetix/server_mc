@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "byg:pine_log"
+    },
+    {
+      "item": "byg:pine_log"
+    },
+    {
+      "item": "byg:pine_log"
+    },
+    {
+      "item": "byg:pine_planks"
+    },
+    {
+      "item": "byg:pine_planks"
+    },
+    {
+      "item": "byg:pine_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:pine_byg_coffee_table_basic"
+  }
+}

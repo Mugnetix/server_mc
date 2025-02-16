@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:stripped_witch_hazel_log"
+    },
+    {
+      "item": "byg:stripped_witch_hazel_log"
+    },
+    {
+      "item": "byg:stripped_witch_hazel_log"
+    },
+    {
+      "item": "byg:stripped_witch_hazel_log"
+    },
+    {
+      "item": "byg:stripped_witch_hazel_log"
+    },
+    {
+      "item": "byg:stripped_witch_hazel_log"
+    },
+    {
+      "item": "byg:witch_hazel_planks"
+    },
+    {
+      "item": "byg:witch_hazel_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_witch_hazel_byg_kitchen_wall_drawer"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "integrateddynamics:menril_planks"
+    },
+    {
+      "item": "integrateddynamics:menril_planks"
+    },
+    {
+      "item": "integrateddynamics:menril_planks"
+    },
+    {
+      "item": "integrateddynamics:menril_planks"
+    },
+    {
+      "item": "integrateddynamics:menril_planks"
+    },
+    {
+      "item": "integrateddynamics:menril_planks"
+    },
+    {
+      "item": "integrateddynamics:menril_log"
+    },
+    {
+      "item": "integrateddynamics:menril_log"
+    },
+    {
+      "item": "integrateddynamics:menril_log"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:menril_integrateddynamics_kitchen_counter"
+  }
+}

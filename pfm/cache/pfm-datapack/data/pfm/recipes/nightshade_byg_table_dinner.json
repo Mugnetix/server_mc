@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "byg:nightshade_log"
+    },
+    {
+      "item": "byg:nightshade_log"
+    },
+    {
+      "item": "byg:nightshade_log"
+    },
+    {
+      "item": "byg:nightshade_planks"
+    },
+    {
+      "item": "byg:nightshade_planks"
+    },
+    {
+      "item": "byg:nightshade_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:nightshade_byg_table_dinner"
+  }
+}

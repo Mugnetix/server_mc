@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "botania:livingwood_log"
+    },
+    {
+      "item": "botania:livingwood_log"
+    },
+    {
+      "item": "botania:livingwood_log"
+    },
+    {
+      "item": "botania:livingwood_log"
+    },
+    {
+      "item": "botania:livingwood_log"
+    },
+    {
+      "item": "botania:livingwood_planks"
+    },
+    {
+      "item": "botania:livingwood_planks"
+    },
+    {
+      "item": "botania:livingwood_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:livingwood_botania_table_modern_dinner"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "quark:shale"
+    },
+    {
+      "item": "quark:shale"
+    },
+    {
+      "item": "quark:shale"
+    },
+    {
+      "item": "quark:shale"
+    },
+    {
+      "item": "quark:shale"
+    },
+    {
+      "item": "quark:polished_shale"
+    },
+    {
+      "item": "quark:polished_shale"
+    },
+    {
+      "item": "quark:polished_shale"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:shale_quark_kitchen_counter_oven"
+  }
+}

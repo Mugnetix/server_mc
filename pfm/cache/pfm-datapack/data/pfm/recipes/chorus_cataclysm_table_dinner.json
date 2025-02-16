@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "cataclysm:chorus_stem"
+    },
+    {
+      "item": "cataclysm:chorus_stem"
+    },
+    {
+      "item": "cataclysm:chorus_stem"
+    },
+    {
+      "item": "cataclysm:chorus_planks"
+    },
+    {
+      "item": "cataclysm:chorus_planks"
+    },
+    {
+      "item": "cataclysm:chorus_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:chorus_cataclysm_table_dinner"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "theabyss:frozen_log"
+    },
+    {
+      "item": "theabyss:frozen_log"
+    },
+    {
+      "item": "theabyss:frozen_planks"
+    },
+    {
+      "item": "theabyss:frozen_planks"
+    },
+    {
+      "item": "theabyss:frozen_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:frozen_theabyss_coffee_table_classic"
+  }
+}

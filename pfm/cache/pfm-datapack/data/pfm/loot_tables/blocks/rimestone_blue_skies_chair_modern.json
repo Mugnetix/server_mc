@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:rimestone_blue_skies_chair_modern"
+        }
+      ],
+      "name": "rimestone_blue_skies_chair_modern",
+      "rolls": 1.0
+    }
+  ]
+}

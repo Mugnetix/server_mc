@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "quark:limestone"
+    },
+    {
+      "item": "quark:limestone"
+    },
+    {
+      "item": "quark:limestone"
+    },
+    {
+      "item": "quark:polished_limestone"
+    },
+    {
+      "item": "quark:polished_limestone"
+    },
+    {
+      "item": "quark:polished_limestone"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:limestone_quark_chair_dinner"
+  }
+}

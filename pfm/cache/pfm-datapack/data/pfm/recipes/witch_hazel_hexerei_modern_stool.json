@@ -1,0 +1,22 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "hexerei:witch_hazel_log"
+    },
+    {
+      "item": "hexerei:witch_hazel_planks"
+    },
+    {
+      "item": "hexerei:witch_hazel_planks"
+    },
+    {
+      "item": "hexerei:witch_hazel_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:witch_hazel_hexerei_modern_stool"
+  }
+}

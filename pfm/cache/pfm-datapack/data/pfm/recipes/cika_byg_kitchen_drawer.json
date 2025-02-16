@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:cika_planks"
+    },
+    {
+      "item": "byg:cika_planks"
+    },
+    {
+      "item": "byg:cika_planks"
+    },
+    {
+      "item": "byg:cika_planks"
+    },
+    {
+      "item": "byg:cika_planks"
+    },
+    {
+      "item": "byg:cika_log"
+    },
+    {
+      "item": "byg:cika_log"
+    },
+    {
+      "item": "byg:cika_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:cika_byg_kitchen_drawer"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "theabyss:frozen_planks"
+    },
+    {
+      "item": "theabyss:frozen_planks"
+    },
+    {
+      "item": "theabyss:frozen_planks"
+    },
+    {
+      "item": "minecraft:orange_bed"
+    },
+    {
+      "item": "theabyss:frozen_fence"
+    },
+    {
+      "item": "theabyss:frozen_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:frozen_theabyss_orange_classic_bed"
+  }
+}

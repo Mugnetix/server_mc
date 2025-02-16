@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "blue_skies:starlit_log"
+    },
+    {
+      "item": "blue_skies:starlit_log"
+    },
+    {
+      "item": "blue_skies:starlit_planks"
+    },
+    {
+      "item": "blue_skies:starlit_planks"
+    },
+    {
+      "item": "blue_skies:starlit_planks"
+    },
+    {
+      "item": "blue_skies:starlit_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:starlit_blue_skies_chair"
+  }
+}

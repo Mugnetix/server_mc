@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "thermal:rubberwood_planks"
+    },
+    {
+      "item": "thermal:rubberwood_planks"
+    },
+    {
+      "item": "thermal:rubberwood_planks"
+    },
+    {
+      "item": "thermal:rubberwood_planks"
+    },
+    {
+      "item": "thermal:rubberwood_planks"
+    },
+    {
+      "item": "thermal:rubberwood_planks"
+    },
+    {
+      "item": "thermal:stripped_rubberwood_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_rubberwood_thermal_classic_nightstand"
+  }
+}

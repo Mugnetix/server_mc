@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:white_mangrove_planks"
+    },
+    {
+      "item": "byg:white_mangrove_planks"
+    },
+    {
+      "item": "byg:white_mangrove_planks"
+    },
+    {
+      "item": "byg:white_mangrove_planks"
+    },
+    {
+      "item": "byg:white_mangrove_planks"
+    },
+    {
+      "item": "byg:white_mangrove_planks"
+    },
+    {
+      "item": "byg:white_mangrove_log"
+    },
+    {
+      "item": "byg:white_mangrove_log"
+    },
+    {
+      "item": "byg:white_mangrove_log"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:white_mangrove_byg_kitchen_counter"
+  }
+}

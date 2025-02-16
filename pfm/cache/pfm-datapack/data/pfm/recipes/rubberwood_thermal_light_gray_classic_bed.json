@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "thermal:rubberwood_planks"
+    },
+    {
+      "item": "thermal:rubberwood_planks"
+    },
+    {
+      "item": "thermal:rubberwood_planks"
+    },
+    {
+      "item": "minecraft:light_gray_bed"
+    },
+    {
+      "item": "thermal:rubberwood_fence"
+    },
+    {
+      "item": "thermal:rubberwood_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:rubberwood_thermal_light_gray_classic_bed"
+  }
+}

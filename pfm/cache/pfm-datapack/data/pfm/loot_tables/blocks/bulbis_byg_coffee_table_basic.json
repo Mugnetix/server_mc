@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:bulbis_byg_coffee_table_basic"
+        }
+      ],
+      "name": "bulbis_byg_coffee_table_basic",
+      "rolls": 1.0
+    }
+  ]
+}

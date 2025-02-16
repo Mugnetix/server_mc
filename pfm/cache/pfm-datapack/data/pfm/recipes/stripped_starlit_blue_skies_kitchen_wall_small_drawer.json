@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "blue_skies:stripped_starlit_log"
+    },
+    {
+      "item": "blue_skies:stripped_starlit_log"
+    },
+    {
+      "item": "blue_skies:stripped_starlit_log"
+    },
+    {
+      "item": "blue_skies:starlit_planks"
+    },
+    {
+      "item": "blue_skies:starlit_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:stripped_starlit_blue_skies_kitchen_wall_small_drawer"
+  }
+}

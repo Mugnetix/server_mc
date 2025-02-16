@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "rechiseled:coal_block_polished"
+    },
+    {
+      "item": "rechiseled:coal_block_polished"
+    },
+    {
+      "item": "rechiseled:coal_block_polished"
+    },
+    {
+      "item": "rechiseled:coal_block_polished"
+    },
+    {
+      "item": "rechiseled:coal_block_polished"
+    },
+    {
+      "item": "rechiseled:coal_block_polished"
+    },
+    {
+      "item": "rechiseled:coal_block_polished"
+    },
+    {
+      "item": "rechiseled:coal_block_polished"
+    },
+    {
+      "item": "rechiseled:coal_block_polished"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:coal_block_rechiseled_kitchen_wall_counter"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "byg:holly_planks"
+    },
+    {
+      "item": "byg:holly_planks"
+    },
+    {
+      "item": "byg:holly_planks"
+    },
+    {
+      "item": "byg:holly_planks"
+    },
+    {
+      "item": "byg:holly_planks"
+    },
+    {
+      "item": "minecraft:magenta_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:holly_byg_magenta_simple_bed"
+  }
+}

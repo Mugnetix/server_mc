@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:stripped_blossom_quark_chair_classic"
+        }
+      ],
+      "name": "stripped_blossom_quark_chair_classic",
+      "rolls": 1.0
+    }
+  ]
+}

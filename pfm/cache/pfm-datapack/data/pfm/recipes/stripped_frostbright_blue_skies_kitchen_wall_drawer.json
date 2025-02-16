@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "blue_skies:stripped_frostbright_log"
+    },
+    {
+      "item": "blue_skies:stripped_frostbright_log"
+    },
+    {
+      "item": "blue_skies:stripped_frostbright_log"
+    },
+    {
+      "item": "blue_skies:stripped_frostbright_log"
+    },
+    {
+      "item": "blue_skies:stripped_frostbright_log"
+    },
+    {
+      "item": "blue_skies:stripped_frostbright_log"
+    },
+    {
+      "item": "blue_skies:frostbright_planks"
+    },
+    {
+      "item": "blue_skies:frostbright_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_frostbright_blue_skies_kitchen_wall_drawer"
+  }
+}

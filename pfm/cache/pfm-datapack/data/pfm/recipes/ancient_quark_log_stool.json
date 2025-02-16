@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "quark:ancient_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:ancient_quark_log_stool"
+  }
+}

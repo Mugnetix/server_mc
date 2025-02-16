@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "byg:bulbis_stem"
+    },
+    {
+      "item": "byg:bulbis_stem"
+    },
+    {
+      "item": "byg:bulbis_stem"
+    },
+    {
+      "item": "byg:bulbis_planks"
+    },
+    {
+      "item": "byg:bulbis_planks"
+    },
+    {
+      "item": "byg:bulbis_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:bulbis_byg_chair_dinner"
+  }
+}

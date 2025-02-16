@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "truedarkness:cyan_stem"
+    },
+    {
+      "item": "truedarkness:cyan_stem"
+    },
+    {
+      "item": "truedarkness:cyan_stem"
+    },
+    {
+      "item": "truedarkness:cyan_stem"
+    },
+    {
+      "item": "truedarkness:cyan_stem"
+    },
+    {
+      "item": "truedarkness:cyan_planks"
+    },
+    {
+      "item": "truedarkness:cyan_planks"
+    },
+    {
+      "item": "truedarkness:cyan_planks"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:cyan_truedarkness_kitchen_counter_oven"
+  }
+}

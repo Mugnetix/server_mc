@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "quark:shale"
+    },
+    {
+      "item": "quark:shale"
+    },
+    {
+      "item": "quark:shale"
+    },
+    {
+      "item": "quark:polished_shale"
+    },
+    {
+      "item": "quark:polished_shale"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:shale_quark_classic_stool"
+  }
+}

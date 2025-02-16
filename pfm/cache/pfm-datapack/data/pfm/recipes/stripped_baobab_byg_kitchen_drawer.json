@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:stripped_baobab_log"
+    },
+    {
+      "item": "byg:stripped_baobab_log"
+    },
+    {
+      "item": "byg:stripped_baobab_log"
+    },
+    {
+      "item": "byg:stripped_baobab_log"
+    },
+    {
+      "item": "byg:stripped_baobab_log"
+    },
+    {
+      "item": "byg:baobab_planks"
+    },
+    {
+      "item": "byg:baobab_planks"
+    },
+    {
+      "item": "byg:baobab_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_baobab_byg_kitchen_drawer"
+  }
+}

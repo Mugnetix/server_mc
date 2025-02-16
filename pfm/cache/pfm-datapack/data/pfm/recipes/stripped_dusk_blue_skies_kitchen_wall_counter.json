@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "blue_skies:stripped_dusk_log"
+    },
+    {
+      "item": "blue_skies:stripped_dusk_log"
+    },
+    {
+      "item": "blue_skies:stripped_dusk_log"
+    },
+    {
+      "item": "blue_skies:stripped_dusk_log"
+    },
+    {
+      "item": "blue_skies:stripped_dusk_log"
+    },
+    {
+      "item": "blue_skies:stripped_dusk_log"
+    },
+    {
+      "item": "blue_skies:stripped_dusk_log"
+    },
+    {
+      "item": "blue_skies:stripped_dusk_log"
+    },
+    {
+      "item": "blue_skies:stripped_dusk_log"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:stripped_dusk_blue_skies_kitchen_wall_counter"
+  }
+}

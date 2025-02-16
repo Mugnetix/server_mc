@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "byg:bulbis_planks"
+    },
+    {
+      "item": "byg:bulbis_planks"
+    },
+    {
+      "item": "byg:bulbis_planks"
+    },
+    {
+      "item": "byg:bulbis_planks"
+    },
+    {
+      "item": "byg:stripped_bulbis_stem"
+    },
+    {
+      "item": "byg:stripped_bulbis_stem"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_bulbis_byg_chair_classic"
+  }
+}

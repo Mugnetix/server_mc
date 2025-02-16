@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "undergarden:stripped_grongle_log"
+    },
+    {
+      "item": "undergarden:stripped_grongle_log"
+    },
+    {
+      "item": "undergarden:stripped_grongle_log"
+    },
+    {
+      "item": "undergarden:grongle_planks"
+    },
+    {
+      "item": "undergarden:grongle_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:stripped_grongle_undergarden_kitchen_wall_small_drawer"
+  }
+}

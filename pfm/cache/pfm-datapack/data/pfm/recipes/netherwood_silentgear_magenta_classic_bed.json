@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "silentgear:netherwood_planks"
+    },
+    {
+      "item": "silentgear:netherwood_planks"
+    },
+    {
+      "item": "silentgear:netherwood_planks"
+    },
+    {
+      "item": "minecraft:magenta_bed"
+    },
+    {
+      "item": "silentgear:netherwood_fence"
+    },
+    {
+      "item": "silentgear:netherwood_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:netherwood_silentgear_magenta_classic_bed"
+  }
+}

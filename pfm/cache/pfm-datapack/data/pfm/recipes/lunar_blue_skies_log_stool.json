@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "blue_skies:lunar_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:lunar_blue_skies_log_stool"
+  }
+}

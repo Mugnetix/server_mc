@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "byg:mahogany_planks"
+    },
+    {
+      "item": "byg:mahogany_planks"
+    },
+    {
+      "item": "byg:mahogany_planks"
+    },
+    {
+      "item": "byg:mahogany_planks"
+    },
+    {
+      "item": "byg:mahogany_planks"
+    },
+    {
+      "item": "minecraft:magenta_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:mahogany_byg_magenta_simple_bed"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:darkness_spruce_truedarkness_chair_dinner"
+        }
+      ],
+      "name": "darkness_spruce_truedarkness_chair_dinner",
+      "rolls": 1.0
+    }
+  ]
+}

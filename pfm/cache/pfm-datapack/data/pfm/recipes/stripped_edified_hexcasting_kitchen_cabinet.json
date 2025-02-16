@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "hexcasting:stripped_edified_log"
+    },
+    {
+      "item": "hexcasting:stripped_edified_log"
+    },
+    {
+      "item": "hexcasting:stripped_edified_log"
+    },
+    {
+      "item": "hexcasting:stripped_edified_log"
+    },
+    {
+      "item": "hexcasting:stripped_edified_log"
+    },
+    {
+      "item": "hexcasting:stripped_edified_log"
+    },
+    {
+      "item": "hexcasting:edified_planks"
+    },
+    {
+      "item": "hexcasting:edified_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_edified_hexcasting_kitchen_cabinet"
+  }
+}

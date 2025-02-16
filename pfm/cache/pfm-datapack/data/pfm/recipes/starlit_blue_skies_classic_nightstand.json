@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "blue_skies:starlit_log"
+    },
+    {
+      "item": "blue_skies:starlit_log"
+    },
+    {
+      "item": "blue_skies:starlit_log"
+    },
+    {
+      "item": "blue_skies:starlit_log"
+    },
+    {
+      "item": "blue_skies:starlit_log"
+    },
+    {
+      "item": "blue_skies:starlit_log"
+    },
+    {
+      "item": "blue_skies:starlit_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:starlit_blue_skies_classic_nightstand"
+  }
+}

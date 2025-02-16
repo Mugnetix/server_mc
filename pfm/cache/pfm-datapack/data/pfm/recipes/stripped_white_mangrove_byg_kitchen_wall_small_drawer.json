@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "byg:stripped_white_mangrove_log"
+    },
+    {
+      "item": "byg:stripped_white_mangrove_log"
+    },
+    {
+      "item": "byg:stripped_white_mangrove_log"
+    },
+    {
+      "item": "byg:white_mangrove_planks"
+    },
+    {
+      "item": "byg:white_mangrove_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:stripped_white_mangrove_byg_kitchen_wall_small_drawer"
+  }
+}

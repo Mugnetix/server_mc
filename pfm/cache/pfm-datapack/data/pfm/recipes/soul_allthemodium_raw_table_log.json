@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "allthemodium:soul_log"
+    },
+    {
+      "item": "allthemodium:soul_log"
+    },
+    {
+      "item": "allthemodium:soul_log"
+    },
+    {
+      "item": "allthemodium:soul_log"
+    },
+    {
+      "item": "allthemodium:soul_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:soul_allthemodium_raw_table_log"
+  }
+}

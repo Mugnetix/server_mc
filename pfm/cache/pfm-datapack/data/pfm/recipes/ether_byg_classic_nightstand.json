@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "byg:ether_log"
+    },
+    {
+      "item": "byg:ether_log"
+    },
+    {
+      "item": "byg:ether_log"
+    },
+    {
+      "item": "byg:ether_log"
+    },
+    {
+      "item": "byg:ether_log"
+    },
+    {
+      "item": "byg:ether_log"
+    },
+    {
+      "item": "byg:ether_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:ether_byg_classic_nightstand"
+  }
+}

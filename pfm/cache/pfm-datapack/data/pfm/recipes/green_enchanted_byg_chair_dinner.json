@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "byg:green_enchanted_log"
+    },
+    {
+      "item": "byg:green_enchanted_log"
+    },
+    {
+      "item": "byg:green_enchanted_log"
+    },
+    {
+      "item": "byg:green_enchanted_planks"
+    },
+    {
+      "item": "byg:green_enchanted_planks"
+    },
+    {
+      "item": "byg:green_enchanted_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:green_enchanted_byg_chair_dinner"
+  }
+}

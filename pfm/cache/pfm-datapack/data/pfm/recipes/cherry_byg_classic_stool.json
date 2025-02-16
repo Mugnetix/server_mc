@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "byg:cherry_log"
+    },
+    {
+      "item": "byg:cherry_log"
+    },
+    {
+      "item": "byg:cherry_log"
+    },
+    {
+      "item": "byg:cherry_planks"
+    },
+    {
+      "item": "byg:cherry_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:cherry_byg_classic_stool"
+  }
+}

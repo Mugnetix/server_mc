@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "byg:ebony_log"
+    },
+    {
+      "item": "byg:ebony_log"
+    },
+    {
+      "item": "byg:ebony_log"
+    },
+    {
+      "item": "byg:ebony_planks"
+    },
+    {
+      "item": "byg:ebony_planks"
+    },
+    {
+      "item": "byg:ebony_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:ebony_byg_table_dinner"
+  }
+}

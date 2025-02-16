@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "truedarkness:cyan_planks"
+    },
+    {
+      "item": "truedarkness:cyan_planks"
+    },
+    {
+      "item": "truedarkness:cyan_planks"
+    },
+    {
+      "item": "truedarkness:cyan_stem"
+    },
+    {
+      "item": "truedarkness:cyan_stem"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:cyan_truedarkness_kitchen_wall_small_drawer"
+  }
+}

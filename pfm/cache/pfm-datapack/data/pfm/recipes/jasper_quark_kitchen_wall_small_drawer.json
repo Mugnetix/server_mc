@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "quark:polished_jasper"
+    },
+    {
+      "item": "quark:polished_jasper"
+    },
+    {
+      "item": "quark:polished_jasper"
+    },
+    {
+      "item": "quark:jasper"
+    },
+    {
+      "item": "quark:jasper"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:jasper_quark_kitchen_wall_small_drawer"
+  }
+}
