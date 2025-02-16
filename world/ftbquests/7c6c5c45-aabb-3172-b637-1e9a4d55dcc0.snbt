@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "7c6c5c45aabb3172b6371e9a4d55dcc0"
+	name: "Mugnetix"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

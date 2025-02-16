@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "d8dc175c799333109f537a225bf8b4e0"
+	name: "KimSooDuh"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

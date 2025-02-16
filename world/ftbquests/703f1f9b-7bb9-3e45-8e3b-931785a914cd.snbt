@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "703f1f9b7bb93e458e3b931785a914cd"
+	name: "Didakiss"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

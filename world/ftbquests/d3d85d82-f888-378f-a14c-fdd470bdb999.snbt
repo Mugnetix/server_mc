@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "d3d85d82f888378fa14cfdd470bdb999"
+	name: "Blyamk"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "4a850506eca035a38cd46abd3362925e"
+	name: "selen"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

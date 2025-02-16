@@ -1,0 +1,28 @@
+{
+	id: "4a850506-eca0-35a3-8cd4-6abd3362925e"
+	type: "player"
+	player_name: "selen"
+	ranks: {
+		4a850506-eca0-35a3-8cd4-6abd3362925e: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "selen"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59AFFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [ ]
+	extra: { }
+}
