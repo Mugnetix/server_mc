@@ -48,7 +48,7 @@
 	minthleveltoteleport = 3
 	#Suggest build tool usage when trying to place a building without the build tool. [Default: true]
 	suggestbuildtoolplacement = true
-	#Food consumption modifier. [Default: 1,000000, min: 0,100000, max: 100,000000]
+	#Food consumption modifier. [Default: 1.000000, min: 0.100000, max: 100.000000]
 	#Range: 0.1 ~ 100.0
 	foodmodifier = 1.0
 	#How common diseases are. 1 = Very common, 100 = extremely rare. [Default: 5, min: 1, max: 100]
@@ -150,13 +150,13 @@
 	shouldraiderbreakdoors = true
 	#Should citizens call Guards for help when attacked? [Default: true]
 	citizencallforhelp = true
-	#Attack damage multiplier for Archer Guards. [Default: 1,000000, min: 0,100000, max: 5,000000]
+	#Attack damage multiplier for Archer Guards. [Default: 1.000000, min: 0.100000, max: 5.000000]
 	#Range: 0.1 ~ 5.0
 	rangerdamagemult = 1.0
-	#Attack damage multiplier for Knight Guards. [Default: 1,000000, min: 0,100000, max: 5,000000]
+	#Attack damage multiplier for Knight Guards. [Default: 1.000000, min: 0.100000, max: 5.000000]
 	#Range: 0.1 ~ 5.0
 	knightdamagemult = 1.0
-	#Health multiplier for all Guards. [Default: 1,000000, min: 0,100000, max: 5,000000]
+	#Health multiplier for all Guards. [Default: 1.000000, min: 0.100000, max: 5.000000]
 	#Range: 0.1 ~ 5.0
 	guardhealthmult = 1.0
 	#Turn on MineColonies PVP mode (colonies can be destroyed and griefed under certain conditions). [Default: false]
