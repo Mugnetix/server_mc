@@ -915,6 +915,12 @@
     },
     "done": true
   },
+  "truedarkness:antienite_adv": {
+    "criteria": {
+      "antienite_adv": "2025-02-20 01:18:57 +0100"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_orange_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-26 14:35:59 +0100"
@@ -1617,6 +1623,12 @@
   "vinery:cherry_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2025-01-26 14:35:59 +0100"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/mud_bricks": {
+    "criteria": {
+      "has_planks": "2025-02-20 01:18:35 +0100"
     },
     "done": true
   },
