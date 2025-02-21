@@ -1,10 +1,4 @@
 {
-  "elementalcraft:pickup/air_shard": {
-    "criteria": {
-      "has_air_shard": "2025-01-29 02:06:57 +0100"
-    },
-    "done": true
-  },
   "tetra:spelunking/find_scroll": {
     "criteria": {
       "find": "2025-01-31 15:37:12 +0100"
@@ -295,12 +289,6 @@
     },
     "done": false
   },
-  "elementalcraft:pickup/swift_alloy_nugget": {
-    "criteria": {
-      "has_swift_alloy_nugget": "2025-01-31 15:24:57 +0100"
-    },
-    "done": true
-  },
   "deeperdarker:main/root": {
     "criteria": {
       "deep_dark": "2025-01-31 15:57:22 +0100"
@@ -316,12 +304,6 @@
   "vinery:cherry_slab": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:52 +0100"
-    },
-    "done": true
-  },
-  "elementalcraft:pickup/water_shard": {
-    "criteria": {
-      "has_water_shard": "2025-01-29 02:13:59 +0100"
     },
     "done": true
   },
@@ -487,12 +469,6 @@
     },
     "done": true
   },
-  "botania:challenge/root": {
-    "criteria": {
-      "flower": "2025-01-26 15:54:59 +0100"
-    },
-    "done": true
-  },
   "exoticbirds:default/root": {
     "criteria": {
       "launch_mod": "2025-01-18 23:38:53 +0100"
@@ -578,12 +554,6 @@
     },
     "done": true
   },
-  "elementalcraft:pickup/scroll_paper": {
-    "criteria": {
-      "has_scroll_paper": "2025-02-12 01:36:39 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/oak/barrel_from_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-07 11:18:16 +0100"
@@ -639,12 +609,6 @@
   "minecraft:recipes/woodcutting/oak/chest_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-26 23:44:01 +0100"
-    },
-    "done": true
-  },
-  "elementalcraft:pickup/fire_shard": {
-    "criteria": {
-      "has_fire_shard": "2025-02-01 00:48:54 +0100"
     },
     "done": true
   },
@@ -745,12 +709,6 @@
     },
     "done": true
   },
-  "mekanism:root": {
-    "criteria": {
-      "automatic": "2025-01-18 23:38:53 +0100"
-    },
-    "done": true
-  },
   "tetra:spelunking/find_scroll_howling": {
     "criteria": {
       "find": "2025-02-01 00:30:07 +0100"
@@ -772,12 +730,6 @@
   "tetra:spelunking/find_scroll_throwing": {
     "criteria": {
       "find": "2025-02-01 00:19:22 +0100"
-    },
-    "done": true
-  },
-  "mekanism:fluid_tank": {
-    "criteria": {
-      "basic_fluid_tank": "2025-02-01 13:35:57 +0100"
     },
     "done": true
   },
@@ -804,12 +756,6 @@
       "CARROT_JAM": "2025-01-30 04:20:59 +0100"
     },
     "done": false
-  },
-  "mekanism:materials": {
-    "criteria": {
-      "material": "2025-01-28 01:11:46 +0100"
-    },
-    "done": true
   },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_from_dark_oak_planks_woodcutting": {
     "criteria": {
@@ -1190,12 +1136,6 @@
   "nethervinery:reinforced_crimson_planks": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:53 +0100"
-    },
-    "done": true
-  },
-  "botania:main/root": {
-    "criteria": {
-      "flower": "2025-01-26 15:54:59 +0100"
     },
     "done": true
   },
@@ -1654,12 +1594,6 @@
     },
     "done": true
   },
-  "elementalcraft:pickup/powerful_fire_shard": {
-    "criteria": {
-      "has_powerful_fire_shard": "2025-02-02 18:26:35 +0100"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:53 +0100"
@@ -1712,12 +1646,6 @@
   "comforts:sleeping_bag_yellow_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:53 +0100"
-    },
-    "done": true
-  },
-  "elementalcraft:pickup/powerful_earth_shard": {
-    "criteria": {
-      "has_powerful_earth_shard": "2025-01-27 01:31:09 +0100"
     },
     "done": true
   },
@@ -1830,12 +1758,6 @@
     },
     "done": false
   },
-  "elementalcraft:pickup/earth_shard": {
-    "criteria": {
-      "has_earth_shard": "2025-01-29 01:43:54 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/spruce/spruce_pressure_plate_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-07 17:09:15 +0100"
@@ -1937,18 +1859,6 @@
     },
     "done": true
   },
-  "elementalcraft:pickup/earthcrystal": {
-    "criteria": {
-      "has_earthcrystal": "2025-01-31 15:08:07 +0100"
-    },
-    "done": true
-  },
-  "elementalcraft:pickup/drenched_iron_ingot": {
-    "criteria": {
-      "has_drenched_iron_ingot": "2025-01-31 15:24:51 +0100"
-    },
-    "done": true
-  },
   "vinery:cherry_fence_gate": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:53 +0100"
@@ -2024,12 +1934,6 @@
   "minecraft:recipes/woodcutting/jungle/jungle_trapdoor_from_jungle_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-30 04:34:08 +0100"
-    },
-    "done": true
-  },
-  "elementalcraft:pickup/inert_crystal": {
-    "criteria": {
-      "has_inert_crystal": "2025-01-28 01:28:44 +0100"
     },
     "done": true
   },
@@ -2326,12 +2230,6 @@
     },
     "done": true
   },
-  "mekanismtools:alternate_tools": {
-    "criteria": {
-      "tools": "2025-02-03 19:21:55 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_slab_from_dark_oak_stairs_woodcutting_combine": {
     "criteria": {
       "give_recipe": "2025-02-08 02:42:47 +0100",
@@ -2393,12 +2291,6 @@
     },
     "done": true
   },
-  "botania:main/flower_pickup_lexicon": {
-    "criteria": {
-      "flower": "2025-01-26 15:54:59 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/jungle/jungle_pressure_plate_from_jungle_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-02 18:39:37 +0100"
@@ -2456,12 +2348,6 @@
   "corail_woodcutter:recipes/from_byg_pine_planks": {
     "criteria": {
       "has_ingredient": "2025-01-18 23:38:52 +0100"
-    },
-    "done": true
-  },
-  "elementalcraft:pickup/powerful_air_shard": {
-    "criteria": {
-      "has_powerful_air_shard": "2025-02-07 00:27:48 +0100"
     },
     "done": true
   },
@@ -2741,12 +2627,6 @@
     },
     "done": true
   },
-  "mekanismtools:alternate_armor": {
-    "criteria": {
-      "armor": "2025-02-01 00:07:00 +0100"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/rocky_roller": {
     "criteria": {
       "killed_by": "2025-01-31 16:16:36 +0100"
@@ -3017,12 +2897,6 @@
     },
     "done": true
   },
-  "elementalcraft:pickup/powerful_water_shard": {
-    "criteria": {
-      "has_powerful_water_shard": "2025-02-09 16:03:35 +0100"
-    },
-    "done": true
-  },
   "beautify:progression/hanging_pot": {
     "criteria": {
       "obtain": "2025-02-08 02:07:28 +0100"
@@ -3050,12 +2924,6 @@
   "undergarden:undergarden/root": {
     "criteria": {
       "tick": "2025-01-18 23:38:53 +0100"
-    },
-    "done": true
-  },
-  "botania:main/flower_pickup": {
-    "criteria": {
-      "flower": "2025-01-26 15:54:59 +0100"
     },
     "done": true
   },
@@ -3362,12 +3230,6 @@
   "comforts:sleeping_bag_red_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:52 +0100"
-    },
-    "done": true
-  },
-  "botania:main/lexicon_use": {
-    "criteria": {
-      "use_lexicon": "2025-02-01 01:52:44 +0100"
     },
     "done": true
   },
@@ -3781,12 +3643,6 @@
   "create:brass_casing": {
     "criteria": {
       "0": "2025-02-09 21:08:37 +0100"
-    },
-    "done": true
-  },
-  "elementalcraft:pickup/firecrystal": {
-    "criteria": {
-      "has_firecrystal": "2025-02-12 01:36:16 +0100"
     },
     "done": true
   },
