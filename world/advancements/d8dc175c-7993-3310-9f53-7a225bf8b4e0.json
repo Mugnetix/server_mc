@@ -1,10 +1,4 @@
 {
-  "elementalcraft:pickup/air_shard": {
-    "criteria": {
-      "has_air_shard": "2025-01-31 14:21:38 +0100"
-    },
-    "done": true
-  },
   "tetra:spelunking/find_scroll": {
     "criteria": {
       "find": "2025-01-31 23:34:02 +0100"
@@ -199,6 +193,12 @@
     },
     "done": false
   },
+  "mcwroofs:recipes/dark_oak": {
+    "criteria": {
+      "has_planks": "2025-02-22 22:36:42 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_chest_boat_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-28 01:16:21 +0100"
@@ -373,12 +373,6 @@
     },
     "done": true
   },
-  "botania:challenge/root": {
-    "criteria": {
-      "flower": "2025-01-26 15:53:35 +0100"
-    },
-    "done": true
-  },
   "exoticbirds:default/root": {
     "criteria": {
       "launch_mod": "2025-01-26 14:35:59 +0100"
@@ -482,6 +476,12 @@
     },
     "done": true
   },
+  "croptopia:gather_food": {
+    "criteria": {
+      "calamari": "2025-02-23 00:21:18 +0100"
+    },
+    "done": false
+  },
   "mcwfences:recipes/bamboo": {
     "criteria": {
       "has_bamboo": "2025-01-26 14:35:58 +0100"
@@ -497,12 +497,6 @@
   "minecraft:recipes/woodcutting/oak/chest_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-26 23:44:29 +0100"
-    },
-    "done": true
-  },
-  "elementalcraft:pickup/fire_shard": {
-    "criteria": {
-      "has_fire_shard": "2025-02-07 13:56:18 +0100"
     },
     "done": true
   },
@@ -584,12 +578,6 @@
     },
     "done": true
   },
-  "mekanism:root": {
-    "criteria": {
-      "automatic": "2025-01-26 14:35:59 +0100"
-    },
-    "done": true
-  },
   "tetra:spelunking/find_scroll_howling": {
     "criteria": {
       "find": "2025-01-31 23:34:02 +0100"
@@ -611,12 +599,6 @@
   "minecraft:recipes/woodcutting/oak/barrel_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-26 23:44:29 +0100"
-    },
-    "done": true
-  },
-  "mekanism:materials": {
-    "criteria": {
-      "material": "2025-01-30 23:51:24 +0100"
     },
     "done": true
   },
@@ -707,6 +689,12 @@
   "mcwroofs:recipes/sandstone": {
     "criteria": {
       "has_planks": "2025-01-31 23:53:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-02-23 00:12:44 +0100"
     },
     "done": true
   },
@@ -897,12 +885,6 @@
     },
     "done": true
   },
-  "botania:main/root": {
-    "criteria": {
-      "flower": "2025-01-26 15:53:34 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/spruce/barrel_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-28 01:16:21 +0100"
@@ -920,6 +902,12 @@
       "antienite_adv": "2025-02-20 01:18:57 +0100"
     },
     "done": true
+  },
+  "silentgear:nether_plants": {
+    "criteria": {
+      "banana": "2025-02-22 23:34:15 +0100"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_orange_from_white": {
     "criteria": {
@@ -1038,6 +1026,12 @@
   "minecraft:recipes/woodcutting/oak/oak_fence_from_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-06 10:54:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_stripped_dark_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-22 22:38:26 +0100"
     },
     "done": true
   },
@@ -1177,6 +1171,12 @@
   "dungeons_arise:find_wishing_well": {
     "criteria": {
       "location0": "2025-02-05 22:33:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_dark_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-22 22:36:42 +0100"
     },
     "done": true
   },
@@ -1324,12 +1324,6 @@
     },
     "done": true
   },
-  "elementalcraft:pickup/powerful_earth_shard": {
-    "criteria": {
-      "has_powerful_earth_shard": "2025-02-07 13:44:08 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/oak/oak_fence_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-26 23:44:29 +0100"
@@ -1417,12 +1411,6 @@
   "comforts:hammock_pink": {
     "criteria": {
       "has_the_recipe": "2025-01-26 14:35:59 +0100"
-    },
-    "done": true
-  },
-  "elementalcraft:pickup/earth_shard": {
-    "criteria": {
-      "has_earth_shard": "2025-01-31 12:48:43 +0100"
     },
     "done": true
   },
@@ -1963,12 +1951,6 @@
     },
     "done": true
   },
-  "botania:main/flower_pickup_lexicon": {
-    "criteria": {
-      "flower": "2025-01-26 15:53:35 +0100"
-    },
-    "done": true
-  },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
       "phantom": "2025-02-09 15:10:22 +0100"
@@ -2489,12 +2471,6 @@
     },
     "done": true
   },
-  "botania:main/flower_pickup": {
-    "criteria": {
-      "flower": "2025-01-26 15:53:35 +0100"
-    },
-    "done": true
-  },
   "nethervinery:warped_apple_press": {
     "criteria": {
       "has_the_recipe": "2025-01-26 14:35:59 +0100"
@@ -2756,12 +2732,6 @@
     },
     "done": true
   },
-  "botania:main/lexicon_use": {
-    "criteria": {
-      "use_lexicon": "2025-02-09 17:34:48 +0100"
-    },
-    "done": true
-  },
   "corail_woodcutter:recipes/from_byg_holly_planks": {
     "criteria": {
       "has_ingredient": "2025-01-26 14:35:58 +0100"
@@ -2800,6 +2770,7 @@
       "byg:amaranth_fields": "2025-01-31 14:22:09 +0100",
       "byg:ebony_woods": "2025-01-31 14:38:50 +0100",
       "byg:basalt_barrera": "2025-02-01 00:23:55 +0100",
+      "byg:temperate_rainforest": "2025-02-23 00:11:15 +0100",
       "byg:maple_taiga": "2025-01-28 00:32:45 +0100",
       "byg:mojave_desert": "2025-01-31 23:47:12 +0100",
       "byg:frosted_coniferous_forest": "2025-01-27 00:01:07 +0100",
@@ -2998,6 +2969,12 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_chest_boat_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-01 00:17:50 +0100"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/bricks": {
+    "criteria": {
+      "has_planks": "2025-02-23 01:12:51 +0100"
     },
     "done": true
   },
