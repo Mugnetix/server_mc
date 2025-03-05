@@ -102,6 +102,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-03-05 22:15:00 +0100"
+    },
+    "done": true
+  },
   "vinery:loam": {
     "criteria": {
       "has_the_recipe": "2025-01-26 14:35:59 +0100"
@@ -162,6 +168,12 @@
     },
     "done": true
   },
+  "croptopia:gather_savanna": {
+    "criteria": {
+      "rutabaga_seed": "2025-03-05 18:26:52 +0100"
+    },
+    "done": false
+  },
   "comforts:hammock_red_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-26 14:35:59 +0100"
@@ -188,8 +200,15 @@
   },
   "croptopia:gather_all": {
     "criteria": {
+      "cantaloupe_seed": "2025-03-05 18:14:45 +0100",
+      "soybean_seed": "2025-03-05 18:32:17 +0100",
+      "rutabaga_seed": "2025-03-05 18:26:52 +0100",
+      "strawberry_seed": "2025-03-05 18:27:15 +0100",
       "grape_seed": "2025-01-30 23:34:41 +0100",
-      "raspberry_seed": "2025-01-31 01:45:59 +0100"
+      "celery_seed": "2025-03-05 18:26:53 +0100",
+      "barley_seed": "2025-03-05 18:26:54 +0100",
+      "raspberry_seed": "2025-01-31 01:45:59 +0100",
+      "coffee_seed": "2025-03-05 18:26:54 +0100"
     },
     "done": false
   },
@@ -478,7 +497,8 @@
   },
   "croptopia:gather_food": {
     "criteria": {
-      "calamari": "2025-02-23 00:21:18 +0100"
+      "calamari": "2025-02-23 00:21:18 +0100",
+      "strawberry_ice_cream": "2025-03-05 22:22:26 +0100"
     },
     "done": false
   },
@@ -734,6 +754,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/terracotta": {
+    "criteria": {
+      "has_planks": "2025-03-05 18:03:25 +0100"
+    },
+    "done": true
+  },
   "repurposed_structures:villages": {
     "criteria": {
       "in_village_birch": "2025-01-27 00:41:17 +0100",
@@ -843,6 +869,12 @@
     },
     "done": true
   },
+  "botanypots:husbandry/get_basic_pot": {
+    "criteria": {
+      "get_botany_pot": "2025-03-05 18:04:15 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_gate_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-01 00:17:50 +0100"
@@ -860,6 +892,13 @@
       "knife": "2025-02-09 16:54:11 +0100"
     },
     "done": true
+  },
+  "croptopia:gather_plains": {
+    "criteria": {
+      "barley_seed": "2025-03-05 18:26:54 +0100",
+      "soybean_seed": "2025-03-05 18:32:17 +0100"
+    },
+    "done": false
   },
   "minecraft:recipes/woodcutting/spruce/spruce_stairs_from_spruce_slab_woodcutting": {
     "criteria": {
@@ -1032,6 +1071,12 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_stripped_dark_oak_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-22 22:38:26 +0100"
+    },
+    "done": true
+  },
+  "create:track_0": {
+    "criteria": {
+      "0": "2025-03-05 21:15:40 +0100"
     },
     "done": true
   },
@@ -1312,6 +1357,13 @@
     },
     "done": true
   },
+  "croptopia:gather_jungle": {
+    "criteria": {
+      "coffee_seed": "2025-03-05 18:26:54 +0100",
+      "rice_seed": "2025-03-05 18:13:29 +0100"
+    },
+    "done": false
+  },
   "extradelight:cactus_juice": {
     "criteria": {
       "cactus_juice": "2025-01-31 14:28:59 +0100"
@@ -1488,8 +1540,11 @@
   },
   "croptopia:gather_forest": {
     "criteria": {
+      "cantaloupe_seed": "2025-03-05 18:14:45 +0100",
+      "strawberry_seed": "2025-03-05 18:27:15 +0100",
       "grape_seed": "2025-01-30 23:34:41 +0100",
-      "raspberry_seed": "2025-01-31 01:45:59 +0100"
+      "raspberry_seed": "2025-01-31 01:45:59 +0100",
+      "celery_seed": "2025-03-05 18:26:53 +0100"
     },
     "done": false
   },
@@ -1677,6 +1732,12 @@
   "comforts:hammock_yellow": {
     "criteria": {
       "has_the_recipe": "2025-01-26 14:35:59 +0100"
+    },
+    "done": true
+  },
+  "extradelight:oven": {
+    "criteria": {
+      "oven": "2025-03-05 22:29:24 +0100"
     },
     "done": true
   },
@@ -2113,6 +2174,12 @@
     },
     "done": true
   },
+  "beautify:lamp_jar": {
+    "criteria": {
+      "requirement": "2025-03-05 19:32:29 +0100"
+    },
+    "done": true
+  },
   "red_power:recipes/redstone": {
     "criteria": {
       "has_item": "2025-01-30 23:59:24 +0100"
@@ -2158,6 +2225,12 @@
   "minecraft:recipes/woodcutting/mangrove/mangrove_planks_from_mangrove_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-07 14:15:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-03-05 23:05:35 +0100"
     },
     "done": true
   },
@@ -2333,6 +2406,9 @@
     "criteria": {
       "cabbage": "2025-02-04 03:42:10 +0100",
       "onion": "2025-01-31 00:19:01 +0100",
+      "sweet_berries": "2025-03-05 22:57:42 +0100",
+      "kelp": "2025-03-05 23:21:33 +0100",
+      "sugar_cane": "2025-03-05 22:19:59 +0100",
       "potato": "2025-01-31 00:18:06 +0100",
       "wheat": "2025-01-31 00:17:53 +0100",
       "carrot": "2025-01-31 00:17:02 +0100"
@@ -2486,6 +2562,12 @@
   "beautify:candleabras": {
     "criteria": {
       "requirement": "2025-02-08 02:08:07 +0100"
+    },
+    "done": true
+  },
+  "botanypots:husbandry/get_hopper_pot": {
+    "criteria": {
+      "get_hopper_pot": "2025-03-05 18:09:08 +0100"
     },
     "done": true
   },
@@ -2996,6 +3078,12 @@
     },
     "done": true
   },
+  "croptopia:pot": {
+    "criteria": {
+      "cooking_pot": "2025-03-05 22:19:38 +0100"
+    },
+    "done": true
+  },
   "endrem:main/root": {
     "criteria": {
       "rogue_eye": "2025-01-31 14:24:53 +0100"
@@ -3017,6 +3105,7 @@
   "silentgear:overworld_plants": {
     "criteria": {
       "flax_seeds": "2025-01-27 00:18:36 +0100",
+      "fluffy_puffs": "2025-03-05 18:26:52 +0100",
       "fluffy_seeds": "2025-01-26 14:52:45 +0100"
     },
     "done": false

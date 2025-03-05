@@ -139,6 +139,12 @@
     },
     "done": true
   },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-03-05 20:00:52 +0100"
+    },
+    "done": true
+  },
   "vinery:basket": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:53 +0100"
@@ -348,6 +354,12 @@
   "create:brass": {
     "criteria": {
       "0": "2025-02-07 17:58:01 +0100"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2025-03-05 23:09:46 +0100"
     },
     "done": true
   },
@@ -591,6 +603,7 @@
     "criteria": {
       "cooked_shrimp": "2025-01-30 04:48:49 +0100",
       "calamari": "2025-01-31 00:02:06 +0100",
+      "strawberry_ice_cream": "2025-03-05 22:23:33 +0100",
       "glowing_calamari": "2025-01-29 02:13:22 +0100",
       "oyster": "2025-01-30 04:48:49 +0100"
     },
@@ -1073,6 +1086,12 @@
     },
     "done": true
   },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2025-03-05 22:25:34 +0100"
+    },
+    "done": true
+  },
   "mcwfences:recipes/warped": {
     "criteria": {
       "has_warped": "2025-01-18 23:38:52 +0100"
@@ -1134,6 +1153,12 @@
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:52 +0100"
+    },
+    "done": true
+  },
+  "create:sturdy_sheet": {
+    "criteria": {
+      "0": "2025-03-05 23:44:41 +0100"
     },
     "done": true
   },
@@ -1306,6 +1331,12 @@
     },
     "done": true
   },
+  "create:track_0": {
+    "criteria": {
+      "0": "2025-03-05 20:57:53 +0100"
+    },
+    "done": true
+  },
   "silentgear:crimson_iron": {
     "criteria": {
       "get_ore": "2025-02-02 17:52:49 +0100",
@@ -1401,6 +1432,12 @@
   "beautify:blinds": {
     "criteria": {
       "requirement": "2025-01-26 23:43:58 +0100"
+    },
+    "done": true
+  },
+  "create:spout": {
+    "criteria": {
+      "0": "2025-03-05 23:44:20 +0100"
     },
     "done": true
   },
@@ -2150,6 +2187,8 @@
       "golden_apple": "2025-02-01 00:14:03 +0100",
       "rotten_flesh": "2025-01-31 00:53:00 +0100",
       "suspicious_stew": "2025-02-02 18:15:54 +0100",
+      "cookie": "2025-03-05 19:18:18 +0100",
+      "dried_kelp": "2025-03-05 17:28:17 +0100",
       "melon_slice": "2025-01-31 17:39:27 +0100",
       "cooked_chicken": "2025-01-27 00:37:26 +0100",
       "mushroom_stew": "2025-02-03 18:07:40 +0100"
@@ -2454,6 +2493,12 @@
   "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-07 17:09:16 +0100"
+    },
+    "done": true
+  },
+  "create:train_casing_00": {
+    "criteria": {
+      "0": "2025-03-05 23:45:05 +0100"
     },
     "done": true
   },
@@ -3106,6 +3151,12 @@
     },
     "done": true
   },
+  "create:chute": {
+    "criteria": {
+      "0": "2025-03-05 20:55:18 +0100"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:52 +0100"
@@ -3624,6 +3675,12 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_trapdoor_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-04 02:47:47 +0100"
+    },
+    "done": true
+  },
+  "croptopia:eatcrafted": {
+    "criteria": {
+      "eat_crafted": "2025-03-05 18:02:27 +0100"
     },
     "done": true
   },
