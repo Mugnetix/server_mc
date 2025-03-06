@@ -201,6 +201,7 @@
   "croptopia:gather_all": {
     "criteria": {
       "cantaloupe_seed": "2025-03-05 18:14:45 +0100",
+      "tomato_seed": "2025-03-06 10:42:05 +0100",
       "soybean_seed": "2025-03-05 18:32:17 +0100",
       "rutabaga_seed": "2025-03-05 18:26:52 +0100",
       "strawberry_seed": "2025-03-05 18:27:15 +0100",
@@ -667,6 +668,12 @@
   "vinery:wine_press": {
     "criteria": {
       "has_the_recipe": "2025-01-26 14:35:59 +0100"
+    },
+    "done": true
+  },
+  "ae2:main/facade": {
+    "criteria": {
+      "facade": "2025-03-06 10:06:57 +0100"
     },
     "done": true
   },
@@ -1542,6 +1549,7 @@
     "criteria": {
       "cantaloupe_seed": "2025-03-05 18:14:45 +0100",
       "strawberry_seed": "2025-03-05 18:27:15 +0100",
+      "tomato_seed": "2025-03-06 10:42:05 +0100",
       "grape_seed": "2025-01-30 23:34:41 +0100",
       "raspberry_seed": "2025-01-31 01:45:59 +0100",
       "celery_seed": "2025-03-05 18:26:53 +0100"
