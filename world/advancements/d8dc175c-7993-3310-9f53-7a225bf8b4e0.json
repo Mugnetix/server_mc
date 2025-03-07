@@ -225,6 +225,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/mangrove/barrel_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-07 16:46:55 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_slab_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-26 23:44:29 +0100"
@@ -246,6 +252,12 @@
   "minecraft:recipes/woodcutting/spruce/spruce_fence_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-28 00:58:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_boat_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-07 16:46:55 +0100"
     },
     "done": true
   },
@@ -288,6 +300,12 @@
   "comforts:hammock_purple": {
     "criteria": {
       "has_the_recipe": "2025-01-26 14:35:59 +0100"
+    },
+    "done": true
+  },
+  "croptopia:frying_pan": {
+    "criteria": {
+      "frying_pan": "2025-03-07 14:24:06 +0100"
     },
     "done": true
   },
@@ -484,6 +502,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/mangrove/chest_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-07 16:46:55 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mangrove/mangrove_sign_from_mangrove_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-07 14:15:09 +0100"
@@ -498,6 +522,8 @@
   },
   "croptopia:gather_food": {
     "criteria": {
+      "hamburger": "2025-03-07 14:24:16 +0100",
+      "anchovy": "2025-03-07 15:49:36 +0100",
       "calamari": "2025-02-23 00:21:18 +0100",
       "strawberry_ice_cream": "2025-03-05 22:22:26 +0100"
     },
@@ -549,6 +575,12 @@
   "nethervinery:improved_nether_fizz": {
     "criteria": {
       "has_the_recipe": "2025-01-26 14:35:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_slab_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-07 16:46:55 +0100"
     },
     "done": true
   },
@@ -647,6 +679,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_fence_gate_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-07 16:46:55 +0100"
+    },
+    "done": true
+  },
   "hexcasting:grant_patchi_book": {
     "criteria": {
       "tick": "2025-01-26 14:35:59 +0100"
@@ -691,6 +729,11 @@
   },
   "extradelight:meals": {
     "criteria": {
+      "SEAWEED_CRISPS": "2025-03-07 14:40:30 +0100",
+      "FISH_SALAD_SANDWICH": "2025-03-07 16:32:47 +0100",
+      "SALISBURY_STEAK": "2025-03-07 14:25:45 +0100",
+      "PORK_STEW": "2025-03-07 14:27:44 +0100",
+      "SALAD": "2025-03-07 14:26:07 +0100",
       "CACTUS_EGGS": "2025-01-31 00:43:22 +0100"
     },
     "done": false
@@ -728,6 +771,12 @@
   "vinery:cherry_chest_boat": {
     "criteria": {
       "has_the_recipe": "2025-01-26 14:35:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_button_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-07 16:46:55 +0100"
     },
     "done": true
   },
@@ -821,6 +870,12 @@
       "give_recipe": "2025-02-07 14:15:09 +0100"
     },
     "done": true
+  },
+  "extradelight:desert": {
+    "criteria": {
+      "SWEET_BERRY_CUSTARD": "2025-03-07 15:03:22 +0100"
+    },
+    "done": false
   },
   "beautify:rope": {
     "criteria": {
@@ -1277,13 +1332,18 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-01-27 00:31:29 +0100",
+      "minecraft:mushroom_fields": "2025-03-07 15:40:49 +0100",
       "minecraft:taiga": "2025-01-27 00:18:33 +0100",
       "minecraft:deep_ocean": "2025-02-01 00:12:09 +0100",
       "minecraft:frozen_river": "2025-01-27 00:00:54 +0100",
+      "minecraft:sunflower_plains": "2025-03-07 16:58:44 +0100",
       "minecraft:birch_forest": "2025-01-27 00:47:34 +0100",
       "minecraft:windswept_hills": "2025-02-07 14:38:12 +0100",
+      "minecraft:bamboo_jungle": "2025-03-07 15:34:27 +0100",
       "minecraft:beach": "2025-01-26 14:48:10 +0100",
       "minecraft:dark_forest": "2025-01-27 00:39:39 +0100",
+      "minecraft:mangrove_swamp": "2025-03-07 16:39:36 +0100",
+      "minecraft:sparse_jungle": "2025-03-07 15:18:54 +0100",
       "minecraft:river": "2025-01-26 15:49:08 +0100",
       "minecraft:lukewarm_ocean": "2025-01-31 14:16:52 +0100",
       "minecraft:snowy_plains": "2025-01-27 00:02:52 +0100",
@@ -1303,9 +1363,11 @@
       "minecraft:snowy_beach": "2025-01-27 00:00:05 +0100",
       "minecraft:warm_ocean": "2025-02-01 00:09:03 +0100",
       "minecraft:deep_lukewarm_ocean": "2025-01-31 15:03:43 +0100",
+      "minecraft:flower_forest": "2025-03-07 16:52:56 +0100",
       "minecraft:old_growth_birch_forest": "2025-01-27 00:40:10 +0100",
       "minecraft:meadow": "2025-02-05 22:15:43 +0100",
       "minecraft:windswept_gravelly_hills": "2025-02-07 13:30:09 +0100",
+      "minecraft:savanna": "2025-03-07 16:38:39 +0100",
       "minecraft:plains": "2025-01-26 14:36:59 +0100"
     },
     "done": false
@@ -1331,6 +1393,12 @@
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2025-01-26 14:35:59 +0100"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/mangrove_planks": {
+    "criteria": {
+      "has_planks": "2025-03-07 16:46:55 +0100"
     },
     "done": true
   },
@@ -1446,6 +1514,12 @@
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "iron_knife": "2025-02-09 16:54:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_sign_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-07 16:46:55 +0100"
     },
     "done": true
   },
@@ -1668,6 +1742,12 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_trapdoor_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-31 15:10:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_planks_from_mangrove_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-07 16:45:14 +0100"
     },
     "done": true
   },
@@ -1921,6 +2001,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_fence_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-07 16:46:55 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/chest_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-01 00:17:50 +0100"
@@ -2008,6 +2094,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_trapdoor_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-07 16:46:55 +0100"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_blue": {
     "criteria": {
       "has_the_recipe": "2025-01-26 14:35:59 +0100"
@@ -2017,6 +2109,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-01-26 23:45:50 +0100"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/acacia": {
+    "criteria": {
+      "has_planks": "2025-03-07 16:38:52 +0100"
     },
     "done": true
   },
@@ -2049,6 +2147,12 @@
       "ars_nouveau:worn_notebook": "2025-01-26 14:35:59 +0100"
     },
     "done": true
+  },
+  "repurposed_structures:ancient_cities": {
+    "criteria": {
+      "in_ancient_city_ocean": "2025-03-07 16:23:41 +0100"
+    },
+    "done": false
   },
   "corail_woodcutter:recipes/from_byg_pine_planks": {
     "criteria": {
@@ -2113,6 +2217,12 @@
   "truedarkness:root_adv": {
     "criteria": {
       "root_adv": "2025-01-26 14:35:59 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:root": {
+    "criteria": {
+      "0": "2025-03-07 15:09:59 +0100"
     },
     "done": true
   },
@@ -2350,6 +2460,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_pressure_plate_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-07 16:46:55 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-01-31 15:05:53 +0100"
@@ -2371,6 +2487,12 @@
   "theabyss:unlockthebook": {
     "criteria": {
       "unlockthebook": "2025-01-26 14:35:58 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-03-07 14:51:19 +0100"
     },
     "done": true
   },
@@ -2410,6 +2532,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/mangrove/crafting_table_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-07 16:46:55 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "cabbage": "2025-02-04 03:42:10 +0100",
@@ -2444,6 +2572,12 @@
   "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-27 00:35:56 +0100"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/mangrove": {
+    "criteria": {
+      "has_planks": "2025-03-07 16:45:14 +0100"
     },
     "done": true
   },
@@ -2750,6 +2884,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/acacia/acacia_planks_from_acacia_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-07 16:38:52 +0100"
+    },
+    "done": true
+  },
   "nethervinery:warped_fermentation_barrel": {
     "criteria": {
       "has_the_recipe": "2025-01-26 14:35:59 +0100"
@@ -2850,12 +2990,14 @@
       "byg:orchard": "2025-01-28 00:34:14 +0100",
       "byg:red_oak_forest": "2025-01-27 00:45:39 +0100",
       "byg:cypress_swamplands": "2025-02-05 22:25:25 +0100",
+      "byg:fragment_forest": "2025-03-07 16:26:14 +0100",
       "byg:autumnal_forest": "2025-01-30 23:36:14 +0100",
       "byg:cika_woods": "2025-01-27 00:37:30 +0100",
       "byg:zelkova_forest": "2025-01-27 00:18:23 +0100",
       "byg:autumnal_valley": "2025-01-26 14:52:47 +0100",
       "byg:aspen_forest": "2025-01-28 00:32:29 +0100",
       "byg:skyris_vale": "2025-01-27 00:36:48 +0100",
+      "byg:forgotten_forest": "2025-03-07 16:27:44 +0100",
       "byg:cardinal_tundra": "2025-01-27 00:02:32 +0100",
       "byg:amaranth_fields": "2025-01-31 14:22:09 +0100",
       "byg:ebony_woods": "2025-01-31 14:38:50 +0100",
@@ -2942,6 +3084,12 @@
     },
     "done": true
   },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_jungle": "2025-03-07 16:29:50 +0100"
+    },
+    "done": false
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_door_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-28 01:16:21 +0100"
@@ -2999,6 +3147,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-02-01 00:19:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_chest_boat_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-07 16:46:55 +0100"
     },
     "done": true
   },
@@ -3065,6 +3219,12 @@
   "mcwroofs:recipes/bricks": {
     "criteria": {
       "has_planks": "2025-02-23 01:12:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_stairs_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-07 16:46:55 +0100"
     },
     "done": true
   },
@@ -3160,6 +3320,12 @@
     },
     "done": true
   },
+  "croptopia:eatcrafted": {
+    "criteria": {
+      "eat_crafted": "2025-03-07 15:30:31 +0100"
+    },
+    "done": true
+  },
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2025-01-26 14:35:59 +0100"
@@ -3193,6 +3359,12 @@
   "minecraft:recipes/woodcutting/spruce/crafting_table_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-28 01:16:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mangrove/mangrove_door_from_mangrove_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-07 16:46:55 +0100"
     },
     "done": true
   },

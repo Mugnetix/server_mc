@@ -221,7 +221,9 @@
   "croptopia:gather_all": {
     "criteria": {
       "cantaloupe_seed": "2025-01-27 02:02:58 +0100",
+      "vanilla_seeds": "2025-03-07 15:37:24 +0100",
       "tea_seed": "2025-02-06 23:37:06 +0100",
+      "elderberry_seed": "2025-03-07 15:02:02 +0100",
       "greenbean_seed": "2025-02-08 12:54:08 +0100",
       "chile_pepper_seed": "2025-01-26 23:49:16 +0100",
       "kale_seed": "2025-02-22 22:23:10 +0100",
@@ -601,11 +603,13 @@
   },
   "croptopia:gather_food": {
     "criteria": {
+      "hamburger": "2025-03-07 14:25:31 +0100",
       "cooked_shrimp": "2025-01-30 04:48:49 +0100",
       "calamari": "2025-01-31 00:02:06 +0100",
       "strawberry_ice_cream": "2025-03-05 22:23:33 +0100",
       "glowing_calamari": "2025-01-29 02:13:22 +0100",
-      "oyster": "2025-01-30 04:48:49 +0100"
+      "oyster": "2025-01-30 04:48:49 +0100",
+      "crab": "2025-03-07 15:51:31 +0100"
     },
     "done": false
   },
@@ -700,6 +704,7 @@
       "minecraft:pillager": "2025-01-30 03:20:54 +0100",
       "minecraft:skeleton": "2025-01-26 15:06:52 +0100",
       "minecraft:ghast": "2025-02-12 01:47:18 +0100",
+      "minecraft:vindicator": "2025-03-07 15:47:42 +0100",
       "minecraft:magma_cube": "2025-02-02 18:03:38 +0100",
       "minecraft:spider": "2025-01-27 01:30:25 +0100",
       "minecraft:creeper": "2025-01-31 01:32:34 +0100",
@@ -712,6 +717,7 @@
       "minecraft:cave_spider": "2025-01-29 02:06:57 +0100",
       "minecraft:piglin": "2025-02-02 17:57:02 +0100",
       "minecraft:enderman": "2025-02-01 14:48:39 +0100",
+      "minecraft:silverfish": "2025-03-07 16:11:17 +0100",
       "minecraft:zombie": "2025-01-26 23:53:36 +0100",
       "minecraft:drowned": "2025-01-29 02:15:20 +0100",
       "minecraft:zombie_villager": "2025-02-03 19:23:56 +0100"
@@ -768,7 +774,10 @@
   },
   "extradelight:ingredients": {
     "criteria": {
-      "CARROT_JAM": "2025-01-30 04:20:59 +0100"
+      "COOKING_OIL": "2025-03-07 14:00:35 +0100",
+      "BREAD_SLICE": "2025-03-07 14:00:34 +0100",
+      "CARROT_JAM": "2025-01-30 04:20:59 +0100",
+      "SLICED_ONION": "2025-03-07 14:00:35 +0100"
     },
     "done": false
   },
@@ -843,15 +852,20 @@
       "HASH": "2025-01-30 04:19:53 +0100",
       "OMELETTE": "2025-02-01 00:28:58 +0100",
       "BBQ_RIBS": "2025-01-30 04:19:53 +0100",
+      "SALISBURY_STEAK": "2025-03-07 14:00:34 +0100",
+      "PORK_STEW": "2025-03-07 14:27:46 +0100",
       "MASHED_POTATO_GRAVY": "2025-01-30 04:20:59 +0100",
       "BEEF_WELLINGTON": "2025-02-01 00:12:19 +0100",
       "BEEF_STEW_RICE": "2025-02-01 00:19:21 +0100",
+      "SALAD": "2025-03-07 13:59:55 +0100",
       "COOKED_PASTA": "2025-01-30 04:21:12 +0100",
       "POT_ROAST": "2025-02-01 00:12:18 +0100",
+      "CHICKEN_STEW_RICE": "2025-03-07 14:00:34 +0100",
       "CACTUS_EGGS": "2025-01-30 04:19:53 +0100",
       "CARROT_SOUP": "2025-02-01 00:29:00 +0100",
       "JAM_TOAST": "2025-01-30 04:21:12 +0100",
       "CHEESE_SANDWICH": "2025-02-01 00:12:16 +0100",
+      "POTATO_SOUP": "2025-03-07 13:59:56 +0100",
       "PORK_TENDERLOIN": "2025-01-30 04:20:59 +0100"
     },
     "done": false
@@ -900,7 +914,8 @@
   },
   "extradelight:feasts": {
     "criteria": {
-      "lamb_stew": "2025-02-01 00:19:13 +0100"
+      "lamb_stew": "2025-02-01 00:19:13 +0100",
+      "pork_stew": "2025-03-07 14:00:34 +0100"
     },
     "done": false
   },
@@ -1033,6 +1048,7 @@
   "extradelight:desert": {
     "criteria": {
       "GLOW_BERRY_POPSICLE": "2025-02-07 01:25:18 +0100",
+      "SWEET_BERRY_CUSTARD": "2025-03-07 13:59:56 +0100",
       "CHOCOLATE_CUSTARD": "2025-02-01 00:19:15 +0100",
       "GLOW_BERRY_PIE_SLICE": "2025-02-01 00:12:14 +0100"
     },
@@ -1095,6 +1111,12 @@
   "mcwfences:recipes/warped": {
     "criteria": {
       "has_warped": "2025-01-18 23:38:52 +0100"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2025-03-07 15:45:49 +0100"
     },
     "done": true
   },
@@ -1566,11 +1588,13 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-01-31 15:08:37 +0100",
       "minecraft:old_growth_pine_taiga": "2025-01-27 01:47:32 +0100",
+      "minecraft:mushroom_fields": "2025-03-07 15:40:48 +0100",
       "minecraft:taiga": "2025-01-27 00:18:45 +0100",
       "minecraft:frozen_river": "2025-01-27 00:00:28 +0100",
       "minecraft:sunflower_plains": "2025-01-31 15:06:33 +0100",
       "minecraft:birch_forest": "2025-01-30 03:30:46 +0100",
       "minecraft:windswept_hills": "2025-02-07 14:38:02 +0100",
+      "minecraft:bamboo_jungle": "2025-03-07 15:34:27 +0100",
       "minecraft:beach": "2025-01-18 23:38:55 +0100",
       "minecraft:dark_forest": "2025-02-08 02:19:57 +0100",
       "minecraft:mangrove_swamp": "2025-02-05 16:07:19 +0100",
@@ -1595,6 +1619,8 @@
       "minecraft:old_growth_spruce_taiga": "2025-02-07 01:16:09 +0100",
       "minecraft:snowy_beach": "2025-01-26 23:59:58 +0100",
       "minecraft:windswept_savanna": "2025-02-01 01:25:36 +0100",
+      "minecraft:warm_ocean": "2025-03-07 15:43:42 +0100",
+      "minecraft:deep_lukewarm_ocean": "2025-03-07 15:40:11 +0100",
       "minecraft:flower_forest": "2025-01-31 15:07:15 +0100",
       "minecraft:old_growth_birch_forest": "2025-01-30 03:30:49 +0100",
       "minecraft:deep_dark": "2025-01-31 15:57:22 +0100",
@@ -1604,6 +1630,12 @@
       "minecraft:plains": "2025-01-18 23:40:26 +0100"
     },
     "done": false
+  },
+  "pneumaticcraft:programming_puzzle": {
+    "criteria": {
+      "0": "2025-03-07 14:00:33 +0100"
+    },
+    "done": true
   },
   "extradelight:food": {
     "criteria": {
@@ -1674,6 +1706,7 @@
   "croptopia:gather_jungle": {
     "criteria": {
       "coffee_seed": "2025-01-31 17:37:40 +0100",
+      "vanilla_seeds": "2025-03-07 15:37:24 +0100",
       "rice_seed": "2025-02-05 21:25:19 +0100"
     },
     "done": false
@@ -1729,6 +1762,12 @@
   "minecraft:recipes/woodcutting/spruce/spruce_trapdoor_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-07 17:09:15 +0100"
+    },
+    "done": true
+  },
+  "croptopia:eatbig": {
+    "criteria": {
+      "eat_big": "2025-03-07 13:29:56 +0100"
     },
     "done": true
   },
@@ -1887,6 +1926,7 @@
     "criteria": {
       "cantaloupe_seed": "2025-01-27 02:02:58 +0100",
       "tea_seed": "2025-02-06 23:37:06 +0100",
+      "elderberry_seed": "2025-03-07 15:02:02 +0100",
       "strawberry_seed": "2025-02-05 21:25:01 +0100",
       "grape_seed": "2025-02-09 16:02:40 +0100",
       "celery_seed": "2025-02-08 02:21:16 +0100",
@@ -2312,7 +2352,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:pig": "2025-02-01 14:05:46 +0100"
+      "minecraft:pig": "2025-02-01 14:05:46 +0100",
+      "minecraft:panda": "2025-03-07 15:35:37 +0100"
     },
     "done": false
   },
@@ -2388,6 +2429,12 @@
     },
     "done": true
   },
+  "repurposed_structures:ancient_cities": {
+    "criteria": {
+      "in_ancient_city_ocean": "2025-03-07 16:23:29 +0100"
+    },
+    "done": false
+  },
   "corail_woodcutter:recipes/from_byg_pine_planks": {
     "criteria": {
       "has_ingredient": "2025-01-18 23:38:52 +0100"
@@ -2450,7 +2497,8 @@
   },
   "extradelight:jellyall": {
     "criteria": {
-      "jellyall_orange": "2025-02-07 01:25:19 +0100"
+      "jellyall_orange": "2025-02-07 01:25:19 +0100",
+      "jellyall_blue": "2025-03-07 14:00:34 +0100"
     },
     "done": false
   },
@@ -3318,6 +3366,7 @@
       "byg:black_forest": "2025-01-31 00:29:27 +0100",
       "byg:orchard": "2025-01-30 03:32:25 +0100",
       "byg:cypress_swamplands": "2025-02-05 16:54:33 +0100",
+      "byg:fragment_forest": "2025-03-07 16:26:14 +0100",
       "byg:autumnal_forest": "2025-02-04 02:44:38 +0100",
       "byg:quartz_desert": "2025-02-02 17:53:10 +0100",
       "byg:cika_woods": "2025-01-31 01:47:08 +0100",
@@ -3337,6 +3386,7 @@
       "byg:cardinal_tundra": "2025-01-27 00:02:29 +0100",
       "byg:amaranth_fields": "2025-01-31 17:25:15 +0100",
       "byg:brimstone_caverns": "2025-02-12 01:22:32 +0100",
+      "byg:ebony_woods": "2025-03-07 15:07:24 +0100",
       "byg:basalt_barrera": "2025-01-31 15:03:36 +0100",
       "byg:maple_taiga": "2025-01-31 00:29:36 +0100",
       "byg:frosted_coniferous_forest": "2025-01-27 00:01:14 +0100",
@@ -3434,6 +3484,12 @@
       "has_item": "2025-02-07 17:53:01 +0100"
     },
     "done": true
+  },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_jungle": "2025-03-07 16:29:49 +0100"
+    },
+    "done": false
   },
   "minecraft:recipes/woodcutting/spruce/spruce_door_from_spruce_slab_woodcutting": {
     "criteria": {
