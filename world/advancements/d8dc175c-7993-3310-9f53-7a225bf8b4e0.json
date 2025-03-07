@@ -643,6 +643,12 @@
     },
     "done": true
   },
+  "tetra:spelunking/find_scroll_throwing": {
+    "criteria": {
+      "find": "2025-03-07 18:15:08 +0100"
+    },
+    "done": true
+  },
   "vinery:cherry_floorboard": {
     "criteria": {
       "has_the_recipe": "2025-01-26 14:35:59 +0100"
@@ -913,6 +919,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/acacia/acacia_planks_from_stripped_acacia_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-07 17:39:01 +0100"
+    },
+    "done": true
+  },
   "mcwfences:recipes/mangrove": {
     "criteria": {
       "has_mangrove": "2025-01-26 14:35:58 +0100"
@@ -1067,6 +1079,12 @@
   "vinery:wine_bottle": {
     "criteria": {
       "has_the_recipe": "2025-01-26 14:35:59 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-03-07 18:31:55 +0100"
     },
     "done": true
   },
@@ -1349,6 +1367,7 @@
       "minecraft:snowy_plains": "2025-01-27 00:02:52 +0100",
       "minecraft:stony_shore": "2025-01-27 00:07:46 +0100",
       "minecraft:snowy_taiga": "2025-01-27 00:00:41 +0100",
+      "minecraft:dripstone_caves": "2025-03-07 18:36:31 +0100",
       "minecraft:swamp": "2025-02-05 22:23:56 +0100",
       "minecraft:cold_ocean": "2025-01-26 15:49:09 +0100",
       "minecraft:forest": "2025-01-30 23:20:01 +0100",
@@ -1721,6 +1740,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_rider": {
+    "criteria": {
+      "location0": "2025-03-07 17:38:35 +0100"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/stone": {
     "criteria": {
       "has_planks": "2025-02-05 21:51:46 +0100"
@@ -1826,6 +1851,12 @@
   "extradelight:oven": {
     "criteria": {
       "oven": "2025-03-05 22:29:24 +0100"
+    },
+    "done": true
+  },
+  "ae2:main/root": {
+    "criteria": {
+      "copper": "2025-03-07 18:08:57 +0100"
     },
     "done": true
   },
@@ -2124,9 +2155,21 @@
     },
     "done": false
   },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2025-03-07 18:10:40 +0100"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "killed_by": "2025-02-04 02:45:04 +0100"
+    },
+    "done": true
+  },
+  "beautify:lamps": {
+    "criteria": {
+      "requirement": "2025-03-07 18:08:57 +0100"
     },
     "done": true
   },
@@ -2526,6 +2569,12 @@
     },
     "done": true
   },
+  "byg:husbandry/forager": {
+    "criteria": {
+      "white_puffball_cap": "2025-03-07 17:30:14 +0100"
+    },
+    "done": true
+  },
   "vinery:flower_pot": {
     "criteria": {
       "has_the_recipe": "2025-01-26 14:35:59 +0100"
@@ -2566,6 +2615,12 @@
   "dungeons_arise:find_small_blimp": {
     "criteria": {
       "location0": "2025-01-31 23:22:48 +0100"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-03-07 18:08:57 +0100"
     },
     "done": true
   },
@@ -3317,6 +3372,12 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_trapdoor_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-01 00:17:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_planks_from_acacia_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-07 17:38:54 +0100"
     },
     "done": true
   },
