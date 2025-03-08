@@ -570,6 +570,12 @@
     },
     "done": true
   },
+  "integrateddynamics:network_foundations/cables_logic": {
+    "criteria": {
+      "criteria_0": "2025-03-08 16:13:35 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/barrel_from_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-07 11:18:16 +0100"
@@ -585,6 +591,12 @@
   "minecraft:recipes/woodcutting/mangrove/mangrove_sign_from_mangrove_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-07 13:52:13 +0100"
+    },
+    "done": true
+  },
+  "integrateddynamics:meneglin_basics/menril_production": {
+    "criteria": {
+      "criteria_0": "2025-03-08 16:02:52 +0100"
     },
     "done": true
   },
@@ -784,6 +796,12 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-04 02:47:47 +0100"
+    },
+    "done": true
+  },
+  "integrateddynamics:meneglin_basics/drying": {
+    "criteria": {
+      "criteria_0": "2025-03-08 15:44:14 +0100"
     },
     "done": true
   },
@@ -1583,6 +1601,12 @@
     },
     "done": true
   },
+  "integratedtunnels:interfaces/interface_energy": {
+    "criteria": {
+      "criteria_0": "2025-03-08 16:17:40 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/jungle/jungle_slab_from_jungle_stairs_woodcutting_combine": {
     "criteria": {
       "give_recipe": "2025-01-30 04:16:19 +0100",
@@ -1831,6 +1855,12 @@
     },
     "done": true
   },
+  "integrateddynamics:network_foundations/variables": {
+    "criteria": {
+      "criteria_0": "2025-03-08 16:19:11 +0100"
+    },
+    "done": true
+  },
   "comforts:hammock_pink": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:53 +0100"
@@ -1955,6 +1985,12 @@
   "corail_woodcutter:recipes/from_oak_planks": {
     "criteria": {
       "has_ingredient": "2025-01-26 23:44:01 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:machine_vandal": {
+    "criteria": {
+      "0": "2025-03-08 15:58:31 +0100"
     },
     "done": true
   },
@@ -2186,6 +2222,12 @@
     },
     "done": true
   },
+  "integrateddynamics:logic_operations/constant_definition": {
+    "criteria": {
+      "criteria_0": "2025-03-08 16:22:53 +0100"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/oak_planks": {
     "criteria": {
       "has_planks": "2025-01-26 23:44:01 +0100"
@@ -2298,6 +2340,12 @@
   "beautify:trellis": {
     "criteria": {
       "requirement": "2025-01-26 23:43:58 +0100"
+    },
+    "done": true
+  },
+  "integratedcrafting:root": {
+    "criteria": {
+      "criteria_0": "2025-03-08 16:19:12 +0100"
     },
     "done": true
   },
@@ -3060,6 +3108,12 @@
     },
     "done": true
   },
+  "integratedtunnels:interfaces/interface_fluid": {
+    "criteria": {
+      "criteria_0": "2025-03-08 16:00:41 +0100"
+    },
+    "done": true
+  },
   "comforts:hammock_cyan": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:53 +0100"
@@ -3081,6 +3135,12 @@
   "corail_woodcutter:recipes/from_dark_oak_planks": {
     "criteria": {
       "has_ingredient": "2025-02-04 02:47:47 +0100"
+    },
+    "done": true
+  },
+  "integrateddynamics:network_foundations/variable_input": {
+    "criteria": {
+      "criteria_0": "2025-03-08 16:20:14 +0100"
     },
     "done": true
   },
@@ -3223,6 +3283,12 @@
     },
     "done": true
   },
+  "integrateddynamics:meneglin_basics/squeezing": {
+    "criteria": {
+      "criteria_0": "2025-03-08 15:47:57 +0100"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:52 +0100"
@@ -3286,6 +3352,12 @@
   "nethervinery:warped_fermentation_barrel": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:52 +0100"
+    },
+    "done": true
+  },
+  "integrateddynamics:logic_operations/logic_programming": {
+    "criteria": {
+      "criteria_0": "2025-03-08 16:07:29 +0100"
     },
     "done": true
   },
@@ -3520,6 +3592,12 @@
   "beautify:bookstack": {
     "criteria": {
       "requirement": "2025-01-27 00:31:31 +0100"
+    },
+    "done": true
+  },
+  "integratedtunnels:root": {
+    "criteria": {
+      "criteria_0": "2025-03-08 16:19:12 +0100"
     },
     "done": true
   },
