@@ -1,14 +1,14 @@
-[00:22:46] [INIT] KubeJS 1902.6.2-build.73; MC 1902 forge
-[00:22:46] [INIT] Loaded plugins:
-[00:22:46] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[00:22:46] [INIT] - io.github.mortuusars.exposure.integration.kubejs.ExposureJSPlugin
-[00:22:46] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[00:22:46] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
-[00:22:46] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[00:22:46] [INIT] - dev.ftb.mods.ftbic.kubejs.FTBICKubeJSPlugin
-[00:22:46] [INIT] - com.almostreliable.ponderjs.PonderJSPlugin
-[00:22:46] [INIT] - com.klikli_dev.modonomicon.integration.kubejs.ModonomiconKubeJSPlugin
-[00:22:48] [INFO] example.js#5: Hello, World! (Loaded server scripts)
-[00:22:48] [INFO] Loaded script server_scripts:example.js in 0.002 s
-[00:22:48] [INFO] Loaded 1/1 KubeJS server scripts in 0.013 s
-[00:22:48] [INFO] Scripts loaded
+[09:29:25] [INIT] KubeJS 1902.6.2-build.73; MC 1902 forge
+[09:29:25] [INIT] Loaded plugins:
+[09:29:25] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[09:29:25] [INIT] - io.github.mortuusars.exposure.integration.kubejs.ExposureJSPlugin
+[09:29:25] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[09:29:25] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[09:29:25] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[09:29:25] [INIT] - dev.ftb.mods.ftbic.kubejs.FTBICKubeJSPlugin
+[09:29:25] [INIT] - com.almostreliable.ponderjs.PonderJSPlugin
+[09:29:25] [INIT] - com.klikli_dev.modonomicon.integration.kubejs.ModonomiconKubeJSPlugin
+[09:29:31] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[09:29:31] [INFO] Loaded script server_scripts:example.js in 0.01 s
+[09:29:31] [INFO] Loaded 1/1 KubeJS server scripts in 0.095 s
+[09:29:31] [INFO] Scripts loaded
