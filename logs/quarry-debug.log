@@ -1,11 +1,29 @@
-[2025-03-07T17:14:36,596][W] [TQW/initialLog]: Config in '§6⚠ Wipe your §c§l§kfeet§6 when entering ⚠'
+[2025-03-08T00:25:17,620][W] [TQW/initialLog]: Config in '§6⚠ Wipe your §c§l§kfeet§6 when entering ⚠'
 {
-  "server": {
-    "machineWork": {
-      "unworkableDimensions": []
-    }
-  },
   "common": {
+    "acceptableEnchantmentsMap": {
+      "mini_quarry": [
+        "minecraft:efficiency",
+        "minecraft:unbreaking"
+      ],
+      "adv_quarry": [
+        "minecraft:efficiency",
+        "minecraft:unbreaking",
+        "minecraft:fortune",
+        "minecraft:silk_touch"
+      ],
+      "adv_pump": [
+        "minecraft:efficiency",
+        "minecraft:unbreaking",
+        "minecraft:fortune"
+      ],
+      "quarry": [
+        "minecraft:efficiency",
+        "minecraft:unbreaking",
+        "minecraft:fortune",
+        "minecraft:silk_touch"
+      ]
+    },
     "powerMap": {
       "mini_quarry": {
         "maxEnergy": 1000.0,
@@ -106,29 +124,11 @@
       "allowWorkInClaimedChunkByFBTChunks": false,
       "enableChunkLoader": true,
       "logAllQuarryWork": false
-    },
-    "acceptableEnchantmentsMap": {
-      "mini_quarry": [
-        "minecraft:efficiency",
-        "minecraft:unbreaking"
-      ],
-      "adv_quarry": [
-        "minecraft:efficiency",
-        "minecraft:unbreaking",
-        "minecraft:fortune",
-        "minecraft:silk_touch"
-      ],
-      "adv_pump": [
-        "minecraft:efficiency",
-        "minecraft:unbreaking",
-        "minecraft:fortune"
-      ],
-      "quarry": [
-        "minecraft:efficiency",
-        "minecraft:unbreaking",
-        "minecraft:fortune",
-        "minecraft:silk_touch"
-      ]
+    }
+  },
+  "server": {
+    "machineWork": {
+      "unworkableDimensions": []
     }
   }
 }

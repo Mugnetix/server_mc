@@ -201,7 +201,10 @@
   "croptopia:gather_all": {
     "criteria": {
       "cantaloupe_seed": "2025-03-05 18:14:45 +0100",
+      "vanilla_seeds": "2025-03-08 01:14:32 +0100",
+      "elderberry_seed": "2025-03-08 01:14:07 +0100",
       "tomato_seed": "2025-03-06 10:42:05 +0100",
+      "chile_pepper_seed": "2025-03-08 01:14:13 +0100",
       "soybean_seed": "2025-03-05 18:32:17 +0100",
       "rutabaga_seed": "2025-03-05 18:26:52 +0100",
       "strawberry_seed": "2025-03-05 18:27:15 +0100",
@@ -661,6 +664,12 @@
     },
     "done": true
   },
+  "extradelight:ingredients": {
+    "criteria": {
+      "COOKING_OIL": "2025-03-08 01:20:53 +0100"
+    },
+    "done": false
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-01 00:17:50 +0100"
@@ -969,6 +978,7 @@
   },
   "croptopia:gather_plains": {
     "criteria": {
+      "chile_pepper_seed": "2025-03-08 01:14:13 +0100",
       "barley_seed": "2025-03-05 18:26:54 +0100",
       "soybean_seed": "2025-03-05 18:32:17 +0100"
     },
@@ -1454,6 +1464,7 @@
   "croptopia:gather_jungle": {
     "criteria": {
       "coffee_seed": "2025-03-05 18:26:54 +0100",
+      "vanilla_seeds": "2025-03-08 01:14:32 +0100",
       "rice_seed": "2025-03-05 18:13:29 +0100"
     },
     "done": false
@@ -1641,6 +1652,7 @@
   "croptopia:gather_forest": {
     "criteria": {
       "cantaloupe_seed": "2025-03-05 18:14:45 +0100",
+      "elderberry_seed": "2025-03-08 01:14:07 +0100",
       "strawberry_seed": "2025-03-05 18:27:15 +0100",
       "tomato_seed": "2025-03-06 10:42:05 +0100",
       "grape_seed": "2025-01-30 23:34:41 +0100",
@@ -2975,6 +2987,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-08 00:39:49 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/jungle/jungle_planks_from_jungle_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-31 14:20:32 +0100"
@@ -3048,6 +3066,8 @@
       "byg:fragment_forest": "2025-03-07 16:26:14 +0100",
       "byg:autumnal_forest": "2025-01-30 23:36:14 +0100",
       "byg:cika_woods": "2025-01-27 00:37:30 +0100",
+      "byg:firecracker_shrubland": "2025-03-08 00:57:37 +0100",
+      "byg:weeping_witch_forest": "2025-03-08 00:53:28 +0100",
       "byg:zelkova_forest": "2025-01-27 00:18:23 +0100",
       "byg:autumnal_valley": "2025-01-26 14:52:47 +0100",
       "byg:aspen_forest": "2025-01-28 00:32:29 +0100",
