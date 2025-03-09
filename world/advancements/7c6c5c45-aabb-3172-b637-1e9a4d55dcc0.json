@@ -1220,6 +1220,12 @@
     },
     "done": true
   },
+  "beautify:progression/bookstack": {
+    "criteria": {
+      "obtain": "2025-03-09 02:51:54 +0100"
+    },
+    "done": true
+  },
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:53 +0100"
