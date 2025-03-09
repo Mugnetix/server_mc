@@ -784,6 +784,12 @@
     },
     "done": true
   },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2025-03-09 14:33:06 +0100"
+    },
+    "done": true
+  },
   "extradelight:ingredients": {
     "criteria": {
       "COOKING_OIL": "2025-03-07 14:00:35 +0100",
@@ -1946,6 +1952,12 @@
     },
     "done": true
   },
+  "create:fan_processing": {
+    "criteria": {
+      "0": "2025-03-09 14:50:54 +0100"
+    },
+    "done": true
+  },
   "nethervinery:warped_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:52 +0100"
@@ -2153,6 +2165,12 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-08 02:40:27 +0100"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_bolt": {
+    "criteria": {
+      "forged_bolt": "2025-03-09 15:21:12 +0100"
     },
     "done": true
   },
@@ -3526,6 +3544,12 @@
   "vinery:vinemaker_apron": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:52 +0100"
+    },
+    "done": true
+  },
+  "create:crushing_wheel": {
+    "criteria": {
+      "0": "2025-03-09 13:55:34 +0100"
     },
     "done": true
   },
