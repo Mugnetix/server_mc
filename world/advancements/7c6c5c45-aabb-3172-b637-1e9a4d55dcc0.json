@@ -2653,6 +2653,12 @@
     },
     "done": true
   },
+  "ad_astra:tier_1_rocket": {
+    "criteria": {
+      "tier_1_rocket": "2025-03-10 20:02:37 +0100"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_byg_cika_planks": {
     "criteria": {
       "has_ingredient": "2025-01-18 23:38:52 +0100"
