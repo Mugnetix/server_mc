@@ -1221,6 +1221,12 @@
     },
     "done": true
   },
+  "ad_astra:space_suit": {
+    "criteria": {
+      "space_suit": "2025-03-10 17:13:51 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/barrel_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-07 17:09:15 +0100"
@@ -3866,6 +3872,12 @@
   "croptopia:eatcrafted": {
     "criteria": {
       "eat_crafted": "2025-03-05 18:02:27 +0100"
+    },
+    "done": true
+  },
+  "ad_astra:ad_astra": {
+    "criteria": {
+      "ad_astra": "2025-03-10 16:53:33 +0100"
     },
     "done": true
   },
