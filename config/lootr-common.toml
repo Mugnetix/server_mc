@@ -4,7 +4,7 @@ randomise_seed = true
 #Range: > 0
 max_age = 18000
 #if true, no chests will be converted
-disable = false
+disable = true
 #whether or not mineshaft chest minecarts should be converted to standard loot chests
 convert_mineshafts = true
 #whether or not the Elytra item frame should be converted into a standard loot chest with a guaranteed elytra
