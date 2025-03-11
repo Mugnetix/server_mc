@@ -1009,6 +1009,12 @@
     },
     "done": true
   },
+  "ad_astra:space_suit": {
+    "criteria": {
+      "space_suit": "2025-03-10 23:18:45 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/barrel_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-28 01:16:21 +0100"
@@ -1972,6 +1978,7 @@
       "apple": "2025-01-26 23:48:31 +0100",
       "potato": "2025-02-05 22:07:13 +0100",
       "bread": "2025-01-31 23:52:54 +0100",
+      "golden_apple": "2025-03-11 00:19:06 +0100",
       "rotten_flesh": "2025-01-31 13:25:04 +0100",
       "melon_slice": "2025-01-27 00:02:20 +0100",
       "beetroot": "2025-01-31 01:05:16 +0100",
@@ -2309,6 +2316,12 @@
   "mcwfences:recipes/prismarine": {
     "criteria": {
       "has_qq": "2025-01-26 14:35:58 +0100"
+    },
+    "done": true
+  },
+  "ad_astra:tier_1_rocket": {
+    "criteria": {
+      "tier_1_rocket": "2025-03-11 00:08:56 +0100"
     },
     "done": true
   },
@@ -2658,6 +2671,12 @@
   "mcwroofs:recipes/stone_bricks": {
     "criteria": {
       "has_planks": "2025-02-05 21:51:46 +0100"
+    },
+    "done": true
+  },
+  "ad_astra:moon": {
+    "criteria": {
+      "moon": "2025-03-10 23:20:49 +0100"
     },
     "done": true
   },
@@ -3283,6 +3302,12 @@
   "minecraft:recipes/woodcutting/jungle/chest_from_jungle_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-31 14:40:48 +0100"
+    },
+    "done": true
+  },
+  "ad_astra:moon_dungeon": {
+    "criteria": {
+      "moon_dungeon": "2025-03-11 00:11:47 +0100"
     },
     "done": true
   },

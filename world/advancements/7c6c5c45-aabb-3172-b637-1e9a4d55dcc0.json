@@ -115,6 +115,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/birch_trapdoor_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-11 01:46:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_pressure_plate_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-11 01:46:54 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:main/place_cooking_pot": {
     "criteria": {
       "cooking_pot": "2025-02-01 14:27:35 +0100"
@@ -166,6 +178,12 @@
   "minecraft:recipes/woodcutting/spruce/spruce_boat_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-29 02:58:21 +0100"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/birch_planks": {
+    "criteria": {
+      "has_planks": "2025-03-11 01:46:54 +0100"
     },
     "done": true
   },
@@ -476,6 +494,12 @@
   "comforts:sleeping_bag_red": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:53 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_door_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-11 01:46:54 +0100"
     },
     "done": true
   },
@@ -802,6 +826,12 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-04 02:47:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_fence_gate_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-11 01:46:54 +0100"
     },
     "done": true
   },
@@ -1181,6 +1211,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/birch_button_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-11 01:46:54 +0100"
+    },
+    "done": true
+  },
   "croptopia:gather_plains": {
     "criteria": {
       "greenbean_seed": "2025-02-08 12:54:08 +0100",
@@ -1303,6 +1339,12 @@
   "nethervinery:warped_grapevine_pot": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:53 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/barrel_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-11 01:46:54 +0100"
     },
     "done": true
   },
@@ -1639,6 +1681,7 @@
       "minecraft:old_growth_pine_taiga": "2025-01-27 01:47:32 +0100",
       "minecraft:mushroom_fields": "2025-03-07 15:40:48 +0100",
       "minecraft:taiga": "2025-01-27 00:18:45 +0100",
+      "minecraft:deep_ocean": "2025-03-11 01:44:52 +0100",
       "minecraft:frozen_river": "2025-01-27 00:00:28 +0100",
       "minecraft:sunflower_plains": "2025-01-31 15:06:33 +0100",
       "minecraft:birch_forest": "2025-01-30 03:30:46 +0100",
@@ -1899,6 +1942,12 @@
     },
     "done": true
   },
+  "corail_woodcutter:recipes/from_birch_planks": {
+    "criteria": {
+      "has_ingredient": "2025-03-11 01:46:54 +0100"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_cyan_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:52 +0100"
@@ -2001,6 +2050,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/crafting_table_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-11 01:46:54 +0100"
+    },
+    "done": true
+  },
   "vinery:cherry_fence_gate": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:53 +0100"
@@ -2100,6 +2155,12 @@
   "mcwroofs:recipes/jungle": {
     "criteria": {
       "has_planks": "2025-01-30 04:15:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_slab_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-11 01:46:54 +0100"
     },
     "done": true
   },
@@ -2320,6 +2381,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/woodcutting/birch/birch_fence_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-11 01:46:54 +0100"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/jungle_planks": {
     "criteria": {
       "has_planks": "2025-01-30 04:34:08 +0100"
@@ -2365,6 +2432,12 @@
   "vinery:birch_wine_rack_big": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_sign_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-11 01:46:54 +0100"
     },
     "done": true
   },
@@ -2971,6 +3044,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/woodcutting/birch/birch_stairs_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-11 01:46:54 +0100"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
     "criteria": {
       "ex": "2025-02-03 18:58:23 +0100"
@@ -3022,6 +3101,12 @@
   "mcwroofs:recipes/stone_bricks": {
     "criteria": {
       "has_planks": "2025-01-31 14:43:15 +0100"
+    },
+    "done": true
+  },
+  "ad_astra:moon": {
+    "criteria": {
+      "moon": "2025-03-10 23:20:44 +0100"
     },
     "done": true
   },
@@ -3644,6 +3729,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/birch_chest_boat_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-11 01:46:54 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:main/main_root": {
     "criteria": {
       "has_item": "2025-02-12 00:14:21 +0100"
@@ -3765,6 +3856,12 @@
     },
     "done": true
   },
+  "ad_astra:moon_dungeon": {
+    "criteria": {
+      "moon_dungeon": "2025-03-11 00:11:49 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_chest_boat_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-04 02:47:47 +0100"
@@ -3845,6 +3942,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/chest_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-11 01:46:54 +0100"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_byg_mahogany_planks": {
     "criteria": {
       "has_ingredient": "2025-01-18 23:38:52 +0100"
@@ -3908,6 +4011,12 @@
   "create:brass_casing": {
     "criteria": {
       "0": "2025-02-09 21:08:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_boat_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-11 01:46:54 +0100"
     },
     "done": true
   },
