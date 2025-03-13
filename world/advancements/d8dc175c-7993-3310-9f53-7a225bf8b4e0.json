@@ -511,6 +511,12 @@
     },
     "done": true
   },
+  "silentgear:nether": {
+    "criteria": {
+      "entered_nether": "2025-03-13 10:34:14 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mangrove/mangrove_sign_from_mangrove_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-07 14:15:09 +0100"
@@ -1804,6 +1810,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-03-13 10:34:14 +0100"
+    },
+    "done": true
+  },
   "vinery:cherry_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2025-01-26 14:35:59 +0100"
@@ -2409,6 +2421,12 @@
   "corail_woodcutter:recipes/from_spruce_planks": {
     "criteria": {
       "has_ingredient": "2025-01-28 00:58:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-03-13 10:34:14 +0100"
     },
     "done": true
   },
@@ -3106,6 +3124,7 @@
       "byg:cypress_swamplands": "2025-02-05 22:25:25 +0100",
       "byg:fragment_forest": "2025-03-07 16:26:14 +0100",
       "byg:autumnal_forest": "2025-01-30 23:36:14 +0100",
+      "byg:quartz_desert": "2025-03-13 10:35:16 +0100",
       "byg:cika_woods": "2025-01-27 00:37:30 +0100",
       "byg:firecracker_shrubland": "2025-03-08 00:57:37 +0100",
       "byg:weeping_witch_forest": "2025-03-08 00:53:28 +0100",
@@ -3114,6 +3133,7 @@
       "byg:aspen_forest": "2025-01-28 00:32:29 +0100",
       "byg:skyris_vale": "2025-01-27 00:36:48 +0100",
       "byg:forgotten_forest": "2025-03-07 16:27:44 +0100",
+      "byg:crimson_gardens": "2025-03-13 10:34:14 +0100",
       "byg:cardinal_tundra": "2025-01-27 00:02:32 +0100",
       "byg:amaranth_fields": "2025-01-31 14:22:09 +0100",
       "byg:ebony_woods": "2025-01-31 14:38:50 +0100",
