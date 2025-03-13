@@ -825,6 +825,7 @@
       "COOKING_OIL": "2025-03-07 14:00:35 +0100",
       "BREAD_SLICE": "2025-03-07 14:00:34 +0100",
       "CARROT_JAM": "2025-01-30 04:20:59 +0100",
+      "BUTTER": "2025-03-12 22:43:52 +0100",
       "SLICED_ONION": "2025-03-07 14:00:35 +0100"
     },
     "done": false
@@ -1765,6 +1766,12 @@
     },
     "done": true
   },
+  "endrem:main/cryptic_eye": {
+    "criteria": {
+      "cryptic_eye": "2025-03-12 21:51:45 +0100"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:53 +0100"
@@ -2408,6 +2415,12 @@
   "vinery:mangrove_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:52 +0100"
+    },
+    "done": true
+  },
+  "extradelight:spoon": {
+    "criteria": {
+      "wooden_spoon": "2025-03-12 22:42:28 +0100"
     },
     "done": true
   },
@@ -3333,6 +3346,12 @@
   "comforts:sleeping_bag_yellow": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:53 +0100"
+    },
+    "done": true
+  },
+  "extradelight:mixingbowl": {
+    "criteria": {
+      "mixingbowl": "2025-03-12 22:42:32 +0100"
     },
     "done": true
   },

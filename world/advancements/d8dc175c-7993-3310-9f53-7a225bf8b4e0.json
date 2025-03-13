@@ -666,7 +666,9 @@
   },
   "extradelight:ingredients": {
     "criteria": {
-      "COOKING_OIL": "2025-03-08 01:20:53 +0100"
+      "WHIPPED_CREAM": "2025-03-12 22:41:55 +0100",
+      "COOKING_OIL": "2025-03-08 01:20:53 +0100",
+      "BUTTER": "2025-03-12 22:43:59 +0100"
     },
     "done": false
   },
@@ -750,7 +752,8 @@
       "PORK_STEW": "2025-03-07 14:27:44 +0100",
       "SALAD": "2025-03-07 14:26:07 +0100",
       "ROASTED_APPLE": "2025-03-09 20:09:47 +0100",
-      "CACTUS_EGGS": "2025-01-31 00:43:22 +0100"
+      "CACTUS_EGGS": "2025-01-31 00:43:22 +0100",
+      "CHEESE_SANDWICH": "2025-03-12 22:55:10 +0100"
     },
     "done": false
   },
@@ -1426,6 +1429,12 @@
     },
     "done": true
   },
+  "endrem:main/cryptic_eye": {
+    "criteria": {
+      "cryptic_eye": "2025-03-12 22:51:17 +0100"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2025-01-26 14:35:59 +0100"
@@ -2007,6 +2016,12 @@
   "vinery:mangrove_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2025-01-26 14:35:59 +0100"
+    },
+    "done": true
+  },
+  "extradelight:spoon": {
+    "criteria": {
+      "wooden_spoon": "2025-03-12 22:41:32 +0100"
     },
     "done": true
   },
@@ -2869,6 +2884,12 @@
   "comforts:sleeping_bag_yellow": {
     "criteria": {
       "has_the_recipe": "2025-01-26 14:35:59 +0100"
+    },
+    "done": true
+  },
+  "extradelight:mixingbowl": {
+    "criteria": {
+      "mixingbowl": "2025-03-12 22:41:33 +0100"
     },
     "done": true
   },
