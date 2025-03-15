@@ -1083,6 +1083,12 @@
     },
     "done": true
   },
+  "create:steam_engine": {
+    "criteria": {
+      "0": "2025-03-15 20:07:57 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/jungle/jungle_boat_from_jungle_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-30 04:34:08 +0100"
@@ -1772,6 +1778,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-03-15 20:35:10 +0100"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:53 +0100"
@@ -2039,6 +2051,12 @@
     },
     "done": true
   },
+  "create:water_supply": {
+    "criteria": {
+      "0": "2025-03-15 20:06:45 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_button_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-26 23:44:01 +0100"
@@ -2264,6 +2282,12 @@
   "corail_woodcutter:recipes/from_byg_cherry_planks": {
     "criteria": {
       "has_ingredient": "2025-01-18 23:38:52 +0100"
+    },
+    "done": true
+  },
+  "create:glass_pipe": {
+    "criteria": {
+      "0": "2025-03-15 20:06:51 +0100"
     },
     "done": true
   },
@@ -3064,6 +3088,7 @@
       "beetroot": "2025-02-09 16:06:08 +0100",
       "sugar_cane": "2025-02-01 13:24:48 +0100",
       "potato": "2025-02-01 13:10:19 +0100",
+      "nether_wart": "2025-03-15 20:26:24 +0100",
       "wheat": "2025-01-27 01:49:52 +0100",
       "carrot": "2025-02-01 13:10:20 +0100"
     },
