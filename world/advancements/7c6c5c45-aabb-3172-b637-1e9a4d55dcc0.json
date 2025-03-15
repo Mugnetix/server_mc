@@ -2063,6 +2063,12 @@
     },
     "done": true
   },
+  "ad_astra:tier_2_rocket": {
+    "criteria": {
+      "tier_2_rocket": "2025-03-15 15:51:35 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/crafting_table_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-03-11 01:46:54 +0100"

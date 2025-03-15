@@ -7,12 +7,16 @@
 	vip: {
 		name: "VIP"
 		power: 50
-		ftbranks.name_format: "&bVIP {name}"
+		ftbranks.name_format: "&c&l{name}"
 	}
 	admin: {
 		name: "Admin"
 		power: 1000
 		condition: "op"
-		ftbranks.name_format: "&2{name}"
+	}
+	garbage: {
+		name: "Garbage"
+		power: 1
+		ftbranks.name_format: "&6&l{name}"
 	}
 }

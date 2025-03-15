@@ -1,1 +1,14 @@
-{ }
+{
+	7c6c5c45-aabb-3172-b637-1e9a4d55dcc0: {
+		name: "Mugnetix"
+		ranks: {
+			vip: "2025-03-15T14:48:09.083199600Z"
+		}
+	}
+	d8dc175c-7993-3310-9f53-7a225bf8b4e0: {
+		name: "KimSooDuh"
+		ranks: {
+			garbage: "2025-03-15T14:50:03.731838500Z"
+		}
+	}
+}
