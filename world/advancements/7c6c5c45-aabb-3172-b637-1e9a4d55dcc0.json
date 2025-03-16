@@ -43,6 +43,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-03-16 17:24:15 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_sign_from_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-07 11:18:16 +0100"
@@ -744,11 +750,14 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-01-30 03:20:54 +0100",
+      "minecraft:blaze": "2025-03-16 17:45:44 +0100",
       "minecraft:skeleton": "2025-01-26 15:06:52 +0100",
       "minecraft:ghast": "2025-02-12 01:47:18 +0100",
+      "minecraft:hoglin": "2025-03-16 17:37:03 +0100",
       "minecraft:vindicator": "2025-03-07 15:47:42 +0100",
       "minecraft:magma_cube": "2025-02-02 18:03:38 +0100",
       "minecraft:spider": "2025-01-27 01:30:25 +0100",
+      "minecraft:piglin_brute": "2025-03-16 17:34:17 +0100",
       "minecraft:creeper": "2025-01-31 01:32:34 +0100",
       "minecraft:slime": "2025-02-03 17:59:36 +0100",
       "quark:forgotten": "2025-02-03 19:20:24 +0100",
@@ -761,6 +770,7 @@
       "minecraft:enderman": "2025-02-01 14:48:39 +0100",
       "minecraft:silverfish": "2025-03-07 16:11:17 +0100",
       "minecraft:zombie": "2025-01-26 23:53:36 +0100",
+      "quark:foxhound": "2025-03-16 18:39:18 +0100",
       "minecraft:drowned": "2025-01-29 02:15:20 +0100",
       "minecraft:zombie_villager": "2025-02-03 19:23:56 +0100"
     },
@@ -995,6 +1005,7 @@
   },
   "repurposed_structures:shipwrecks": {
     "criteria": {
+      "in_shipwreck_crimson": "2025-03-16 19:03:22 +0100",
       "in_shipwreck_warped": "2025-02-02 18:08:38 +0100"
     },
     "done": false
@@ -1043,7 +1054,8 @@
   },
   "repurposed_structures:villages": {
     "criteria": {
-      "in_village_oak": "2025-01-30 03:58:46 +0100"
+      "in_village_oak": "2025-01-30 03:58:46 +0100",
+      "in_village_warped": "2025-03-16 17:22:03 +0100"
     },
     "done": false
   },
@@ -1888,6 +1900,12 @@
     },
     "done": true
   },
+  "tetra:spelunking/find_scroll_warforge": {
+    "criteria": {
+      "find": "2025-03-16 18:15:18 +0100"
+    },
+    "done": true
+  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-01-18 23:38:53 +0100"
@@ -1956,8 +1974,10 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-03-16 18:45:46 +0100",
       "minecraft:nether_wastes": "2025-02-12 01:00:10 +0100",
-      "minecraft:warped_forest": "2025-02-02 17:59:45 +0100"
+      "minecraft:warped_forest": "2025-02-02 17:59:45 +0100",
+      "minecraft:basalt_deltas": "2025-03-16 18:22:53 +0100"
     },
     "done": false
   },
@@ -2137,6 +2157,7 @@
   },
   "repurposed_structures:pyramids": {
     "criteria": {
+      "in_pyramid_nether": "2025-03-16 19:07:04 +0100",
       "in_pyramid_flower_forest": "2025-02-01 00:44:10 +0100"
     },
     "done": false
@@ -2266,6 +2287,12 @@
       "in_witch_hut_oak": "2025-01-30 03:58:39 +0100"
     },
     "done": false
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-03-16 19:05:08 +0100"
+    },
+    "done": true
   },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_from_dark_oak_slab_woodcutting": {
     "criteria": {
@@ -2454,6 +2481,12 @@
     },
     "done": true
   },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-03-16 19:12:35 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mangrove/mangrove_button_from_mangrove_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-07 13:52:13 +0100"
@@ -2465,6 +2498,12 @@
       "give_recipe": "2025-02-04 02:47:47 +0100"
     },
     "done": true
+  },
+  "extradelight:gildedblackstone": {
+    "criteria": {
+      "gildedblackstone_pestle": "2025-03-16 18:16:30 +0100"
+    },
+    "done": false
   },
   "corail_woodcutter:recipes/from_byg_palm_planks": {
     "criteria": {
@@ -2499,6 +2538,12 @@
   "integratedcrafting:root": {
     "criteria": {
       "criteria_0": "2025-03-08 16:19:12 +0100"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-03-16 17:45:32 +0100"
     },
     "done": true
   },
@@ -3106,6 +3151,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-03-16 18:22:51 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:main/use_cutting_board": {
     "criteria": {
       "cutting_board": "2025-01-27 01:56:20 +0100"
@@ -3400,7 +3451,8 @@
   },
   "repurposed_structures:temples": {
     "criteria": {
-      "in_temple_nether_wasteland": "2025-02-12 01:33:27 +0100"
+      "in_temple_nether_wasteland": "2025-02-12 01:33:27 +0100",
+      "in_temple_nether_warped": "2025-03-16 18:05:55 +0100"
     },
     "done": false
   },
@@ -3527,6 +3579,12 @@
     },
     "done": true
   },
+  "farmersrespite:main/get_coffee_beans": {
+    "criteria": {
+      "get_coffee_beans": "2025-03-16 18:23:48 +0100"
+    },
+    "done": true
+  },
   "nethervinery:warped_fermentation_barrel": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:52 +0100"
@@ -3639,9 +3697,11 @@
       "byg:quartz_desert": "2025-02-02 17:53:10 +0100",
       "byg:cika_woods": "2025-01-31 01:47:08 +0100",
       "byg:white_mangrove_marshes": "2025-02-05 16:20:05 +0100",
+      "byg:warped_desert": "2025-03-16 17:59:21 +0100",
       "byg:firecracker_shrubland": "2025-02-01 00:14:28 +0100",
       "byg:weeping_witch_forest": "2025-03-08 00:53:21 +0100",
       "byg:magma_wastes": "2025-02-02 17:56:01 +0100",
+      "byg:embur_bog": "2025-03-16 18:00:27 +0100",
       "byg:zelkova_forest": "2025-01-27 00:18:40 +0100",
       "byg:araucaria_savanna": "2025-02-05 16:09:29 +0100",
       "byg:crag_gardens": "2025-01-31 17:06:58 +0100",
@@ -3692,6 +3752,12 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-01-31 16:02:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-03-16 17:45:48 +0100"
     },
     "done": true
   },
@@ -3799,6 +3865,7 @@
   },
   "repurposed_structures:ruins": {
     "criteria": {
+      "in_ruins_nether": "2025-03-16 18:14:11 +0100",
       "in_ruins_land_warm": "2025-02-05 17:12:00 +0100",
       "in_ruins_land_cold": "2025-01-27 00:39:15 +0100"
     },
