@@ -1,11 +1,11 @@
-[22:33:26] [INIT] KubeJS 1902.6.2-build.73; MC 1902 forge
-[22:33:26] [INIT] Loaded plugins:
-[22:33:26] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[22:33:26] [INIT] - io.github.mortuusars.exposure.integration.kubejs.ExposureJSPlugin
-[22:33:26] [INIT] - dev.ftb.mods.ftbic.kubejs.FTBICKubeJSPlugin
-[22:33:26] [INIT] - com.almostreliable.ponderjs.PonderJSPlugin
-[22:33:26] [INIT] - com.klikli_dev.modonomicon.integration.kubejs.ModonomiconKubeJSPlugin
-[22:33:27] [INFO] example.js#5: Hello, World! (Loaded server scripts)
-[22:33:27] [INFO] Loaded script server_scripts:example.js in 0.0 s
-[22:33:27] [INFO] Loaded 1/1 KubeJS server scripts in 0.012 s
-[22:33:27] [INFO] Scripts loaded
+[22:48:23] [INIT] KubeJS 1902.6.2-build.73; MC 1902 forge
+[22:48:23] [INIT] Loaded plugins:
+[22:48:23] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[22:48:23] [INIT] - io.github.mortuusars.exposure.integration.kubejs.ExposureJSPlugin
+[22:48:23] [INIT] - dev.ftb.mods.ftbic.kubejs.FTBICKubeJSPlugin
+[22:48:23] [INIT] - com.almostreliable.ponderjs.PonderJSPlugin
+[22:48:23] [INIT] - com.klikli_dev.modonomicon.integration.kubejs.ModonomiconKubeJSPlugin
+[22:48:24] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[22:48:24] [INFO] Loaded script server_scripts:example.js in 0.001 s
+[22:48:24] [INFO] Loaded 1/1 KubeJS server scripts in 0.014 s
+[22:48:24] [INFO] Scripts loaded
