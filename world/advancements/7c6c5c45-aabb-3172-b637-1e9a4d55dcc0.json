@@ -338,6 +338,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2025-03-17 20:39:13 +0100",
       "in_better_monster_room": "2025-01-31 15:36:42 +0100"
     },
     "done": false
@@ -1156,6 +1157,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2025-03-17 23:09:59 +0100"
+    },
+    "done": true
+  },
   "create:andesite_alloy": {
     "criteria": {
       "0": "2025-02-07 17:19:17 +0100"
@@ -1413,6 +1420,12 @@
     },
     "done": true
   },
+  "truedarkness:antienite_adv": {
+    "criteria": {
+      "antienite_adv": "2025-03-17 22:11:23 +0100"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_orange_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:53 +0100"
@@ -1482,6 +1495,12 @@
   "minecraft:recipes/woodcutting/jungle/jungle_door_from_jungle_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-02 18:39:37 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-03-17 22:22:34 +0100"
     },
     "done": true
   },
@@ -1899,6 +1918,12 @@
     },
     "done": true
   },
+  "exoticbirds:default/craft_birdcage": {
+    "criteria": {
+      "birdcage": "2025-03-17 21:16:56 +0100"
+    },
+    "done": true
+  },
   "comforts:hammock_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:52 +0100"
@@ -2093,6 +2118,12 @@
   "minecraft:recipes/woodcutting/spruce/spruce_pressure_plate_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-07 17:09:15 +0100"
+    },
+    "done": true
+  },
+  "exoticbirds:default/tame_pigeon": {
+    "criteria": {
+      "tame_pigeon": "2025-03-17 21:20:19 +0100"
     },
     "done": true
   },
@@ -3553,6 +3584,12 @@
     },
     "done": true
   },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-03-17 20:39:13 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "cabbage_seeds": "2025-01-29 02:07:50 +0100"
@@ -4261,6 +4298,12 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_trapdoor_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-04 02:47:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_planks_from_acacia_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-17 22:38:31 +0100"
     },
     "done": true
   },

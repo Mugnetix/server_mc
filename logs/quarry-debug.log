@@ -1,6 +1,34 @@
-[2025-03-17T12:50:58,205][W] [TQW/initialLog]: Config in '§6⚠ Wipe your §c§l§kfeet§6 when entering ⚠'
+[2025-03-17T20:28:45,361][W] [TQW/initialLog]: Config in '§6⚠ Wipe your §c§l§kfeet§6 when entering ⚠'
 {
+  "server": {
+    "machineWork": {
+      "unworkableDimensions": []
+    }
+  },
   "common": {
+    "acceptableEnchantmentsMap": {
+      "mini_quarry": [
+        "minecraft:efficiency",
+        "minecraft:unbreaking"
+      ],
+      "adv_quarry": [
+        "minecraft:efficiency",
+        "minecraft:unbreaking",
+        "minecraft:fortune",
+        "minecraft:silk_touch"
+      ],
+      "adv_pump": [
+        "minecraft:efficiency",
+        "minecraft:unbreaking",
+        "minecraft:fortune"
+      ],
+      "quarry": [
+        "minecraft:efficiency",
+        "minecraft:unbreaking",
+        "minecraft:fortune",
+        "minecraft:silk_touch"
+      ]
+    },
     "common": {
       "reduceMarkerGuideLineIfPlayerIsFar": false,
       "chunkDestroyerLimit": -1,
@@ -24,28 +52,31 @@
       "enableChunkLoader": true,
       "logAllQuarryWork": false
     },
-    "acceptableEnchantmentsMap": {
-      "mini_quarry": [
-        "minecraft:efficiency",
-        "minecraft:unbreaking"
-      ],
-      "adv_quarry": [
-        "minecraft:efficiency",
-        "minecraft:unbreaking",
-        "minecraft:fortune",
-        "minecraft:silk_touch"
-      ],
-      "adv_pump": [
-        "minecraft:efficiency",
-        "minecraft:unbreaking",
-        "minecraft:fortune"
-      ],
-      "quarry": [
-        "minecraft:efficiency",
-        "minecraft:unbreaking",
-        "minecraft:fortune",
-        "minecraft:silk_touch"
-      ]
+    "enableMap": {
+      "mini_quarry": true,
+      "spawner_controller": false,
+      "fuel_module_normal": true,
+      "exp_module": true,
+      "pump_module": true,
+      "filter_module": true,
+      "remove_bedrock_module": false,
+      "replacer": false,
+      "replacer_module": false,
+      "repeat_tick_module": false,
+      "remote_placer": false,
+      "quarry": true,
+      "filler_module": false,
+      "solid_fuel_quarry": true,
+      "adv_quarry": true,
+      "mover": true,
+      "placer_plus": true,
+      "adv_pump": true,
+      "filler": true,
+      "mining_well": true,
+      "exp_pump": true,
+      "book_mover": false,
+      "workbench": true,
+      "pump_plus": true
     },
     "powerMap": {
       "mini_quarry": {
@@ -98,37 +129,6 @@
         "breakFortuneCoefficient": 1.5874010519681996,
         "breakSilktouchCoefficient": 4.0
       }
-    },
-    "enableMap": {
-      "mini_quarry": true,
-      "spawner_controller": false,
-      "fuel_module_normal": true,
-      "exp_module": true,
-      "pump_module": true,
-      "filter_module": true,
-      "remove_bedrock_module": false,
-      "replacer": false,
-      "replacer_module": false,
-      "repeat_tick_module": false,
-      "remote_placer": false,
-      "quarry": true,
-      "filler_module": false,
-      "solid_fuel_quarry": true,
-      "adv_quarry": true,
-      "mover": true,
-      "placer_plus": true,
-      "adv_pump": true,
-      "filler": true,
-      "mining_well": true,
-      "exp_pump": true,
-      "book_mover": false,
-      "workbench": true,
-      "pump_plus": true
-    }
-  },
-  "server": {
-    "machineWork": {
-      "unworkableDimensions": []
     }
   }
 }
