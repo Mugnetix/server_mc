@@ -1,4 +1,4 @@
-[2025-03-17T20:28:45,361][W] [TQW/initialLog]: Config in '§6⚠ Wipe your §c§l§kfeet§6 when entering ⚠'
+[2025-03-18T19:10:38,928][W] [TQW/initialLog]: Config in '§6⚠ Wipe your §c§l§kfeet§6 when entering ⚠'
 {
   "server": {
     "machineWork": {
@@ -6,29 +6,6 @@
     }
   },
   "common": {
-    "acceptableEnchantmentsMap": {
-      "mini_quarry": [
-        "minecraft:efficiency",
-        "minecraft:unbreaking"
-      ],
-      "adv_quarry": [
-        "minecraft:efficiency",
-        "minecraft:unbreaking",
-        "minecraft:fortune",
-        "minecraft:silk_touch"
-      ],
-      "adv_pump": [
-        "minecraft:efficiency",
-        "minecraft:unbreaking",
-        "minecraft:fortune"
-      ],
-      "quarry": [
-        "minecraft:efficiency",
-        "minecraft:unbreaking",
-        "minecraft:fortune",
-        "minecraft:silk_touch"
-      ]
-    },
     "common": {
       "reduceMarkerGuideLineIfPlayerIsFar": false,
       "chunkDestroyerLimit": -1,
@@ -129,6 +106,29 @@
         "breakFortuneCoefficient": 1.5874010519681996,
         "breakSilktouchCoefficient": 4.0
       }
+    },
+    "acceptableEnchantmentsMap": {
+      "mini_quarry": [
+        "minecraft:efficiency",
+        "minecraft:unbreaking"
+      ],
+      "adv_quarry": [
+        "minecraft:efficiency",
+        "minecraft:unbreaking",
+        "minecraft:fortune",
+        "minecraft:silk_touch"
+      ],
+      "adv_pump": [
+        "minecraft:efficiency",
+        "minecraft:unbreaking",
+        "minecraft:fortune"
+      ],
+      "quarry": [
+        "minecraft:efficiency",
+        "minecraft:unbreaking",
+        "minecraft:fortune",
+        "minecraft:silk_touch"
+      ]
     }
   }
 }
