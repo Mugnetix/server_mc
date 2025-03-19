@@ -3,11 +3,9 @@
 	fly: false
 	god: false
 	nick: ""
-	last_seen: { dim: "minecraft:overworld", x: 1032, y: 66, z: -1979, time: 1742324627490L, xRot: 21.3738f, yRot: 52.388306f }
+	last_seen: { dim: "minecraft:overworld", x: 953, y: 82, z: -2011, time: 1742409822498L, xRot: 49.03836f, yRot: 18.257568f }
 	recording: 0
 	teleport_history: [
-		{ dim: "minecraft:overworld", x: 1730, y: -20, z: 2782, time: 1741369031881L, xRot: 82.72202f, yRot: 108.9899f }
-		{ dim: "minecraft:overworld", x: 1691, y: -41, z: 3029, time: 1741369479561L, xRot: 23.292995f, yRot: -79.333405f }
 		{ dim: "ad_astra:moon", x: 379, y: 127, z: -2073, time: 1741645290896L, xRot: 50.95586f, yRot: 26.073534f }
 		{ dim: "ad_astra:moon", x: 526, y: 63, z: -2661, time: 1741648515788L, xRot: 14.824075f, yRot: -101.815186f }
 		{ dim: "minecraft:overworld", x: 410, y: 72, z: -2055, time: 1741648528649L, xRot: 19.257376f, yRot: 163.91824f }
@@ -16,6 +14,8 @@
 		{ dim: "minecraft:overworld", x: 410, y: 72, z: -2054, time: 1741817501681L, xRot: 17.136925f, yRot: 110.193375f }
 		{ dim: "ad_astra:moon", x: 393, y: 104, z: -2035, time: 1741818853023L, xRot: 29.249554f, yRot: 29.726715f }
 		{ dim: "ad_astra:moon", x: 461, y: 111, z: -2949, time: 1741818866634L, xRot: -0.39705864f, yRot: -179.73529f }
+		{ dim: "minecraft:overworld", x: 941, y: 67, z: -2017, time: 1742408984857L, xRot: 36.530777f, yRot: 130.83366f }
+		{ dim: "ad_astra:moon", x: 461, y: 111, z: -2949, time: 1742408993768L, xRot: 1.5882342f, yRot: -179.86765f }
 	]
 	homes: { }
 }

@@ -84,6 +84,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/birch_planks_from_birch_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-19 17:21:29 +0100"
+    },
+    "done": true
+  },
   "vinery:big_table": {
     "criteria": {
       "has_the_recipe": "2025-01-26 14:35:59 +0100"
@@ -1337,6 +1343,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/birch": {
+    "criteria": {
+      "has_planks": "2025-03-19 17:21:29 +0100"
+    },
+    "done": true
+  },
   "vinery:acacia_wine_rack_big": {
     "criteria": {
       "has_the_recipe": "2025-01-26 14:35:59 +0100"
@@ -2014,6 +2026,12 @@
       "in_witch_hut_oak": "2025-01-30 23:31:36 +0100"
     },
     "done": false
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-03-19 17:47:27 +0100"
+    },
+    "done": true
   },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_from_dark_oak_slab_woodcutting": {
     "criteria": {
