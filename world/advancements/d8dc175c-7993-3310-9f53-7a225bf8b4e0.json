@@ -429,9 +429,21 @@
     },
     "done": true
   },
+  "extradelight:amethyst": {
+    "criteria": {
+      "amethyst_mortar": "2025-03-20 12:58:25 +0100"
+    },
+    "done": false
+  },
   "minecraft:recipes/woodcutting/birch/birch_door_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-09 15:54:39 +0100"
+    },
+    "done": true
+  },
+  "extradelight:mortar": {
+    "criteria": {
+      "mortar": "2025-03-20 12:58:25 +0100"
     },
     "done": true
   },
