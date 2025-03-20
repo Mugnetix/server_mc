@@ -30,6 +30,12 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "1": "2025-03-20 17:55:48 +0100"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-01-26 14:35:59 +0100"
@@ -706,6 +712,12 @@
   "minecraft:recipes/woodcutting/willow/willow_chest_from_willow_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-03-18 19:20:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-03-20 18:08:57 +0100"
     },
     "done": true
   },
@@ -1497,6 +1509,12 @@
   "mcwfences:recipes/blackstone": {
     "criteria": {
       "has_blackstone": "2025-01-26 14:35:58 +0100"
+    },
+    "done": true
+  },
+  "productivebees:husbandry/advanced_beehive": {
+    "criteria": {
+      "get_hive": "2025-03-20 16:42:16 +0100"
     },
     "done": true
   },
@@ -2372,6 +2390,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2025-01-31 01:50:09 +0100",
+      "minecraft:bee": "2025-03-20 17:22:12 +0100",
       "minecraft:sheep": "2025-02-08 02:05:38 +0100",
       "minecraft:chicken": "2025-01-31 12:27:43 +0100"
     },
@@ -2704,6 +2723,12 @@
   "minecraft:recipes/woodcutting/mangrove/mangrove_planks_from_mangrove_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-07 14:15:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/safely_harvest_honey": {
+    "criteria": {
+      "safely_harvest_honey": "2025-03-20 18:11:36 +0100"
     },
     "done": true
   },

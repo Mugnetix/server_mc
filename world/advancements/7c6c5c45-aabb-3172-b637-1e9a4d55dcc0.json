@@ -953,6 +953,12 @@
     },
     "done": true
   },
+  "create:stressometer_maxed": {
+    "criteria": {
+      "0": "2025-03-20 17:55:05 +0100"
+    },
+    "done": true
+  },
   "croptopia:getseeds": {
     "criteria": {
       "has_seeds": "2025-01-26 23:49:16 +0100"
@@ -1214,6 +1220,12 @@
   "minecraft:recipes/woodcutting/oak/oak_fence_gate_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-26 23:44:01 +0100"
+    },
+    "done": true
+  },
+  "create:mechanical_arm": {
+    "criteria": {
+      "0": "2025-03-20 20:09:36 +0100"
     },
     "done": true
   },
@@ -1495,6 +1507,12 @@
   "vinery:wine_bottle": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:53 +0100"
+    },
+    "done": true
+  },
+  "create:speed_controller": {
+    "criteria": {
+      "0": "2025-03-20 17:40:54 +0100"
     },
     "done": true
   },
@@ -2713,6 +2731,12 @@
     },
     "done": true
   },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2025-03-20 17:48:22 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/chest_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-07 17:09:15 +0100"
@@ -3359,6 +3383,12 @@
     },
     "done": true
   },
+  "create:arm_blaze_burner": {
+    "criteria": {
+      "0": "2025-03-20 20:09:10 +0100"
+    },
+    "done": true
+  },
   "extradelight:start": {
     "criteria": {
       "start": "2025-01-18 23:38:52 +0100"
@@ -3482,6 +3512,12 @@
   "beautify:progression/hanging_pot": {
     "criteria": {
       "obtain": "2025-02-08 02:07:28 +0100"
+    },
+    "done": true
+  },
+  "create:stressometer": {
+    "criteria": {
+      "0": "2025-03-20 17:42:58 +0100"
     },
     "done": true
   },
