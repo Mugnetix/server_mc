@@ -1552,6 +1552,12 @@
     },
     "done": true
   },
+  "dimstorage:dimensional_tank": {
+    "criteria": {
+      "inv_changed": "2025-03-21 15:19:37 +0100"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:52 +0100"
@@ -1585,6 +1591,12 @@
   "comforts:sleeping_bag_gray": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:52 +0100"
+    },
+    "done": true
+  },
+  "dimstorage:root": {
+    "criteria": {
+      "inv_changed": "2025-03-21 15:19:14 +0100"
     },
     "done": true
   },
@@ -2543,6 +2555,12 @@
     },
     "done": true
   },
+  "create:compacting": {
+    "criteria": {
+      "0": "2025-03-21 14:10:30 +0100"
+    },
+    "done": true
+  },
   "tetra:spelunking/geode": {
     "criteria": {
       "get_geode": "2025-02-03 18:25:18 +0100"
@@ -3013,6 +3031,12 @@
   "ad_astra:tier_1_rocket": {
     "criteria": {
       "tier_1_rocket": "2025-03-10 20:02:37 +0100"
+    },
+    "done": true
+  },
+  "create:steam_engine_maxed": {
+    "criteria": {
+      "0": "2025-03-21 15:05:14 +0100"
     },
     "done": true
   },
@@ -4177,6 +4201,12 @@
   "mcwfences:recipes/acacia": {
     "criteria": {
       "has_acacia": "2025-01-18 23:38:52 +0100"
+    },
+    "done": true
+  },
+  "create:arm_many_targets": {
+    "criteria": {
+      "0": "2025-03-21 13:28:18 +0100"
     },
     "done": true
   },
