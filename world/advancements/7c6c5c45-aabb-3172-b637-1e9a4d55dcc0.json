@@ -284,6 +284,7 @@
       "barley_seed": "2025-02-01 14:00:57 +0100",
       "raspberry_seed": "2025-02-09 16:06:03 +0100",
       "coffee_seed": "2025-01-31 17:37:40 +0100",
+      "blackberry_seed": "2025-03-22 16:19:56 +0100",
       "mustard_seed": "2025-03-17 13:01:13 +0100"
     },
     "done": false
@@ -348,6 +349,12 @@
       "in_better_monster_room": "2025-01-31 15:36:42 +0100"
     },
     "done": false
+  },
+  "graveyard:graveyard/large_graveyard": {
+    "criteria": {
+      "large_graveyard": "2025-03-22 16:23:31 +0100"
+    },
+    "done": true
   },
   "minecraft:recipes/woodcutting/birch/birch_planks_from_birch_slab_woodcutting": {
     "criteria": {
@@ -1150,6 +1157,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/find_skeleton": {
+    "criteria": {
+      "skeleton": "2025-03-22 16:28:50 +0100"
+    },
+    "done": true
+  },
   "repurposed_structures:villages": {
     "criteria": {
       "in_village_oak": "2025-01-30 03:58:46 +0100",
@@ -1734,6 +1747,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-22 15:57:09 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mangrove/mangrove_pressure_plate_from_mangrove_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-07 13:52:13 +0100"
@@ -2268,6 +2287,7 @@
   "croptopia:gather_forest": {
     "criteria": {
       "cantaloupe_seed": "2025-01-27 02:02:58 +0100",
+      "blackberry_seed": "2025-03-22 16:19:56 +0100",
       "tea_seed": "2025-02-06 23:37:06 +0100",
       "elderberry_seed": "2025-03-07 15:02:02 +0100",
       "strawberry_seed": "2025-02-05 21:25:01 +0100",
@@ -2339,6 +2359,7 @@
   },
   "repurposed_structures:pyramids": {
     "criteria": {
+      "in_pyramid_giant_tree_taiga": "2025-03-22 15:56:14 +0100",
       "in_pyramid_nether": "2025-03-16 19:07:04 +0100",
       "in_pyramid_badlands": "2025-03-17 12:53:05 +0100",
       "in_pyramid_flower_forest": "2025-02-01 00:44:10 +0100"
@@ -2473,7 +2494,8 @@
   },
   "repurposed_structures:witch_huts": {
     "criteria": {
-      "in_witch_hut_oak": "2025-01-30 03:58:39 +0100"
+      "in_witch_hut_oak": "2025-01-30 03:58:39 +0100",
+      "in_witch_hut_giant_tree_taiga": "2025-03-22 15:55:54 +0100"
     },
     "done": false
   },
@@ -2627,6 +2649,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2025-03-22 16:25:49 +0100"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "sweet_berries": "2025-01-27 00:26:48 +0100",
@@ -2643,6 +2671,7 @@
       "melon_slice": "2025-01-31 17:39:27 +0100",
       "cooked_chicken": "2025-01-27 00:37:26 +0100",
       "mushroom_stew": "2025-02-03 18:07:40 +0100",
+      "rabbit_stew": "2025-03-22 16:19:33 +0100",
       "carrot": "2025-03-20 01:13:36 +0100"
     },
     "done": false
@@ -2789,6 +2818,12 @@
   "chalk:adventure/sleep_three_times_in_one_place": {
     "criteria": {
       "sleep_three_times_in_one_place": "2025-01-27 01:21:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-03-22 16:32:52 +0100"
     },
     "done": true
   },
@@ -4036,6 +4071,12 @@
   "vinery:vinemaker_apron": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:52 +0100"
+    },
+    "done": true
+  },
+  "endrem:main/eyes_recipe": {
+    "criteria": {
+      "eyes": "2025-03-22 17:08:42 +0100"
     },
     "done": true
   },
