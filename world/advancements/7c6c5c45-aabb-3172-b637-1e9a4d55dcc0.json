@@ -43,6 +43,12 @@
     },
     "done": true
   },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "in_igloo_grassy": "2025-03-22 20:34:35 +0100"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:53 +0100"
@@ -458,6 +464,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2025-03-22 21:24:57 +0100"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2025-01-18 23:38:52 +0100"
@@ -524,6 +536,12 @@
     },
     "done": true
   },
+  "immersiveengineering:tools/craft_revolver": {
+    "criteria": {
+      "has_item": "2025-03-23 00:01:27 +0100"
+    },
+    "done": true
+  },
   "vinery:fermentation_barrel": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:52 +0100"
@@ -551,6 +569,12 @@
   "minecraft:recipes/woodcutting/birch/birch_chest_boat_from_birch_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-03-17 14:16:20 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_treatedwood": {
+    "criteria": {
+      "has_item": "2025-03-23 00:00:12 +0100"
     },
     "done": true
   },
@@ -1191,6 +1215,12 @@
   "create:andesite_alloy": {
     "criteria": {
       "0": "2025-02-07 17:19:17 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:tools/tools_root": {
+    "criteria": {
+      "has_item": "2025-03-23 00:06:31 +0100"
     },
     "done": true
   },
@@ -1899,6 +1929,7 @@
       "minecraft:snowy_taiga": "2025-01-27 00:00:25 +0100",
       "minecraft:dripstone_caves": "2025-01-31 15:27:11 +0100",
       "minecraft:grove": "2025-01-31 16:22:31 +0100",
+      "minecraft:swamp": "2025-03-22 20:07:37 +0100",
       "minecraft:jagged_peaks": "2025-01-31 16:47:50 +0100",
       "minecraft:cold_ocean": "2025-01-20 23:51:26 +0100",
       "minecraft:forest": "2025-01-27 00:19:24 +0100",
@@ -2441,6 +2472,12 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_trapdoor_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-08 02:40:27 +0100"
+    },
+    "done": true
+  },
+  "farmersrespite:main/get_tea_seeds": {
+    "criteria": {
+      "get_tea_seeds": "2025-03-22 20:10:04 +0100"
     },
     "done": true
   },
@@ -3141,6 +3178,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/craft_workbench": {
+    "criteria": {
+      "has_item": "2025-03-23 00:06:31 +0100"
+    },
+    "done": true
+  },
   "mcwfences:recipes/quartz": {
     "criteria": {
       "has_qq": "2025-01-18 23:38:52 +0100"
@@ -3204,6 +3247,12 @@
   "minecraft:recipes/woodcutting/jungle/jungle_sign_from_jungle_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-30 04:34:08 +0100"
+    },
+    "done": true
+  },
+  "productivebees:husbandry/bee_cage/catch_any_bee": {
+    "criteria": {
+      "catch": "2025-03-22 20:08:42 +0100"
     },
     "done": true
   },
@@ -3404,6 +3453,7 @@
       "sweet_berries": "2025-01-27 00:30:31 +0100",
       "kelp": "2025-02-07 18:10:02 +0100",
       "beetroot": "2025-02-09 16:06:08 +0100",
+      "brown_mushroom": "2025-03-22 22:06:41 +0100",
       "sugar_cane": "2025-02-01 13:24:48 +0100",
       "potato": "2025-02-01 13:10:19 +0100",
       "nether_wart": "2025-03-15 20:26:24 +0100",
@@ -4278,6 +4328,12 @@
   "endrem:main/lost_eye": {
     "criteria": {
       "lost_eye": "2025-01-31 15:32:19 +0100"
+    },
+    "done": true
+  },
+  "quark:pathfinder_map_center": {
+    "criteria": {
+      "pathfinder_map_center": "2025-03-22 20:10:14 +0100"
     },
     "done": true
   },
