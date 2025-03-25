@@ -42,6 +42,12 @@
     },
     "done": false
   },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "in_igloo_grassy": "2025-03-25 22:26:40 +0100"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-01-26 14:35:59 +0100"
@@ -183,6 +189,12 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_sign_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-01 00:17:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-03-25 23:08:50 +0100"
     },
     "done": true
   },
@@ -706,11 +718,13 @@
       "minecraft:blaze": "2025-03-22 23:47:36 +0100",
       "minecraft:skeleton": "2025-01-30 23:27:43 +0100",
       "minecraft:ghast": "2025-03-22 23:44:37 +0100",
+      "minecraft:hoglin": "2025-03-25 23:05:55 +0100",
       "minecraft:vindicator": "2025-01-31 14:56:57 +0100",
       "minecraft:spider": "2025-01-28 00:31:40 +0100",
       "minecraft:creeper": "2025-01-31 15:22:25 +0100",
       "minecraft:phantom": "2025-02-09 15:10:22 +0100",
       "minecraft:witch": "2025-01-30 23:32:07 +0100",
+      "minecraft:wither_skeleton": "2025-03-25 23:06:19 +0100",
       "minecraft:husk": "2025-02-01 00:04:14 +0100",
       "minecraft:silverfish": "2025-01-31 15:11:18 +0100",
       "minecraft:enderman": "2025-02-06 23:49:26 +0100",
@@ -973,6 +987,7 @@
     "criteria": {
       "in_village_birch": "2025-01-27 00:41:17 +0100",
       "in_village_oak": "2025-01-30 23:23:55 +0100",
+      "in_village_jungle": "2025-03-25 22:55:07 +0100",
       "in_village_warped": "2025-03-22 23:42:11 +0100"
     },
     "done": false
@@ -1213,9 +1228,10 @@
   },
   "silentgear:nether_plants": {
     "criteria": {
-      "banana": "2025-02-22 23:34:15 +0100"
+      "banana": "2025-02-22 23:34:15 +0100",
+      "sapling": "2025-03-25 23:07:57 +0100"
     },
-    "done": false
+    "done": true
   },
   "comforts:sleeping_bag_orange_from_white": {
     "criteria": {
@@ -1360,6 +1376,12 @@
       "0": "2025-03-05 21:15:40 +0100"
     },
     "done": true
+  },
+  "silentgear:crimson_iron": {
+    "criteria": {
+      "get_ingot": "2025-03-25 23:07:55 +0100"
+    },
+    "done": false
   },
   "minecraft:recipes/woodcutting/oak/oak_planks_from_stripped_oak_log_woodcutting": {
     "criteria": {
@@ -1574,6 +1596,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-03-25 21:51:42 +0100",
       "minecraft:old_growth_pine_taiga": "2025-01-27 00:31:29 +0100",
       "minecraft:mushroom_fields": "2025-03-07 15:40:49 +0100",
       "minecraft:taiga": "2025-01-27 00:18:33 +0100",
@@ -1594,8 +1617,11 @@
       "minecraft:snowy_taiga": "2025-01-27 00:00:41 +0100",
       "minecraft:dripstone_caves": "2025-03-07 18:36:31 +0100",
       "minecraft:swamp": "2025-02-05 22:23:56 +0100",
+      "minecraft:grove": "2025-03-25 21:50:31 +0100",
+      "minecraft:jagged_peaks": "2025-03-25 21:50:36 +0100",
       "minecraft:cold_ocean": "2025-01-26 15:49:09 +0100",
       "minecraft:forest": "2025-01-30 23:20:01 +0100",
+      "minecraft:lush_caves": "2025-03-25 22:23:00 +0100",
       "minecraft:deep_cold_ocean": "2025-01-27 00:05:38 +0100",
       "minecraft:ice_spikes": "2025-01-27 00:13:27 +0100",
       "minecraft:frozen_ocean": "2025-01-26 23:55:31 +0100",
@@ -2025,6 +2051,12 @@
     },
     "done": true
   },
+  "quark:get_all_blossom_saplings": {
+    "criteria": {
+      "pink": "2025-03-25 23:29:01 +0100"
+    },
+    "done": false
+  },
   "mcwroofs:recipes/stone": {
     "criteria": {
       "has_planks": "2025-02-05 21:51:46 +0100"
@@ -2136,6 +2168,12 @@
   "comforts:hammock_yellow": {
     "criteria": {
       "has_the_recipe": "2025-01-26 14:35:59 +0100"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_conqueror": {
+    "criteria": {
+      "location0": "2025-03-25 23:05:03 +0100"
     },
     "done": true
   },
@@ -2427,6 +2465,12 @@
   "chalk:adventure/sleep_three_times_in_one_place": {
     "criteria": {
       "sleep_three_times_in_one_place": "2025-02-01 01:17:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-03-25 23:08:23 +0100"
     },
     "done": true
   },
@@ -3551,6 +3595,8 @@
       "byg:prairie": "2025-01-28 00:34:34 +0100",
       "byg:coconino_meadow": "2025-01-30 23:06:21 +0100",
       "byg:rainbow_beach": "2025-01-31 14:34:28 +0100",
+      "byg:temperate_grove": "2025-03-25 22:34:29 +0100",
+      "byg:autumnal_taiga": "2025-03-25 22:01:43 +0100",
       "byg:black_forest": "2025-01-27 00:36:18 +0100",
       "byg:orchard": "2025-01-28 00:34:14 +0100",
       "byg:red_oak_forest": "2025-01-27 00:45:39 +0100",
@@ -3565,12 +3611,14 @@
       "byg:magma_wastes": "2025-03-17 12:53:04 +0100",
       "byg:embur_bog": "2025-03-22 23:45:48 +0100",
       "byg:zelkova_forest": "2025-01-27 00:18:23 +0100",
+      "byg:crag_gardens": "2025-03-25 21:44:17 +0100",
       "byg:autumnal_valley": "2025-01-26 14:52:47 +0100",
       "byg:aspen_forest": "2025-01-28 00:32:29 +0100",
       "byg:skyris_vale": "2025-01-27 00:36:48 +0100",
       "byg:forgotten_forest": "2025-03-07 16:27:44 +0100",
       "byg:crimson_gardens": "2025-03-13 10:34:14 +0100",
       "byg:cardinal_tundra": "2025-01-27 00:02:32 +0100",
+      "byg:baobab_savanna": "2025-03-25 22:38:35 +0100",
       "byg:amaranth_fields": "2025-01-31 14:22:09 +0100",
       "byg:ebony_woods": "2025-01-31 14:38:50 +0100",
       "byg:basalt_barrera": "2025-02-01 00:23:55 +0100",
@@ -3676,7 +3724,8 @@
   },
   "repurposed_structures:outposts": {
     "criteria": {
-      "in_outpost_jungle": "2025-03-07 16:29:50 +0100"
+      "in_outpost_jungle": "2025-03-07 16:29:50 +0100",
+      "in_outpost_oak": "2025-03-25 21:52:15 +0100"
     },
     "done": false
   },

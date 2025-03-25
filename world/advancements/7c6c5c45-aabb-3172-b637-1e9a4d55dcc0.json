@@ -495,6 +495,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by": "2025-03-25 22:55:23 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_planks_from_stripped_spruce_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-07 16:36:19 +0100"
@@ -956,6 +962,7 @@
       "COOKING_OIL": "2025-03-07 14:00:35 +0100",
       "BREAD_SLICE": "2025-03-07 14:00:34 +0100",
       "CARROT_JAM": "2025-01-30 04:20:59 +0100",
+      "SLICED_POTATO": "2025-03-25 22:53:48 +0100",
       "BUTTER": "2025-03-12 22:43:52 +0100",
       "SLICED_ONION": "2025-03-07 14:00:35 +0100"
     },
@@ -1052,12 +1059,14 @@
       "CACTUS_SOUP": "2025-02-07 01:25:20 +0100",
       "GRILLED_CHEESE": "2025-02-01 00:12:17 +0100",
       "LAMB_STEW": "2025-02-01 01:34:02 +0100",
+      "JERKY": "2025-03-25 22:54:14 +0100",
       "SEAWEED_CRISPS": "2025-01-30 04:19:54 +0100",
       "ROASTED_CARROT": "2025-01-30 04:20:59 +0100",
       "HASH": "2025-01-30 04:19:53 +0100",
       "OMELETTE": "2025-02-01 00:28:58 +0100",
       "BBQ_RIBS": "2025-01-30 04:19:53 +0100",
       "SALISBURY_STEAK": "2025-03-07 14:00:34 +0100",
+      "APPLE_SAUCE": "2025-03-25 22:53:49 +0100",
       "PORK_STEW": "2025-03-07 14:27:46 +0100",
       "MASHED_POTATO_GRAVY": "2025-01-30 04:20:59 +0100",
       "BEEF_WELLINGTON": "2025-02-01 00:12:19 +0100",
@@ -1068,6 +1077,7 @@
       "POT_ROAST": "2025-02-01 00:12:18 +0100",
       "CHICKEN_STEW_RICE": "2025-03-07 14:00:34 +0100",
       "CACTUS_EGGS": "2025-01-30 04:19:53 +0100",
+      "RICEBALL": "2025-03-25 22:54:14 +0100",
       "CARROT_SOUP": "2025-02-01 00:29:00 +0100",
       "JAM_TOAST": "2025-01-30 04:21:12 +0100",
       "COOKED_CACTUS": "2025-03-17 14:37:37 +0100",
@@ -1240,6 +1250,12 @@
   "immersiveengineering:tools/tools_root": {
     "criteria": {
       "has_item": "2025-03-23 00:06:31 +0100"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/crypt": {
+    "criteria": {
+      "crypt": "2025-03-25 21:59:44 +0100"
     },
     "done": true
   },
@@ -2083,6 +2099,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-03-25 21:57:56 +0100"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:53 +0100"
@@ -2420,6 +2442,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/wraith_dim_light": {
+    "criteria": {
+      "dim_light": "2025-03-25 22:08:22 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_pressure_plate_from_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-07 11:18:15 +0100"
@@ -2473,6 +2501,7 @@
   },
   "quark:get_all_blossom_saplings": {
     "criteria": {
+      "pink": "2025-03-25 21:50:00 +0100",
       "yellow": "2025-01-30 04:10:36 +0100"
     },
     "done": false
@@ -2945,6 +2974,12 @@
       "minecraft:panda": "2025-03-07 15:35:37 +0100"
     },
     "done": false
+  },
+  "graveyard:graveyard/kill_wraith": {
+    "criteria": {
+      "wraith": "2025-03-25 22:01:20 +0100"
+    },
+    "done": true
   },
   "dungeons_arise:find_bathhouse": {
     "criteria": {
@@ -3496,6 +3531,12 @@
   "mcwroofs:recipes/nether_bricks": {
     "criteria": {
       "has_planks": "2025-02-12 01:35:17 +0100"
+    },
+    "done": true
+  },
+  "byg:husbandry/forager": {
+    "criteria": {
+      "white_puffball_cap": "2025-03-25 21:45:30 +0100"
     },
     "done": true
   },
@@ -4103,6 +4144,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/dark_iron": {
+    "criteria": {
+      "dark_iron": "2025-03-25 22:02:20 +0100"
+    },
+    "done": true
+  },
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
       "byg:allium_fields": "2025-01-31 00:30:51 +0100",
@@ -4113,9 +4160,11 @@
       "byg:temperate_grove": "2025-01-31 15:58:56 +0100",
       "byg:black_forest": "2025-01-31 00:29:27 +0100",
       "byg:orchard": "2025-01-30 03:32:25 +0100",
+      "byg:red_oak_forest": "2025-03-25 21:45:00 +0100",
       "byg:cypress_swamplands": "2025-02-05 16:54:33 +0100",
       "byg:fragment_forest": "2025-03-07 16:26:14 +0100",
       "byg:autumnal_forest": "2025-02-04 02:44:38 +0100",
+      "byg:rose_fields": "2025-03-25 21:53:27 +0100",
       "byg:quartz_desert": "2025-02-02 17:53:10 +0100",
       "byg:cika_woods": "2025-01-31 01:47:08 +0100",
       "byg:white_mangrove_marshes": "2025-02-05 16:20:05 +0100",
