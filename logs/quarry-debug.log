@@ -1,10 +1,5 @@
-[2025-03-24T15:55:22,254][W] [TQW/initialLog]: Config in '§6⚠ Wipe your §c§l§kfeet§6 when entering ⚠'
+[2025-03-24T21:48:36,150][W] [TQW/initialLog]: Config in '§6⚠ Wipe your §c§l§kfeet§6 when entering ⚠'
 {
-  "server": {
-    "machineWork": {
-      "unworkableDimensions": []
-    }
-  },
   "common": {
     "enableMap": {
       "mini_quarry": true,
@@ -129,6 +124,11 @@
         "breakFortuneCoefficient": 1.5874010519681996,
         "breakSilktouchCoefficient": 4.0
       }
+    }
+  },
+  "server": {
+    "machineWork": {
+      "unworkableDimensions": []
     }
   }
 }
