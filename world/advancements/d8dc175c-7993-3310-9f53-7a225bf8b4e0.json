@@ -371,6 +371,12 @@
     },
     "done": true
   },
+  "create_enchantment_industry:a_shower_experience": {
+    "criteria": {
+      "builtin": "2025-03-25 20:06:17 +0100"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_pink": {
     "criteria": {
       "has_the_recipe": "2025-01-26 14:35:59 +0100"
@@ -2243,10 +2249,12 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-03-25 19:54:21 +0100",
       "chicken": "2025-01-27 00:22:21 +0100",
       "sweet_berries": "2025-01-27 00:33:36 +0100",
       "cooked_beef": "2025-02-07 00:13:39 +0100",
       "baked_potato": "2025-01-30 23:17:33 +0100",
+      "porkchop": "2025-03-25 19:52:39 +0100",
       "apple": "2025-01-26 23:48:31 +0100",
       "potato": "2025-02-05 22:07:13 +0100",
       "bread": "2025-01-31 23:52:54 +0100",
@@ -2254,6 +2262,7 @@
       "rotten_flesh": "2025-01-31 13:25:04 +0100",
       "melon_slice": "2025-01-27 00:02:20 +0100",
       "beetroot": "2025-01-31 01:05:16 +0100",
+      "rabbit_stew": "2025-03-25 19:54:09 +0100",
       "carrot": "2025-01-28 00:52:05 +0100"
     },
     "done": false
@@ -2549,6 +2558,12 @@
       "in_ancient_city_ocean": "2025-03-07 16:23:41 +0100"
     },
     "done": false
+  },
+  "create_enchantment_industry:spirit_taking": {
+    "criteria": {
+      "builtin": "2025-03-25 20:06:56 +0100"
+    },
+    "done": true
   },
   "corail_woodcutter:recipes/from_byg_pine_planks": {
     "criteria": {
@@ -3062,6 +3077,12 @@
   "farmersdelight:main/use_cutting_board": {
     "criteria": {
       "cutting_board": "2025-03-21 14:29:58 +0100"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/globe": {
+    "criteria": {
+      "unlock": "2025-03-25 20:00:26 +0100"
     },
     "done": true
   },

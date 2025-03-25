@@ -235,6 +235,12 @@
     },
     "done": true
   },
+  "create_enchantment_industry:experienced_engineer": {
+    "criteria": {
+      "have_experience_nugget": "2025-03-25 15:15:08 +0100"
+    },
+    "done": true
+  },
   "croptopia:gather_savanna": {
     "criteria": {
       "kiwi_seed": "2025-02-05 17:04:06 +0100",
@@ -269,6 +275,12 @@
   "mcwroofs:recipes/grass": {
     "criteria": {
       "has_planks": "2025-01-19 02:27:35 +0100"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_shell": {
+    "criteria": {
+      "soul_heart": "2025-03-25 17:30:53 +0100"
     },
     "done": true
   },
@@ -456,6 +468,12 @@
   "comforts:hammock_lime": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:52 +0100"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:a_shower_experience": {
+    "criteria": {
+      "builtin": "2025-03-25 16:33:15 +0100"
     },
     "done": true
   },
@@ -1338,6 +1356,18 @@
     },
     "done": true
   },
+  "create_enchantment_industry:experimental": {
+    "criteria": {
+      "builtin": "2025-03-25 16:34:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_planks_from_stripped_acacia_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-25 18:51:41 +0100"
+    },
+    "done": true
+  },
   "mcwfences:recipes/mangrove": {
     "criteria": {
       "has_mangrove": "2025-01-18 23:38:52 +0100"
@@ -1905,6 +1935,12 @@
     },
     "done": true
   },
+  "silentgear:crimson_steel": {
+    "criteria": {
+      "get_item": "2025-03-25 18:38:19 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-01-31 15:08:37 +0100",
@@ -2125,6 +2161,12 @@
   "tetra:spelunking/find_scroll_warforge": {
     "criteria": {
       "find": "2025-03-16 18:15:18 +0100"
+    },
+    "done": true
+  },
+  "silentgear:blaze_gold": {
+    "criteria": {
+      "get_item": "2025-03-25 18:34:55 +0100"
     },
     "done": true
   },
@@ -2708,6 +2750,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-03-25 18:42:00 +0100",
       "sweet_berries": "2025-01-27 00:26:48 +0100",
       "cooked_beef": "2025-01-28 00:49:48 +0100",
       "baked_potato": "2025-02-05 16:15:10 +0100",
@@ -2992,6 +3035,12 @@
       "in_ancient_city_ocean": "2025-03-07 16:23:29 +0100"
     },
     "done": false
+  },
+  "create_enchantment_industry:spirit_taking": {
+    "criteria": {
+      "builtin": "2025-03-25 16:33:58 +0100"
+    },
+    "done": true
   },
   "corail_woodcutter:recipes/from_byg_pine_planks": {
     "criteria": {
@@ -3515,6 +3564,12 @@
   "extradelight:start": {
     "criteria": {
       "start": "2025-01-18 23:38:52 +0100"
+    },
+    "done": true
+  },
+  "darkutils:adventure/faster_than_lightning": {
+    "criteria": {
+      "get_plate": "2025-03-25 18:19:15 +0100"
     },
     "done": true
   },
