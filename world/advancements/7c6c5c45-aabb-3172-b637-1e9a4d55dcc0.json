@@ -611,9 +611,10 @@
   },
   "extradelight:amethyst": {
     "criteria": {
+      "amethyst_pestle": "2025-03-26 16:57:00 +0100",
       "amethyst_mortar": "2025-03-17 14:37:50 +0100"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/woodcutting/birch/birch_door_from_birch_planks_woodcutting": {
     "criteria": {
@@ -721,6 +722,12 @@
   "aquamirae:recipes/spinefish": {
     "criteria": {
       "has_item": "2025-03-17 13:24:14 +0100"
+    },
+    "done": true
+  },
+  "tetra:spelunking/refill_cell": {
+    "criteria": {
+      "refill_cell": "2025-03-26 17:38:07 +0100"
     },
     "done": true
   },
@@ -894,6 +901,7 @@
       "minecraft:piglin": "2025-02-02 17:57:02 +0100",
       "minecraft:enderman": "2025-02-01 14:48:39 +0100",
       "minecraft:silverfish": "2025-03-07 16:11:17 +0100",
+      "minecraft:stray": "2025-03-26 16:56:05 +0100",
       "minecraft:zombie": "2025-01-26 23:53:36 +0100",
       "quark:foxhound": "2025-03-16 18:39:18 +0100",
       "minecraft:drowned": "2025-01-29 02:15:20 +0100",
@@ -1056,14 +1064,19 @@
     "criteria": {
       "CHICKEN_FRIED_STEAK": "2025-02-07 01:23:42 +0100",
       "MEAT_LOAF_SANDWICH": "2025-03-17 14:37:38 +0100",
+      "SEAWEED_SALAD": "2025-03-26 16:39:21 +0100",
       "CACTUS_SOUP": "2025-02-07 01:25:20 +0100",
       "GRILLED_CHEESE": "2025-02-01 00:12:17 +0100",
+      "CHICKEN_STEW": "2025-03-26 16:39:26 +0100",
+      "HAGGIS": "2025-03-26 16:39:20 +0100",
       "LAMB_STEW": "2025-02-01 01:34:02 +0100",
       "JERKY": "2025-03-25 22:54:14 +0100",
       "SEAWEED_CRISPS": "2025-01-30 04:19:54 +0100",
       "ROASTED_CARROT": "2025-01-30 04:20:59 +0100",
       "HASH": "2025-01-30 04:19:53 +0100",
       "OMELETTE": "2025-02-01 00:28:58 +0100",
+      "FISH_SOUP": "2025-03-26 16:59:49 +0100",
+      "FISH_CAKES": "2025-03-26 16:39:20 +0100",
       "BBQ_RIBS": "2025-01-30 04:19:53 +0100",
       "SALISBURY_STEAK": "2025-03-07 14:00:34 +0100",
       "APPLE_SAUCE": "2025-03-25 22:53:49 +0100",
@@ -1083,6 +1096,7 @@
       "COOKED_CACTUS": "2025-03-17 14:37:37 +0100",
       "CHEESE_SANDWICH": "2025-02-01 00:12:16 +0100",
       "POTATO_SOUP": "2025-03-07 13:59:56 +0100",
+      "CARROT_SALAD": "2025-03-26 16:59:21 +0100",
       "SOS": "2025-03-17 14:37:38 +0100",
       "PORK_TENDERLOIN": "2025-01-30 04:20:59 +0100"
     },
@@ -1121,6 +1135,12 @@
   "nethervinery:crimson_grape_seeds": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:52 +0100"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_cell": {
+    "criteria": {
+      "get_cell": "2025-03-26 17:38:07 +0100"
     },
     "done": true
   },
@@ -1326,7 +1346,10 @@
       "SWEET_BERRY_PIE_SLICE": "2025-03-17 14:37:42 +0100",
       "GLOW_BERRY_CHEESECAKE_SLICE": "2025-03-17 14:37:41 +0100",
       "CHOCOLATE_CUSTARD": "2025-02-01 00:19:15 +0100",
-      "GLOW_BERRY_PIE_SLICE": "2025-02-01 00:12:14 +0100"
+      "PUMPKIN_COOKIE": "2025-03-26 16:59:21 +0100",
+      "GLOW_BERRY_PIE_SLICE": "2025-02-01 00:12:14 +0100",
+      "CHOCOLATE_CHEESECAKE_SLICE": "2025-03-26 16:59:21 +0100",
+      "HONEY_CUSTARD": "2025-03-26 16:39:26 +0100"
     },
     "done": false
   },
@@ -2400,6 +2423,12 @@
     },
     "done": false
   },
+  "tetra:spelunking/ancient_ruins": {
+    "criteria": {
+      "regular_ruin": "2025-03-26 17:37:00 +0100"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_byg_green_enchanted_planks": {
     "criteria": {
       "has_ingredient": "2025-01-18 23:38:52 +0100"
@@ -2469,6 +2498,7 @@
   "repurposed_structures:pyramids": {
     "criteria": {
       "in_pyramid_giant_tree_taiga": "2025-03-22 15:56:14 +0100",
+      "in_pyramid_dark_forest": "2025-03-26 16:23:53 +0100",
       "in_pyramid_nether": "2025-03-16 19:07:04 +0100",
       "in_pyramid_badlands": "2025-03-17 12:53:05 +0100",
       "in_pyramid_flower_forest": "2025-02-01 00:44:10 +0100"
@@ -2502,7 +2532,8 @@
   "quark:get_all_blossom_saplings": {
     "criteria": {
       "pink": "2025-03-25 21:50:00 +0100",
-      "yellow": "2025-01-30 04:10:36 +0100"
+      "yellow": "2025-01-30 04:10:36 +0100",
+      "lavender": "2025-03-26 16:45:38 +0100"
     },
     "done": false
   },
@@ -3279,6 +3310,12 @@
   "immersiveengineering:main/craft_workbench": {
     "criteria": {
       "has_item": "2025-03-23 00:06:31 +0100"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/dead_tree": {
+    "criteria": {
+      "dead_tree": "2025-03-26 16:11:49 +0100"
     },
     "done": true
   },
@@ -4102,6 +4139,12 @@
     },
     "done": true
   },
+  "silentgear:armor": {
+    "criteria": {
+      "leggings": "2025-03-26 16:54:39 +0100"
+    },
+    "done": true
+  },
   "pfm:grant_book_on_first_join": {
     "criteria": {
       "tick": "2025-01-18 23:38:52 +0100"
@@ -4311,7 +4354,8 @@
   "repurposed_structures:outposts": {
     "criteria": {
       "in_outpost_desert": "2025-03-17 14:18:59 +0100",
-      "in_outpost_jungle": "2025-03-07 16:29:49 +0100"
+      "in_outpost_jungle": "2025-03-07 16:29:49 +0100",
+      "in_outpost_oak": "2025-03-26 16:34:37 +0100"
     },
     "done": false
   },

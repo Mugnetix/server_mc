@@ -96,6 +96,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/jungle/jungle_fence_gate_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-26 17:41:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/barrel_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-26 17:41:16 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_fence_gate_from_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-06 10:54:18 +0100"
@@ -233,6 +245,7 @@
     "criteria": {
       "cantaloupe_seed": "2025-03-05 18:14:45 +0100",
       "vanilla_seeds": "2025-03-08 01:14:32 +0100",
+      "cauliflower_seed": "2025-03-26 17:22:59 +0100",
       "elderberry_seed": "2025-03-08 01:14:07 +0100",
       "tomato_seed": "2025-03-06 10:42:05 +0100",
       "chile_pepper_seed": "2025-03-08 01:14:13 +0100",
@@ -307,9 +320,16 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_spider_dungeon": "2025-02-05 22:44:55 +0100"
+      "in_better_spider_dungeon": "2025-02-05 22:44:55 +0100",
+      "in_better_monster_room": "2025-03-26 16:55:30 +0100"
     },
     "done": false
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-03-26 16:27:11 +0100"
+    },
+    "done": true
   },
   "mcwfences:recipes/jungle": {
     "criteria": {
@@ -326,6 +346,12 @@
   "mcwfences:recipes/oak": {
     "criteria": {
       "has_oak": "2025-01-26 14:35:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_fence_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-26 17:41:16 +0100"
     },
     "done": true
   },
@@ -434,6 +460,12 @@
   "minecraft:recipes/woodcutting/willow/willow_pressure_plate_from_willow_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-03-18 19:20:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-03-26 16:28:18 +0100"
     },
     "done": true
   },
@@ -623,7 +655,14 @@
       "hamburger": "2025-03-07 14:24:16 +0100",
       "anchovy": "2025-03-07 15:49:36 +0100",
       "calamari": "2025-02-23 00:21:18 +0100",
-      "strawberry_ice_cream": "2025-03-05 22:22:26 +0100"
+      "strawberry_ice_cream": "2025-03-05 22:22:26 +0100",
+      "glowing_calamari": "2025-03-26 16:52:54 +0100"
+    },
+    "done": false
+  },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_savanna": "2025-03-26 16:12:40 +0100"
     },
     "done": false
   },
@@ -663,6 +702,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/jungle/jungle_stairs_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-26 17:41:16 +0100"
+    },
+    "done": true
+  },
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-01-31 15:12:35 +0100",
@@ -691,6 +736,12 @@
   "graveyard:graveyard/kill_graveyard_mob": {
     "criteria": {
       "revenant": "2025-01-30 23:15:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_button_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-26 17:41:16 +0100"
     },
     "done": true
   },
@@ -726,6 +777,7 @@
       "minecraft:witch": "2025-01-30 23:32:07 +0100",
       "minecraft:wither_skeleton": "2025-03-25 23:06:19 +0100",
       "minecraft:husk": "2025-02-01 00:04:14 +0100",
+      "minecraft:cave_spider": "2025-03-26 16:14:58 +0100",
       "minecraft:silverfish": "2025-01-31 15:11:18 +0100",
       "minecraft:enderman": "2025-02-06 23:49:26 +0100",
       "minecraft:zombie": "2025-01-27 00:46:53 +0100",
@@ -902,6 +954,12 @@
   "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
       "killed_by": "2025-03-22 23:42:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/chest_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-26 17:41:16 +0100"
     },
     "done": true
   },
@@ -1096,6 +1154,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/jungle/jungle_sign_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-26 17:41:16 +0100"
+    },
+    "done": true
+  },
   "vinery:cherry_stairs": {
     "criteria": {
       "has_the_recipe": "2025-01-26 14:35:59 +0100"
@@ -1135,6 +1199,12 @@
   "botanypots:husbandry/get_basic_pot": {
     "criteria": {
       "get_botany_pot": "2025-03-05 18:04:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_trapdoor_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-26 17:41:16 +0100"
     },
     "done": true
   },
@@ -1269,6 +1339,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/jungle/jungle_planks_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-26 17:41:16 +0100"
+    },
+    "done": true
+  },
   "nethervinery:warped_grapevine_pot": {
     "criteria": {
       "has_the_recipe": "2025-01-26 14:35:59 +0100"
@@ -1296,6 +1372,12 @@
   "ars_nouveau:warp_scroll": {
     "criteria": {
       "has_warp_scroll": "2025-03-07 18:31:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_door_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-26 17:41:16 +0100"
     },
     "done": true
   },
@@ -1382,6 +1464,12 @@
       "get_ingot": "2025-03-25 23:07:55 +0100"
     },
     "done": false
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-03-26 16:55:30 +0100"
+    },
+    "done": true
   },
   "minecraft:recipes/woodcutting/oak/oak_planks_from_stripped_oak_log_woodcutting": {
     "criteria": {
@@ -1558,6 +1646,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/jungle/jungle_chest_boat_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-26 17:41:16 +0100"
+    },
+    "done": true
+  },
   "nethervinery:warped_nether_bag": {
     "criteria": {
       "has_the_recipe": "2025-01-26 14:35:59 +0100"
@@ -1606,6 +1700,7 @@
       "minecraft:birch_forest": "2025-01-27 00:47:34 +0100",
       "minecraft:windswept_hills": "2025-02-07 14:38:12 +0100",
       "minecraft:bamboo_jungle": "2025-03-07 15:34:27 +0100",
+      "minecraft:savanna_plateau": "2025-03-26 16:26:13 +0100",
       "minecraft:beach": "2025-01-26 14:48:10 +0100",
       "minecraft:dark_forest": "2025-01-27 00:39:39 +0100",
       "minecraft:mangrove_swamp": "2025-03-07 16:39:36 +0100",
@@ -1627,6 +1722,7 @@
       "minecraft:frozen_ocean": "2025-01-26 23:55:31 +0100",
       "minecraft:desert": "2025-01-31 23:22:48 +0100",
       "minecraft:deep_frozen_ocean": "2025-01-26 23:56:39 +0100",
+      "minecraft:windswept_forest": "2025-03-26 17:47:03 +0100",
       "minecraft:ocean": "2025-01-30 23:21:49 +0100",
       "minecraft:jungle": "2025-01-31 14:20:14 +0100",
       "minecraft:old_growth_spruce_taiga": "2025-01-27 00:31:46 +0100",
@@ -1635,6 +1731,7 @@
       "minecraft:deep_lukewarm_ocean": "2025-01-31 15:03:43 +0100",
       "minecraft:flower_forest": "2025-03-07 16:52:56 +0100",
       "minecraft:old_growth_birch_forest": "2025-01-27 00:40:10 +0100",
+      "minecraft:deep_dark": "2025-03-26 16:27:11 +0100",
       "minecraft:meadow": "2025-02-05 22:15:43 +0100",
       "minecraft:windswept_gravelly_hills": "2025-02-07 13:30:09 +0100",
       "minecraft:savanna": "2025-03-07 16:38:39 +0100",
@@ -1923,6 +2020,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/jungle/jungle_boat_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-26 17:41:16 +0100"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/pyrope_sword": {
     "criteria": {
       "has_resource": "2025-03-17 22:16:47 +0100"
@@ -1938,6 +2041,7 @@
   "croptopia:gather_forest": {
     "criteria": {
       "cantaloupe_seed": "2025-03-05 18:14:45 +0100",
+      "cauliflower_seed": "2025-03-26 17:22:59 +0100",
       "radish_seed": "2025-03-24 22:42:50 +0100",
       "elderberry_seed": "2025-03-08 01:14:07 +0100",
       "strawberry_seed": "2025-03-05 18:27:15 +0100",
@@ -2552,6 +2656,12 @@
   "minecraft:recipes/woodcutting/willow/polished_willow_stairs_from_willow_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-03-18 19:20:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_pressure_plate_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-26 17:41:16 +0100"
     },
     "done": true
   },
@@ -3364,6 +3474,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/kill_while_blinded": {
+    "criteria": {
+      "kill_while_blinded": "2025-03-26 17:18:49 +0100"
+    },
+    "done": true
+  },
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-01-26 14:35:59 +0100"
@@ -3397,6 +3513,12 @@
   "byg:husbandry/berrily_alive": {
     "criteria": {
       "blue_berry": "2025-01-27 00:18:22 +0100"
+    },
+    "done": true
+  },
+  "truedarkness:deep_dark_adv": {
+    "criteria": {
+      "deep_dark_adv": "2025-03-26 16:27:11 +0100"
     },
     "done": true
   },
@@ -3466,6 +3588,12 @@
   "supplementaries:husbandry/soap": {
     "criteria": {
       "stew": "2025-02-04 02:06:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/crafting_table_from_jungle_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-03-26 17:41:16 +0100"
     },
     "done": true
   },
@@ -3611,6 +3739,7 @@
       "byg:magma_wastes": "2025-03-17 12:53:04 +0100",
       "byg:embur_bog": "2025-03-22 23:45:48 +0100",
       "byg:zelkova_forest": "2025-01-27 00:18:23 +0100",
+      "byg:araucaria_savanna": "2025-03-26 17:27:06 +0100",
       "byg:crag_gardens": "2025-03-25 21:44:17 +0100",
       "byg:autumnal_valley": "2025-01-26 14:52:47 +0100",
       "byg:aspen_forest": "2025-01-28 00:32:29 +0100",
@@ -3846,6 +3975,12 @@
   "mcwroofs:recipes/andesite": {
     "criteria": {
       "has_planks": "2025-01-30 22:46:59 +0100"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2025-03-26 16:13:24 +0100"
     },
     "done": true
   },
