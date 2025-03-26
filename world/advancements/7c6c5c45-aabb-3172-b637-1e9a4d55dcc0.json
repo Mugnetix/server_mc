@@ -4615,6 +4615,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/lower_bone_staff": {
+    "criteria": {
+      "lower_bone_staff": "2025-03-26 22:40:14 +0100"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/awning": {
     "criteria": {
       "has_planks": "2025-01-30 03:25:47 +0100"
