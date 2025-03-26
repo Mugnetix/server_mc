@@ -78,12 +78,6 @@
     },
     "done": true
   },
-  "naturescompass:natures_compass": {
-    "criteria": {
-      "has_compass": "2025-01-26 14:35:58 +0100"
-    },
-    "done": true
-  },
   "ae2:main/compass": {
     "criteria": {
       "compass": "2025-02-07 13:12:42 +0100"
@@ -418,12 +412,6 @@
   "comforts:sleeping_bag_pink": {
     "criteria": {
       "has_the_recipe": "2025-01-26 14:35:59 +0100"
-    },
-    "done": true
-  },
-  "naturescompass:natures_compass_sapling": {
-    "criteria": {
-      "has_recipe": "2025-01-26 14:35:58 +0100"
     },
     "done": true
   },
@@ -3076,12 +3064,6 @@
   "minecraft:recipes/woodcutting/willow/polished_willow_button_from_willow_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-03-18 19:20:09 +0100"
-    },
-    "done": true
-  },
-  "naturescompass:natures_compass_log": {
-    "criteria": {
-      "has_recipe": "2025-01-26 14:35:58 +0100"
     },
     "done": true
   },

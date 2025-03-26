@@ -85,12 +85,6 @@
     },
     "done": true
   },
-  "naturescompass:natures_compass": {
-    "criteria": {
-      "has_compass": "2025-01-18 23:38:52 +0100"
-    },
-    "done": true
-  },
   "ae2:main/compass": {
     "criteria": {
       "compass": "2025-02-02 19:28:17 +0100"
@@ -486,12 +480,6 @@
   "minecraft:adventure/summon_iron_golem": {
     "criteria": {
       "summoned_golem": "2025-03-22 21:24:57 +0100"
-    },
-    "done": true
-  },
-  "naturescompass:natures_compass_sapling": {
-    "criteria": {
-      "has_recipe": "2025-01-18 23:38:52 +0100"
     },
     "done": true
   },
@@ -3466,12 +3454,6 @@
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-01-18 23:38:53 +0100"
-    },
-    "done": true
-  },
-  "naturescompass:natures_compass_log": {
-    "criteria": {
-      "has_recipe": "2025-01-18 23:38:52 +0100"
     },
     "done": true
   },
