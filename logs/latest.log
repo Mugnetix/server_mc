@@ -1,293 +1,92 @@
-[27Mar2025 00:00:23.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KimSooDuh> r u coming back
-[27Mar2025 00:00:39.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mugnetix> yes
-[27Mar2025 00:00:45.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mugnetix> ive found the last place to loot
-[27Mar2025 00:00:52.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mugnetix> which is from your bitcherei mod
-[27Mar2025 00:00:54.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KimSooDuh> im gonna change my shader settings
-[27Mar2025 00:01:00.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KimSooDuh> xDDD
-[27Mar2025 00:01:04.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KimSooDuh> i found one too
-[27Mar2025 00:01:05.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mugnetix> what settings
-[27Mar2025 00:01:08.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KimSooDuh> like a whole village
-[27Mar2025 00:01:09.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KimSooDuh> idk
-[27Mar2025 00:01:13.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KimSooDuh> ill see what i can lower
-[27Mar2025 00:02:17.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KimSooDuh> its weird cause
-[27Mar2025 00:02:22.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KimSooDuh> the normal maps dont work for seom reason xD
-[27Mar2025 00:02:37.352] [Server thread/WARN] [minecolonies/]: Writing Recipe Manager: 1 recipes!
-[27Mar2025 00:02:38.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KimSooDuh moved too quickly! 10.018668307065013,2.9000000000000625,-0.9750704412506366
-[27Mar2025 00:02:50.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mugnetix> lemme see
-[27Mar2025 00:02:56.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mugnetix: Set the weather to rain]
-[27Mar2025 00:03:19.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mugnetix> yes they dont work
-[27Mar2025 00:03:24.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mugnetix> for me too
-[27Mar2025 00:03:31.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KimSooDuh> i can see the puddles tho
-[27Mar2025 00:03:59.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mugnetix> now
-[27Mar2025 00:04:02.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mugnetix> the normals work
-[27Mar2025 00:04:07.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mugnetix> after i switched off the rain
-[27Mar2025 00:04:11.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KimSooDuh> no xD
-[27Mar2025 00:04:19.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KimSooDuh> not for me
-[27Mar2025 00:04:25.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KimSooDuh> oh nvm
-[27Mar2025 00:04:27.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KimSooDuh> they do
-[27Mar2025 00:05:17.961] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KimSooDuh lost connection: Disconnected
-[27Mar2025 00:05:17.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KimSooDuh left the game
-[27Mar2025 00:07:38.668] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3a7d7e86
-[27Mar2025 00:07:38.772] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KimSooDuh[/25.20.233.158:59711] logged in with entity id 4817 at (1019.8442421852786, 66.0, -1985.4417567333671)
-[27Mar2025 00:07:38.804] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to KimSooDuh
-[27Mar2025 00:07:38.805] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to KimSooDuh
-[27Mar2025 00:07:38.806] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to KimSooDuh
-[27Mar2025 00:07:38.806] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to KimSooDuh
-[27Mar2025 00:07:38.813] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to KimSooDuh
-[27Mar2025 00:07:38.816] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to KimSooDuh
-[27Mar2025 00:07:38.816] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to KimSooDuh
-[27Mar2025 00:07:39.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KimSooDuh joined the game
-[27Mar2025 00:07:39.086] [Server thread/INFO] [de.geheimagentnr1.auto_restart.task.AutoRestartTask/]: Empty server timer stopped
-[27Mar2025 00:07:39.095] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: KimSooDuh
-[27Mar2025 00:07:41.701] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=974, y=68, z=-2028} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=west,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[27Mar2025 00:08:27.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mugnetix> i am back
-[27Mar2025 00:08:59.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KimSooDuh> im gonna kill myself
-[27Mar2025 00:09:01.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KimSooDuh> come
-[27Mar2025 00:09:43.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KimSooDuh> did u do the skin
-[27Mar2025 00:09:47.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mugnetix> yes
-[27Mar2025 00:10:01.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KimSooDuh> omg why isnt it working now
-[27Mar2025 00:10:05.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <KimSooDuh> unitl now evyerhting was fine
-[27Mar2025 00:10:08.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mugnetix> it is
-[27Mar2025 00:10:09.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mugnetix> for me
-[27Mar2025 00:10:23.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mugnetix> ure blinking
-[27Mar2025 00:10:25.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mugnetix> im blinking
-[27Mar2025 00:10:26.345] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KimSooDuh lost connection: Disconnected
-[27Mar2025 00:10:26.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KimSooDuh left the game
-[27Mar2025 00:15:12.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mugnetix: Gamerule doDaylightCycle is now set to: false]
-[27Mar2025 00:24:51.082] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7907, l='ServerLevel[world]', x=1109.29, y=103.00, z=-2232.62] died, message: 'Villager hit the ground too hard'
-[27Mar2025 00:45:03.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mugnetix: Saved the game]
-[27Mar2025 01:03:29.794] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:29.829] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:29.879] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:29.931] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:29.977] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:30.030] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:30.081] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:30.133] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:30.180] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:30.231] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:30.281] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:30.333] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:30.383] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:30.428] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:30.481] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:30.531] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:30.577] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:30.631] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:30.681] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:30.733] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:30.778] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:30.830] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:30.880] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:30.931] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:30.981] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:31.030] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:31.079] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:31.132] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:31.176] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:31.232] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:31.280] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:31.332] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:31.379] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:31.429] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:31.476] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:31.530] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:31.578] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:31.629] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:31.676] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:31.730] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:31.778] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:31.827] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:31.877] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:31.928] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:31.978] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:32.027] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:32.077] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:32.127] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:32.179] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:32.227] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:32.278] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:32.327] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:32.381] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:32.431] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:03:32.481] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:11:17.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mugnetix moved too quickly! -490.1187397012458,-10.5,-25.781127558947446
-[27Mar2025 01:13:52.891] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=974, y=68, z=-2028} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=west,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[27Mar2025 01:25:11.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mugnetix moved too quickly! -488.34437264604094,-10.5625,-25.84542359184934
-[27Mar2025 01:26:53.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mugnetix moved too quickly! 491.5125100817002,13.0,24.396210349149897
-[27Mar2025 01:29:34.637] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:34.687] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:34.736] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:34.786] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:34.837] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:34.889] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:34.941] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:34.987] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:35.039] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:35.088] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:35.138] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:35.190] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:35.234] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:35.284] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:35.336] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:35.388] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:35.437] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:35.485] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:35.536] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:35.584] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:35.636] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:35.685] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:35.735] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:35.787] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:35.840] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:35.887] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:35.938] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:35.992] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:36.043] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:36.093] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:36.142] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:36.187] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:36.236] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:36.286] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:36.335] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:36.386] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:36.434] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:36.486] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:36.537] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:36.586] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:36.636] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:36.688] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:36.732] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:36.784] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:36.836] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:36.883] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:36.937] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:36.983] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:37.037] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:37.084] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:37.142] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:37.186] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:37.237] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:37.289] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:37.339] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:37.390] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:37.437] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:37.485] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:37.533] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:37.589] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:37.638] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:37.691] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:37.738] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:37.788] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:37.837] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:37.890] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:37.938] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:37.988] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:38.045] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:38.099] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:38.145] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:38.187] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:38.240] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:38.285] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:38.335] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:38.384] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:38.436] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:38.487] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:38.538] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:38.586] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:38.643] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:38.690] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:38.739] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:38.787] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:38.836] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:38.887] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:38.937] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:38.984] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:39.036] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:39.084] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:39.135] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:39.183] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:39.237] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:39.284] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:39.335] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:29:39.386] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:experience_orb but it was marked as removed already
-[27Mar2025 01:41:53.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mugnetix: Gave 1    [Redstone Dust] to Mugnetix]
-[27Mar2025 01:47:06.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mugnetix moved too quickly! 6.764017300832165,-0.18000000000000682,16.49927815876731
-[27Mar2025 01:47:06.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mugnetix moved too quickly! 5.538649060941225,-0.15000000000000568,13.71475443762597
-[27Mar2025 01:47:06.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mugnetix moved too quickly! 5.538649060941225,-0.15000000000000568,13.71475443762597
-[27Mar2025 01:49:27.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mugnetix: Saved the game]
-[27Mar2025 01:53:56.272] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=974, y=68, z=-2028} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=west,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
-[27Mar2025 01:57:39.061] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
-[27Mar2025 01:58:26.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mugnetix moved too quickly! -4.025072716822592,-9.905354343366653,-0.9298875973809118
-[27Mar2025 02:02:42.959] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3940ms or 78 ticks behind
-[27Mar2025 02:04:00.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mugnetix: Saved the game]
-[27Mar2025 02:04:04.136] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mugnetix lost connection: Disconnected
-[27Mar2025 02:04:04.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mugnetix left the game
-[27Mar2025 02:04:04.138] [Server thread/INFO] [de.geheimagentnr1.auto_restart.task.AutoRestartTask/]: Empty server timer started
-[27Mar2025 02:04:41.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[27Mar2025 02:04:41.574] [Server thread/INFO] [Async Locator/]: Async Locator -> Shutting down locating executor service
-[27Mar2025 02:04:41.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[27Mar2025 02:04:41.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[27Mar2025 02:04:41.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[27Mar2025 02:04:41.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[27Mar2025 02:04:41.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
-[27Mar2025 02:04:41.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
-[27Mar2025 02:04:41.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/extradelight:corn_dimension
-[27Mar2025 02:04:41.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
-[27Mar2025 02:04:41.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
-[27Mar2025 02:04:41.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/compactmachines:compact_world
-[27Mar2025 02:04:41.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
-[27Mar2025 02:04:41.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
-[27Mar2025 02:04:41.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/undergarden:undergarden
-[27Mar2025 02:04:41.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
-[27Mar2025 02:04:41.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
-[27Mar2025 02:04:41.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:mining
-[27Mar2025 02:04:41.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[27Mar2025 02:04:41.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[27Mar2025 02:04:41.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
-[27Mar2025 02:04:41.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/truedarkness:yteria
-[27Mar2025 02:04:41.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
-[27Mar2025 02:04:41.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:the_other
-[27Mar2025 02:04:41.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/theabyss:pocket_dimension
-[27Mar2025 02:04:41.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/theabyss:frost_world
-[27Mar2025 02:04:41.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/theabyss:the_abyss
-[27Mar2025 02:04:41.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
-[27Mar2025 02:04:41.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
-[27Mar2025 02:04:41.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
-[27Mar2025 02:04:41.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
-[27Mar2025 02:04:41.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
-[27Mar2025 02:04:42.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[27Mar2025 02:04:42.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
-[27Mar2025 02:04:42.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
-[27Mar2025 02:04:42.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (corn_dimension): All chunks are saved
-[27Mar2025 02:04:42.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
-[27Mar2025 02:04:42.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
-[27Mar2025 02:04:42.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (compact_world): All chunks are saved
-[27Mar2025 02:04:42.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
-[27Mar2025 02:04:42.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
-[27Mar2025 02:04:42.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
-[27Mar2025 02:04:42.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
-[27Mar2025 02:04:42.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
-[27Mar2025 02:04:42.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
-[27Mar2025 02:04:42.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[27Mar2025 02:04:42.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[27Mar2025 02:04:42.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
-[27Mar2025 02:04:42.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (yteria): All chunks are saved
-[27Mar2025 02:04:42.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
-[27Mar2025 02:04:42.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_other): All chunks are saved
-[27Mar2025 02:04:42.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (pocket_dimension): All chunks are saved
-[27Mar2025 02:04:42.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (frost_world): All chunks are saved
-[27Mar2025 02:04:42.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_abyss): All chunks are saved
-[27Mar2025 02:04:42.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
-[27Mar2025 02:04:42.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
-[27Mar2025 02:04:42.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
-[27Mar2025 02:04:42.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
-[27Mar2025 02:04:42.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
-[27Mar2025 02:04:42.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[27Mar2025 02:04:42.476] [Server thread/INFO] [de.geheimagentnr1.auto_restart.util.ServerRestarter/]: Saving restart status "STOP" to file
-[27Mar2025 02:04:42.480] [Server thread/INFO] [shetiphian.endertanks.EnderTanks/]: Unloading EnderTank Data
-[27Mar2025 02:04:42.480] [Server thread/INFO] [shetiphian.endertanks.EnderTanks/]: Finished Unloading EnderTank Data
-[27Mar2025 02:04:42.483] [Server thread/INFO] [configured/]: Unloading server configs...
-[27Mar2025 02:04:42.484] [Server thread/INFO] [configured/]: Sending config unload event for configured.developer.toml
-[27Mar2025 02:04:42.485] [Server thread/INFO] [shetiphian.enderchests.EnderChests/]: Unloading EnderChest Data
-[27Mar2025 02:04:42.485] [Server thread/INFO] [shetiphian.enderchests.EnderChests/]: Finished Unloading EnderChest Data
+[28Mar2025 00:04:29.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mugnetix moved too quickly! 493.91987786450665,13.4375,26.62100204942044
+[28Mar2025 00:04:31.024] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=974, y=68, z=-2028} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=west,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[28Mar2025 00:05:39.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mugnetix: Saved the game]
+[28Mar2025 00:13:09.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mugnetix: Saved the game]
+[28Mar2025 00:13:10.819] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mugnetix lost connection: Disconnected
+[28Mar2025 00:13:10.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mugnetix left the game
+[28Mar2025 00:13:10.820] [Server thread/INFO] [de.geheimagentnr1.auto_restart.task.AutoRestartTask/]: Empty server timer started
+[28Mar2025 00:13:31.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[28Mar2025 00:13:31.548] [Server thread/INFO] [Async Locator/]: Async Locator -> Shutting down locating executor service
+[28Mar2025 00:13:31.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[28Mar2025 00:13:31.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[28Mar2025 00:13:31.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[28Mar2025 00:13:31.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[28Mar2025 00:13:31.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[28Mar2025 00:13:31.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/theabyss:the_abyss
+[28Mar2025 00:13:31.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[28Mar2025 00:13:31.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/compactmachines:compact_world
+[28Mar2025 00:13:31.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[28Mar2025 00:13:31.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[28Mar2025 00:13:31.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[28Mar2025 00:13:31.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/theabyss:frost_world
+[28Mar2025 00:13:31.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[28Mar2025 00:13:31.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/extradelight:corn_dimension
+[28Mar2025 00:13:31.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:the_other
+[28Mar2025 00:13:31.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[28Mar2025 00:13:31.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[28Mar2025 00:13:31.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/truedarkness:yteria
+[28Mar2025 00:13:31.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[28Mar2025 00:13:31.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[28Mar2025 00:13:31.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[28Mar2025 00:13:31.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[28Mar2025 00:13:31.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[28Mar2025 00:13:31.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:mining
+[28Mar2025 00:13:31.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/theabyss:pocket_dimension
+[28Mar2025 00:13:31.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/undergarden:undergarden
+[28Mar2025 00:13:31.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[28Mar2025 00:13:31.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[28Mar2025 00:13:31.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[28Mar2025 00:13:31.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[28Mar2025 00:13:32.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[28Mar2025 00:13:32.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[28Mar2025 00:13:32.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_abyss): All chunks are saved
+[28Mar2025 00:13:32.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[28Mar2025 00:13:32.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (compact_world): All chunks are saved
+[28Mar2025 00:13:32.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[28Mar2025 00:13:32.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[28Mar2025 00:13:32.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[28Mar2025 00:13:32.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (frost_world): All chunks are saved
+[28Mar2025 00:13:32.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[28Mar2025 00:13:32.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (corn_dimension): All chunks are saved
+[28Mar2025 00:13:32.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_other): All chunks are saved
+[28Mar2025 00:13:32.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[28Mar2025 00:13:32.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[28Mar2025 00:13:32.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (yteria): All chunks are saved
+[28Mar2025 00:13:32.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28Mar2025 00:13:32.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[28Mar2025 00:13:32.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[28Mar2025 00:13:32.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[28Mar2025 00:13:32.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[28Mar2025 00:13:32.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
+[28Mar2025 00:13:32.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (pocket_dimension): All chunks are saved
+[28Mar2025 00:13:32.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[28Mar2025 00:13:32.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28Mar2025 00:13:32.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[28Mar2025 00:13:32.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[28Mar2025 00:13:32.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[28Mar2025 00:13:32.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[28Mar2025 00:13:32.644] [Server thread/INFO] [de.geheimagentnr1.auto_restart.util.ServerRestarter/]: Saving restart status "STOP" to file
+[28Mar2025 00:13:32.645] [Server thread/ERROR] [de.geheimagentnr1.auto_restart.util.ServerRestarter/]: FileWriter failed
+java.io.FileNotFoundException: .\auto_restart\restart (The requested operation cannot be performed on a file with a user-mapped section open)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:?]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:?]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:?]
+	at java.io.FileWriter.<init>(Unknown Source) ~[?:?]
+	at de.geheimagentnr1.auto_restart.util.ServerRestarter.saveToFile(ServerRestarter.java:63) ~[AutoRestart-1.19.2-2.0.1.jar%23536!/:2.0.1]
+	at de.geheimagentnr1.auto_restart.util.ServerRestarter.createStopFile(ServerRestarter.java:48) ~[AutoRestart-1.19.2-2.0.1.jar%23536!/:2.0.1]
+	at de.geheimagentnr1.auto_restart.handlers.ForgeEventHandler.handleServerStoppedEvent(ForgeEventHandler.java:72) ~[AutoRestart-1.19.2-2.0.1.jar%23536!/:2.0.1]
+	at de.geheimagentnr1.auto_restart.handlers.__ForgeEventHandler_handleServerStoppedEvent_ServerStoppedEvent.invoke(.dynamic) ~[AutoRestart-1.19.2-2.0.1.jar%23536!/:2.0.1]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:127) ~[forge-1.19.2-43.4.0-universal.jar%23892!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:690) ~[server-1.19.2-20220805.130853-srg.jar%23887!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23887!/:?]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+[28Mar2025 00:13:32.648] [Server thread/INFO] [shetiphian.endertanks.EnderTanks/]: Unloading EnderTank Data
+[28Mar2025 00:13:32.648] [Server thread/INFO] [shetiphian.endertanks.EnderTanks/]: Finished Unloading EnderTank Data
+[28Mar2025 00:13:32.650] [Server thread/INFO] [configured/]: Unloading server configs...
+[28Mar2025 00:13:32.652] [Server thread/INFO] [configured/]: Sending config unload event for configured.developer.toml
+[28Mar2025 00:13:32.652] [Server thread/INFO] [shetiphian.enderchests.EnderChests/]: Unloading EnderChest Data
+[28Mar2025 00:13:32.653] [Server thread/INFO] [shetiphian.enderchests.EnderChests/]: Finished Unloading EnderChest Data

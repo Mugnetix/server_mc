@@ -465,6 +465,12 @@
     },
     "done": true
   },
+  "create_enchantment_industry:copiable_mystery": {
+    "criteria": {
+      "builtin": "2025-03-27 20:39:39 +0100"
+    },
+    "done": true
+  },
   "create_enchantment_industry:a_shower_experience": {
     "criteria": {
       "builtin": "2025-03-25 16:33:15 +0100"
@@ -641,6 +647,12 @@
     },
     "done": true
   },
+  "endrem:main/magical_eye": {
+    "criteria": {
+      "magical_eye": "2025-03-27 23:44:20 +0100"
+    },
+    "done": true
+  },
   "vinery:spruce_wine_rack_big": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:53 +0100"
@@ -695,6 +707,12 @@
     },
     "done": true
   },
+  "ad_astra:mercury": {
+    "criteria": {
+      "mercury": "2025-03-27 22:36:44 +0100"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_orange": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:53 +0100"
@@ -728,6 +746,12 @@
   "minecraft:recipes/woodcutting/oak/barrel_from_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-07 11:18:16 +0100"
+    },
+    "done": true
+  },
+  "ad_astra:netherite_space_suit": {
+    "criteria": {
+      "netherite_space_suit": "2025-03-27 20:22:05 +0100"
     },
     "done": true
   },
@@ -793,6 +817,12 @@
     },
     "done": true
   },
+  "ad_astra:tier_3_rocket": {
+    "criteria": {
+      "tier_3_rocket": "2025-03-27 21:03:09 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_button_from_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-07 11:18:16 +0100"
@@ -855,6 +885,12 @@
     },
     "done": true
   },
+  "create_enchantment_industry:gone_with_the_foil": {
+    "criteria": {
+      "builtin": "2025-03-27 20:21:20 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_door_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-26 23:44:01 +0100"
@@ -872,6 +908,7 @@
       "minecraft:pillager": "2025-01-30 03:20:54 +0100",
       "minecraft:blaze": "2025-03-16 17:45:44 +0100",
       "minecraft:skeleton": "2025-01-26 15:06:52 +0100",
+      "minecraft:ravager": "2025-03-27 23:39:14 +0100",
       "minecraft:ghast": "2025-02-12 01:47:18 +0100",
       "minecraft:hoglin": "2025-03-16 17:37:03 +0100",
       "minecraft:vindicator": "2025-03-07 15:47:42 +0100",
@@ -880,6 +917,7 @@
       "minecraft:piglin_brute": "2025-03-16 17:34:17 +0100",
       "minecraft:creeper": "2025-01-31 01:32:34 +0100",
       "minecraft:slime": "2025-02-03 17:59:36 +0100",
+      "minecraft:evoker": "2025-03-27 23:38:46 +0100",
       "quark:forgotten": "2025-02-03 19:20:24 +0100",
       "minecraft:phantom": "2025-02-08 12:28:45 +0100",
       "minecraft:witch": "2025-02-01 00:03:09 +0100",
@@ -890,6 +928,7 @@
       "minecraft:enderman": "2025-02-01 14:48:39 +0100",
       "minecraft:silverfish": "2025-03-07 16:11:17 +0100",
       "minecraft:stray": "2025-03-26 16:56:05 +0100",
+      "minecraft:vex": "2025-03-27 23:39:59 +0100",
       "minecraft:zombie": "2025-01-26 23:53:36 +0100",
       "quark:foxhound": "2025-03-16 18:39:18 +0100",
       "minecraft:drowned": "2025-01-29 02:15:20 +0100",
@@ -918,6 +957,12 @@
   "nethervinery:crimson_nether_bag": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:53 +0100"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/pyrope_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-03-27 19:13:34 +0100"
     },
     "done": true
   },
@@ -1341,6 +1386,12 @@
     },
     "done": false
   },
+  "blue_skies:recipes/blue_skies_tools/pyrope_hoe": {
+    "criteria": {
+      "has_resource": "2025-03-27 19:13:34 +0100"
+    },
+    "done": true
+  },
   "beautify:rope": {
     "criteria": {
       "requirement": "2025-01-27 00:32:47 +0100"
@@ -1753,6 +1804,12 @@
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-01-28 01:45:40 +0100"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/pyrope_shovel": {
+    "criteria": {
+      "has_resource": "2025-03-27 19:13:34 +0100"
     },
     "done": true
   },
@@ -2386,6 +2443,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/pyrope_sword": {
+    "criteria": {
+      "has_resource": "2025-03-27 19:13:34 +0100"
+    },
+    "done": true
+  },
   "create:water_supply": {
     "criteria": {
       "0": "2025-03-15 20:06:45 +0100"
@@ -2462,6 +2525,12 @@
   "graveyard:graveyard/wraith_dim_light": {
     "criteria": {
       "dim_light": "2025-03-25 22:08:22 +0100"
+    },
+    "done": true
+  },
+  "blue_skies:get_pyrope": {
+    "criteria": {
+      "obtain_material": "2025-03-27 19:13:34 +0100"
     },
     "done": true
   },
@@ -2573,6 +2642,12 @@
     },
     "done": true
   },
+  "ad_astra:venus": {
+    "criteria": {
+      "venus": "2025-03-27 21:20:08 +0100"
+    },
+    "done": true
+  },
   "farmersrespite:main/get_tea_seeds": {
     "criteria": {
       "get_tea_seeds": "2025-03-22 20:10:04 +0100"
@@ -2588,6 +2663,12 @@
   "vinery:cherry_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-03-27 23:49:18 +0100"
     },
     "done": true
   },
@@ -2938,6 +3019,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/pyrope_axe": {
+    "criteria": {
+      "has_resource": "2025-03-27 19:13:34 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_button_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-29 02:58:21 +0100"
@@ -3123,6 +3210,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-01-18 23:41:50 +0100"
+    },
+    "done": true
+  },
+  "ad_astra:jet_suit": {
+    "criteria": {
+      "jet_suit": "2025-03-27 23:29:04 +0100"
     },
     "done": true
   },
@@ -4309,6 +4402,12 @@
     },
     "done": true
   },
+  "endrem:main/witch_eye": {
+    "criteria": {
+      "witch_eye": "2025-03-27 23:45:49 +0100"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_byg_imparius_planks": {
     "criteria": {
       "has_ingredient": "2025-01-18 23:38:52 +0100"
@@ -4433,6 +4532,12 @@
     },
     "done": true
   },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-03-27 20:18:17 +0100"
+    },
+    "done": true
+  },
   "mcwfences:recipes/acacia": {
     "criteria": {
       "has_acacia": "2025-01-18 23:38:52 +0100"
@@ -4502,6 +4607,12 @@
   "ad_astra:moon_dungeon": {
     "criteria": {
       "moon_dungeon": "2025-03-11 00:11:49 +0100"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/lich_prison": {
+    "criteria": {
+      "lich_prison": "2025-03-27 22:20:55 +0100"
     },
     "done": true
   },
