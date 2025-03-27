@@ -47,12 +47,12 @@ enabledLunarianDefaultTrades = true
 	jetSuitEnergyPerTick = 60
 	jetSuitTankSize = 4000
 	jetSuitMaxEnergy = 1000000
-	enableJetSuitFlight = true
+	enableJetSuitFlight = false
 	jetSuitProtectionMultiplier = 1
 	jetSuitArmorToughness = 5
-	spawnJetSuitParticles = true
+	spawnJetSuitParticles = false
 	#Custom hand rendering may interfere with Shaders
-	renderCustomFirstPersonHand = true
+	renderCustomFirstPersonHand = false
 
 [vehicles]
 	#The velocity to trigger a vehicle explosion while falling.
