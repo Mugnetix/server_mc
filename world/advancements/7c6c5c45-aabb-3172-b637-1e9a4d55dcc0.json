@@ -1217,6 +1217,7 @@
   "repurposed_structures:shipwrecks": {
     "criteria": {
       "in_shipwreck_crimson": "2025-03-16 19:03:22 +0100",
+      "in_shipwreck_nether_bricks": "2025-03-28 20:26:12 +0100",
       "in_shipwreck_warped": "2025-02-02 18:08:38 +0100"
     },
     "done": false
@@ -1271,6 +1272,7 @@
   },
   "repurposed_structures:villages": {
     "criteria": {
+      "in_village_crimson": "2025-03-28 20:31:26 +0100",
       "in_village_oak": "2025-01-30 03:58:46 +0100",
       "in_village_warped": "2025-03-16 17:22:03 +0100"
     },
@@ -1538,6 +1540,12 @@
   "create:sturdy_sheet": {
     "criteria": {
       "0": "2025-03-05 23:44:41 +0100"
+    },
+    "done": true
+  },
+  "quark:tame_foxhound": {
+    "criteria": {
+      "tame_foxhound": "2025-03-29 00:20:47 +0100"
     },
     "done": true
   },
@@ -1819,6 +1827,12 @@
     },
     "done": true
   },
+  "repurposed_structures:mansions": {
+    "criteria": {
+      "in_mansion_jungle": "2025-03-28 19:57:24 +0100"
+    },
+    "done": false
+  },
   "comforts:rope_and_nail": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:53 +0100"
@@ -1828,6 +1842,12 @@
   "mcwroofs:recipes/birch": {
     "criteria": {
       "has_planks": "2025-01-30 03:30:57 +0100"
+    },
+    "done": true
+  },
+  "endrem:main/black_eye": {
+    "criteria": {
+      "black_eye": "2025-03-28 20:27:00 +0100"
     },
     "done": true
   },
@@ -2330,10 +2350,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-03-16 18:45:46 +0100",
       "minecraft:nether_wastes": "2025-02-12 01:00:10 +0100",
+      "minecraft:soul_sand_valley": "2025-03-28 20:40:58 +0100",
       "minecraft:warped_forest": "2025-02-02 17:59:45 +0100",
       "minecraft:basalt_deltas": "2025-03-16 18:22:53 +0100"
     },
-    "done": false
+    "done": true
   },
   "create:crusher_maxed_0000": {
     "criteria": {
@@ -3010,6 +3031,12 @@
   "minecraft:recipes/woodcutting/spruce/chest_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-07 17:09:15 +0100"
+    },
+    "done": true
+  },
+  "ad_astra:tier_4_rocket": {
+    "criteria": {
+      "tier_4_rocket": "2025-03-28 18:07:20 +0100"
     },
     "done": true
   },
@@ -4276,6 +4303,7 @@
       "byg:rainbow_beach": "2025-02-01 01:18:19 +0100",
       "byg:sythian_torrids": "2025-02-12 01:31:02 +0100",
       "byg:temperate_grove": "2025-01-31 15:58:56 +0100",
+      "byg:glowstone_gardens": "2025-03-28 20:33:55 +0100",
       "byg:black_forest": "2025-01-31 00:29:27 +0100",
       "byg:orchard": "2025-01-30 03:32:25 +0100",
       "byg:red_oak_forest": "2025-03-25 21:45:00 +0100",
@@ -4306,6 +4334,7 @@
       "byg:amaranth_fields": "2025-01-31 17:25:15 +0100",
       "byg:brimstone_caverns": "2025-02-12 01:22:32 +0100",
       "byg:ebony_woods": "2025-03-07 15:07:24 +0100",
+      "byg:weeping_mire": "2025-03-28 20:39:49 +0100",
       "byg:basalt_barrera": "2025-01-31 15:03:36 +0100",
       "byg:lush_stacks": "2025-03-16 23:50:33 +0100",
       "byg:temperate_rainforest": "2025-03-07 17:30:15 +0100",
@@ -4434,6 +4463,7 @@
   },
   "repurposed_structures:outposts": {
     "criteria": {
+      "in_outpost_crimson": "2025-03-28 20:36:45 +0100",
       "in_outpost_desert": "2025-03-17 14:18:59 +0100",
       "in_outpost_jungle": "2025-03-07 16:29:49 +0100",
       "in_outpost_oak": "2025-03-26 16:34:37 +0100"

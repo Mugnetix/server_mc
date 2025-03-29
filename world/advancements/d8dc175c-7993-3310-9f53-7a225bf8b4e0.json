@@ -213,7 +213,8 @@
   "croptopia:gather_savanna": {
     "criteria": {
       "kiwi_seed": "2025-03-18 19:23:47 +0100",
-      "rutabaga_seed": "2025-03-05 18:26:52 +0100"
+      "rutabaga_seed": "2025-03-05 18:26:52 +0100",
+      "olive_seed": "2025-03-28 22:51:42 +0100"
     },
     "done": false
   },
@@ -249,6 +250,7 @@
       "elderberry_seed": "2025-03-08 01:14:07 +0100",
       "tomato_seed": "2025-03-06 10:42:05 +0100",
       "chile_pepper_seed": "2025-03-08 01:14:13 +0100",
+      "olive_seed": "2025-03-28 22:51:42 +0100",
       "onion_seed": "2025-03-24 22:34:45 +0100",
       "kiwi_seed": "2025-03-18 19:23:47 +0100",
       "soybean_seed": "2025-03-05 18:32:17 +0100",
@@ -665,11 +667,16 @@
   },
   "croptopia:gather_food": {
     "criteria": {
+      "sea_lettuce": "2025-03-28 21:48:56 +0100",
       "hamburger": "2025-03-07 14:24:16 +0100",
+      "cooked_shrimp": "2025-03-28 21:46:04 +0100",
       "anchovy": "2025-03-07 15:49:36 +0100",
+      "clam": "2025-03-28 21:43:12 +0100",
       "calamari": "2025-02-23 00:21:18 +0100",
       "strawberry_ice_cream": "2025-03-05 22:22:26 +0100",
-      "glowing_calamari": "2025-03-26 16:52:54 +0100"
+      "glowing_calamari": "2025-03-26 16:52:54 +0100",
+      "oyster": "2025-03-28 21:46:04 +0100",
+      "crab": "2025-03-28 21:40:43 +0100"
     },
     "done": false
   },
@@ -793,17 +800,22 @@
       "minecraft:vindicator": "2025-01-31 14:56:57 +0100",
       "minecraft:magma_cube": "2025-03-27 22:37:52 +0100",
       "minecraft:spider": "2025-01-28 00:31:40 +0100",
+      "minecraft:piglin_brute": "2025-03-28 20:25:11 +0100",
       "minecraft:creeper": "2025-01-31 15:22:25 +0100",
+      "minecraft:wither": "2025-03-28 21:13:15 +0100",
       "minecraft:evoker": "2025-03-27 23:42:38 +0100",
       "minecraft:phantom": "2025-02-09 15:10:22 +0100",
       "minecraft:witch": "2025-01-30 23:32:07 +0100",
       "minecraft:wither_skeleton": "2025-03-25 23:06:19 +0100",
       "minecraft:husk": "2025-02-01 00:04:14 +0100",
       "minecraft:cave_spider": "2025-03-26 16:14:58 +0100",
+      "quark:wraith": "2025-03-28 20:40:20 +0100",
+      "minecraft:piglin": "2025-03-28 20:24:08 +0100",
       "minecraft:silverfish": "2025-01-31 15:11:18 +0100",
       "minecraft:enderman": "2025-02-06 23:49:26 +0100",
       "minecraft:vex": "2025-03-27 23:42:30 +0100",
       "minecraft:zombie": "2025-01-27 00:46:53 +0100",
+      "quark:foxhound": "2025-03-28 23:49:33 +0100",
       "minecraft:drowned": "2025-01-31 12:05:05 +0100"
     },
     "done": false
@@ -965,6 +977,7 @@
       "SALAD": "2025-03-07 14:26:07 +0100",
       "ROASTED_APPLE": "2025-03-09 20:09:47 +0100",
       "CACTUS_EGGS": "2025-01-31 00:43:22 +0100",
+      "JAM_TOAST": "2025-03-29 02:03:00 +0100",
       "CHEESE_SANDWICH": "2025-03-12 22:55:10 +0100"
     },
     "done": false
@@ -1282,6 +1295,12 @@
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-26 14:35:59 +0100"
+    },
+    "done": true
+  },
+  "quark:tame_foxhound": {
+    "criteria": {
+      "tame_foxhound": "2025-03-28 21:21:12 +0100"
     },
     "done": true
   },
@@ -1713,6 +1732,12 @@
     },
     "done": true
   },
+  "silentgear:crimson_steel": {
+    "criteria": {
+      "get_item": "2025-03-28 20:11:10 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-03-25 21:51:42 +0100",
@@ -1752,6 +1777,7 @@
       "minecraft:jungle": "2025-01-31 14:20:14 +0100",
       "minecraft:old_growth_spruce_taiga": "2025-01-27 00:31:46 +0100",
       "minecraft:snowy_beach": "2025-01-27 00:00:05 +0100",
+      "minecraft:windswept_savanna": "2025-03-28 22:38:00 +0100",
       "minecraft:warm_ocean": "2025-02-01 00:09:03 +0100",
       "minecraft:deep_lukewarm_ocean": "2025-01-31 15:03:43 +0100",
       "minecraft:flower_forest": "2025-03-07 16:52:56 +0100",
@@ -1888,6 +1914,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-03-28 21:41:28 +0100"
+    },
+    "done": true
+  },
   "productivebees:husbandry/bee_cage/professional_bee/feeding_slab": {
     "criteria": {
       "get_item": "2025-03-23 00:24:32 +0100"
@@ -1981,6 +2013,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-03-22 23:48:32 +0100",
+      "minecraft:soul_sand_valley": "2025-03-28 20:30:17 +0100",
       "minecraft:warped_forest": "2025-03-22 23:41:18 +0100"
     },
     "done": false
@@ -2146,6 +2179,7 @@
   "repurposed_structures:pyramids": {
     "criteria": {
       "in_pyramid_jungle": "2025-01-31 15:22:13 +0100",
+      "in_pyramid_nether": "2025-03-28 23:51:43 +0100",
       "in_pyramid_flower_forest": "2025-01-31 14:23:18 +0100"
     },
     "done": false
@@ -2360,6 +2394,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-03-28 21:12:29 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_button_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-31 15:10:20 +0100"
@@ -2432,6 +2472,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2025-03-29 02:05:12 +0100"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-03-25 19:54:21 +0100",
@@ -2447,6 +2493,7 @@
       "rotten_flesh": "2025-01-31 13:25:04 +0100",
       "melon_slice": "2025-01-27 00:02:20 +0100",
       "beetroot": "2025-01-31 01:05:16 +0100",
+      "enchanted_golden_apple": "2025-03-28 21:13:02 +0100",
       "rabbit_stew": "2025-03-25 19:54:09 +0100",
       "carrot": "2025-01-28 00:52:05 +0100"
     },
@@ -2789,6 +2836,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-01-26 23:48:31 +0100"
+    },
+    "done": true
+  },
+  "ad_astra:jet_suit": {
+    "criteria": {
+      "jet_suit": "2025-03-28 17:57:40 +0100"
     },
     "done": true
   },
@@ -3212,6 +3265,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/nether_bricks": {
+    "criteria": {
+      "has_planks": "2025-03-28 20:27:59 +0100"
+    },
+    "done": true
+  },
   "byg:husbandry/forager": {
     "criteria": {
       "white_puffball_cap": "2025-03-07 17:30:14 +0100"
@@ -3298,6 +3357,12 @@
   "create:copper": {
     "criteria": {
       "0": "2025-03-07 18:08:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "tropical_fish_bucket": "2025-03-28 22:02:16 +0100"
     },
     "done": true
   },
@@ -3547,6 +3612,13 @@
     },
     "done": true
   },
+  "repurposed_structures:temples": {
+    "criteria": {
+      "in_temple_nether_wasteland": "2025-03-28 20:23:43 +0100",
+      "in_temple_nether_basalt": "2025-03-28 23:54:09 +0100"
+    },
+    "done": false
+  },
   "minecraft:recipes/woodcutting/oak/crafting_table_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-26 23:44:29 +0100"
@@ -3766,6 +3838,7 @@
       "byg:prairie": "2025-01-28 00:34:34 +0100",
       "byg:coconino_meadow": "2025-01-30 23:06:21 +0100",
       "byg:rainbow_beach": "2025-01-31 14:34:28 +0100",
+      "byg:sythian_torrids": "2025-03-28 20:24:05 +0100",
       "byg:temperate_grove": "2025-03-25 22:34:29 +0100",
       "byg:autumnal_taiga": "2025-03-25 22:01:43 +0100",
       "byg:black_forest": "2025-01-27 00:36:18 +0100",
@@ -3773,6 +3846,7 @@
       "byg:red_oak_forest": "2025-01-27 00:45:39 +0100",
       "byg:cypress_swamplands": "2025-02-05 22:25:25 +0100",
       "byg:fragment_forest": "2025-03-07 16:26:14 +0100",
+      "byg:dead_sea": "2025-03-28 22:47:11 +0100",
       "byg:autumnal_forest": "2025-01-30 23:36:14 +0100",
       "byg:quartz_desert": "2025-03-13 10:35:16 +0100",
       "byg:cika_woods": "2025-01-27 00:37:30 +0100",
@@ -3792,7 +3866,9 @@
       "byg:cardinal_tundra": "2025-01-27 00:02:32 +0100",
       "byg:baobab_savanna": "2025-03-25 22:38:35 +0100",
       "byg:amaranth_fields": "2025-01-31 14:22:09 +0100",
+      "byg:brimstone_caverns": "2025-03-28 20:23:09 +0100",
       "byg:ebony_woods": "2025-01-31 14:38:50 +0100",
+      "byg:weeping_mire": "2025-03-28 20:44:15 +0100",
       "byg:basalt_barrera": "2025-02-01 00:23:55 +0100",
       "byg:temperate_rainforest": "2025-02-23 00:11:15 +0100",
       "byg:maple_taiga": "2025-01-28 00:32:45 +0100",
@@ -3900,6 +3976,12 @@
     },
     "done": true
   },
+  "endrem:main/wither_eye": {
+    "criteria": {
+      "wither_eye": "2025-03-28 21:13:24 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_fence_gate_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-28 00:58:43 +0100"
@@ -3908,6 +3990,8 @@
   },
   "repurposed_structures:outposts": {
     "criteria": {
+      "in_outpost_birch": "2025-03-28 20:07:50 +0100",
+      "in_outpost_nether_brick": "2025-03-28 20:24:05 +0100",
       "in_outpost_jungle": "2025-03-07 16:29:50 +0100",
       "in_outpost_oak": "2025-03-25 21:52:15 +0100"
     },
