@@ -2490,6 +2490,7 @@
       "porkchop": "2025-03-25 19:52:39 +0100",
       "apple": "2025-01-26 23:48:31 +0100",
       "potato": "2025-02-05 22:07:13 +0100",
+      "cooked_cod": "2025-03-30 14:05:28 +0200",
       "bread": "2025-01-31 23:52:54 +0100",
       "golden_apple": "2025-03-11 00:19:06 +0100",
       "rotten_flesh": "2025-01-31 13:25:04 +0100",
@@ -2636,6 +2637,7 @@
   "productivebees:husbandry/bee_cage/quartz_nest/catch_crystalline_bee/breed_iron_bee/breed_all_productive_bees": {
     "criteria": {
       "redstone_bee": "2025-03-29 23:09:22 +0100",
+      "gold_bee": "2025-03-30 16:26:43 +0200",
       "lapis_bee": "2025-03-29 23:18:52 +0100"
     },
     "done": false
@@ -4126,6 +4128,12 @@
   "mcwroofs:recipes/spruce_planks": {
     "criteria": {
       "has_planks": "2025-01-28 00:58:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/silk_touch_nest": {
+    "criteria": {
+      "silk_touch_nest": "2025-03-30 13:48:36 +0200"
     },
     "done": true
   },

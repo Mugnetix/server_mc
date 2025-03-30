@@ -1006,6 +1006,7 @@
   "extradelight:ingredients": {
     "criteria": {
       "SLICED_APPLE": "2025-03-17 14:37:38 +0100",
+      "WHIPPED_CREAM": "2025-03-30 16:38:54 +0200",
       "FLOUR": "2025-03-17 14:37:42 +0100",
       "COOKING_OIL": "2025-03-07 14:00:35 +0100",
       "BREAD_SLICE": "2025-03-07 14:00:34 +0100",
@@ -1015,6 +1016,7 @@
       "GRATED_CARROT": "2025-03-29 22:59:36 +0100",
       "BUTTER": "2025-03-12 22:43:52 +0100",
       "SLICED_ONION": "2025-03-07 14:00:35 +0100",
+      "GRATED_POTATO": "2025-03-30 17:06:14 +0200",
       "CHEESE": "2025-03-29 22:59:40 +0100"
     },
     "done": false
@@ -1112,12 +1114,14 @@
       "GRILLED_CHEESE": "2025-02-01 00:12:17 +0100",
       "CHICKEN_STEW": "2025-03-26 16:39:26 +0100",
       "HAGGIS": "2025-03-26 16:39:20 +0100",
+      "FRIED_MUSHROOMS": "2025-03-30 16:38:55 +0200",
       "LAMB_STEW": "2025-02-01 01:34:02 +0100",
       "JERKY": "2025-03-25 22:54:14 +0100",
       "SEAWEED_CRISPS": "2025-01-30 04:19:54 +0100",
       "STIRFRY": "2025-03-29 22:59:36 +0100",
       "ROASTED_CARROT": "2025-01-30 04:20:59 +0100",
       "SAUSAGE_ROLL": "2025-03-29 22:59:37 +0100",
+      "RICEBALL_FILLED": "2025-03-30 16:38:55 +0200",
       "HASH": "2025-01-30 04:19:53 +0100",
       "OMELETTE": "2025-02-01 00:28:58 +0100",
       "FISH_SOUP": "2025-03-26 16:59:49 +0100",
@@ -1134,9 +1138,11 @@
       "COOKED_PASTA": "2025-01-30 04:21:12 +0100",
       "POT_ROAST": "2025-02-01 00:12:18 +0100",
       "CHICKEN_STEW_RICE": "2025-03-07 14:00:34 +0100",
+      "EGG_SALAD_SANDWICH": "2025-03-30 16:38:54 +0200",
       "CACTUS_EGGS": "2025-01-30 04:19:53 +0100",
       "RICEBALL": "2025-03-25 22:54:14 +0100",
       "CARROT_SOUP": "2025-02-01 00:29:00 +0100",
+      "FISH_AND_CHIPS": "2025-03-30 16:44:50 +0200",
       "JAM_TOAST": "2025-01-30 04:21:12 +0100",
       "COOKED_CACTUS": "2025-03-17 14:37:37 +0100",
       "CHEESE_SANDWICH": "2025-02-01 00:12:16 +0100",
@@ -1287,6 +1293,7 @@
   },
   "repurposed_structures:villages": {
     "criteria": {
+      "in_village_mountains": "2025-03-30 15:42:41 +0200",
       "in_village_crimson": "2025-03-28 20:31:26 +0100",
       "in_village_oak": "2025-01-30 03:58:46 +0100",
       "in_village_warped": "2025-03-16 17:22:03 +0100"
@@ -2098,6 +2105,7 @@
       "minecraft:frozen_ocean": "2025-01-26 23:55:36 +0100",
       "minecraft:desert": "2025-03-17 00:04:02 +0100",
       "minecraft:deep_frozen_ocean": "2025-01-26 23:56:40 +0100",
+      "minecraft:windswept_forest": "2025-03-30 15:42:36 +0200",
       "minecraft:jungle": "2025-01-30 04:12:27 +0100",
       "minecraft:ocean": "2025-01-30 04:49:31 +0100",
       "minecraft:old_growth_spruce_taiga": "2025-02-07 01:16:09 +0100",
@@ -2377,12 +2385,6 @@
   "create:crusher_maxed_0000": {
     "criteria": {
       "0": "2025-03-25 01:37:49 +0100"
-    },
-    "done": true
-  },
-  "minecolonies:minecolonies/fulfill_request": {
-    "criteria": {
-      "click_gui_button_fulfill": "2025-03-17 14:00:57 +0100"
     },
     "done": true
   },
@@ -3242,12 +3244,6 @@
     },
     "done": true
   },
-  "minecolonies:minecolonies/root": {
-    "criteria": {
-      "supply_ship_placed": "2025-02-01 01:22:10 +0100"
-    },
-    "done": true
-  },
   "corail_woodcutter:recipes/from_byg_baobab_planks": {
     "criteria": {
       "has_ingredient": "2025-01-18 23:38:52 +0100"
@@ -3406,12 +3402,6 @@
     },
     "done": true
   },
-  "minecolonies:minecolonies/start_builder": {
-    "criteria": {
-      "builder_request": "2025-03-17 13:59:42 +0100"
-    },
-    "done": true
-  },
   "vinery:wine_rack_5": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:52 +0100"
@@ -3547,12 +3537,6 @@
   "vinery:wine_rack_2": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:52 +0100"
-    },
-    "done": true
-  },
-  "minecolonies:minecolonies/check_out_guide": {
-    "criteria": {
-      "click_gui_button_close": "2025-03-17 13:53:12 +0100"
     },
     "done": true
   },
@@ -3870,6 +3854,12 @@
     },
     "done": true
   },
+  "exposure:adventure/expose_film": {
+    "criteria": {
+      "expose_film": "2025-03-30 13:48:55 +0200"
+    },
+    "done": true
+  },
   "vinery:vinemaker_boots": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:53 +0100"
@@ -3996,7 +3986,9 @@
       "orange": "2025-02-05 16:56:47 +0100",
       "green": "2025-01-31 17:32:40 +0100",
       "white": "2025-02-05 16:26:19 +0100",
-      "blue": "2025-02-22 22:35:17 +0100"
+      "blue": "2025-02-22 22:35:17 +0100",
+      "violet": "2025-03-30 16:49:14 +0200",
+      "indigo": "2025-03-30 16:49:15 +0200"
     },
     "done": false
   },
@@ -4262,12 +4254,6 @@
     },
     "done": true
   },
-  "minecolonies:minecraft/craft_supply": {
-    "criteria": {
-      "supply_ship": "2025-02-01 01:22:10 +0100"
-    },
-    "done": true
-  },
   "vinery:cherry_planks": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:53 +0100"
@@ -4356,6 +4342,7 @@
       "byg:zelkova_forest": "2025-01-27 00:18:40 +0100",
       "byg:araucaria_savanna": "2025-02-05 16:09:29 +0100",
       "byg:crag_gardens": "2025-01-31 17:06:58 +0100",
+      "byg:bayou": "2025-03-30 16:01:03 +0200",
       "byg:autumnal_valley": "2025-01-26 23:50:10 +0100",
       "byg:howling_peaks": "2025-01-31 15:58:11 +0100",
       "byg:aspen_forest": "2025-01-31 00:29:08 +0100",
@@ -4504,6 +4491,7 @@
     "criteria": {
       "in_outpost_birch": "2025-03-29 21:25:35 +0100",
       "in_outpost_crimson": "2025-03-28 20:36:45 +0100",
+      "in_outpost_taiga": "2025-03-30 15:52:01 +0200",
       "in_outpost_desert": "2025-03-17 14:18:59 +0100",
       "in_outpost_jungle": "2025-03-07 16:29:49 +0100",
       "in_outpost_oak": "2025-03-26 16:34:37 +0100"
@@ -4859,6 +4847,12 @@
   "minecraft:recipes/woodcutting/oak/oak_chest_boat_from_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-07 11:18:16 +0100"
+    },
+    "done": true
+  },
+  "endrem:main/corrupted_eye": {
+    "criteria": {
+      "corrupted_eye": "2025-03-30 15:53:04 +0200"
     },
     "done": true
   },
