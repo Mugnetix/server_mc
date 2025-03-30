@@ -610,6 +610,12 @@
     },
     "done": true
   },
+  "tetra:spelunking/find_scroll_sturdy": {
+    "criteria": {
+      "find": "2025-03-30 22:56:46 +0200"
+    },
+    "done": true
+  },
   "ad_astra:mercury": {
     "criteria": {
       "mercury": "2025-03-27 22:36:44 +0100"
@@ -626,6 +632,12 @@
     "criteria": {
       "give_recipe": "2025-02-07 13:52:38 +0100",
       "has_block": "2025-02-07 13:52:38 +0100"
+    },
+    "done": true
+  },
+  "tetra:spelunking/refill_cell": {
+    "criteria": {
+      "refill_cell": "2025-03-30 22:56:46 +0200"
     },
     "done": true
   },
@@ -656,6 +668,12 @@
   "minecraft:recipes/woodcutting/mangrove/mangrove_sign_from_mangrove_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-07 14:15:09 +0100"
+    },
+    "done": true
+  },
+  "integrateddynamics:meneglin_basics/menril_production": {
+    "criteria": {
+      "criteria_0": "2025-03-30 22:59:10 +0200"
     },
     "done": true
   },
@@ -949,6 +967,12 @@
     },
     "done": true
   },
+  "truedarkness:fireflies_flower_adv": {
+    "criteria": {
+      "fireflies_flower_adv": "2025-03-30 22:51:43 +0200"
+    },
+    "done": true
+  },
   "ae2:main/facade": {
     "criteria": {
       "facade": "2025-03-06 10:06:57 +0100"
@@ -977,6 +1001,7 @@
       "PORK_STEW": "2025-03-07 14:27:44 +0100",
       "SALAD": "2025-03-07 14:26:07 +0100",
       "ROASTED_APPLE": "2025-03-09 20:09:47 +0100",
+      "COOKED_PASTA": "2025-03-30 23:31:17 +0200",
       "CACTUS_EGGS": "2025-01-31 00:43:22 +0100",
       "JAM_TOAST": "2025-03-29 02:03:00 +0100",
       "CHEESE_SANDWICH": "2025-03-12 22:55:10 +0100"
@@ -1004,6 +1029,12 @@
   "nethervinery:crimson_grape_seeds": {
     "criteria": {
       "has_the_recipe": "2025-01-26 14:35:59 +0100"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_cell": {
+    "criteria": {
+      "get_cell": "2025-03-30 22:56:46 +0200"
     },
     "done": true
   },
@@ -1046,6 +1077,12 @@
   "comforts:hammock_white": {
     "criteria": {
       "has_the_recipe": "2025-01-26 14:35:59 +0100"
+    },
+    "done": true
+  },
+  "tetra:upgrades/root": {
+    "criteria": {
+      "hammer": "2025-03-30 22:56:46 +0200"
     },
     "done": true
   },
@@ -1791,6 +1828,12 @@
     },
     "done": false
   },
+  "pneumaticcraft:programming_puzzle": {
+    "criteria": {
+      "0": "2025-03-30 22:58:05 +0200"
+    },
+    "done": true
+  },
   "extradelight:food": {
     "criteria": {
       "food": "2025-01-26 23:48:31 +0100"
@@ -1903,6 +1946,12 @@
     },
     "done": true
   },
+  "truedarkness:yteria_sword_adv": {
+    "criteria": {
+      "yteria_sword_adv": "2025-03-31 00:09:59 +0200"
+    },
+    "done": true
+  },
   "vinery:cherry_wood": {
     "criteria": {
       "has_the_recipe": "2025-01-26 14:35:59 +0100"
@@ -1936,6 +1985,12 @@
   "minecraft:recipes/woodcutting/spruce/spruce_trapdoor_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-28 01:16:21 +0100"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_warforge": {
+    "criteria": {
+      "find": "2025-03-30 22:56:46 +0200"
     },
     "done": true
   },
@@ -2224,7 +2279,8 @@
   },
   "quark:get_all_blossom_saplings": {
     "criteria": {
-      "pink": "2025-03-25 23:29:01 +0100"
+      "pink": "2025-03-25 23:29:01 +0100",
+      "lavender": "2025-03-30 22:16:43 +0200"
     },
     "done": false
   },
@@ -2267,6 +2323,12 @@
   "ad_astra:venus": {
     "criteria": {
       "venus": "2025-03-27 21:20:08 +0100"
+    },
+    "done": true
+  },
+  "tetra:upgrades/repairs": {
+    "criteria": {
+      "hammer": "2025-03-30 22:56:46 +0200"
     },
     "done": true
   },
@@ -2339,6 +2401,12 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-31 15:10:20 +0100"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_bolt": {
+    "criteria": {
+      "forged_bolt": "2025-03-30 22:56:46 +0200"
     },
     "done": true
   },
@@ -3365,6 +3433,12 @@
     },
     "done": true
   },
+  "darkutils:adventure/faster_than_lightning": {
+    "criteria": {
+      "get_plate": "2025-03-30 22:52:34 +0200"
+    },
+    "done": true
+  },
   "dungeons_arise:find_small_blimp": {
     "criteria": {
       "location0": "2025-01-31 23:22:48 +0100"
@@ -3404,6 +3478,12 @@
   "mcwroofs:recipes/stone_bricks": {
     "criteria": {
       "has_planks": "2025-02-05 21:51:46 +0100"
+    },
+    "done": true
+  },
+  "extradelight:jelly": {
+    "criteria": {
+      "jelly": "2025-03-30 23:31:10 +0200"
     },
     "done": true
   },
@@ -3590,6 +3670,12 @@
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "onion": "2025-01-27 00:41:23 +0100"
+    },
+    "done": true
+  },
+  "tetra:upgrades/double_headed": {
+    "criteria": {
+      "hammer": "2025-03-30 22:56:46 +0200"
     },
     "done": true
   },
@@ -4131,6 +4217,12 @@
     },
     "done": true
   },
+  "endrem:main/cold_eye": {
+    "criteria": {
+      "cold_eye": "2025-03-30 23:25:20 +0200"
+    },
+    "done": true
+  },
   "minecraft:husbandry/silk_touch_nest": {
     "criteria": {
       "silk_touch_nest": "2025-03-30 13:48:36 +0200"
@@ -4164,6 +4256,12 @@
   "ad_astra:moon_dungeon": {
     "criteria": {
       "moon_dungeon": "2025-03-11 00:11:47 +0100"
+    },
+    "done": true
+  },
+  "tetra:story/more_upgrades": {
+    "criteria": {
+      "hammer": "2025-03-30 22:56:46 +0200"
     },
     "done": true
   },
@@ -4322,6 +4420,12 @@
   "minecraft:recipes/woodcutting/oak/oak_chest_boat_from_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-06 10:54:18 +0100"
+    },
+    "done": true
+  },
+  "endrem:main/corrupted_eye": {
+    "criteria": {
+      "corrupted_eye": "2025-03-30 23:25:59 +0200"
     },
     "done": true
   },

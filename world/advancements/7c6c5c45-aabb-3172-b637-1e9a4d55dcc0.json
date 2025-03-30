@@ -379,6 +379,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2025-03-30 20:30:25 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/chest_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-26 23:44:01 +0100"
@@ -498,6 +504,12 @@
   "aquamirae:recipes/fin": {
     "criteria": {
       "has_item": "2025-03-30 17:50:28 +0200"
+    },
+    "done": true
+  },
+  "ae2:main/facade": {
+    "criteria": {
+      "facade": "2025-03-30 22:59:52 +0200"
     },
     "done": true
   },
@@ -1885,6 +1897,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-03-30 20:03:20 +0200"
+    },
+    "done": true
+  },
   "create:copper": {
     "criteria": {
       "0": "2025-01-27 02:13:11 +0100"
@@ -2062,7 +2080,8 @@
   "repurposed_structures:temples": {
     "criteria": {
       "in_temple_nether_wasteland": "2025-02-12 01:33:27 +0100",
-      "in_temple_nether_warped": "2025-03-16 18:05:55 +0100"
+      "in_temple_nether_warped": "2025-03-16 18:05:55 +0100",
+      "in_temple_taiga": "2025-03-30 20:04:01 +0200"
     },
     "done": false
   },
@@ -2295,6 +2314,7 @@
       "in_outpost_taiga": "2025-03-30 15:52:01 +0200",
       "in_outpost_desert": "2025-03-17 14:18:59 +0100",
       "in_outpost_jungle": "2025-03-07 16:29:49 +0100",
+      "in_outpost_snowy": "2025-03-30 19:36:16 +0200",
       "in_outpost_oak": "2025-03-26 16:34:37 +0100"
     },
     "done": false
@@ -2350,6 +2370,12 @@
   "mcwroofs:recipes/spruce_planks": {
     "criteria": {
       "has_planks": "2025-01-29 02:58:21 +0100"
+    },
+    "done": true
+  },
+  "endrem:main/cold_eye": {
+    "criteria": {
+      "cold_eye": "2025-03-30 19:31:46 +0200"
     },
     "done": true
   },
@@ -2956,6 +2982,7 @@
   "repurposed_structures:mineshafts": {
     "criteria": {
       "in_mineshaft_birch": "2025-01-31 15:28:31 +0100",
+      "in_mineshaft_icy": "2025-03-30 19:25:41 +0200",
       "in_mineshaft_taiga": "2025-01-29 02:01:17 +0100"
     },
     "done": false
@@ -3079,6 +3106,7 @@
       "FLOUR": "2025-03-17 14:37:42 +0100",
       "COOKING_OIL": "2025-03-07 14:00:35 +0100",
       "BREAD_SLICE": "2025-03-07 14:00:34 +0100",
+      "CACTUS": "2025-03-30 19:24:29 +0200",
       "EGG_MIX": "2025-03-29 23:01:08 +0100",
       "CARROT_JAM": "2025-01-30 04:20:59 +0100",
       "SLICED_POTATO": "2025-03-25 22:53:48 +0100",
@@ -3086,6 +3114,7 @@
       "BUTTER": "2025-03-12 22:43:52 +0100",
       "SLICED_ONION": "2025-03-07 14:00:35 +0100",
       "GRATED_POTATO": "2025-03-30 17:06:14 +0200",
+      "SLICED_TOMATO": "2025-03-30 19:24:44 +0200",
       "CHEESE": "2025-03-29 22:59:40 +0100"
     },
     "done": false
@@ -4163,6 +4192,7 @@
       "dried_kelp": "2025-03-05 17:28:17 +0100",
       "melon_slice": "2025-01-31 17:39:27 +0100",
       "cooked_chicken": "2025-01-27 00:37:26 +0100",
+      "enchanted_golden_apple": "2025-03-30 20:59:18 +0200",
       "mushroom_stew": "2025-02-03 18:07:40 +0100",
       "rabbit_stew": "2025-03-22 16:19:33 +0100",
       "carrot": "2025-03-20 01:13:36 +0100"
