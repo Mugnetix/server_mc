@@ -359,7 +359,8 @@
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_zombie_dungeon": "2025-03-17 20:39:13 +0100",
-      "in_better_monster_room": "2025-01-31 15:36:42 +0100"
+      "in_better_monster_room": "2025-01-31 15:36:42 +0100",
+      "in_better_spider_dungeon": "2025-03-29 23:04:57 +0100"
     },
     "done": false
   },
@@ -426,6 +427,12 @@
   "vinery:grapevine_lattice": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:53 +0100"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skreecher": {
+    "criteria": {
+      "killed": "2025-03-29 23:13:44 +0100"
     },
     "done": true
   },
@@ -1002,10 +1009,13 @@
       "FLOUR": "2025-03-17 14:37:42 +0100",
       "COOKING_OIL": "2025-03-07 14:00:35 +0100",
       "BREAD_SLICE": "2025-03-07 14:00:34 +0100",
+      "EGG_MIX": "2025-03-29 23:01:08 +0100",
       "CARROT_JAM": "2025-01-30 04:20:59 +0100",
       "SLICED_POTATO": "2025-03-25 22:53:48 +0100",
+      "GRATED_CARROT": "2025-03-29 22:59:36 +0100",
       "BUTTER": "2025-03-12 22:43:52 +0100",
-      "SLICED_ONION": "2025-03-07 14:00:35 +0100"
+      "SLICED_ONION": "2025-03-07 14:00:35 +0100",
+      "CHEESE": "2025-03-29 22:59:40 +0100"
     },
     "done": false
   },
@@ -1105,7 +1115,9 @@
       "LAMB_STEW": "2025-02-01 01:34:02 +0100",
       "JERKY": "2025-03-25 22:54:14 +0100",
       "SEAWEED_CRISPS": "2025-01-30 04:19:54 +0100",
+      "STIRFRY": "2025-03-29 22:59:36 +0100",
       "ROASTED_CARROT": "2025-01-30 04:20:59 +0100",
+      "SAUSAGE_ROLL": "2025-03-29 22:59:37 +0100",
       "HASH": "2025-01-30 04:19:53 +0100",
       "OMELETTE": "2025-02-01 00:28:58 +0100",
       "FISH_SOUP": "2025-03-26 16:59:49 +0100",
@@ -1203,7 +1215,10 @@
   },
   "extradelight:feasts": {
     "criteria": {
+      "meatloaf": "2025-03-29 21:26:03 +0100",
       "lamb_stew": "2025-02-01 00:19:13 +0100",
+      "chicken_stew": "2025-03-29 21:26:03 +0100",
+      "mac_cheese": "2025-03-29 22:59:36 +0100",
       "pork_stew": "2025-03-07 14:00:34 +0100"
     },
     "done": false
@@ -1383,6 +1398,7 @@
       "CHOCOLATE_CUSTARD": "2025-02-01 00:19:15 +0100",
       "PUMPKIN_COOKIE": "2025-03-26 16:59:21 +0100",
       "GLOW_BERRY_PIE_SLICE": "2025-02-01 00:12:14 +0100",
+      "FUDGE_POPSICLE": "2025-03-29 22:59:36 +0100",
       "CHOCOLATE_CHEESECAKE_SLICE": "2025-03-26 16:59:21 +0100",
       "HONEY_CUSTARD": "2025-03-26 16:39:26 +0100"
     },
@@ -2059,8 +2075,10 @@
       "minecraft:windswept_hills": "2025-02-07 14:38:02 +0100",
       "minecraft:bamboo_jungle": "2025-03-07 15:34:27 +0100",
       "minecraft:badlands": "2025-03-17 00:04:07 +0100",
+      "minecraft:savanna_plateau": "2025-03-29 21:52:02 +0100",
       "minecraft:beach": "2025-01-18 23:38:55 +0100",
       "minecraft:dark_forest": "2025-02-08 02:19:57 +0100",
+      "minecraft:stony_peaks": "2025-03-29 21:57:00 +0100",
       "minecraft:mangrove_swamp": "2025-02-05 16:07:19 +0100",
       "minecraft:sparse_jungle": "2025-01-30 04:24:49 +0100",
       "minecraft:river": "2025-01-20 23:51:35 +0100",
@@ -2578,6 +2596,7 @@
       "in_pyramid_giant_tree_taiga": "2025-03-22 15:56:14 +0100",
       "in_pyramid_dark_forest": "2025-03-26 16:23:53 +0100",
       "in_pyramid_nether": "2025-03-16 19:07:04 +0100",
+      "in_pyramid_jungle": "2025-03-29 21:37:22 +0100",
       "in_pyramid_badlands": "2025-03-17 12:53:05 +0100",
       "in_pyramid_flower_forest": "2025-02-01 00:44:10 +0100"
     },
@@ -2856,6 +2875,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "interact": "2025-03-29 21:50:16 +0100"
+    },
+    "done": true
+  },
   "vinery:red_grape_crate": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:52 +0100"
@@ -2901,6 +2926,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-03-25 18:42:00 +0100",
+      "cooked_mutton": "2025-03-29 22:06:49 +0100",
       "sweet_berries": "2025-01-27 00:26:48 +0100",
       "cooked_beef": "2025-01-28 00:49:48 +0100",
       "baked_potato": "2025-02-05 16:15:10 +0100",
@@ -3279,6 +3305,7 @@
   "extradelight:jellyall": {
     "criteria": {
       "jellyall_orange": "2025-02-07 01:25:19 +0100",
+      "jellyall_yellow": "2025-03-29 21:26:03 +0100",
       "jellyall_blue": "2025-03-07 14:00:34 +0100"
     },
     "done": false
@@ -3652,6 +3679,12 @@
   "mcwroofs:recipes/diorite": {
     "criteria": {
       "has_planks": "2025-01-28 01:28:46 +0100"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-03-29 23:04:57 +0100"
     },
     "done": true
   },
@@ -4449,6 +4482,12 @@
     },
     "done": true
   },
+  "endrem:main/wither_eye": {
+    "criteria": {
+      "wither_eye": "2025-03-30 03:25:31 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_fence_gate_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-29 02:58:21 +0100"
@@ -4463,6 +4502,7 @@
   },
   "repurposed_structures:outposts": {
     "criteria": {
+      "in_outpost_birch": "2025-03-29 21:25:35 +0100",
       "in_outpost_crimson": "2025-03-28 20:36:45 +0100",
       "in_outpost_desert": "2025-03-17 14:18:59 +0100",
       "in_outpost_jungle": "2025-03-07 16:29:49 +0100",
