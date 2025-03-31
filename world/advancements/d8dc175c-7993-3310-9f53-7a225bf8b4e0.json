@@ -327,6 +327,12 @@
     },
     "done": false
   },
+  "graveyard:graveyard/large_graveyard": {
+    "criteria": {
+      "large_graveyard": "2025-03-31 17:05:37 +0200"
+    },
+    "done": true
+  },
   "deeperdarker:main/root": {
     "criteria": {
       "deep_dark": "2025-03-26 16:27:11 +0100"
@@ -815,6 +821,7 @@
       "minecraft:ravager": "2025-03-27 23:36:58 +0100",
       "minecraft:ghast": "2025-03-22 23:44:37 +0100",
       "minecraft:hoglin": "2025-03-25 23:05:55 +0100",
+      "minecraft:guardian": "2025-03-31 16:47:19 +0200",
       "minecraft:vindicator": "2025-01-31 14:56:57 +0100",
       "minecraft:magma_cube": "2025-03-27 22:37:52 +0100",
       "minecraft:spider": "2025-01-28 00:31:40 +0100",
@@ -1026,6 +1033,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-03-31 17:09:33 +0200"
+    },
+    "done": true
+  },
   "nethervinery:crimson_grape_seeds": {
     "criteria": {
       "has_the_recipe": "2025-01-26 14:35:59 +0100"
@@ -1113,6 +1126,12 @@
   "mcwroofs:recipes/terracotta": {
     "criteria": {
       "has_planks": "2025-03-05 18:03:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-03-31 17:14:47 +0200"
     },
     "done": true
   },
@@ -2237,6 +2256,7 @@
     "criteria": {
       "in_pyramid_jungle": "2025-01-31 15:22:13 +0100",
       "in_pyramid_nether": "2025-03-28 23:51:43 +0100",
+      "in_pyramid_snowy": "2025-03-31 16:44:33 +0200",
       "in_pyramid_flower_forest": "2025-01-31 14:23:18 +0100"
     },
     "done": false
@@ -3350,6 +3370,12 @@
     },
     "done": true
   },
+  "silentgear:the_end": {
+    "criteria": {
+      "entered_the_end": "2025-03-31 17:14:47 +0200"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/nether_bricks": {
     "criteria": {
       "has_planks": "2025-03-28 20:27:59 +0100"
@@ -3954,6 +3980,7 @@
       "byg:autumnal_forest": "2025-01-30 23:36:14 +0100",
       "byg:quartz_desert": "2025-03-13 10:35:16 +0100",
       "byg:cika_woods": "2025-01-27 00:37:30 +0100",
+      "byg:white_mangrove_marshes": "2025-03-31 17:06:46 +0200",
       "byg:warped_desert": "2025-03-22 23:44:47 +0100",
       "byg:firecracker_shrubland": "2025-03-08 00:57:37 +0100",
       "byg:weeping_witch_forest": "2025-03-08 00:53:28 +0100",
@@ -3963,6 +3990,7 @@
       "byg:araucaria_savanna": "2025-03-26 17:27:06 +0100",
       "byg:wailing_garth": "2025-03-29 23:37:31 +0100",
       "byg:crag_gardens": "2025-03-25 21:44:17 +0100",
+      "byg:dacite_ridges": "2025-03-31 17:05:11 +0200",
       "byg:autumnal_valley": "2025-01-26 14:52:47 +0100",
       "byg:aspen_forest": "2025-01-28 00:32:29 +0100",
       "byg:skyris_vale": "2025-01-27 00:36:48 +0100",
@@ -4238,6 +4266,12 @@
   "endrem:main/lost_eye": {
     "criteria": {
       "lost_eye": "2025-03-26 16:13:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-03-31 17:14:47 +0200"
     },
     "done": true
   },

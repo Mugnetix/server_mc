@@ -429,6 +429,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-03-31 17:17:19 +0200"
+    },
+    "done": true
+  },
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2025-03-30 18:22:35 +0200"
@@ -606,6 +612,12 @@
   "create:water_wheel": {
     "criteria": {
       "0": "2025-02-09 19:56:11 +0100"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/cosmic_cod": {
+    "criteria": {
+      "capsid": "2025-03-31 17:37:11 +0200"
     },
     "done": true
   },
@@ -933,6 +945,12 @@
     },
     "done": true
   },
+  "productivebees:husbandry/advanced_beehive": {
+    "criteria": {
+      "get_hive": "2025-03-31 16:07:10 +0200"
+    },
+    "done": true
+  },
   "integratedtunnels:interfaces/interface_energy": {
     "criteria": {
       "criteria_0": "2025-03-08 16:17:40 +0100"
@@ -1002,6 +1020,18 @@
       "onion_seed": "2025-03-24 23:10:05 +0100"
     },
     "done": false
+  },
+  "endrem:main/guardian_eye": {
+    "criteria": {
+      "guardian_eye": "2025-03-31 16:49:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-03-31 17:34:20 +0200"
+    },
+    "done": true
   },
   "comforts:sleeping_bag_yellow_from_white": {
     "criteria": {
@@ -1855,6 +1885,12 @@
     },
     "done": true
   },
+  "silentgear:the_end": {
+    "criteria": {
+      "entered_the_end": "2025-03-31 17:14:48 +0200"
+    },
+    "done": true
+  },
   "byg:husbandry/forager": {
     "criteria": {
       "white_puffball_cap": "2025-03-25 21:45:30 +0100"
@@ -2240,6 +2276,7 @@
       "byg:araucaria_savanna": "2025-02-05 16:09:29 +0100",
       "byg:crag_gardens": "2025-01-31 17:06:58 +0100",
       "byg:bayou": "2025-03-30 16:01:03 +0200",
+      "byg:dacite_ridges": "2025-03-31 17:05:11 +0200",
       "byg:autumnal_valley": "2025-01-26 23:50:10 +0100",
       "byg:howling_peaks": "2025-01-31 15:58:11 +0100",
       "byg:aspen_forest": "2025-01-31 00:29:08 +0100",
@@ -2852,6 +2889,12 @@
     },
     "done": true
   },
+  "naturesaura:end_flower": {
+    "criteria": {
+      "materials": "2025-03-31 17:27:09 +0200"
+    },
+    "done": true
+  },
   "productivebees:husbandry/bee_cage/overworld_nest": {
     "criteria": {
       "get_item": "2025-01-27 00:03:10 +0100"
@@ -3040,9 +3083,11 @@
       "minecraft:pillager": "2025-01-30 03:20:54 +0100",
       "minecraft:blaze": "2025-03-16 17:45:44 +0100",
       "minecraft:skeleton": "2025-01-26 15:06:52 +0100",
+      "minecraft:elder_guardian": "2025-03-31 16:48:22 +0200",
       "minecraft:ravager": "2025-03-27 23:39:14 +0100",
       "minecraft:ghast": "2025-02-12 01:47:18 +0100",
       "minecraft:hoglin": "2025-03-16 17:37:03 +0100",
+      "minecraft:guardian": "2025-03-31 16:47:33 +0200",
       "minecraft:vindicator": "2025-03-07 15:47:42 +0100",
       "minecraft:magma_cube": "2025-02-02 18:03:38 +0100",
       "minecraft:spider": "2025-01-27 01:30:25 +0100",
@@ -3055,11 +3100,13 @@
       "minecraft:witch": "2025-02-01 00:03:09 +0100",
       "minecraft:wither_skeleton": "2025-02-02 18:10:07 +0100",
       "minecraft:husk": "2025-02-07 13:49:02 +0100",
+      "minecraft:ender_dragon": "2025-03-31 17:17:19 +0200",
       "minecraft:cave_spider": "2025-01-29 02:06:57 +0100",
       "minecraft:piglin": "2025-02-02 17:57:02 +0100",
       "minecraft:enderman": "2025-02-01 14:48:39 +0100",
       "minecraft:silverfish": "2025-03-07 16:11:17 +0100",
       "minecraft:stray": "2025-03-26 16:56:05 +0100",
+      "minecraft:endermite": "2025-03-31 17:26:01 +0200",
       "minecraft:vex": "2025-03-27 23:39:59 +0100",
       "minecraft:zombie": "2025-01-26 23:53:36 +0100",
       "quark:foxhound": "2025-03-16 18:39:18 +0100",
@@ -3243,6 +3290,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-03-31 17:09:36 +0200"
+    },
+    "done": true
+  },
   "nethervinery:crimson_grape_seeds": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:52 +0100"
@@ -3310,6 +3363,12 @@
   "mcwroofs:recipes/terracotta": {
     "criteria": {
       "has_planks": "2025-02-08 01:50:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-03-31 17:14:48 +0200"
     },
     "done": true
   },
@@ -4953,6 +5012,12 @@
   "endrem:main/lost_eye": {
     "criteria": {
       "lost_eye": "2025-01-31 15:32:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-03-31 17:14:48 +0200"
     },
     "done": true
   },
