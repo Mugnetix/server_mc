@@ -1556,6 +1556,12 @@
     },
     "done": true
   },
+  "trashcans:trash_can": {
+    "criteria": {
+      "has_item_trash_can": "2025-04-01 16:02:19 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/birch_door_from_birch_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-03-17 14:16:20 +0100"
@@ -1924,6 +1930,12 @@
   "create:arm_blaze_burner": {
     "criteria": {
       "0": "2025-03-20 20:09:10 +0100"
+    },
+    "done": true
+  },
+  "create:cuckoo_clock": {
+    "criteria": {
+      "0": "2025-04-01 15:08:21 +0200"
     },
     "done": true
   },
