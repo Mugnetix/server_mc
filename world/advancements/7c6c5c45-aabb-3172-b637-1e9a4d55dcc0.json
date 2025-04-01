@@ -2169,6 +2169,12 @@
     },
     "done": true
   },
+  "exposure:adventure/flash": {
+    "criteria": {
+      "flash_in_darkness": "2025-04-01 01:38:23 +0200"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/red_nether_bricks": {
     "criteria": {
       "has_planks": "2025-02-07 14:16:07 +0100"
@@ -2229,6 +2235,12 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-03-31 21:52:13 +0200"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_red_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:52 +0100"
@@ -2253,6 +2265,7 @@
       "byg:coconino_meadow": "2025-01-31 00:33:10 +0100",
       "byg:prairie": "2025-01-31 00:31:02 +0100",
       "byg:rainbow_beach": "2025-02-01 01:18:19 +0100",
+      "byg:viscal_isles": "2025-03-31 21:54:24 +0200",
       "byg:sythian_torrids": "2025-02-12 01:31:02 +0100",
       "byg:temperate_grove": "2025-01-31 15:58:56 +0100",
       "byg:glowstone_gardens": "2025-03-28 20:33:55 +0100",
@@ -2286,6 +2299,7 @@
       "byg:crimson_gardens": "2025-02-02 17:51:40 +0100",
       "byg:canadian_shield": "2025-01-31 16:22:40 +0100",
       "byg:cardinal_tundra": "2025-01-27 00:02:29 +0100",
+      "byg:shulkren_forest": "2025-03-31 21:54:47 +0200",
       "byg:amaranth_fields": "2025-01-31 17:25:15 +0100",
       "byg:brimstone_caverns": "2025-02-12 01:22:32 +0100",
       "byg:ebony_woods": "2025-03-07 15:07:24 +0100",
@@ -4066,6 +4080,12 @@
   "vinery:window": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:52 +0100"
+    },
+    "done": true
+  },
+  "exposure:adventure/get_photograph": {
+    "criteria": {
+      "get_photograph": "2025-04-01 01:46:49 +0200"
     },
     "done": true
   },
