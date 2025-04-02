@@ -348,6 +348,12 @@
     },
     "done": true
   },
+  "blue_skies:everdawn/get_wood": {
+    "criteria": {
+      "has_maple_log": "2025-04-03 00:11:05 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/barrel_from_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-07 11:18:16 +0100"
@@ -434,6 +440,12 @@
       "opened_cart": "2025-01-29 02:07:20 +0100"
     },
     "done": false
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_connected_from_willow_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-02 23:58:46 +0200"
+    },
+    "done": true
   },
   "minecraft:recipes/woodcutting/oak/oak_door_from_oak_planks_woodcutting": {
     "criteria": {
@@ -658,6 +670,7 @@
       "SWEET_BERRY_CUSTARD": "2025-03-07 13:59:56 +0100",
       "SWEET_BERRY_PIE_SLICE": "2025-03-17 14:37:42 +0100",
       "GLOW_BERRY_CHEESECAKE_SLICE": "2025-03-17 14:37:41 +0100",
+      "SUGAR_COOKIE": "2025-04-02 22:13:43 +0200",
       "CHOCOLATE_CUSTARD": "2025-02-01 00:19:15 +0100",
       "PUMPKIN_COOKIE": "2025-03-26 16:59:21 +0100",
       "GLOW_BERRY_PIE_SLICE": "2025-02-01 00:12:14 +0100",
@@ -2407,6 +2420,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/willow/willow_planks_from_willow_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-02 23:58:46 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_fence_gate_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-29 02:58:21 +0100"
@@ -2621,6 +2640,12 @@
   "minecraft:recipes/woodcutting/spruce/crafting_table_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-07 17:09:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_layered_from_willow_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-02 23:58:46 +0200"
     },
     "done": true
   },
@@ -3053,6 +3078,12 @@
   "minecraft:recipes/woodcutting/mangrove/chest_from_mangrove_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-07 13:52:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_connected_from_willow_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-02 23:58:46 +0200"
     },
     "done": true
   },
@@ -3534,6 +3565,12 @@
   "minecraft:recipes/woodcutting/mangrove/mangrove_chest_boat_from_mangrove_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-07 13:52:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_pillar_from_willow_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-02 23:58:46 +0200"
     },
     "done": true
   },
@@ -4366,6 +4403,7 @@
       "chorus_fruit": "2025-04-02 15:06:58 +0200",
       "baked_potato": "2025-02-05 16:15:10 +0100",
       "porkchop": "2025-01-27 00:26:19 +0100",
+      "beetroot_soup": "2025-04-02 22:44:26 +0200",
       "apple": "2025-01-19 00:00:51 +0100",
       "bread": "2025-01-27 00:37:30 +0100",
       "golden_apple": "2025-02-01 00:14:03 +0100",
@@ -4463,6 +4501,12 @@
   "minecraft:recipes/woodcutting/jungle/jungle_pressure_plate_from_jungle_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-30 04:34:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_planks_from_willow_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-04-02 23:58:46 +0200"
     },
     "done": true
   },

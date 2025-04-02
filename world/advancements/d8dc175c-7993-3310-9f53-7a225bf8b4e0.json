@@ -911,7 +911,9 @@
       "WHIPPED_CREAM": "2025-03-12 22:41:55 +0100",
       "FLOUR": "2025-03-17 21:26:56 +0100",
       "COOKING_OIL": "2025-03-08 01:20:53 +0100",
-      "BUTTER": "2025-03-12 22:43:59 +0100"
+      "BREAD_CRUMBS": "2025-04-02 22:10:42 +0200",
+      "BUTTER": "2025-03-12 22:43:59 +0100",
+      "CHEESE": "2025-04-02 22:10:44 +0200"
     },
     "done": false
   },
@@ -1013,11 +1015,15 @@
       "ROASTED_CARROT": "2025-03-27 19:17:34 +0100",
       "FISH_SALAD_SANDWICH": "2025-03-07 16:32:47 +0100",
       "SALISBURY_STEAK": "2025-03-07 14:25:45 +0100",
+      "APPLE_SAUCE": "2025-04-02 22:10:20 +0200",
       "PORK_STEW": "2025-03-07 14:27:44 +0100",
+      "FURIKAKE_RICE": "2025-04-02 22:10:40 +0200",
       "SALAD": "2025-03-07 14:26:07 +0100",
       "ROASTED_APPLE": "2025-03-09 20:09:47 +0100",
       "COOKED_PASTA": "2025-03-30 23:31:17 +0200",
       "CACTUS_EGGS": "2025-01-31 00:43:22 +0100",
+      "RICEBALL": "2025-04-02 22:10:19 +0200",
+      "CARROT_SOUP": "2025-04-02 22:10:43 +0200",
       "FISH_AND_CHIPS": "2025-04-02 13:53:18 +0200",
       "JAM_TOAST": "2025-03-29 02:03:00 +0100",
       "BACON_CHEESEBURGER": "2025-04-02 13:49:33 +0200",
@@ -1078,6 +1084,12 @@
       "tamed_animal": "2025-02-23 00:12:44 +0100"
     },
     "done": true
+  },
+  "extradelight:feasts": {
+    "criteria": {
+      "chicken_stew": "2025-04-02 22:10:43 +0200"
+    },
+    "done": false
   },
   "vinery:cherry_chest_boat": {
     "criteria": {
@@ -1212,7 +1224,9 @@
     "criteria": {
       "SWEET_BERRY_CUSTARD": "2025-03-07 15:03:22 +0100",
       "SWEET_BERRY_PIE_SLICE": "2025-03-17 21:27:18 +0100",
+      "CHOCOLATE_CUSTARD": "2025-04-02 22:10:45 +0200",
       "GLOW_BERRY_PIE_SLICE": "2025-03-17 21:27:37 +0100",
+      "GLOW_BERRY_COOKIE": "2025-04-02 22:10:41 +0200",
       "CHOCOLATE_CHEESECAKE_SLICE": "2025-03-27 19:17:23 +0100"
     },
     "done": false
@@ -3718,6 +3732,13 @@
     },
     "done": true
   },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "violet": "2025-04-02 22:13:36 +0200",
+      "indigo": "2025-04-02 22:13:37 +0200"
+    },
+    "done": false
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_sign_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-31 15:10:20 +0100"
@@ -4190,6 +4211,12 @@
       "in_outpost_oak": "2025-03-25 21:52:15 +0100"
     },
     "done": false
+  },
+  "immersiveengineering:main/craft_hammer": {
+    "criteria": {
+      "has_item": "2025-04-02 22:22:54 +0200"
+    },
+    "done": true
   },
   "minecraft:recipes/woodcutting/spruce/spruce_door_from_spruce_slab_woodcutting": {
     "criteria": {
