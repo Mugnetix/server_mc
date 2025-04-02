@@ -841,7 +841,8 @@
       "minecraft:vex": "2025-03-27 23:42:30 +0100",
       "minecraft:zombie": "2025-01-27 00:46:53 +0100",
       "quark:foxhound": "2025-03-28 23:49:33 +0100",
-      "minecraft:drowned": "2025-01-31 12:05:05 +0100"
+      "minecraft:drowned": "2025-01-31 12:05:05 +0100",
+      "minecraft:zombie_villager": "2025-04-02 14:14:29 +0200"
     },
     "done": false
   },
@@ -1008,6 +1009,7 @@
     "criteria": {
       "CHICKEN_STEW": "2025-03-30 00:45:55 +0100",
       "SEAWEED_CRISPS": "2025-03-07 14:40:30 +0100",
+      "CHEESEBURGER": "2025-04-02 13:49:16 +0200",
       "ROASTED_CARROT": "2025-03-27 19:17:34 +0100",
       "FISH_SALAD_SANDWICH": "2025-03-07 16:32:47 +0100",
       "SALISBURY_STEAK": "2025-03-07 14:25:45 +0100",
@@ -1016,7 +1018,9 @@
       "ROASTED_APPLE": "2025-03-09 20:09:47 +0100",
       "COOKED_PASTA": "2025-03-30 23:31:17 +0200",
       "CACTUS_EGGS": "2025-01-31 00:43:22 +0100",
+      "FISH_AND_CHIPS": "2025-04-02 13:53:18 +0200",
       "JAM_TOAST": "2025-03-29 02:03:00 +0100",
+      "BACON_CHEESEBURGER": "2025-04-02 13:49:33 +0200",
       "CHEESE_SANDWICH": "2025-03-12 22:55:10 +0100"
     },
     "done": false
@@ -1578,6 +1582,12 @@
     },
     "done": false
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-04-02 14:24:12 +0200"
+    },
+    "done": true
+  },
   "betterdungeons:small_dungeon": {
     "criteria": {
       "in_better_monster_room": "2025-03-26 16:55:30 +0100"
@@ -1962,6 +1972,12 @@
   "extradelight:cactus_juice": {
     "criteria": {
       "cactus_juice": "2025-01-31 14:28:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-04-02 14:23:59 +0200"
     },
     "done": true
   },
@@ -2609,6 +2625,7 @@
       "melon_slice": "2025-01-27 00:02:20 +0100",
       "beetroot": "2025-01-31 01:05:16 +0100",
       "enchanted_golden_apple": "2025-03-28 21:13:02 +0100",
+      "cod": "2025-04-02 14:14:44 +0200",
       "rabbit_stew": "2025-03-25 19:54:09 +0100",
       "carrot": "2025-01-28 00:52:05 +0100"
     },
@@ -4382,6 +4399,12 @@
   "croptopia:pot": {
     "criteria": {
       "cooking_pot": "2025-03-05 22:19:38 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-04-02 13:55:14 +0200"
     },
     "done": true
   },

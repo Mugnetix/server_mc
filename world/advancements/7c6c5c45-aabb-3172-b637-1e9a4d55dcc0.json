@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "phantasm:get_crystal": {
+    "criteria": {
+      "get_crystal": "2025-04-02 14:38:01 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/jungle/jungle_fence_from_jungle_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-02 18:39:37 +0100"
@@ -558,10 +564,11 @@
   "repurposed_structures:shipwrecks": {
     "criteria": {
       "in_shipwreck_crimson": "2025-03-16 19:03:22 +0100",
+      "in_shipwreck_end": "2025-04-02 14:41:37 +0200",
       "in_shipwreck_nether_bricks": "2025-03-28 20:26:12 +0100",
       "in_shipwreck_warped": "2025-02-02 18:08:38 +0100"
     },
-    "done": false
+    "done": true
   },
   "mcwfences:recipes/deepslate": {
     "criteria": {
@@ -815,6 +822,12 @@
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:52 +0100"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-04-02 14:34:25 +0200"
     },
     "done": true
   },
@@ -1268,6 +1281,7 @@
   },
   "repurposed_structures:pyramids": {
     "criteria": {
+      "in_pyramid_end": "2025-04-02 15:28:26 +0200",
       "in_pyramid_giant_tree_taiga": "2025-03-22 15:56:14 +0100",
       "in_pyramid_dark_forest": "2025-03-26 16:23:53 +0100",
       "in_pyramid_nether": "2025-03-16 19:07:04 +0100",
@@ -1449,6 +1463,12 @@
   "corail_woodcutter:recipes/from_byg_skyris_planks": {
     "criteria": {
       "has_ingredient": "2025-01-18 23:38:52 +0100"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2025-04-02 14:34:26 +0200"
     },
     "done": true
   },
@@ -1649,6 +1669,12 @@
   "aquamirae:adventure/find_ice_maze": {
     "criteria": {
       "deep_frozen_ocean": "2025-01-26 23:56:40 +0100"
+    },
+    "done": true
+  },
+  "phantasm:enter_dreaming_den": {
+    "criteria": {
+      "enter_dreaming_den": "2025-04-02 14:36:58 +0200"
     },
     "done": true
   },
@@ -2303,15 +2329,18 @@
       "byg:bayou": "2025-03-30 16:01:03 +0200",
       "byg:dacite_ridges": "2025-03-31 17:05:11 +0200",
       "byg:autumnal_valley": "2025-01-26 23:50:10 +0100",
+      "byg:ethereal_islands": "2025-04-02 15:11:58 +0200",
       "byg:howling_peaks": "2025-01-31 15:58:11 +0100",
       "byg:aspen_forest": "2025-01-31 00:29:08 +0100",
       "byg:skyris_vale": "2025-01-27 00:47:59 +0100",
       "byg:forgotten_forest": "2025-01-31 16:59:15 +0100",
       "byg:cherry_blossom_forest": "2025-03-30 17:36:35 +0200",
+      "byg:imparius_grove": "2025-04-02 15:08:09 +0200",
       "byg:crimson_gardens": "2025-02-02 17:51:40 +0100",
       "byg:canadian_shield": "2025-01-31 16:22:40 +0100",
       "byg:cardinal_tundra": "2025-01-27 00:02:29 +0100",
       "byg:shulkren_forest": "2025-03-31 21:54:47 +0200",
+      "byg:cryptic_wastes": "2025-04-02 14:54:53 +0200",
       "byg:amaranth_fields": "2025-01-31 17:25:15 +0100",
       "byg:brimstone_caverns": "2025-02-12 01:22:32 +0100",
       "byg:ebony_woods": "2025-03-07 15:07:24 +0100",
@@ -2373,6 +2402,7 @@
   "repurposed_structures:outposts": {
     "criteria": {
       "in_outpost_birch": "2025-03-29 21:25:35 +0100",
+      "in_outpost_end": "2025-04-02 15:21:18 +0200",
       "in_outpost_crimson": "2025-03-28 20:36:45 +0100",
       "in_outpost_taiga": "2025-03-30 15:52:01 +0200",
       "in_outpost_desert": "2025-03-17 14:18:59 +0100",
@@ -3048,6 +3078,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-04-02 14:42:08 +0200"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-01-19 00:57:30 +0100"
@@ -3057,6 +3093,7 @@
   "repurposed_structures:mineshafts": {
     "criteria": {
       "in_mineshaft_birch": "2025-01-31 15:28:31 +0100",
+      "in_mineshaft_end": "2025-04-02 14:47:15 +0200",
       "in_mineshaft_icy": "2025-03-30 19:25:41 +0200",
       "in_mineshaft_taiga": "2025-01-29 02:01:17 +0100"
     },
@@ -3133,6 +3170,7 @@
       "minecraft:wither_skeleton": "2025-02-02 18:10:07 +0100",
       "minecraft:husk": "2025-02-07 13:49:02 +0100",
       "minecraft:ender_dragon": "2025-03-31 17:17:19 +0200",
+      "minecraft:shulker": "2025-04-02 14:33:10 +0200",
       "minecraft:cave_spider": "2025-01-29 02:06:57 +0100",
       "minecraft:piglin": "2025-02-02 17:57:02 +0100",
       "minecraft:enderman": "2025-02-01 14:48:39 +0100",
@@ -3228,6 +3266,12 @@
     },
     "done": true
   },
+  "phantasm:enter_underisland": {
+    "criteria": {
+      "enter_underisland": "2025-04-02 14:39:52 +0200"
+    },
+    "done": true
+  },
   "croptopia:getseeds": {
     "criteria": {
       "has_seeds": "2025-01-26 23:49:16 +0100"
@@ -3295,6 +3339,7 @@
       "FISH_AND_CHIPS": "2025-03-30 16:44:50 +0200",
       "JAM_TOAST": "2025-01-30 04:21:12 +0100",
       "COOKED_CACTUS": "2025-03-17 14:37:37 +0100",
+      "BACON_CHEESEBURGER": "2025-04-02 13:52:58 +0200",
       "CHEESE_SANDWICH": "2025-02-01 00:12:16 +0100",
       "POTATO_SOUP": "2025-03-07 13:59:56 +0100",
       "CARROT_SALAD": "2025-03-26 16:59:21 +0100",
@@ -4278,6 +4323,7 @@
       "cooked_mutton": "2025-03-29 22:06:49 +0100",
       "sweet_berries": "2025-01-27 00:26:48 +0100",
       "cooked_beef": "2025-01-28 00:49:48 +0100",
+      "chorus_fruit": "2025-04-02 15:06:58 +0200",
       "baked_potato": "2025-02-05 16:15:10 +0100",
       "porkchop": "2025-01-27 00:26:19 +0100",
       "apple": "2025-01-19 00:00:51 +0100",
@@ -5044,6 +5090,12 @@
   "minecraft:recipes/woodcutting/spruce/spruce_slab_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-29 02:58:21 +0100"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/ender_flu": {
+    "criteria": {
+      "all_effects": "2025-04-02 15:05:53 +0200"
     },
     "done": true
   },
