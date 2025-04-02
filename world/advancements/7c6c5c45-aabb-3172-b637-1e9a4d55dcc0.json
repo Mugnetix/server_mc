@@ -2714,6 +2714,12 @@
     },
     "done": true
   },
+  "create:cross_streams": {
+    "criteria": {
+      "0": "2025-04-02 01:14:07 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2025-02-07 14:02:24 +0100"
