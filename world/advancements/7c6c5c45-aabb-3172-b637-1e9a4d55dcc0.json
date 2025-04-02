@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2025-04-02 16:16:36 +0200"
+    },
+    "done": true
+  },
   "vinery:cherry_slab": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:52 +0100"
@@ -613,6 +619,12 @@
   "vinery:grapevine_stem": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:53 +0100"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_golem": {
+    "criteria": {
+      "endergolem": "2025-04-02 16:23:38 +0200"
     },
     "done": true
   },
@@ -2249,6 +2261,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-04-02 16:38:54 +0200"
+    },
+    "done": true
+  },
   "dungeons_arise:find_typhon": {
     "criteria": {
       "location0": "2025-03-30 18:26:58 +0200"
@@ -2306,6 +2324,7 @@
       "byg:viscal_isles": "2025-03-31 21:54:24 +0200",
       "byg:sythian_torrids": "2025-02-12 01:31:02 +0100",
       "byg:temperate_grove": "2025-01-31 15:58:56 +0100",
+      "byg:bulbis_gardens": "2025-04-02 15:55:42 +0200",
       "byg:glowstone_gardens": "2025-03-28 20:33:55 +0100",
       "byg:black_forest": "2025-01-31 00:29:27 +0100",
       "byg:orchard": "2025-01-30 03:32:25 +0100",
@@ -2339,6 +2358,7 @@
       "byg:crimson_gardens": "2025-02-02 17:51:40 +0100",
       "byg:canadian_shield": "2025-01-31 16:22:40 +0100",
       "byg:cardinal_tundra": "2025-01-27 00:02:29 +0100",
+      "byg:nightshade_forest": "2025-04-02 15:46:20 +0200",
       "byg:shulkren_forest": "2025-03-31 21:54:47 +0200",
       "byg:cryptic_wastes": "2025-04-02 14:54:53 +0200",
       "byg:amaranth_fields": "2025-01-31 17:25:15 +0100",
@@ -2604,6 +2624,12 @@
     },
     "done": true
   },
+  "repurposed_structures:strongholds": {
+    "criteria": {
+      "in_stronghold_end": "2025-04-02 17:03:18 +0200"
+    },
+    "done": false
+  },
   "repurposed_structures:root": {
     "criteria": {
       "always": "2025-01-18 23:38:53 +0100"
@@ -2753,6 +2779,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2025-02-07 14:02:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-04-02 16:40:42 +0200"
     },
     "done": true
   },
@@ -3224,6 +3256,7 @@
       "COOKING_OIL": "2025-03-07 14:00:35 +0100",
       "BREAD_SLICE": "2025-03-07 14:00:34 +0100",
       "CACTUS": "2025-03-30 19:24:29 +0200",
+      "BREAD_CRUMBS": "2025-04-02 16:58:30 +0200",
       "EGG_MIX": "2025-03-29 23:01:08 +0100",
       "CARROT_JAM": "2025-01-30 04:20:59 +0100",
       "SLICED_POTATO": "2025-03-25 22:53:48 +0100",
@@ -3327,6 +3360,7 @@
       "MASHED_POTATO_GRAVY": "2025-01-30 04:20:59 +0100",
       "BEEF_WELLINGTON": "2025-02-01 00:12:19 +0100",
       "BEEF_STEW_RICE": "2025-02-01 00:19:21 +0100",
+      "FURIKAKE_RICE": "2025-04-02 16:58:30 +0200",
       "SALAD": "2025-03-07 13:59:55 +0100",
       "ROASTED_APPLE": "2025-03-09 16:34:27 +0100",
       "COOKED_PASTA": "2025-01-30 04:21:12 +0100",
@@ -3673,6 +3707,12 @@
   "vinery:mangrove_wine_rack_big": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:52 +0100"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_guardian": {
+    "criteria": {
+      "enderguardian": "2025-04-02 16:31:51 +0200"
     },
     "done": true
   },
@@ -4755,6 +4795,12 @@
   "mcwroofs:recipes/cobblestone": {
     "criteria": {
       "has_planks": "2025-01-26 23:44:46 +0100"
+    },
+    "done": true
+  },
+  "productivebees:husbandry/advanced_beehive/dragon_egg_hive/convert_egg": {
+    "criteria": {
+      "dragon_breath": "2025-04-02 18:43:40 +0200"
     },
     "done": true
   },

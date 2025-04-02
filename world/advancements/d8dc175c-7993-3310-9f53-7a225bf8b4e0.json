@@ -2822,6 +2822,12 @@
     },
     "done": true
   },
+  "productivebees:husbandry/bee_cage/quartz_nest": {
+    "criteria": {
+      "get_item": "2025-04-02 17:18:11 +0200"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_byg_willow_planks": {
     "criteria": {
       "has_ingredient": "2025-01-26 14:35:58 +0100"
@@ -4449,6 +4455,12 @@
   "corail_woodcutter:recipes/from_byg_mahogany_planks": {
     "criteria": {
       "has_ingredient": "2025-01-26 14:35:58 +0100"
+    },
+    "done": true
+  },
+  "productivebees:husbandry/bee_cage/quartz_nest/catch_crystalline_bee": {
+    "criteria": {
+      "catch": "2025-04-02 17:33:15 +0200"
     },
     "done": true
   },
