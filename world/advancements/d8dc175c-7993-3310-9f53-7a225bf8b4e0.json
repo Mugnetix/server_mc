@@ -1009,6 +1009,7 @@
   },
   "extradelight:meals": {
     "criteria": {
+      "MACARONI_CHEESE": "2025-04-03 22:19:13 +0200",
       "CHICKEN_STEW": "2025-03-30 00:45:55 +0100",
       "SEAWEED_CRISPS": "2025-03-07 14:40:30 +0100",
       "CHEESEBURGER": "2025-04-02 13:49:16 +0200",
@@ -1400,6 +1401,12 @@
   "minecraft:recipes/woodcutting/spruce/barrel_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-28 01:16:21 +0100"
+    },
+    "done": true
+  },
+  "beautify:progression/bookstack": {
+    "criteria": {
+      "obtain": "2025-04-03 23:13:50 +0200"
     },
     "done": true
   },
@@ -2636,6 +2643,7 @@
       "bread": "2025-01-31 23:52:54 +0100",
       "golden_apple": "2025-03-11 00:19:06 +0100",
       "rotten_flesh": "2025-01-31 13:25:04 +0100",
+      "cookie": "2025-04-03 23:30:38 +0200",
       "melon_slice": "2025-01-27 00:02:20 +0100",
       "beetroot": "2025-01-31 01:05:16 +0100",
       "enchanted_golden_apple": "2025-03-28 21:13:02 +0100",
@@ -3045,6 +3053,7 @@
   },
   "extradelight:jellyall": {
     "criteria": {
+      "jellyall_brown": "2025-04-03 23:15:32 +0200",
       "jellyall_yellow": "2025-01-31 14:39:17 +0100"
     },
     "done": false
@@ -4438,6 +4447,12 @@
   "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
       "nourishment": "2025-04-02 13:55:14 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-04-03 23:11:35 +0200"
     },
     "done": true
   },
