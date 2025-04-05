@@ -1032,6 +1032,12 @@
     },
     "done": false
   },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-04-05 16:54:54 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_stairs_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-01 00:17:50 +0100"
