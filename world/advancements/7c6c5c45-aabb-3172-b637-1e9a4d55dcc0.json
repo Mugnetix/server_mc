@@ -3472,6 +3472,12 @@
     },
     "done": false
   },
+  "create:steam_whistle": {
+    "criteria": {
+      "0": "2025-04-05 21:27:32 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_button_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-04 02:47:47 +0100"
