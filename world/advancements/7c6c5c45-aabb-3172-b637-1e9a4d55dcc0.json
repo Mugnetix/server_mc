@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "tempad:tempad": {
+    "criteria": {
+      "requirement": "2025-04-06 15:28:57 +0200"
+    },
+    "done": true
+  },
   "artifacts:chest_slayer": {
     "criteria": {
       "kill_mimic": "2025-01-28 01:45:39 +0100"
@@ -680,6 +686,12 @@
       "HONEY_CUSTARD": "2025-03-26 16:39:26 +0100"
     },
     "done": false
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-04-06 15:32:21 +0200"
+    },
+    "done": true
   },
   "beautify:rope": {
     "criteria": {
@@ -4349,6 +4361,12 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_stairs_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-08 02:40:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2025-04-06 15:36:01 +0200"
     },
     "done": true
   },
