@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "theabyss:phantom_ingot_adv": {
+    "criteria": {
+      "phantom_ingot_adv": "2025-04-07 19:44:27 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/birch_planks_from_birch_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-30 03:30:57 +0100"
@@ -65,6 +71,12 @@
     },
     "done": true
   },
+  "theabyss:recipes/somnium_infusing/anti_infect_essence": {
+    "criteria": {
+      "has_somnium_infuser": "2025-04-07 21:23:13 +0200"
+    },
+    "done": true
+  },
   "vinery:loam": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:53 +0100"
@@ -74,6 +86,12 @@
   "minecraft:recipes/woodcutting/jungle/jungle_chest_boat_from_jungle_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-30 04:34:08 +0100"
+    },
+    "done": true
+  },
+  "theabyss:recipes/arcane_crafting/ring_of_home_mirrored": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
     },
     "done": true
   },
@@ -161,6 +179,12 @@
     },
     "done": true
   },
+  "theabyss:recipes/arcane_crafting/ring_of_seeker_mirrored": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
+    },
+    "done": true
+  },
   "deeperdarker:main/root": {
     "criteria": {
       "deep_dark": "2025-01-31 15:57:22 +0100"
@@ -176,6 +200,12 @@
   "vinery:cherry_slab": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:52 +0100"
+    },
+    "done": true
+  },
+  "theabyss:recipes/arcane_crafting/ring_of_freeze": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
     },
     "done": true
   },
@@ -293,6 +323,12 @@
     },
     "done": true
   },
+  "theabyss:recipes/mortar_and_pestle/warped_powder": {
+    "criteria": {
+      "has_mortar_and_pestle": "2025-04-07 20:10:48 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:main/craft_treatedwood": {
     "criteria": {
       "has_item": "2025-03-23 00:00:12 +0100"
@@ -363,6 +399,12 @@
   "minecraft:recipes/woodcutting/oak/barrel_from_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-07 11:18:16 +0100"
+    },
+    "done": true
+  },
+  "theabyss:recipes/somnium_infusing/somnium_regen_upgrade": {
+    "criteria": {
+      "has_somnium_infuser": "2025-04-07 21:23:13 +0200"
     },
     "done": true
   },
@@ -477,6 +519,12 @@
     },
     "done": true
   },
+  "theabyss:recipes/arcane_crafting/ring_of_pocket_box_mirrored": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
+    },
+    "done": true
+  },
   "nethervinery:crimson_nether_bag": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:53 +0100"
@@ -522,6 +570,12 @@
   "hexcasting:grant_patchi_book": {
     "criteria": {
       "tick": "2025-01-18 23:38:53 +0100"
+    },
+    "done": true
+  },
+  "theabyss:recipes/arcane_crafting/ring_of_pocket_box": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
     },
     "done": true
   },
@@ -646,6 +700,12 @@
     },
     "done": true
   },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-04-07 23:16:31 +0200"
+    },
+    "done": true
+  },
   "create:water_wheel": {
     "criteria": {
       "0": "2025-02-09 19:56:11 +0100"
@@ -705,6 +765,12 @@
     },
     "done": true
   },
+  "theabyss:recipes/somnium_infusing/somnium_cooldown_upgrade_alt": {
+    "criteria": {
+      "has_somnium_infuser": "2025-04-07 21:23:13 +0200"
+    },
+    "done": true
+  },
   "dungeons_arise:find_illager_corsair_or_illager_galley": {
     "criteria": {
       "location1": "2025-03-07 15:45:49 +0100"
@@ -726,6 +792,12 @@
   "minecraft:recipes/woodcutting/birch/birch_button_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-03-11 01:46:54 +0100"
+    },
+    "done": true
+  },
+  "theabyss:somnium_adv": {
+    "criteria": {
+      "somnium_adv": "2025-04-07 21:22:04 +0200"
     },
     "done": true
   },
@@ -808,6 +880,12 @@
     },
     "done": true
   },
+  "theabyss:recipes/arcane_crafting/ring_of_reg": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/jungle/jungle_planks_from_jungle_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-02 18:39:37 +0100"
@@ -823,6 +901,12 @@
   "minecraft:recipes/woodcutting/birch/barrel_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-03-11 01:46:54 +0100"
+    },
+    "done": true
+  },
+  "theabyss:recipes/arcane_crafting/ring_of_electro": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
     },
     "done": true
   },
@@ -889,6 +973,12 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_stripped_dark_oak_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-03-19 18:45:26 +0100"
+    },
+    "done": true
+  },
+  "theabyss:recipes/arcane_crafting/ring_of_thunder_mirrored": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
     },
     "done": true
   },
@@ -1011,6 +1101,12 @@
     "criteria": {
       "give_recipe": "2025-01-30 04:16:19 +0100",
       "has_block": "2025-01-30 04:16:19 +0100"
+    },
+    "done": true
+  },
+  "theabyss:recipes/arcane_crafting/ring_of_slide": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
     },
     "done": true
   },
@@ -1179,6 +1275,12 @@
     },
     "done": true
   },
+  "theabyss:recipes/somnium_infusing/anti_fear_essence": {
+    "criteria": {
+      "has_somnium_infuser": "2025-04-07 21:23:13 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_chest_boat_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-26 23:44:01 +0100"
@@ -1210,6 +1312,12 @@
   "minecraft:recipes/woodcutting/jungle/jungle_planks_from_jungle_stairs_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-30 04:16:19 +0100"
+    },
+    "done": true
+  },
+  "theabyss:recipes/arcane_crafting/ring_of_eagle": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
     },
     "done": true
   },
@@ -1298,9 +1406,21 @@
     },
     "done": true
   },
+  "theabyss:recipes/arcane_crafting/ring_of_thunder": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_pressure_plate_from_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-07 11:18:15 +0100"
+    },
+    "done": true
+  },
+  "theabyss:recipes/mortar_and_pestle/ender_powder": {
+    "criteria": {
+      "has_mortar_and_pestle": "2025-04-07 20:10:48 +0200"
     },
     "done": true
   },
@@ -1341,6 +1461,12 @@
     },
     "done": true
   },
+  "theabyss:recipes/arcane_crafting/ring_of_firestorm": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/stone": {
     "criteria": {
       "has_planks": "2025-01-31 14:43:15 +0100"
@@ -1365,9 +1491,21 @@
     },
     "done": true
   },
+  "theabyss:recipes/arcane_crafting/ring_of_flight": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
+    },
+    "done": true
+  },
   "ad_astra:venus": {
     "criteria": {
       "venus": "2025-03-27 21:20:08 +0100"
+    },
+    "done": true
+  },
+  "theabyss:recipes/mortar_and_pestle/tenebris_powder_alternative": {
+    "criteria": {
+      "has_mortar_and_pestle": "2025-04-07 20:10:48 +0200"
     },
     "done": true
   },
@@ -1401,6 +1539,12 @@
     },
     "done": true
   },
+  "theabyss:recipes/arcane_crafting/ring_of_fangs": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_byg_cherry_planks": {
     "criteria": {
       "has_ingredient": "2025-01-18 23:38:52 +0100"
@@ -1419,6 +1563,12 @@
     },
     "done": true
   },
+  "cataclysm:kill_revenant": {
+    "criteria": {
+      "endergolem": "2025-04-07 22:56:59 +0200"
+    },
+    "done": true
+  },
   "comforts:hammock_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:53 +0100"
@@ -1428,6 +1578,12 @@
   "minecraft:recipes/woodcutting/oak/oak_trapdoor_from_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-07 11:18:16 +0100"
+    },
+    "done": true
+  },
+  "theabyss:recipes/arcane_crafting/ring_of_curse_mirrored": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
     },
     "done": true
   },
@@ -1464,6 +1620,12 @@
   "mcwroofs:recipes/oak_planks": {
     "criteria": {
       "has_planks": "2025-01-26 23:44:01 +0100"
+    },
+    "done": true
+  },
+  "theabyss:recipes/arcane_crafting/ring_of_time_mirrored": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
     },
     "done": true
   },
@@ -1518,6 +1680,12 @@
   "minecraft:recipes/woodcutting/mangrove/mangrove_button_from_mangrove_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-07 13:52:13 +0100"
+    },
+    "done": true
+  },
+  "theabyss:recipes/somnium_infusing/somnium_damage_upragde": {
+    "criteria": {
+      "has_somnium_infuser": "2025-04-07 21:23:13 +0200"
     },
     "done": true
   },
@@ -1582,6 +1750,12 @@
     },
     "done": true
   },
+  "theabyss:recipes/mortar_and_pestle/aurel_powder": {
+    "criteria": {
+      "has_mortar_and_pestle": "2025-04-07 20:10:48 +0200"
+    },
+    "done": true
+  },
   "chalk:adventure/sleep_three_times_in_one_place": {
     "criteria": {
       "sleep_three_times_in_one_place": "2025-01-27 01:21:10 +0100"
@@ -1591,6 +1765,12 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-03-22 16:32:52 +0100"
+    },
+    "done": true
+  },
+  "theabyss:garnite_ore_adv": {
+    "criteria": {
+      "garnite_ore_adv": "2025-04-07 19:44:39 +0200"
     },
     "done": true
   },
@@ -1816,6 +1996,12 @@
     },
     "done": true
   },
+  "theabyss:recipes/arcane_crafting/ring_of_firestrike_mirrored": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
+    },
+    "done": true
+  },
   "vinery:white_grape_crate": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:53 +0100"
@@ -1876,6 +2062,12 @@
     },
     "done": true
   },
+  "theabyss:recipes/arcane_crafting/ring_of_time": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/granite": {
     "criteria": {
       "has_planks": "2025-01-27 01:29:13 +0100"
@@ -1894,9 +2086,27 @@
     },
     "done": true
   },
+  "theabyss:recipes/arcane_crafting/ring_of_speed": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
+    },
+    "done": true
+  },
+  "theabyss:recipes/arcane_crafting/ring_of_slide_mirrored": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2025-01-18 23:38:52 +0100"
+    },
+    "done": true
+  },
+  "theabyss:recipes/arcane_crafting/ring_of_firestrike": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
     },
     "done": true
   },
@@ -1954,6 +2164,12 @@
     },
     "done": true
   },
+  "theabyss:ignisithe_ore_adv": {
+    "criteria": {
+      "ignisithe_ore_adv": "2025-04-07 19:46:23 +0200"
+    },
+    "done": true
+  },
   "silentgear:the_end": {
     "criteria": {
       "entered_the_end": "2025-03-31 17:14:48 +0200"
@@ -1963,6 +2179,12 @@
   "byg:husbandry/forager": {
     "criteria": {
       "white_puffball_cap": "2025-03-25 21:45:30 +0100"
+    },
+    "done": true
+  },
+  "theabyss:recipes/arcane_crafting/ring_of_electro_mirrored": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
     },
     "done": true
   },
@@ -2044,6 +2266,12 @@
     },
     "done": true
   },
+  "theabyss:recipes/mortar_and_pestle/tenebris_powder": {
+    "criteria": {
+      "has_mortar_and_pestle": "2025-04-07 20:10:48 +0200"
+    },
+    "done": true
+  },
   "mcwfences:recipes/sandstone": {
     "criteria": {
       "has_sand": "2025-01-18 23:38:52 +0100"
@@ -2065,6 +2293,12 @@
   "mcwroofs:recipes/gutters": {
     "criteria": {
       "has_planks": "2025-01-27 01:34:26 +0100"
+    },
+    "done": true
+  },
+  "theabyss:ore_adv": {
+    "criteria": {
+      "ore_adv": "2025-04-07 19:44:11 +0200"
     },
     "done": true
   },
@@ -2208,6 +2442,12 @@
     },
     "done": true
   },
+  "theabyss:recipes/arcane_crafting/ring_of_invisibility": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_door_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-29 02:58:21 +0100"
@@ -2229,6 +2469,12 @@
   "aquamirae:adventure/consume_sea_stew": {
     "criteria": {
       "sea_stew": "2025-03-30 18:23:14 +0200"
+    },
+    "done": true
+  },
+  "theabyss:recipes/arcane_crafting/ring_of_curse": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
     },
     "done": true
   },
@@ -2259,6 +2505,12 @@
   "supplementaries:husbandry/soap": {
     "criteria": {
       "stew": "2025-02-04 02:06:46 +0100"
+    },
+    "done": true
+  },
+  "theabyss:recipes/mortar_and_pestle/frost_powder": {
+    "criteria": {
+      "has_mortar_and_pestle": "2025-04-07 20:10:48 +0200"
     },
     "done": true
   },
@@ -2369,6 +2621,7 @@
       "byg:embur_bog": "2025-03-16 18:00:27 +0100",
       "byg:zelkova_forest": "2025-01-27 00:18:40 +0100",
       "byg:araucaria_savanna": "2025-02-05 16:09:29 +0100",
+      "byg:wailing_garth": "2025-04-07 23:23:15 +0200",
       "byg:crag_gardens": "2025-01-31 17:06:58 +0100",
       "byg:bayou": "2025-03-30 16:01:03 +0200",
       "byg:dacite_ridges": "2025-03-31 17:05:11 +0200",
@@ -2625,6 +2878,12 @@
     },
     "done": true
   },
+  "theabyss:recipes/arcane_crafting/ring_of_reg_mirrored": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
+    },
+    "done": true
+  },
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:53 +0100"
@@ -2750,6 +3009,12 @@
   "minecraft:recipes/woodcutting/jungle/barrel_from_jungle_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-02 18:39:37 +0100"
+    },
+    "done": true
+  },
+  "theabyss:recipes/mortar_and_pestle/fear_powder": {
+    "criteria": {
+      "has_mortar_and_pestle": "2025-04-07 20:10:48 +0200"
     },
     "done": true
   },
@@ -2954,6 +3219,12 @@
     },
     "done": true
   },
+  "quark:overlevel_enchant": {
+    "criteria": {
+      "overlevel_enchant": "2025-04-07 21:44:28 +0200"
+    },
+    "done": true
+  },
   "comforts:hammock_lime": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:52 +0100"
@@ -2978,6 +3249,12 @@
     },
     "done": true
   },
+  "theabyss:recipes/arcane_crafting/ring_of_fangs_mirrored": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/birch_fence_gate_from_birch_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-03-17 14:16:20 +0100"
@@ -2993,6 +3270,12 @@
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-01-31 15:57:25 +0100"
+    },
+    "done": true
+  },
+  "theabyss:recipes/arcane_crafting/ring_of_blackstrike": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
     },
     "done": true
   },
@@ -3084,6 +3367,18 @@
   "vinery:spruce_wine_rack_big": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:53 +0100"
+    },
+    "done": true
+  },
+  "theabyss:recipes/somnium_infusing/somnium_upgrade": {
+    "criteria": {
+      "has_somnium_infuser": "2025-04-07 21:23:13 +0200"
+    },
+    "done": true
+  },
+  "theabyss:recipes/arcane_crafting/ring_of_home": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
     },
     "done": true
   },
@@ -3260,6 +3555,12 @@
     },
     "done": false
   },
+  "theabyss:incorythe_ore_adv": {
+    "criteria": {
+      "incorythe_ore_adv": "2025-04-07 20:54:04 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/jungle/barrel_from_jungle_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-30 04:34:08 +0100"
@@ -3315,6 +3616,12 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-04 02:47:47 +0100"
+    },
+    "done": true
+  },
+  "theabyss:recipes/arcane_crafting/ring_of_ender_chest": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
     },
     "done": true
   },
@@ -3398,6 +3705,7 @@
       "FISH_CAKES": "2025-03-26 16:39:20 +0100",
       "BBQ_RIBS": "2025-01-30 04:19:53 +0100",
       "SALISBURY_STEAK": "2025-03-07 14:00:34 +0100",
+      "TOMATO_SOUP": "2025-04-07 23:28:14 +0200",
       "APPLE_SAUCE": "2025-03-25 22:53:49 +0100",
       "PORK_STEW": "2025-03-07 14:27:46 +0100",
       "MASHED_POTATO_GRAVY": "2025-01-30 04:20:59 +0100",
@@ -3682,6 +3990,12 @@
     },
     "done": true
   },
+  "cataclysm:find_burning_arena": {
+    "criteria": {
+      "arena": "2025-04-07 22:55:37 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/jungle/jungle_trapdoor_from_jungle_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-02 18:39:37 +0100"
@@ -3691,6 +4005,12 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_gate_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-04 02:47:47 +0100"
+    },
+    "done": true
+  },
+  "theabyss:recipes/arcane_crafting/ring_of_fire": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
     },
     "done": true
   },
@@ -3807,6 +4127,12 @@
     },
     "done": true
   },
+  "theabyss:recipes/arcane_crafting/ring_of_fire_mirrored": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:52 +0100"
@@ -3825,9 +4151,21 @@
     },
     "done": true
   },
+  "theabyss:recipes/mortar_and_pestle/ardor_powder_alternative": {
+    "criteria": {
+      "has_mortar_and_pestle": "2025-04-07 20:10:48 +0200"
+    },
+    "done": true
+  },
   "nethervinery:crimson_fermentation_barrel": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:53 +0100"
+    },
+    "done": true
+  },
+  "theabyss:recipes/arcane_crafting/ring_of_ocean": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
     },
     "done": true
   },
@@ -3852,6 +4190,12 @@
   "aquamirae:adventure/obtain_dagger_of_greed": {
     "criteria": {
       "dagger_of_greed": "2025-03-30 18:01:24 +0200"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ignis": {
+    "criteria": {
+      "ignis": "2025-04-07 22:58:46 +0200"
     },
     "done": true
   },
@@ -3916,6 +4260,12 @@
     },
     "done": true
   },
+  "theabyss:recipes/mortar_and_pestle/vit_powder": {
+    "criteria": {
+      "has_mortar_and_pestle": "2025-04-07 20:10:48 +0200"
+    },
+    "done": true
+  },
   "lootr:root": {
     "criteria": {
       "always_true": "2025-01-18 23:38:53 +0100"
@@ -3967,6 +4317,18 @@
   "mcwfences:recipes/blackstone": {
     "criteria": {
       "has_blackstone": "2025-01-18 23:38:52 +0100"
+    },
+    "done": true
+  },
+  "theabyss:recipes/arcane_crafting/ring_of_telekinetic": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
+    },
+    "done": true
+  },
+  "theabyss:recipes/mortar_and_pestle/crimson_powder": {
+    "criteria": {
+      "has_mortar_and_pestle": "2025-04-07 20:10:48 +0200"
     },
     "done": true
   },
@@ -4052,6 +4414,12 @@
   "tetra:spelunking/geode_open": {
     "criteria": {
       "consume_geode": "2025-02-03 20:14:04 +0100"
+    },
+    "done": true
+  },
+  "theabyss:recipes/arcane_crafting/ring_of_ender_chest_mirrored": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
     },
     "done": true
   },
@@ -4205,6 +4573,12 @@
     },
     "done": true
   },
+  "theabyss:recipes/somnium_infusing/immortal_substance": {
+    "criteria": {
+      "has_somnium_infuser": "2025-04-07 21:23:13 +0200"
+    },
+    "done": true
+  },
   "ad_astra:tier_2_rocket": {
     "criteria": {
       "tier_2_rocket": "2025-03-15 15:51:35 +0100"
@@ -4235,15 +4609,33 @@
     },
     "done": true
   },
+  "theabyss:recipes/arcane_crafting/ring_of_freeze_mirrored": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
+    },
+    "done": true
+  },
   "vinery:window": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:52 +0100"
     },
     "done": true
   },
+  "theabyss:recipes/arcane_crafting/ring_of_eagle_mirrored": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
+    },
+    "done": true
+  },
   "exposure:adventure/get_photograph": {
     "criteria": {
       "get_photograph": "2025-04-01 01:46:49 +0200"
+    },
+    "done": true
+  },
+  "theabyss:recipes/mortar_and_pestle/ardor_powder": {
+    "criteria": {
+      "has_mortar_and_pestle": "2025-04-07 20:10:48 +0200"
     },
     "done": true
   },
@@ -4264,6 +4656,12 @@
   "dungeons_arise:find_heavenly_rider": {
     "criteria": {
       "location0": "2025-03-07 17:38:27 +0100"
+    },
+    "done": true
+  },
+  "theabyss:recipes/somnium_infusing/somnium_cooldown_upgrade": {
+    "criteria": {
+      "has_somnium_infuser": "2025-04-07 21:23:13 +0200"
     },
     "done": true
   },
@@ -4358,6 +4756,12 @@
     },
     "done": true
   },
+  "theabyss:recipes/arcane_crafting/ring_of_flight_mirrored": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_stairs_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-08 02:40:27 +0100"
@@ -4379,6 +4783,12 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_button_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-08 02:40:27 +0100"
+    },
+    "done": true
+  },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2025-04-07 23:18:48 +0200"
     },
     "done": true
   },
@@ -4511,6 +4921,18 @@
     },
     "done": true
   },
+  "theabyss:recipes/arcane_crafting/ring_of_blackstrike_mirrored": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
+    },
+    "done": true
+  },
+  "theabyss:recipes/arcane_crafting/ring_of_teleport_mirrored": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mangrove/mangrove_trapdoor_from_mangrove_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-07 13:52:13 +0100"
@@ -4538,6 +4960,12 @@
   "comforts:sleeping_bag_blue": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:53 +0100"
+    },
+    "done": true
+  },
+  "theabyss:recipes/arcane_crafting/ring_of_telekinetic_mirrored": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
     },
     "done": true
   },
@@ -4592,6 +5020,12 @@
   "create:shifting_gears": {
     "criteria": {
       "0": "2025-02-07 17:40:32 +0100"
+    },
+    "done": true
+  },
+  "theabyss:recipes/arcane_crafting/ring_of_teleport": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
     },
     "done": true
   },
@@ -4697,6 +5131,18 @@
     },
     "done": true
   },
+  "theabyss:recipes/arcane_crafting/ring_of_speed_mirrored": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
+    },
+    "done": true
+  },
+  "theabyss:recipes/mortar_and_pestle/abyss_powder": {
+    "criteria": {
+      "has_mortar_and_pestle": "2025-04-07 20:10:48 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_sign_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-07 17:09:16 +0100"
@@ -4718,6 +5164,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-01-28 01:42:12 +0100"
+    },
+    "done": true
+  },
+  "theabyss:recipes/arcane_crafting/ring_of_firestorm_mirrored": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
     },
     "done": true
   },
@@ -4757,6 +5209,12 @@
     },
     "done": true
   },
+  "theabyss:aberythe_ore_adv": {
+    "criteria": {
+      "aberythe_ore_adv": "2025-04-07 19:44:11 +0200"
+    },
+    "done": true
+  },
   "vinery:flower_pot": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:53 +0100"
@@ -4771,6 +5229,7 @@
       "brown_mushroom": "2025-03-22 22:06:41 +0100",
       "sugar_cane": "2025-02-01 13:24:48 +0100",
       "potato": "2025-02-01 13:10:19 +0100",
+      "red_mushroom": "2025-04-07 23:28:04 +0200",
       "nether_wart": "2025-03-15 20:26:24 +0100",
       "wheat": "2025-01-27 01:49:52 +0100",
       "carrot": "2025-02-01 13:10:20 +0100"
@@ -4798,6 +5257,18 @@
   "comforts:sleeping_bag_black_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:53 +0100"
+    },
+    "done": true
+  },
+  "theabyss:recipes/arcane_crafting/ring_of_nature": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
+    },
+    "done": true
+  },
+  "theabyss:recipes/mortar_and_pestle/hollow_powder": {
+    "criteria": {
+      "has_mortar_and_pestle": "2025-04-07 20:10:48 +0200"
     },
     "done": true
   },
@@ -4927,15 +5398,33 @@
     },
     "done": true
   },
+  "theabyss:recipes/somnium_infusing/immortal_substance_alt": {
+    "criteria": {
+      "has_somnium_infuser": "2025-04-07 21:23:13 +0200"
+    },
+    "done": true
+  },
   "chalk:adventure/get_skeleton_skull": {
     "criteria": {
       "slept_in_bed": "2025-01-31 15:36:52 +0100"
     },
     "done": true
   },
+  "theabyss:fusion_ore_adv": {
+    "criteria": {
+      "fusion_ore_adv": "2025-04-07 20:46:40 +0200"
+    },
+    "done": true
+  },
   "truedarkness:deep_dark_adv": {
     "criteria": {
       "deep_dark_adv": "2025-01-31 15:57:22 +0100"
+    },
+    "done": true
+  },
+  "theabyss:recipes/arcane_crafting/ring_of_seeker": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
     },
     "done": true
   },
@@ -4975,6 +5464,12 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_chest_boat_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-08 02:40:27 +0100"
+    },
+    "done": true
+  },
+  "theabyss:recipes/arcane_crafting/ring_of_ocean_mirrored": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
     },
     "done": true
   },
@@ -5029,6 +5524,12 @@
   "pfm:grant_book_on_first_join": {
     "criteria": {
       "tick": "2025-01-18 23:38:52 +0100"
+    },
+    "done": true
+  },
+  "theabyss:recipes/somnium_infusing/lurker_juice": {
+    "criteria": {
+      "has_somnium_infuser": "2025-04-07 21:23:13 +0200"
     },
     "done": true
   },
@@ -5119,6 +5620,12 @@
   "minecraft:recipes/woodcutting/spruce/barrel_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-29 02:58:21 +0100"
+    },
+    "done": true
+  },
+  "theabyss:magic_adv": {
+    "criteria": {
+      "magic_adv": "2025-04-07 21:22:04 +0200"
     },
     "done": true
   },
