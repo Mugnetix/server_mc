@@ -5131,15 +5131,15 @@
     },
     "done": true
   },
-  "theabyss:recipes/arcane_crafting/ring_of_speed_mirrored": {
-    "criteria": {
-      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
-    },
-    "done": true
-  },
   "theabyss:recipes/mortar_and_pestle/abyss_powder": {
     "criteria": {
       "has_mortar_and_pestle": "2025-04-07 20:10:48 +0200"
+    },
+    "done": true
+  },
+  "theabyss:recipes/arcane_crafting/ring_of_speed_mirrored": {
+    "criteria": {
+      "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
     },
     "done": true
   },
