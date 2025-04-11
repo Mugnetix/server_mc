@@ -299,12 +299,6 @@
     },
     "done": true
   },
-  "tempad:tempad": {
-    "criteria": {
-      "requirement": "2025-04-06 15:28:57 +0200"
-    },
-    "done": true
-  },
   "artifacts:chest_slayer": {
     "criteria": {
       "kill_mimic": "2025-01-28 01:45:39 +0100"
@@ -314,12 +308,6 @@
   "comforts:hammock_magenta": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:52 +0100"
-    },
-    "done": true
-  },
-  "ae2:main/charger": {
-    "criteria": {
-      "certus": "2025-02-02 19:05:19 +0100"
     },
     "done": true
   },
@@ -594,12 +582,6 @@
   "aquamirae:recipes/fin": {
     "criteria": {
       "has_item": "2025-03-30 17:50:28 +0200"
-    },
-    "done": true
-  },
-  "ae2:main/facade": {
-    "criteria": {
-      "facade": "2025-03-30 22:59:52 +0200"
     },
     "done": true
   },
@@ -2988,12 +2970,6 @@
     },
     "done": true
   },
-  "ae2:main/compass": {
-    "criteria": {
-      "compass": "2025-02-02 19:28:17 +0100"
-    },
-    "done": true
-  },
   "vinery:vinemaker_leggings": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:53 +0100"
@@ -4750,12 +4726,6 @@
     },
     "done": true
   },
-  "ae2:main/root": {
-    "criteria": {
-      "copper": "2025-01-27 02:13:11 +0100"
-    },
-    "done": true
-  },
   "theabyss:recipes/arcane_crafting/ring_of_flight_mirrored": {
     "criteria": {
       "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
@@ -5431,15 +5401,6 @@
   "vinery:acacia_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:53 +0100"
-    },
-    "done": true
-  },
-  "ae2:main/presses": {
-    "criteria": {
-      "calculation": "2025-02-07 13:20:42 +0100",
-      "silicon": "2025-02-07 13:20:42 +0100",
-      "engineering": "2025-02-07 13:20:42 +0100",
-      "logic": "2025-02-07 13:20:42 +0100"
     },
     "done": true
   },
