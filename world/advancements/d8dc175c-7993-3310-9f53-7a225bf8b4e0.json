@@ -84,12 +84,6 @@
     },
     "done": true
   },
-  "ae2:main/compass": {
-    "criteria": {
-      "compass": "2025-02-07 13:12:42 +0100"
-    },
-    "done": true
-  },
   "vinery:vinemaker_leggings": {
     "criteria": {
       "has_the_recipe": "2025-01-26 14:35:59 +0100"
@@ -990,12 +984,6 @@
     },
     "done": true
   },
-  "ae2:main/facade": {
-    "criteria": {
-      "facade": "2025-03-06 10:06:57 +0100"
-    },
-    "done": true
-  },
   "comforts:hammock_blue": {
     "criteria": {
       "has_the_recipe": "2025-01-26 14:35:59 +0100"
@@ -1338,12 +1326,6 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-04-07 22:57:00 +0200"
-    },
-    "done": true
-  },
-  "botanypots:husbandry/get_basic_pot": {
-    "criteria": {
-      "get_botany_pot": "2025-03-05 18:04:15 +0100"
     },
     "done": true
   },
@@ -2547,12 +2529,6 @@
     },
     "done": true
   },
-  "ae2:main/root": {
-    "criteria": {
-      "copper": "2025-03-07 18:08:57 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_stairs_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-01-31 15:10:20 +0100"
@@ -3743,12 +3719,6 @@
     },
     "done": true
   },
-  "botanypots:husbandry/get_hopper_pot": {
-    "criteria": {
-      "get_hopper_pot": "2025-03-05 18:09:08 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/willow/polished_willow_planks_from_willow_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-03-18 19:20:08 +0100"
@@ -3898,15 +3868,6 @@
   "vinery:acacia_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2025-01-26 14:35:59 +0100"
-    },
-    "done": true
-  },
-  "ae2:main/presses": {
-    "criteria": {
-      "calculation": "2025-02-07 13:20:52 +0100",
-      "silicon": "2025-02-07 13:20:52 +0100",
-      "engineering": "2025-02-07 13:20:53 +0100",
-      "logic": "2025-02-07 13:20:52 +0100"
     },
     "done": true
   },

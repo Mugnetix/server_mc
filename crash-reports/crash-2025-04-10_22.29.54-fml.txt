@@ -1,0 +1,192 @@
+---- Minecraft Crash Report ----
+// Don't be sad, have a hug! <3
+
+Time: 2025-04-10 22:29:54
+Description: Mod loading error has occurred
+
+java.lang.Exception: Mod Loading has failed
+	at net.minecraftforge.logging.CrashReportExtender.dumpModLoadingCrashReport(CrashReportExtender.java:55) ~[forge-1.19.2-43.4.0-universal.jar%23860!/:?] {re:classloading}
+	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:39) ~[forge-1.19.2-43.4.0-universal.jar%23860!/:?] {re:classloading}
+	at net.minecraft.server.Main.main(Main.java:113) ~[server-1.19.2-20220805.130853-srg.jar%23855!/:?] {re:classloading,re:mixin,pl:mixin:A}
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.4.0.jar%2367!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?] {}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: main
+Suspected Mods: NONE
+Stacktrace:
+	at net.minecraftforge.logging.CrashReportExtender.lambda$dumpModLoadingCrashReport$7(CrashReportExtender.java:58) ~[forge-1.19.2-43.4.0-universal.jar%23860!/:?] {re:classloading}
+-- MOD extradisks --
+Details:
+	Mod File: /C:/Users/hello/AppData/Roaming/.minecraft/servers/1_19_2_all_the_mods/mods/ExtraDisks-1.19.2-2.2.2.jar
+	Failure message: Mod extradisks requires refinedstorage 1.11.7 or above
+		Currently, refinedstorage is not installed
+	Mod Version: 1.19.2-2.2.2
+	Mod Issue URL: https://github.com/MelanX/ExtraDisks/issues
+	Exception message: MISSING EXCEPTION MESSAGE
+Stacktrace:
+	at net.minecraftforge.logging.CrashReportExtender.lambda$dumpModLoadingCrashReport$7(CrashReportExtender.java:58) ~[forge-1.19.2-43.4.0-universal.jar%23860!/:?] {re:classloading}
+	at java.util.ArrayList.forEach(Unknown Source) ~[?:?] {re:mixin}
+	at net.minecraftforge.logging.CrashReportExtender.dumpModLoadingCrashReport(CrashReportExtender.java:56) ~[forge-1.19.2-43.4.0-universal.jar%23860!/:?] {re:classloading}
+	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:39) ~[forge-1.19.2-43.4.0-universal.jar%23860!/:?] {re:classloading}
+	at net.minecraft.server.Main.main(Main.java:113) ~[server-1.19.2-20220805.130853-srg.jar%23855!/:?] {re:classloading,re:mixin,pl:mixin:A}
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.4.0.jar%2367!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?] {}
+
+
+-- MOD merequester --
+Details:
+	Mod File: /C:/Users/hello/AppData/Roaming/.minecraft/servers/1_19_2_all_the_mods/mods/merequester-forge-1.19.2-1.1.4.jar
+	Failure message: Mod merequester requires ae2 12.9.5 or above
+		Currently, ae2 is not installed
+	Mod Version: 1.19.2-1.1.4
+	Mod Issue URL: https://github.com/AlmostReliable/merequester/issues
+	Exception message: MISSING EXCEPTION MESSAGE
+
+-- MOD polyeng --
+Details:
+	Mod File: /C:/Users/hello/AppData/Roaming/.minecraft/servers/1_19_2_all_the_mods/mods/polyeng-forge-0.1.1-1.19.2.jar
+	Failure message: Mod polyeng requires ae2 12.9.8 or above
+		Currently, ae2 is not installed
+	Mod Version: 0.1.1-1.19.2
+	Mod Issue URL: https://github.com/62832/PolymorphicEnergistics/issues
+	Exception message: MISSING EXCEPTION MESSAGE
+
+-- MOD rsinfinitybooster --
+Details:
+	Mod File: /C:/Users/hello/AppData/Roaming/.minecraft/servers/1_19_2_all_the_mods/mods/RSInfinityBooster-1.19.2-3.0+27.jar
+	Failure message: Mod rsinfinitybooster requires refinedstorage 1.11.0 or above
+		Currently, refinedstorage is not installed
+	Mod Version: 1.19.2-3.0+27
+	Mod Issue URL: NOT PROVIDED
+	Exception message: MISSING EXCEPTION MESSAGE
+
+-- MOD cabletiers --
+Details:
+	Mod File: /C:/Users/hello/AppData/Roaming/.minecraft/servers/1_19_2_all_the_mods/mods/cabletiers-1.19.2-0.6.jar
+	Failure message: Mod cabletiers requires refinedstorage 1.11.7 or above
+		Currently, refinedstorage is not installed
+	Mod Version: 1.19.2-0.6
+	Mod Issue URL: https://github.com/starforcraft/Cable-Tiers/issues/new/choose
+	Exception message: MISSING EXCEPTION MESSAGE
+
+-- MOD rebornstorage --
+Details:
+	Mod File: /C:/Users/hello/AppData/Roaming/.minecraft/servers/1_19_2_all_the_mods/mods/rebornstorage-1.19.2-5.0.3.jar
+	Failure message: Mod rebornstorage requires refinedstorage 1.11.0 or above
+		Currently, refinedstorage is not installed
+	Mod Version: 5.0.3
+	Mod Issue URL: NOT PROVIDED
+	Exception message: MISSING EXCEPTION MESSAGE
+
+-- MOD universalgrid --
+Details:
+	Mod File: /C:/Users/hello/AppData/Roaming/.minecraft/servers/1_19_2_all_the_mods/mods/universalgrid-1.19.2-1.1.jar
+	Failure message: Mod universalgrid requires refinedstorage 1.11.0 or above
+		Currently, refinedstorage is not installed
+	Mod Version: 1.19.2-1.1
+	Mod Issue URL: https://github.com/starforcraft/Universal-Grid/issues/new/choose
+	Exception message: MISSING EXCEPTION MESSAGE
+
+-- MOD rsrequestify --
+Details:
+	Mod File: /C:/Users/hello/AppData/Roaming/.minecraft/servers/1_19_2_all_the_mods/mods/rsrequestify-1.19.2-2.3.1.jar
+	Failure message: Mod rsrequestify requires refinedstorage 1.11.7 or above
+		Currently, refinedstorage is not installed
+	Mod Version: 2.3.1
+	Mod Issue URL: NOT PROVIDED
+	Exception message: MISSING EXCEPTION MESSAGE
+
+-- MOD megacells --
+Details:
+	Mod File: /C:/Users/hello/AppData/Roaming/.minecraft/servers/1_19_2_all_the_mods/mods/megacells-forge-2.0.4-1.19.2.jar
+	Failure message: Mod megacells requires ae2 12.9.3 or above, and below 13
+		Currently, ae2 is not installed
+	Mod Version: 2.0.4-1.19.2
+	Mod Issue URL: https://github.com/62832/MEGACells/issues
+	Exception message: MISSING EXCEPTION MESSAGE
+
+-- System Details --
+Details:
+	Minecraft Version: 1.19.2
+	Minecraft Version ID: 1.19.2
+	Operating System: Windows 11 (amd64) version 10.0
+	Java Version: 21.0.5, Eclipse Adoptium
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Eclipse Adoptium
+	Memory: 7262437376 bytes (6926 MiB) / 8589934592 bytes (8192 MiB) up to 8589934592 bytes (8192 MiB)
+	CPUs: 16
+	Processor Vendor: AuthenticAMD
+	Processor Name: AMD Ryzen 7 6800H with Radeon Graphics         
+	Identifier: AuthenticAMD Family 25 Model 68 Stepping 1
+	Microarchitecture: Zen 3
+	Frequency (GHz): 3.19
+	Number of physical packages: 1
+	Number of physical CPUs: 8
+	Number of logical CPUs: 16
+	Graphics card #0 name: AMD Radeon(TM) Graphics
+	Graphics card #0 vendor: Advanced Micro Devices, Inc. (0x1002)
+	Graphics card #0 VRAM (MB): 512.00
+	Graphics card #0 deviceId: 0x1681
+	Graphics card #0 versionInfo: DriverVersion=31.0.14084.6002
+	Graphics card #1 name: NVIDIA GeForce RTX 3060 Laptop GPU
+	Graphics card #1 vendor: NVIDIA (0x10de)
+	Graphics card #1 VRAM (MB): 4095.00
+	Graphics card #1 deviceId: 0x2520
+	Graphics card #1 versionInfo: DriverVersion=32.0.15.6607
+	Memory slot #0 capacity (MB): 8192.00
+	Memory slot #0 clockSpeed (GHz): 4.80
+	Memory slot #0 type: Unknown
+	Memory slot #1 capacity (MB): 8192.00
+	Memory slot #1 clockSpeed (GHz): 4.80
+	Memory slot #1 type: Unknown
+	Virtual memory max (MB): 31257.63
+	Virtual memory used (MB): 26686.74
+	Swap memory total (MB): 15628.81
+	Swap memory used (MB): 1297.95
+	JVM Flags: 10 total; -Xms8G -Xmx8G -XX:+UnlockExperimentalVMOptions -XX:+UseZGC -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:+PerfDisableSharedMem -XX:-ZUncommit -XX:+ParallelRefProcEnabled -Xlog:async
+	ModLauncher: 10.0.8+10.0.8+main.0ef7e830
+	ModLauncher launch target: forgeserver
+	ModLauncher naming: srg
+	ModLauncher services: 
+		mixin-0.8.5.jar mixin PLUGINSERVICE 
+		eventbus-6.0.3.jar eventbus PLUGINSERVICE 
+		fmlloader-1.19.2-43.4.0.jar slf4jfixer PLUGINSERVICE 
+		fmlloader-1.19.2-43.4.0.jar object_holder_definalize PLUGINSERVICE 
+		fmlloader-1.19.2-43.4.0.jar runtime_enum_extender PLUGINSERVICE 
+		fmlloader-1.19.2-43.4.0.jar capability_token_subclass PLUGINSERVICE 
+		accesstransformers-8.0.4.jar accesstransformer PLUGINSERVICE 
+		fmlloader-1.19.2-43.4.0.jar runtimedistcleaner PLUGINSERVICE 
+		modlauncher-10.0.8.jar jcplugin TRANSFORMATIONSERVICE 
+		modlauncher-10.0.8.jar mixin TRANSFORMATIONSERVICE 
+		modlauncher-10.0.8.jar fml TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		minecraft@1.0
+		javafml@null
+		kotlinforforge@3.12.0
+		lowcodefml@null
+		kotori_scala@2.13.10-build-10
+	Mod List: 
+		server-1.19.2-20220805.130853-srg.jar             |Minecraft                     |minecraft                     |1.19.2              |NONE      |Manifest: NOSIGNATURE
+		forge-1.19.2-43.4.0-universal.jar                 |Forge                         |forge                         |43.4.0              |NONE      |Manifest: 84:ce:76:e8:45:35:e4:0e:63:86:df:47:59:80:0f:67:6c:c1:5f:6e:5f:4d:b3:54:47:1a:9f:7f:ed:5e:f2:90
