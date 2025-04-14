@@ -801,6 +801,12 @@
     },
     "done": true
   },
+  "cataclysm:kill_harbinger": {
+    "criteria": {
+      "theharbinger": "2025-04-14 18:12:09 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/barrel_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-07 17:09:15 +0100"
@@ -2352,6 +2358,7 @@
       "white": "2025-02-05 16:26:19 +0100",
       "blue": "2025-02-22 22:35:17 +0100",
       "violet": "2025-03-30 16:49:14 +0200",
+      "black": "2025-04-14 17:51:10 +0200",
       "indigo": "2025-03-30 16:49:15 +0200"
     },
     "done": false
@@ -2610,6 +2617,7 @@
       "byg:autumnal_valley": "2025-01-26 23:50:10 +0100",
       "byg:ethereal_islands": "2025-04-02 15:11:58 +0200",
       "byg:howling_peaks": "2025-01-31 15:58:11 +0100",
+      "byg:ivis_fields": "2025-04-14 16:18:26 +0200",
       "byg:aspen_forest": "2025-01-31 00:29:08 +0100",
       "byg:skyris_vale": "2025-01-27 00:47:59 +0100",
       "byg:forgotten_forest": "2025-01-31 16:59:15 +0100",
@@ -3201,6 +3209,12 @@
     },
     "done": true
   },
+  "silentgear:salvager": {
+    "criteria": {
+      "get_item": "2025-04-14 18:38:45 +0200"
+    },
+    "done": true
+  },
   "comforts:hammock_lime": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:52 +0100"
@@ -3484,6 +3498,12 @@
   "create_enchantment_industry:gone_with_the_foil": {
     "criteria": {
       "builtin": "2025-03-27 20:21:20 +0100"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2025-04-14 17:49:48 +0200"
     },
     "done": true
   },
@@ -5173,6 +5193,12 @@
     },
     "done": true
   },
+  "repurposed_structures:ruined_portal_end": {
+    "criteria": {
+      "in_ruined_portal_end": "2025-04-14 17:01:19 +0200"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/nether_bricks": {
     "criteria": {
       "has_planks": "2025-02-12 01:35:17 +0100"
@@ -5341,6 +5367,12 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_sign_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-08 02:40:27 +0100"
+    },
+    "done": true
+  },
+  "exposure:adventure/take_selfie": {
+    "criteria": {
+      "take_selfie": "2025-04-14 17:18:54 +0200"
     },
     "done": true
   },
