@@ -1569,6 +1569,12 @@
     },
     "done": true
   },
+  "webdisplays:link_peripheral": {
+    "criteria": {
+      "link_peripheral": "2025-04-15 13:42:01 +0200"
+    },
+    "done": true
+  },
   "theabyss:recipes/arcane_crafting/ring_of_curse_mirrored": {
     "criteria": {
       "on_arcane_table_crafted": "2025-04-07 21:25:04 +0200"
@@ -4304,6 +4310,12 @@
     },
     "done": true
   },
+  "webdisplays:upgrade": {
+    "criteria": {
+      "upgrade_screen": "2025-04-15 13:43:22 +0200"
+    },
+    "done": true
+  },
   "nethervinery:warped_nether_bag": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:53 +0100"
@@ -5439,6 +5451,12 @@
   "mcwfences:recipes/birch": {
     "criteria": {
       "has_birch": "2025-01-18 23:38:52 +0100"
+    },
+    "done": true
+  },
+  "webdisplays:screen": {
+    "criteria": {
+      "has_screen": "2025-04-15 13:38:35 +0200"
     },
     "done": true
   },

@@ -477,6 +477,12 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-04-15 12:19:48 +0200"
+    },
+    "done": true
+  },
   "vinery:fermentation_barrel": {
     "criteria": {
       "has_the_recipe": "2025-01-26 14:35:59 +0100"
@@ -920,6 +926,7 @@
     "criteria": {
       "WHIPPED_CREAM": "2025-03-12 22:41:55 +0100",
       "FLOUR": "2025-03-17 21:26:56 +0100",
+      "VINEGAR": "2025-04-15 12:21:39 +0200",
       "COOKING_OIL": "2025-03-08 01:20:53 +0100",
       "BREAD_CRUMBS": "2025-04-02 22:10:42 +0200",
       "BUTTER": "2025-03-12 22:43:59 +0100",
@@ -3765,6 +3772,12 @@
       "requirement": "2025-02-08 02:08:07 +0100"
     },
     "done": true
+  },
+  "extradelight:vinegarpot": {
+    "criteria": {
+      "vinegar": "2025-04-15 12:21:39 +0200"
+    },
+    "done": false
   },
   "minecraft:recipes/woodcutting/willow/polished_willow_planks_from_willow_planks_woodcutting": {
     "criteria": {
