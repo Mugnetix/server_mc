@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "ad_astra:interstellar": {
+    "criteria": {
+      "interstellar": "2025-04-15 15:58:46 +0200"
+    },
+    "done": true
+  },
   "tetra:spelunking/root": {
     "criteria": {
       "spelunking": "2025-01-28 01:41:25 +0100"
@@ -1566,12 +1572,6 @@
   "minecraft:recipes/woodcutting/oak/oak_trapdoor_from_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-07 11:18:16 +0100"
-    },
-    "done": true
-  },
-  "webdisplays:link_peripheral": {
-    "criteria": {
-      "link_peripheral": "2025-04-15 13:42:01 +0200"
     },
     "done": true
   },
@@ -4310,12 +4310,6 @@
     },
     "done": true
   },
-  "webdisplays:upgrade": {
-    "criteria": {
-      "upgrade_screen": "2025-04-15 13:43:22 +0200"
-    },
-    "done": true
-  },
   "nethervinery:warped_nether_bag": {
     "criteria": {
       "has_the_recipe": "2025-01-18 23:38:53 +0100"
@@ -5451,12 +5445,6 @@
   "mcwfences:recipes/birch": {
     "criteria": {
       "has_birch": "2025-01-18 23:38:52 +0100"
-    },
-    "done": true
-  },
-  "webdisplays:screen": {
-    "criteria": {
-      "has_screen": "2025-04-15 13:38:35 +0200"
     },
     "done": true
   },

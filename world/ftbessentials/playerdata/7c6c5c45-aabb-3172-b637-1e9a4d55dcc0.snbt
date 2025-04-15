@@ -3,10 +3,9 @@
 	fly: false
 	god: false
 	nick: ""
-	last_seen: { dim: "minecraft:overworld", x: 916, y: 121, z: -2094, time: 1744717619626L, xRot: 8.998866f, yRot: 48.419556f }
+	last_seen: { dim: "minecraft:overworld", x: 416, y: 73, z: -2052, time: 1744733303328L, xRot: 5.6911726f, yRot: 67.69913f }
 	recording: 0
 	teleport_history: [
-		{ dim: "minecraft:overworld", x: 1030, y: 66, z: -1988, time: 1743455915131L, xRot: 14.689963f, yRot: 91.816895f }
 		{ dim: "minecraft:overworld", x: 905, y: -23, z: -2050, time: 1743596614411L, xRot: 1.389705f, yRot: 0.9264651f }
 		{ dim: "minecraft:overworld", x: 954, y: 72, z: -1955, time: 1743630185693L, xRot: -3.5073333f, yRot: 43.61737f }
 		{ dim: "minecraft:overworld", x: 947, y: 72, z: -1940, time: 1743709225583L, xRot: 13.566113f, yRot: 77.910484f }
@@ -16,6 +15,7 @@
 		{ dim: "minecraft:overworld", x: 397, y: 70, z: -2058, time: 1744120118212L, xRot: -6.4842544f, yRot: 10.587006f }
 		{ dim: "theabyss:pocket_dimension", x: 0, y: 1986, z: 0, time: 1744120124903L, xRot: -6.4842544f, yRot: 10.587006f }
 		{ dim: "theabyss:pocket_dimension", x: 8, y: 82, z: 12, time: 1744120194344L, xRot: -6.019592f, yRot: -164.77911f }
+		{ dim: "ad_astra:venus", x: 410, y: -24, z: -2309, time: 1744720074033L, xRot: 59.757526f, yRot: 138.61267f }
 	]
 	homes: { }
 }

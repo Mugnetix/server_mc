@@ -84,6 +84,12 @@
     },
     "done": true
   },
+  "theabyss:phantom_ingot_adv": {
+    "criteria": {
+      "phantom_ingot_adv": "2025-04-15 17:31:09 +0200"
+    },
+    "done": true
+  },
   "vinery:vinemaker_leggings": {
     "criteria": {
       "has_the_recipe": "2025-01-26 14:35:59 +0100"
@@ -215,6 +221,12 @@
   "comforts:hammock_red_from_white": {
     "criteria": {
       "has_the_recipe": "2025-01-26 14:35:59 +0100"
+    },
+    "done": true
+  },
+  "ad_astra:interstellar": {
+    "criteria": {
+      "interstellar": "2025-04-15 15:58:46 +0200"
     },
     "done": true
   },
@@ -861,6 +873,12 @@
       "minecraft:zombie_villager": "2025-04-02 14:14:29 +0200"
     },
     "done": false
+  },
+  "theabyss:incorythe_ore_adv": {
+    "criteria": {
+      "incorythe_ore_adv": "2025-04-15 17:44:00 +0200"
+    },
+    "done": true
   },
   "minecraft:recipes/woodcutting/jungle/barrel_from_jungle_planks_woodcutting": {
     "criteria": {
@@ -2823,6 +2841,12 @@
     },
     "done": true
   },
+  "ad_astra:tier_4_rocket": {
+    "criteria": {
+      "tier_4_rocket": "2025-04-15 15:59:20 +0200"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_byg_nightshade_planks": {
     "criteria": {
       "has_ingredient": "2025-01-26 14:35:58 +0100"
@@ -2885,6 +2909,12 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-03-25 23:08:23 +0100"
+    },
+    "done": true
+  },
+  "theabyss:garnite_ore_adv": {
+    "criteria": {
+      "garnite_ore_adv": "2025-04-15 17:48:21 +0200"
     },
     "done": true
   },
@@ -3510,6 +3540,12 @@
     },
     "done": true
   },
+  "theabyss:aberythe_ore_adv": {
+    "criteria": {
+      "aberythe_ore_adv": "2025-04-15 17:42:52 +0200"
+    },
+    "done": true
+  },
   "byg:husbandry/forager": {
     "criteria": {
       "white_puffball_cap": "2025-03-07 17:30:14 +0100"
@@ -3692,6 +3728,12 @@
   "exposure:adventure/expose_film": {
     "criteria": {
       "expose_film": "2025-04-14 17:27:00 +0200"
+    },
+    "done": true
+  },
+  "theabyss:ore_adv": {
+    "criteria": {
+      "ore_adv": "2025-04-15 17:31:09 +0200"
     },
     "done": true
   },
@@ -3891,6 +3933,12 @@
   "nethervinery:crimson_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2025-01-26 14:35:59 +0100"
+    },
+    "done": true
+  },
+  "theabyss:fusion_ore_adv": {
+    "criteria": {
+      "fusion_ore_adv": "2025-04-15 17:46:46 +0200"
     },
     "done": true
   },
